@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: doga-menu-sacra
+    runtime: static
+    staticPublishPath: .
