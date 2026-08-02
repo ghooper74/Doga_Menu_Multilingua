@@ -2,6 +2,19 @@ let DATA;
 
 let lang = localStorage.getItem("doga-lang") || (navigator.language || "it").slice(0, 2);
 const supported = ["it", "en", "de", "fr", "es", "pl", "ru", "zh", "ja"];
+
+const languageFlags = {
+  it: "🇮🇹",
+  en: "🇬🇧",
+  de: "🇩🇪",
+  fr: "🇫🇷",
+  es: "🇪🇸",
+  pl: "🇵🇱",
+  ru: "🇷🇺",
+  zh: "🇨🇳",
+  ja: "🇯🇵"
+};
+
 if (!supported.includes(lang)) lang = "en";
 
 const params = new URLSearchParams(location.search);
@@ -125,6 +138,28 @@ function render() {
   document.getElementById("subtitle").textContent = t(DATA.meta.subtitle);
   document.getElementById("languageLabel").textContent = label("choose_language");
 
+  const languageButtons = document.getElementById("languageButtons");
+  languageButtons.innerHTML = supported.map(code => `
+    <button
+      type="button"
+      class="language-button ${code === lang ? "active" : ""}"
+      data-language="${code}"
+      title="${esc(DATA.languages[code] || code)}"
+      aria-label="${esc(DATA.languages[code] || code)}"
+      aria-pressed="${code === lang}">
+      <span aria-hidden="true">${languageFlags[code]}</span>
+      <small>${code.toUpperCase()}</small>
+    </button>
+  `).join("");
+
+  languageButtons.querySelectorAll("[data-language]").forEach(button => {
+    button.onclick = () => {
+      lang = button.dataset.language;
+      localStorage.setItem("doga-lang", lang);
+      render();
+    };
+  });
+
   const tabs = ["menu", "breakfast", "showcase", "salads", "wines", "drinks", "allergens"];
   if (!tabs.includes(currentTab)) currentTab = "menu";
 
@@ -153,17 +188,6 @@ function render() {
 async function init() {
   const res = await fetch("data/menu.json", { cache: "no-store" });
   DATA = await res.json();
-
-  const select = document.getElementById("languageSelect");
-  select.innerHTML = supported
-    .map(code => `<option value="${code}" ${code === lang ? "selected" : ""}>${esc(DATA.languages[code] || code)}</option>`)
-    .join("");
-
-  select.onchange = e => {
-    lang = e.target.value;
-    localStorage.setItem("doga-lang", lang);
-    render();
-  };
 
   render();
 }

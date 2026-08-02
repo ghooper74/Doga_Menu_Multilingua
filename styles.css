@@ -25,3 +25,71 @@ select{font:inherit;padding:9px 12px;border-radius:10px;border:1px solid #ffffff
 footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);font-size:.9rem;line-height:1.5}
 .loading{text-align:center;padding:50px}
 @media(max-width:520px){.content{padding:12px}.card{padding:14px}.logo{letter-spacing:.12em}}
+
+.language{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:10px;
+  margin-top:18px
+}
+
+.language-buttons{
+  display:flex;
+  justify-content:center;
+  gap:7px;
+  max-width:100%;
+  overflow-x:auto;
+  padding:4px 2px 8px;
+  scrollbar-width:none
+}
+
+.language-buttons::-webkit-scrollbar{
+  display:none
+}
+
+.language-button{
+  min-width:48px;
+  border:1px solid #ffffff55;
+  border-radius:13px;
+  padding:7px 8px 6px;
+  background:#ffffff12;
+  color:#fff;
+  font:inherit;
+  cursor:pointer;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:2px
+}
+
+.language-button span{
+  font-size:1.55rem;
+  line-height:1
+}
+
+.language-button small{
+  font-size:.65rem;
+  font-weight:800;
+  letter-spacing:.06em;
+  opacity:.8
+}
+
+.language-button.active{
+  background:#fff;
+  color:#17130f;
+  border-color:#fff;
+  transform:translateY(-2px);
+  box-shadow:0 4px 12px #0006
+}
+
+@media(max-width:520px){
+  .language-buttons{
+    justify-content:flex-start;
+    width:100%
+  }
+
+  .language-button{
+    min-width:46px
+  }
+}
