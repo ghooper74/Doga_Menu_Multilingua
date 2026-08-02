@@ -91,6 +91,19 @@ function renderCollection(kind) {
   const items = DATA[kind] || [];
   const intro = DATA.ui?.[kind + "_intro"] ? t(DATA.ui[kind + "_intro"]) : "";
 
+  if (kind === "breakfast") {
+    const buffetItems = items.filter(item => !item.extra);
+    const extraItems = items.filter(item => item.extra);
+
+    return `<h2 class="section-title">${esc(label(kind))}</h2>
+      ${intro ? `<div class="notice">${esc(intro)}</div>` : ""}
+      ${buffetItems.length ? `<div class="grid">${buffetItems.map(itemCard).join("")}</div>` : ""}
+      ${extraItems.length ? `
+        <h2 class="section-title">${esc(label("breakfast_extras"))}</h2>
+        <div class="grid">${extraItems.map(itemCard).join("")}</div>
+      ` : ""}`;
+  }
+
   return `<h2 class="section-title">${esc(label(kind))}</h2>
     ${intro ? `<div class="notice">${esc(intro)}</div>` : ""}
     ${items.length ? `<div class="grid">${items.map(itemCard).join("")}</div>` : `<div class="notice">Sezione da completare in <b>data/menu.json</b>.</div>`}`;

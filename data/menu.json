@@ -158,6 +158,17 @@
       "ru": "Примечание",
       "zh": "备注",
       "ja": "注記"
+    },
+    "breakfast_extras": {
+      "it": "Extra colazione",
+      "en": "Breakfast extras",
+      "de": "Frühstücksextras",
+      "fr": "Suppléments petit-déjeuner",
+      "es": "Extras de desayuno",
+      "pl": "Dodatki śniadaniowe",
+      "ru": "Дополнения к завтраку",
+      "zh": "早餐额外项目",
+      "ja": "朝食の追加メニュー"
     }
   },
   "sections": [
@@ -1356,6 +1367,61 @@
         "zh": "检查标签上是否标明亚硫酸盐或其他过敏原。",
         "ja": "ラベルに記載された亜硫酸塩やその他のアレルゲンを確認してください。"
       }
+    },
+    {
+      "id": "extra-orange-juice",
+      "extra": true,
+      "name": {
+        "it": "Spremuta d’arancia fresca",
+        "en": "Freshly squeezed orange juice",
+        "de": "Frisch gepresster Orangensaft",
+        "fr": "Jus d’orange fraîchement pressé",
+        "es": "Zumo de naranja recién exprimido",
+        "pl": "Świeżo wyciskany sok pomarańczowy",
+        "ru": "Свежевыжатый апельсиновый сок",
+        "zh": "鲜榨橙汁",
+        "ja": "搾りたてオレンジジュース"
+      },
+      "ingredients": {
+        "it": "Arance fresche.",
+        "en": "Fresh oranges.",
+        "de": "Frische Orangen.",
+        "fr": "Oranges fraîches.",
+        "es": "Naranjas frescas.",
+        "pl": "Świeże pomarańcze.",
+        "ru": "Свежие апельсины.",
+        "zh": "新鲜橙子。",
+        "ja": "新鮮なオレンジ。"
+      },
+      "price": "4 €"
+    },
+    {
+      "id": "extra-omelette",
+      "extra": true,
+      "name": {
+        "it": "Omelette preparata al momento",
+        "en": "Made-to-order omelette",
+        "de": "Frisch zubereitetes Omelett",
+        "fr": "Omelette préparée à la demande",
+        "es": "Tortilla preparada al momento",
+        "pl": "Omlet przygotowywany na zamówienie",
+        "ru": "Омлет, приготовленный на заказ",
+        "zh": "现点现做欧姆蛋",
+        "ja": "注文を受けてから作るオムレツ"
+      },
+      "ingredients": {
+        "it": "Uova. Eventuali ingredienti aggiuntivi da concordare con il personale.",
+        "en": "Eggs. Any additional ingredients should be agreed with the staff.",
+        "de": "Eier. Weitere Zutaten bitte mit dem Personal abstimmen.",
+        "fr": "Œufs. Les ingrédients supplémentaires sont à convenir avec le personnel.",
+        "es": "Huevos. Los ingredientes adicionales se acuerdan con el personal.",
+        "pl": "Jajka. Dodatkowe składniki należy uzgodnić z personelem.",
+        "ru": "Яйца. Дополнительные ингредиенты согласовываются с персоналом.",
+        "zh": "鸡蛋。其他配料请与工作人员确认。",
+        "ja": "卵。追加の具材はスタッフにご確認ください。"
+      },
+      "allergens": "3",
+      "price": "8 €"
     }
   ]
 }
