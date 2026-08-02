@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#17130f">
+  <meta name="description" content="Menù digitale multilingua DOGA">
+  <title>DOGA · Menù digitale</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="logo">DOGA</div>
+    <div id="subtitle" class="subtitle">Menù digitale</div>
+    <label class="language">
+      <span id="languageLabel">Lingua</span>
+      <select id="languageSelect" aria-label="Language"></select>
+    </label>
+  </header>
+
+  <nav id="tabs" class="tabs" aria-label="Sections"></nav>
+  <main id="content" class="content"><div class="loading">Caricamento…</div></main>
+  <footer id="footer"></footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

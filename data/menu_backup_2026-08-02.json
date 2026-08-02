@@ -1,0 +1,752 @@
+{
+  "meta": {
+    "restaurant": "DOGA",
+    "subtitle": {
+      "it": "Menù digitale",
+      "en": "Digital menu",
+      "de": "Digitale Speisekarte",
+      "fr": "Menu numérique",
+      "es": "Menú digital",
+      "pl": "Menu cyfrowe",
+      "ru": "Цифровое меню",
+      "zh": "电子菜单",
+      "ja": "デジタルメニュー"
+    },
+    "service": "2,50 €",
+    "water": "0,75 l · 2 €"
+  },
+  "languages": {
+    "it": "Italiano",
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "es": "Español",
+    "pl": "Polski",
+    "ru": "Русский",
+    "zh": "中文",
+    "ja": "日本語"
+  },
+  "ui": {
+    "menu": {
+      "it": "Menù",
+      "en": "Menu",
+      "de": "Speisekarte",
+      "fr": "Menu",
+      "es": "Menú",
+      "pl": "Menu",
+      "ru": "Меню",
+      "zh": "菜单",
+      "ja": "メニュー"
+    },
+    "salads": {
+      "it": "Insalate",
+      "en": "Salads",
+      "de": "Salate",
+      "fr": "Salades",
+      "es": "Ensaladas",
+      "pl": "Sałatki",
+      "ru": "Салаты",
+      "zh": "沙拉",
+      "ja": "サラダ"
+    },
+    "wines": {
+      "it": "Vini",
+      "en": "Wines",
+      "de": "Weine",
+      "fr": "Vins",
+      "es": "Vinos",
+      "pl": "Wina",
+      "ru": "Вина",
+      "zh": "葡萄酒",
+      "ja": "ワイン"
+    },
+    "drinks": {
+      "it": "Drink",
+      "en": "Drinks",
+      "de": "Getränke",
+      "fr": "Boissons",
+      "es": "Bebidas",
+      "pl": "Napoje",
+      "ru": "Напитки",
+      "zh": "饮品",
+      "ja": "ドリンク"
+    },
+    "allergens": {
+      "it": "Allergeni",
+      "en": "Allergens",
+      "de": "Allergene",
+      "fr": "Allergènes",
+      "es": "Alérgenos",
+      "pl": "Alergeny",
+      "ru": "Аллергены",
+      "zh": "过敏原",
+      "ja": "アレルゲン"
+    },
+    "price": {
+      "it": "Prezzo",
+      "en": "Price",
+      "de": "Preis",
+      "fr": "Prix",
+      "es": "Precio",
+      "pl": "Cena",
+      "ru": "Цена",
+      "zh": "价格",
+      "ja": "価格"
+    },
+    "choose_language": {
+      "it": "Lingua",
+      "en": "Language",
+      "de": "Sprache",
+      "fr": "Langue",
+      "es": "Idioma",
+      "pl": "Język",
+      "ru": "Язык",
+      "zh": "语言",
+      "ja": "言語"
+    }
+  },
+  "sections": [
+    {
+      "id": "specials",
+      "title": {
+        "it": "I nostri piatti speciali",
+        "en": "Our special dishes",
+        "de": "Unsere Spezialitäten",
+        "fr": "Nos plats spéciaux",
+        "es": "Nuestros platos especiales",
+        "pl": "Nasze dania specjalne",
+        "ru": "Наши фирменные блюда",
+        "zh": "特色菜",
+        "ja": "おすすめ料理"
+      },
+      "items": [
+        {
+          "name": {
+            "it": "Tagliere Nobile",
+            "en": "Nobile sharing board",
+            "de": "Nobile-Platte",
+            "fr": "Planche Nobile",
+            "es": "Tabla Nobile",
+            "pl": "Deska Nobile",
+            "ru": "Ассорти Nobile",
+            "zh": "Nobile 拼盘",
+            "ja": "ノービレ盛り合わせ"
+          },
+          "desc": {
+            "it": "Selezione di salumi, formaggi, giardiniera e crostini misti",
+            "en": "Selection of cold cuts, cheeses, pickled vegetables and mixed crostini",
+            "de": "Auswahl an Wurstwaren, Käse, eingelegtem Gemüse und gemischten Crostini",
+            "fr": "Sélection de charcuteries, fromages, légumes marinés et crostini variés",
+            "es": "Selección de embutidos, quesos, encurtidos y crostini variados",
+            "pl": "Wybór wędlin, serów, marynowanych warzyw i crostini",
+            "ru": "Ассорти мясных деликатесов, сыров, маринованных овощей и кростини",
+            "zh": "冷切肉、奶酪、腌渍蔬菜和烤面包片拼盘",
+            "ja": "生ハム・サラミ、チーズ、野菜の酢漬け、クロスティーニの盛り合わせ"
+          },
+          "price": "18 €",
+          "allergens": "1,3,7,8,9,12"
+        },
+        {
+          "name": {
+            "it": "La padellata di mare",
+            "en": "Seafood sauté",
+            "de": "Meeresfrüchtepfanne",
+            "fr": "Poêlée de fruits de mer",
+            "es": "Salteado de mariscos",
+            "pl": "Patelnia owoców morza",
+            "ru": "Морепродукты на сковороде",
+            "zh": "海鲜拼盘",
+            "ja": "魚介のソテー"
+          },
+          "desc": {
+            "it": "Sauté di cozze, molluschi, crostacei e pescato del giorno. Minimo 2 persone",
+            "en": "Sauté of mussels, shellfish, crustaceans and catch of the day. Minimum 2 people",
+            "de": "Miesmuscheln, Weichtiere, Krustentiere und Tagesfang. Mindestens 2 Personen",
+            "fr": "Moules, coquillages, crustacés et poisson du jour. Minimum 2 personnes",
+            "es": "Mejillones, moluscos, crustáceos y pesca del día. Mínimo 2 personas",
+            "pl": "Małże, skorupiaki i ryba dnia. Minimum 2 osoby",
+            "ru": "Мидии, моллюски, ракообразные и рыба дня. Минимум 2 человека",
+            "zh": "贻贝、贝类、甲壳类及当日鲜鱼。至少2人",
+            "ja": "ムール貝、貝類、甲殻類、本日の鮮魚。2名様より"
+          },
+          "price": "29 € / persona",
+          "allergens": "2,4,12,14"
+        }
+      ]
+    },
+    {
+      "id": "starters",
+      "title": {
+        "it": "Antipasti",
+        "en": "Starters",
+        "de": "Vorspeisen",
+        "fr": "Entrées",
+        "es": "Entrantes",
+        "pl": "Przystawki",
+        "ru": "Закуски",
+        "zh": "前菜",
+        "ja": "前菜"
+      },
+      "items": [
+        {
+          "name": {
+            "it": "Giardiniera di verdure",
+            "en": "Pickled vegetables",
+            "de": "Eingelegtes Gemüse",
+            "fr": "Légumes marinés",
+            "es": "Verduras encurtidas",
+            "pl": "Marynowane warzywa",
+            "ru": "Маринованные овощи",
+            "zh": "腌渍蔬菜",
+            "ja": "野菜のピクルス"
+          },
+          "desc": {},
+          "price": "10 €",
+          "allergens": "9,12"
+        },
+        {
+          "name": {
+            "it": "Carciofini sott’olio",
+            "en": "Artichokes in oil",
+            "de": "Artischocken in Öl",
+            "fr": "Artichauts à l’huile",
+            "es": "Alcachofas en aceite",
+            "pl": "Karczochy w oliwie",
+            "ru": "Артишоки в масле",
+            "zh": "油浸小洋蓟",
+            "ja": "アーティチョークのオイル漬け"
+          },
+          "desc": {},
+          "price": "9 €",
+          "allergens": "12"
+        },
+        {
+          "name": {
+            "it": "Tacos con tonno crudo, feta, avocado",
+            "en": "Tacos with raw tuna, feta and avocado",
+            "de": "Tacos mit rohem Thunfisch, Feta und Avocado",
+            "fr": "Tacos au thon cru, feta et avocat",
+            "es": "Tacos con atún crudo, feta y aguacate",
+            "pl": "Tacos z surowym tuńczykiem, fetą i awokado",
+            "ru": "Тако с сырым тунцом, фетой и авокадо",
+            "zh": "生金枪鱼、菲达奶酪和牛油果塔可",
+            "ja": "生マグロ、フェタ、アボカドのタコス"
+          },
+          "desc": {},
+          "price": "16 €",
+          "allergens": "1,4,7"
+        },
+        {
+          "name": {
+            "it": "Insalatina di mare tiepida",
+            "en": "Warm seafood salad",
+            "de": "Lauwarmer Meeresfrüchtesalat",
+            "fr": "Salade tiède de fruits de mer",
+            "es": "Ensalada tibia de marisco",
+            "pl": "Ciepła sałatka z owoców morza",
+            "ru": "Тёплый салат из морепродуктов",
+            "zh": "温热海鲜沙拉",
+            "ja": "温かいシーフードサラダ"
+          },
+          "desc": {},
+          "price": "18 €",
+          "allergens": "2,4,12,14"
+        },
+        {
+          "name": {
+            "it": "Paté di fegatini alla toscana",
+            "en": "Tuscan-style liver pâté",
+            "de": "Toskanische Leberpastete",
+            "fr": "Pâté de foie à la toscane",
+            "es": "Paté de hígado a la toscana",
+            "pl": "Toskański pasztet z wątróbki",
+            "ru": "Тосканский паштет из печени",
+            "zh": "托斯卡纳式鸡肝酱",
+            "ja": "トスカーナ風レバーパテ"
+          },
+          "desc": {},
+          "price": "15 €",
+          "allergens": "1,12"
+        },
+        {
+          "name": {
+            "it": "Parmigiana croccante",
+            "en": "Crispy parmigiana",
+            "de": "Knusprige Parmigiana",
+            "fr": "Parmigiana croustillante",
+            "es": "Parmigiana crujiente",
+            "pl": "Chrupiąca parmigiana",
+            "ru": "Хрустящая пармиджана",
+            "zh": "酥脆帕尔米贾纳",
+            "ja": "クリスピー・パルミジャーナ"
+          },
+          "desc": {},
+          "price": "14 €",
+          "allergens": "1,3,7"
+        },
+        {
+          "name": {
+            "it": "Pan brioche con alici del Mar Cantabrico",
+            "en": "Brioche with Cantabrian anchovies",
+            "de": "Brioche mit kantabrischen Sardellen",
+            "fr": "Brioche aux anchois de Cantabrie",
+            "es": "Brioche con anchoas del Cantábrico",
+            "pl": "Brioche z anchois z Kantabrii",
+            "ru": "Бриошь с кантабрийскими анчоусами",
+            "zh": "布里欧修配坎塔布里亚凤尾鱼",
+            "ja": "カンタブリア産アンチョビのブリオッシュ"
+          },
+          "desc": {},
+          "price": "16 €",
+          "allergens": "1,4,7"
+        },
+        {
+          "name": {
+            "it": "Carpaccio di manzo",
+            "en": "Beef carpaccio",
+            "de": "Rindercarpaccio",
+            "fr": "Carpaccio de bœuf",
+            "es": "Carpaccio de ternera",
+            "pl": "Carpaccio wołowe",
+            "ru": "Карпаччо из говядины",
+            "zh": "牛肉卡帕乔",
+            "ja": "牛肉のカルパッチョ"
+          },
+          "desc": {},
+          "price": "16 €",
+          "allergens": "7,12"
+        }
+      ]
+    },
+    {
+      "id": "first",
+      "title": {
+        "it": "Primi piatti",
+        "en": "First courses",
+        "de": "Erste Gänge",
+        "fr": "Premiers plats",
+        "es": "Primeros platos",
+        "pl": "Pierwsze dania",
+        "ru": "Первые блюда",
+        "zh": "第一道菜",
+        "ja": "パスタ・第一皿"
+      },
+      "items": [
+        {
+          "name": {
+            "it": "Paccheri al ragù di polpo",
+            "en": "Paccheri with octopus ragout",
+            "de": "Paccheri mit Oktopusragout",
+            "fr": "Paccheri au ragoût de poulpe",
+            "es": "Paccheri con ragú de pulpo",
+            "pl": "Paccheri z ragù z ośmiornicy",
+            "ru": "Паккери с рагу из осьминога",
+            "zh": "章鱼肉酱宽管面",
+            "ja": "タコのラグーのパッケリ"
+          },
+          "desc": {},
+          "price": "18 €",
+          "allergens": "1,4,14"
+        },
+        {
+          "name": {
+            "it": "Linguine lupini, vongole e bottarga",
+            "en": "Linguine with clams and bottarga",
+            "de": "Linguine mit Venusmuscheln und Bottarga",
+            "fr": "Linguine aux palourdes et poutargue",
+            "es": "Linguine con almejas y bottarga",
+            "pl": "Linguine z małżami i bottargą",
+            "ru": "Лингвини с моллюсками и боттаргой",
+            "zh": "蛤蜊乌鱼子扁面",
+            "ja": "アサリとボッタルガのリングイネ"
+          },
+          "desc": {},
+          "price": "20 €",
+          "allergens": "1,4,13,14"
+        },
+        {
+          "name": {
+            "it": "Linguine al pescato del giorno",
+            "en": "Linguine with catch of the day",
+            "de": "Linguine mit Tagesfang",
+            "fr": "Linguine au poisson du jour",
+            "es": "Linguine con pesca del día",
+            "pl": "Linguine z rybą dnia",
+            "ru": "Лингвини с рыбой дня",
+            "zh": "当日鲜鱼扁面",
+            "ja": "本日の鮮魚のリングイネ"
+          },
+          "desc": {},
+          "price": "19 €",
+          "allergens": "1,4"
+        },
+        {
+          "name": {
+            "it": "Pici al ragù bianco di Cinta Senese",
+            "en": "Pici with white Cinta Senese ragù",
+            "de": "Pici mit weißem Cinta-Senese-Ragout",
+            "fr": "Pici au ragoût blanc de Cinta Senese",
+            "es": "Pici con ragú blanco de Cinta Senese",
+            "pl": "Pici z białym ragù z Cinta Senese",
+            "ru": "Пичи с белым рагу из свинины Cinta Senese",
+            "zh": "白酱森内斯黑猪肉皮奇面",
+            "ja": "チンタ・セネーゼ豚の白いラグーのピチ"
+          },
+          "desc": {},
+          "price": "17 €",
+          "allergens": "1,3"
+        },
+        {
+          "name": {
+            "it": "Gnocchi di semola con zucchine e ricotta salata",
+            "en": "Semolina gnocchi with courgettes and salted ricotta",
+            "de": "Grießgnocchi mit Zucchini und gesalzener Ricotta",
+            "fr": "Gnocchi de semoule aux courgettes et ricotta salée",
+            "es": "Ñoquis de sémola con calabacín y ricotta salada",
+            "pl": "Gnocchi z semoliny z cukinią i soloną ricottą",
+            "ru": "Ньокки из семолины с цукини и солёной рикоттой",
+            "zh": "粗粒小麦团子配西葫芦和咸乳清干酪",
+            "ja": "セモリナのニョッキ、ズッキーニと塩漬けリコッタ"
+          },
+          "desc": {},
+          "price": "15 €",
+          "allergens": "1,7"
+        }
+      ]
+    },
+    {
+      "id": "main",
+      "title": {
+        "it": "Secondi piatti",
+        "en": "Main courses",
+        "de": "Hauptgerichte",
+        "fr": "Plats principaux",
+        "es": "Platos principales",
+        "pl": "Dania główne",
+        "ru": "Основные блюда",
+        "zh": "主菜",
+        "ja": "メイン料理"
+      },
+      "items": [
+        {
+          "name": {
+            "it": "Entrecôte con patate novelle",
+            "en": "Entrecôte with new potatoes",
+            "de": "Entrecôte mit jungen Kartoffeln",
+            "fr": "Entrecôte aux pommes de terre nouvelles",
+            "es": "Entrecot con patatas nuevas",
+            "pl": "Antrykot z młodymi ziemniakami",
+            "ru": "Антрекот с молодым картофелем",
+            "zh": "肋眼牛排配新土豆",
+            "ja": "アントルコート、新じゃが添え"
+          },
+          "desc": {},
+          "price": "22 €",
+          "allergens": "12"
+        },
+        {
+          "name": {
+            "it": "Frittura di calamari e gamberi",
+            "en": "Fried calamari and shrimp",
+            "de": "Frittierte Calamari und Garnelen",
+            "fr": "Friture de calamars et crevettes",
+            "es": "Fritura de calamares y gambas",
+            "pl": "Smażone kalmary i krewetki",
+            "ru": "Жареные кальмары и креветки",
+            "zh": "炸鱿鱼和虾",
+            "ja": "イカとエビのフリット"
+          },
+          "desc": {},
+          "price": "19 €",
+          "allergens": "1,2,14"
+        },
+        {
+          "name": {
+            "it": "Pesce fresco al forno o all’isolana",
+            "en": "Fresh fish, baked or island-style",
+            "de": "Frischer Fisch aus dem Ofen oder nach Inselart",
+            "fr": "Poisson frais au four ou à l’insulaire",
+            "es": "Pescado fresco al horno o al estilo isleño",
+            "pl": "Świeża ryba pieczona lub po wyspiarsku",
+            "ru": "Свежая рыба, запечённая или по-островному",
+            "zh": "烤鲜鱼或海岛风味鲜鱼",
+            "ja": "鮮魚のオーブン焼き／島風"
+          },
+          "desc": {},
+          "price": "7/8 € / hg",
+          "allergens": "4"
+        },
+        {
+          "name": {
+            "it": "Orata da porzione (400 g)",
+            "en": "Portion-sized sea bream (400 g)",
+            "de": "Dorade, Portionsgröße (400 g)",
+            "fr": "Dorade portion (400 g)",
+            "es": "Dorada de ración (400 g)",
+            "pl": "Dorada porcjowa (400 g)",
+            "ru": "Порционная дорада (400 г)",
+            "zh": "份装金头鲷（400克）",
+            "ja": "真鯛 1尾（400g）"
+          },
+          "desc": {},
+          "price": "23 €",
+          "allergens": "4"
+        },
+        {
+          "name": {
+            "it": "Baccalà alla livornese",
+            "en": "Cod Livorno-style",
+            "de": "Stockfisch nach Livorno-Art",
+            "fr": "Morue à la livournaise",
+            "es": "Bacalao a la livornesa",
+            "pl": "Dorsz po livorneńsku",
+            "ru": "Треска по-ливорнски",
+            "zh": "里窝那风味鳕鱼",
+            "ja": "リヴォルノ風バッカラ"
+          },
+          "desc": {},
+          "price": "19 €",
+          "allergens": "1,4,12"
+        }
+      ]
+    },
+    {
+      "id": "sides",
+      "title": {
+        "it": "Contorni",
+        "en": "Sides",
+        "de": "Beilagen",
+        "fr": "Accompagnements",
+        "es": "Guarniciones",
+        "pl": "Dodatki",
+        "ru": "Гарниры",
+        "zh": "配菜",
+        "ja": "付け合わせ"
+      },
+      "items": [
+        {
+          "name": {
+            "it": "Patate al forno",
+            "en": "Roasted potatoes",
+            "de": "Ofenkartoffeln",
+            "fr": "Pommes de terre rôties",
+            "es": "Patatas al horno",
+            "pl": "Pieczone ziemniaki",
+            "ru": "Запечённый картофель",
+            "zh": "烤土豆",
+            "ja": "ローストポテト"
+          },
+          "desc": {},
+          "price": "5 €",
+          "allergens": ""
+        },
+        {
+          "name": {
+            "it": "Verdure miste al forno",
+            "en": "Mixed roasted vegetables",
+            "de": "Gemischtes Ofengemüse",
+            "fr": "Légumes rôtis variés",
+            "es": "Verduras mixtas al horno",
+            "pl": "Mieszane pieczone warzywa",
+            "ru": "Овощи, запечённые в духовке",
+            "zh": "烤杂蔬",
+            "ja": "ミックスロースト野菜"
+          },
+          "desc": {},
+          "price": "7 €",
+          "allergens": ""
+        },
+        {
+          "name": {
+            "it": "Insalata mista",
+            "en": "Mixed salad",
+            "de": "Gemischter Salat",
+            "fr": "Salade composée",
+            "es": "Ensalada mixta",
+            "pl": "Sałatka mieszana",
+            "ru": "Смешанный салат",
+            "zh": "混合沙拉",
+            "ja": "ミックスサラダ"
+          },
+          "desc": {},
+          "price": "5 €",
+          "allergens": ""
+        }
+      ]
+    }
+  ],
+  "salads": [
+    {
+      "name": {
+        "it": "La Greca",
+        "en": "Greek-style salad",
+        "de": "Griechischer Salat",
+        "fr": "Salade grecque",
+        "es": "Ensalada griega",
+        "pl": "Sałatka grecka",
+        "ru": "Греческий салат",
+        "zh": "希腊沙拉",
+        "ja": "ギリシャ風サラダ"
+      },
+      "desc": {
+        "it": "Pomodorini Piccadilly, valeriana, pomodori secchi, olive, feta, origano, cipolla rossa, crostini e vinaigrette all’aceto balsamico",
+        "en": "Piccadilly tomatoes, lamb’s lettuce, sun-dried tomatoes, olives, feta, oregano, red onion, croutons and balsamic vinaigrette",
+        "de": "Piccadilly-Tomaten, Feldsalat, getrocknete Tomaten, Oliven, Feta, Oregano, rote Zwiebel, Croûtons und Balsamico-Vinaigrette",
+        "fr": "Tomates Piccadilly, mâche, tomates séchées, olives, feta, origan, oignon rouge, croûtons et vinaigrette balsamique",
+        "es": "Tomates Piccadilly, canónigos, tomates secos, aceitunas, feta, orégano, cebolla roja, picatostes y vinagreta balsámica",
+        "pl": "Pomidorki Piccadilly, roszponka, suszone pomidory, oliwki, feta, oregano, czerwona cebula, grzanki i winegret balsamiczny",
+        "ru": "Помидоры Piccadilly, корн-салат, вяленые томаты, оливки, фета, орегано, красный лук, гренки и бальзамическая заправка",
+        "zh": "Piccadilly小番茄、羊生菜、风干番茄、橄榄、菲达奶酪、牛至、红洋葱、面包丁和香醋汁",
+        "ja": "ピカデリー・トマト、マーシュ、ドライトマト、オリーブ、フェタ、オレガノ、赤玉ねぎ、クルトン、バルサミコドレッシング"
+      },
+      "price": "13 €",
+      "allergens": "1,3,12"
+    },
+    {
+      "name": {
+        "it": "Isola d’Elba",
+        "en": "Elba Island",
+        "de": "Elba",
+        "fr": "Île d’Elbe",
+        "es": "Isla de Elba",
+        "pl": "Wyspa Elba",
+        "ru": "Остров Эльба",
+        "zh": "厄尔巴岛沙拉",
+        "ja": "エルバ島サラダ"
+      },
+      "desc": {
+        "it": "Insalata iceberg, pomodori Piccadilly, olive nere, carote, pomodoro secco, tonno sott’olio e uovo sodo",
+        "en": "Iceberg lettuce, Piccadilly tomatoes, black olives, carrots, sun-dried tomatoes, tuna in oil and hard-boiled egg",
+        "de": "Eisbergsalat, Piccadilly-Tomaten, schwarze Oliven, Karotten, getrocknete Tomaten, Thunfisch in Öl und gekochtes Ei",
+        "fr": "Laitue iceberg, tomates Piccadilly, olives noires, carottes, tomates séchées, thon à l’huile et œuf dur",
+        "es": "Lechuga iceberg, tomates Piccadilly, aceitunas negras, zanahorias, tomates secos, atún en aceite y huevo duro",
+        "pl": "Sałata lodowa, pomidorki Piccadilly, czarne oliwki, marchew, suszone pomidory, tuńczyk w oleju i jajko na twardo",
+        "ru": "Салат айсберг, помидоры Piccadilly, чёрные оливки, морковь, вяленые томаты, тунец в масле и варёное яйцо",
+        "zh": "冰山生菜、Piccadilly小番茄、黑橄榄、胡萝卜、风干番茄、油浸金枪鱼和水煮蛋",
+        "ja": "アイスバーグレタス、ピカデリートマト、黒オリーブ、ニンジン、ドライトマト、ツナ、ゆで卵"
+      },
+      "price": "12 €",
+      "allergens": "3,4"
+    },
+    {
+      "name": {
+        "it": "Caesar Salad",
+        "en": "Caesar Salad",
+        "de": "Caesar Salad",
+        "fr": "Salade César",
+        "es": "Ensalada César",
+        "pl": "Sałatka Cezar",
+        "ru": "Салат Цезарь",
+        "zh": "凯撒沙拉",
+        "ja": "シーザーサラダ"
+      },
+      "desc": {
+        "it": "Pollo alla piastra, insalata romana, crostini, scaglie di grana, noci e salsa Caesar",
+        "en": "Grilled chicken, romaine lettuce, croutons, Parmesan shavings, walnuts and Caesar dressing",
+        "de": "Gegrilltes Hähnchen, Römersalat, Croûtons, Parmesanspäne, Walnüsse und Caesar-Dressing",
+        "fr": "Poulet grillé, laitue romaine, croûtons, copeaux de parmesan, noix et sauce César",
+        "es": "Pollo a la plancha, lechuga romana, picatostes, lascas de parmesano, nueces y salsa César",
+        "pl": "Grillowany kurczak, sałata rzymska, grzanki, płatki parmezanu, orzechy włoskie i sos Cezar",
+        "ru": "Курица-гриль, салат ромэн, гренки, стружка пармезана, грецкие орехи и соус Цезарь",
+        "zh": "烤鸡肉、罗马生菜、面包丁、帕尔马干酪片、核桃和凯撒酱",
+        "ja": "グリルチキン、ロメインレタス、クルトン、パルメザン、クルミ、シーザードレッシング"
+      },
+      "price": "12 €",
+      "allergens": "1,3,7,8,10,12"
+    },
+    {
+      "name": {
+        "it": "Montecristo",
+        "en": "Montecristo",
+        "de": "Montecristo",
+        "fr": "Montecristo",
+        "es": "Montecristo",
+        "pl": "Montecristo",
+        "ru": "Монте-Кристо",
+        "zh": "蒙特克里斯托",
+        "ja": "モンテクリスト"
+      },
+      "desc": {
+        "it": "Salmone gravlax, insalata iceberg, carote, ceci, semi di zucca e dressing agrodolce",
+        "en": "Gravlax salmon, iceberg lettuce, carrots, chickpeas, pumpkin seeds and sweet-and-sour dressing",
+        "de": "Gravlax-Lachs, Eisbergsalat, Karotten, Kichererbsen, Kürbiskerne und süß-saures Dressing",
+        "fr": "Saumon gravlax, laitue iceberg, carottes, pois chiches, graines de courge et sauce aigre-douce",
+        "es": "Salmón gravlax, lechuga iceberg, zanahoria, garbanzos, semillas de calabaza y aderezo agridulce",
+        "pl": "Łosoś gravlax, sałata lodowa, marchew, ciecierzyca, pestki dyni i sos słodko-kwaśny",
+        "ru": "Лосось гравлакс, салат айсберг, морковь, нут, тыквенные семечки и кисло-сладкая заправка",
+        "zh": "腌渍三文鱼、冰山生菜、胡萝卜、鹰嘴豆、南瓜籽和酸甜汁",
+        "ja": "グラブラックスサーモン、アイスバーグレタス、ニンジン、ひよこ豆、カボチャの種、甘酸っぱいドレッシング"
+      },
+      "price": "13 €",
+      "allergens": "1,4,8,12"
+    }
+  ],
+  "wines": [
+    {
+      "name": "Il Seggio – Poggio al Tesoro",
+      "price": "38 €"
+    },
+    {
+      "name": "Aia Vecchia",
+      "price": "28 €"
+    },
+    {
+      "name": "Bramito",
+      "price": "35 €"
+    },
+    {
+      "name": "Alìe",
+      "price": "28 €"
+    },
+    {
+      "name": "Sauvignon “I Cigli”",
+      "price": "32 €"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Il vecchio e il mare",
+      "price": "—"
+    },
+    {
+      "name": "La bella estate",
+      "price": "—"
+    },
+    {
+      "name": "Il grande Gatsby",
+      "price": "—"
+    },
+    {
+      "name": "Il buio oltre la siepe",
+      "price": "—"
+    },
+    {
+      "name": "Anna Karenina",
+      "price": "—"
+    },
+    {
+      "name": "Basta un caffè per essere felici",
+      "price": "—"
+    },
+    {
+      "name": "Lolita",
+      "price": "—"
+    }
+  ],
+  "allergens": {
+    "1": "Glutine / Gluten",
+    "2": "Crostacei / Crustaceans",
+    "3": "Uova / Eggs",
+    "4": "Pesce / Fish",
+    "5": "Arachidi / Peanuts",
+    "6": "Soia / Soy",
+    "7": "Latte / Milk",
+    "8": "Frutta a guscio / Nuts",
+    "9": "Sedano / Celery",
+    "10": "Senape / Mustard",
+    "11": "Sesamo / Sesame",
+    "12": "Anidride solforosa / Sulphites",
+    "13": "Lupini / Lupins",
+    "14": "Molluschi / Molluscs"
+  }
+}
