@@ -93,3 +93,12 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
     min-width:46px
   }
 }
+
+
+.doga-logo{
+  display:block;
+  width:min(340px,82vw);
+  height:auto;
+  margin:0 auto 14px;
+  filter:invert(1);
+}
