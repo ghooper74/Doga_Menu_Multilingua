@@ -771,32 +771,99 @@
   ],
   "drinks": [
     {
-      "name": "Il vecchio e il mare",
-      "price": "—"
+      "name": "Il Vecchio e il Mare",
+      "price": "12 €",
+      "desc": "Succo di lime, zucchero di canna, menta, Mezcal, ginger beer e paprika."
     },
     {
-      "name": "La bella estate",
-      "price": "—"
+      "name": "La Bella Estate",
+      "price": "10 €",
+      "desc": "Bollicine francesi, Italicus al bergamotto, Vermouth bianco dry, succo di lime e basilico."
     },
     {
-      "name": "Il grande Gatsby",
-      "price": "—"
+      "name": "Il Grande Gatsby",
+      "price": "12 €",
+      "desc": "Succo d’uva biologico Tenuta Il Fontino, vodka homemade al cetriolo, Vermouth Rosso Martini Riserva Rubino e succo di limone."
     },
     {
-      "name": "Il buio oltre la siepe",
-      "price": "—"
+      "name": "Il Buio Oltre la Siepe",
+      "price": "10 €",
+      "desc": "Aleatico rifermentato di Sequerciani, bitter bianco al pepe nero e alloro, Cynar."
     },
     {
       "name": "Anna Karenina",
-      "price": "—"
+      "price": "10 €",
+      "desc": "Vodka homemade ai frutti rossi, sciroppo d’acero, succo di lime e soda al pompelmo."
     },
     {
       "name": "Basta un caffè per essere felici",
-      "price": "—"
+      "price": "10 €",
+      "desc": "Marsala Superiore Dolce, caffè espresso, Kahlua e bitter al caffè affumicato."
     },
     {
       "name": "Lolita",
-      "price": "—"
+      "price": "10 €",
+      "desc": "Limoncello, succo di limone, Maraschino e sciroppo al cioccolato bianco."
+    },
+    {
+      "name": "Spritz (Aperol o Campari)",
+      "price": "7 €"
+    },
+    {
+      "name": "Hugo Spritz",
+      "price": "8 €"
+    },
+    {
+      "name": "Americano / Milano-Torino",
+      "price": "7 €"
+    },
+    {
+      "name": "Negroni",
+      "price": "8 €"
+    },
+    {
+      "name": "Boulevardier",
+      "price": "9 €"
+    },
+    {
+      "name": "Old Fashioned",
+      "price": "10 €"
+    },
+    {
+      "name": "Mojito",
+      "price": "8 €"
+    },
+    {
+      "name": "Margarita",
+      "price": "8 €"
+    },
+    {
+      "name": "Caipirinha",
+      "price": "8 €"
+    },
+    {
+      "name": "Caipiroska – Classica, Yuzu, Passion Fruit, Mango o Pesca",
+      "price": "8 €"
+    },
+    {
+      "name": "White Lady",
+      "price": "8 €"
+    },
+    {
+      "name": "Bloody Mary",
+      "price": "9 €"
+    },
+    {
+      "name": "Daiquiri",
+      "price": "8 €"
+    },
+    {
+      "name": "Manhattan",
+      "price": "8 €"
+    },
+    {
+      "name": "Gin Fizz / John Collins",
+      "price": "8 €"
     }
   ],
   "allergens": {
