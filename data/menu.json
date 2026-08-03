@@ -1490,5 +1490,87 @@
       "allergens": "3",
       "price": "8 €"
     }
+  ],
+  "showcase": [
+    {
+      "name": "Baguette con prosciutto crudo, pomodoro e insalata",
+      "price": "7,50 €",
+      "category": "salato"
+    },
+    {
+      "name": "Baguette vegetariana con pomodoro e mozzarella",
+      "price": "7,50 €",
+      "category": "salato"
+    },
+    {
+      "name": "Brioche salata con prosciutto crudo e insalata",
+      "price": "3,50 €",
+      "category": "salato"
+    },
+    {
+      "name": "Focaccia con prosciutto crudo e formaggio",
+      "price": "4,00 €",
+      "category": "salato"
+    },
+    {
+      "name": "Focaccia con prosciutto cotto e formaggio",
+      "price": "4,00 €",
+      "category": "salato"
+    },
+    {
+      "name": "Focaccia vegetariana su richiesta",
+      "price": "4,00 €",
+      "category": "salato"
+    },
+    {
+      "name": "Toast",
+      "price": "4,00 €",
+      "category": "salato"
+    },
+    {
+      "name": "Brioche vuota",
+      "price": "1,50 €",
+      "category": "dolce"
+    },
+    {
+      "name": "Brioche farcita",
+      "price": "1,80 €",
+      "category": "dolce"
+    },
+    {
+      "name": "Biscotti integrali",
+      "price": "1,00 € cad.",
+      "category": "dolce"
+    },
+    {
+      "name": "Cantucci",
+      "price": "1,00 € cad.",
+      "category": "dolce"
+    },
+    {
+      "name": "Muffin al cacao",
+      "price": "1,50 €",
+      "category": "dolce"
+    },
+    {
+      "name": "Muffin senza glutine al cioccolato o albicocca",
+      "price": "3,00 €",
+      "category": "dolce"
+    },
+    {
+      "name": "Banana bread",
+      "price": "4,00 €",
+      "category": "dolce"
+    },
+    {
+      "name": "Torta della nonna",
+      "price": "4,00 €",
+      "category": "dolce"
+    },
+    {
+      "name": "Crostata all'albicocca o ai frutti di bosco",
+      "price": "4,00 €",
+      "category": "dolce"
+    }
   ]
 }
