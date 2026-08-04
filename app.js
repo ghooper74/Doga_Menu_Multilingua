@@ -109,6 +109,86 @@ function renderCollection(kind) {
     ${items.length ? `<div class="grid">${items.map(itemCard).join("")}</div>` : `<div class="notice">Sezione da completare in <b>data/menu.json</b>.</div>`}`;
 }
 
+
+function wineLabel(key) {
+  const labels = {
+    type: {
+      it:"Tipologia", en:"Type", de:"Typ", fr:"Type", es:"Tipo",
+      pl:"Rodzaj", ru:"Тип", zh:"类型", ja:"種類"
+    },
+    grapes: {
+      it:"Uvaggio", en:"Grapes", de:"Rebsorten", fr:"Cépages",
+      es:"Uvas", pl:"Szczepy", ru:"Сорта винограда", zh:"葡萄品种", ja:"ブドウ品種"
+    },
+    alcohol: {
+      it:"Gradazione alcolica", en:"Alcohol", de:"Alkoholgehalt",
+      fr:"Teneur en alcool", es:"Graduación alcohólica",
+      pl:"Zawartość alkoholu", ru:"Крепость", zh:"酒精度", ja:"アルコール度数"
+    },
+    winemaking: {
+      it:"Vinificazione e affinamento", en:"Vinification and ageing",
+      de:"Vinifikation und Ausbau", fr:"Vinification et élevage",
+      es:"Vinificación y crianza", pl:"Winifikacja i dojrzewanie",
+      ru:"Винификация и выдержка", zh:"酿造与熟成", ja:"醸造・熟成"
+    },
+    temperature: {
+      it:"Temperatura di servizio", en:"Serving temperature",
+      de:"Serviertemperatur", fr:"Température de service",
+      es:"Temperatura de servicio", pl:"Temperatura podawania",
+      ru:"Температура подачи", zh:"饮用温度", ja:"提供温度"
+    },
+    pairings: {
+      it:"Abbinamenti", en:"Pairings", de:"Speiseempfehlungen",
+      fr:"Accords", es:"Maridajes", pl:"Połączenia kulinarne",
+      ru:"Гастрономические сочетания", zh:"餐酒搭配", ja:"おすすめの料理"
+    }
+  };
+
+  return labels[key]?.[lang] || labels[key]?.en || key;
+}
+
+function wineCard(wine) {
+  if (!wine.description) {
+    return `<div class="simple-row">
+      <strong>${esc(t(wine.name) || wine.name || "")}</strong>
+      <span>${esc(wine.price || "")}</span>
+    </div>`;
+  }
+
+  const title = [
+    wine.name,
+    wine.producer ? `– ${wine.producer}` : "",
+    wine.vintage || ""
+  ].filter(Boolean).join(" ");
+
+  return `<article class="card wine-card">
+    <div class="card-head">
+      <h3>🍷 ${esc(title)}</h3>
+      <div class="price">${esc(wine.price || "")}</div>
+    </div>
+
+    <p class="desc"><strong>${esc(wineLabel("type"))}:</strong> ${esc(t(wine.type))}</p>
+    <p class="desc"><strong>${esc(wineLabel("grapes"))}:</strong> ${esc(wine.grapes || "")}</p>
+    <p class="desc"><strong>${esc(wineLabel("alcohol"))}:</strong> ${esc(wine.alcohol || "")}</p>
+    <p class="desc"><strong>${esc(wineLabel("winemaking"))}:</strong> ${esc(t(wine.winemaking))}</p>
+    <p class="desc"><strong>${esc(wineLabel("temperature"))}:</strong> ${esc(wine.serving_temperature || "")}</p>
+
+    <h4>${esc(wineLabel("pairings"))}</h4>
+    <p class="desc">${esc(t(wine.pairing))}</p>
+
+    <p class="desc wine-description">${esc(t(wine.description))}</p>
+  </article>`;
+}
+
+function renderWines() {
+  const wines = DATA.wines || [];
+
+  return `<h2 class="section-title">${esc(label("wines"))}</h2>
+    <div class="grid">
+      ${wines.map(wineCard).join("")}
+    </div>`;
+}
+
 function renderSimple(kind) {
   const title = label(kind);
   const rows = DATA[kind] || [];
@@ -191,6 +271,7 @@ function render() {
     currentTab === "salads" ? renderSalads() :
     currentTab === "breakfast" ? renderCollection("breakfast") :
     currentTab === "showcase" ? renderCollection("showcase") :
+    currentTab === "wines" ? renderWines() :
     currentTab === "allergens" ? renderAllergens() :
     renderSimple(currentTab);
 

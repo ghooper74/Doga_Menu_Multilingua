@@ -749,6 +749,60 @@
   ],
   "wines": [
     {
+      "id": "eva-tenuta-casadei-2025",
+      "name": "Eva",
+      "producer": "Tenuta Casadei",
+      "vintage": "2025",
+      "type": {
+        "it": "Toscana Rosato IGT biologico",
+        "en": "Organic Toscana Rosato IGT",
+        "de": "Biologischer Toscana Rosato IGT",
+        "fr": "Toscana Rosato IGT biologique",
+        "es": "Toscana Rosato IGT ecológico",
+        "pl": "Ekologiczne Toscana Rosato IGT",
+        "ru": "Органическое розовое вино Toscana IGT",
+        "zh": "有机托斯卡纳桃红 IGT",
+        "ja": "オーガニック・トスカーナ・ロザート IGT"
+      },
+      "grapes": "Syrah, Vermentino",
+      "alcohol": "12,5%",
+      "winemaking": {
+        "it": "Vinificazione e affinamento in acciaio.",
+        "en": "Vinified and aged in stainless steel.",
+        "de": "Vinifikation und Ausbau im Edelstahltank.",
+        "fr": "Vinification et élevage en cuve d’acier.",
+        "es": "Vinificación y crianza en acero inoxidable.",
+        "pl": "Winifikacja i dojrzewanie w stali nierdzewnej.",
+        "ru": "Винификация и выдержка в стальных ёмкостях.",
+        "zh": "在不锈钢罐中酿造与熟成。",
+        "ja": "ステンレスタンクで醸造・熟成。"
+      },
+      "serving_temperature": "8–12 °C",
+      "price": "25 €",
+      "pairing": {
+        "it": "Aperitivo, crudi di mare, crostacei, sushi, primi leggeri e piatti mediterranei.",
+        "en": "Aperitifs, raw seafood, shellfish, sushi, light pasta dishes and Mediterranean cuisine.",
+        "de": "Aperitif, rohe Meeresfrüchte, Krustentiere, Sushi, leichte Pastagerichte und mediterrane Küche.",
+        "fr": "Apéritif, fruits de mer crus, crustacés, sushi, pâtes légères et cuisine méditerranéenne.",
+        "es": "Aperitivo, marisco crudo, crustáceos, sushi, primeros ligeros y cocina mediterránea.",
+        "pl": "Aperitif, surowe owoce morza, skorupiaki, sushi, lekkie makarony i dania śródziemnomorskie.",
+        "ru": "Аперитив, сырые морепродукты, ракообразные, суши, лёгкие первые блюда и средиземноморская кухня.",
+        "zh": "适合作为开胃酒，搭配生食海鲜、甲壳类、寿司、清淡意面及地中海菜肴。",
+        "ja": "食前酒、魚介の生料理、甲殻類、寿司、軽いパスタ、地中海料理におすすめ。"
+      },
+      "description": {
+        "it": "Rosato biologico toscano fresco e sapido, prodotto da Syrah e Vermentino. Al naso esprime fragolina di bosco, lampone, melograno, agrumi, fiori delicati ed erbe mediterranee. Al palato è morbido, equilibrato e pulito, con una piacevole freschezza finale.",
+        "en": "A fresh and savoury organic Tuscan rosé made from Syrah and Vermentino. It offers aromas of wild strawberry, raspberry, pomegranate, citrus, delicate flowers and Mediterranean herbs. Smooth and balanced on the palate, with a clean and refreshing finish.",
+        "de": "Ein frischer und würziger biologischer Rosé aus der Toskana, hergestellt aus Syrah und Vermentino. Aromen von Walderdbeere, Himbeere, Granatapfel, Zitrusfrüchten, zarten Blüten und mediterranen Kräutern. Weich und ausgewogen, mit einem sauberen, erfrischenden Finale.",
+        "fr": "Un rosé biologique toscan frais et savoureux, issu de Syrah et de Vermentino. Arômes de fraise des bois, framboise, grenade, agrumes, fleurs délicates et herbes méditerranéennes. Bouche souple et équilibrée, avec une finale nette et rafraîchissante.",
+        "es": "Rosado ecológico toscano, fresco y sabroso, elaborado con Syrah y Vermentino. Aromas de fresa silvestre, frambuesa, granada, cítricos, flores delicadas y hierbas mediterráneas. Suave y equilibrado, con un final limpio y refrescante.",
+        "pl": "Świeże i wyraziste ekologiczne wino różowe z Toskanii, produkowane z Syrah i Vermentino. Aromaty poziomki, maliny, granatu, cytrusów, delikatnych kwiatów i śródziemnomorskich ziół. Łagodne i zrównoważone, z czystym, odświeżającym finiszem.",
+        "ru": "Свежее и пикантное органическое розовое вино из Тосканы, созданное из сортов Сира и Верментино. В аромате — земляника, малина, гранат, цитрусовые, нежные цветы и средиземноморские травы. Мягкое и сбалансированное, с чистым освежающим послевкусием.",
+        "zh": "一款由西拉和维蒙蒂诺酿造的清新鲜爽托斯卡纳有机桃红葡萄酒。散发野草莓、覆盆子、石榴、柑橘、淡雅花香及地中海香草气息。口感柔和均衡，余味干净清爽。",
+        "ja": "シラーとヴェルメンティーノから造られる、爽やかで旨味のあるトスカーナのオーガニック・ロゼ。野イチゴ、ラズベリー、ザクロ、柑橘、繊細な花、地中海ハーブの香り。口当たりは柔らかく調和が取れ、清々しい余韻が続きます。"
+      }
+    },
+    {
       "name": "Il Seggio – Poggio al Tesoro",
       "price": "38 €"
     },
