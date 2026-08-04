@@ -749,6 +749,113 @@
   ],
   "wines": [
     {
+      "id": "aia-vecchia-vermentino-2024",
+      "name": "Aia Vecchia Vermentino Toscana",
+      "producer": "Aia Vecchia",
+      "vintage": "2024",
+      "category": "white",
+      "type": {
+        "it": "Toscana Bianco IGT",
+        "en": "Toscana White IGT",
+        "de": "Toscana Weißwein IGT",
+        "fr": "Toscana Blanc IGT",
+        "es": "Toscana Blanco IGT",
+        "pl": "Białe wino Toscana IGT",
+        "ru": "Белое вино Toscana IGT",
+        "zh": "托斯卡纳白葡萄酒 IGT",
+        "ja": "トスカーナ白ワイン IGT"
+      },
+      "origin": {
+        "it": "Toscana, Italia",
+        "en": "Tuscany, Italy",
+        "de": "Toskana, Italien",
+        "fr": "Toscane, Italie",
+        "es": "Toscana, Italia",
+        "pl": "Toskania, Włochy",
+        "ru": "Тоскана, Италия",
+        "zh": "意大利托斯卡纳",
+        "ja": "イタリア、トスカーナ"
+      },
+      "grapes": "Vermentino, Viognier",
+      "serving_temperature": "8–10 °C",
+      "price": "28 €",
+      "pairing": {
+        "it": "Aperitivo, crudi di mare, crostacei, tartare di pesce, spaghetti alle vongole, risotti di mare e pesce alla griglia.",
+        "en": "Aperitifs, raw seafood, shellfish, fish tartare, spaghetti with clams, seafood risotto and grilled fish.",
+        "de": "Aperitif, rohe Meeresfrüchte, Krustentiere, Fischtatar, Spaghetti mit Venusmuscheln, Meeresfrüchterisotto und gegrillter Fisch.",
+        "fr": "Apéritif, fruits de mer crus, crustacés, tartare de poisson, spaghetti aux palourdes, risotto de la mer et poisson grillé.",
+        "es": "Aperitivo, marisco crudo, crustáceos, tartar de pescado, espaguetis con almejas, risotto de marisco y pescado a la parrilla.",
+        "pl": "Aperitif, surowe owoce morza, skorupiaki, tatar rybny, spaghetti z małżami, risotto z owocami morza i grillowane ryby.",
+        "ru": "Аперитив, сырые морепродукты, ракообразные, тартар из рыбы, спагетти с моллюсками, ризотто с морепродуктами и рыба на гриле.",
+        "zh": "适合作为开胃酒，搭配生食海鲜、甲壳类、鱼肉塔塔、蛤蜊意面、海鲜烩饭及烤鱼。",
+        "ja": "食前酒、魚介の生料理、甲殻類、魚のタルタル、ボンゴレ、魚介のリゾット、魚のグリルにおすすめ。"
+      },
+      "description": {
+        "it": "Bianco fresco, sapido e mediterraneo ottenuto da Vermentino e Viognier. Al naso offre agrumi, fiori bianchi ed erbe aromatiche, con una delicata nota salina. Al palato è equilibrato, minerale e scorrevole, con una bella acidità e un finale asciutto.",
+        "en": "A fresh and savoury Tuscan white made from Vermentino and Viognier. It offers aromas of citrus, white flowers and Mediterranean herbs, with a delicate saline note. Crisp, balanced and mineral, with refreshing acidity and a clean, dry finish.",
+        "de": "Ein frischer, würziger Weißwein aus Vermentino und Viognier. Zitrusfrüchte, weiße Blüten und mediterrane Kräuter verbinden sich mit einer feinen salzigen Note. Ausgewogen und mineralisch, mit lebendiger Säure und trockenem Finale.",
+        "fr": "Un blanc toscan frais et savoureux, issu de Vermentino et de Viognier. Arômes d’agrumes, de fleurs blanches et d’herbes méditerranéennes, avec une délicate note saline. Bouche équilibrée et minérale, finale nette et sèche.",
+        "es": "Blanco toscano fresco y sabroso, elaborado con Vermentino y Viognier. Aromas de cítricos, flores blancas y hierbas mediterráneas, con una delicada nota salina. Equilibrado y mineral, con buena acidez y final seco.",
+        "pl": "Świeże i wyraziste białe wino z Vermentino i Viognier. Aromaty cytrusów, białych kwiatów i śródziemnomorskich ziół uzupełnia delikatna słona nuta. Zrównoważone, mineralne i rześkie, z wytrawnym finiszem.",
+        "ru": "Свежее и пикантное белое вино из сортов Верментино и Вионье. В аромате — цитрусовые, белые цветы, средиземноморские травы и лёгкая солоноватая нота. Сбалансированное и минеральное, с яркой кислотностью и сухим послевкусием.",
+        "zh": "由维蒙蒂诺和维欧尼酿造的清新鲜爽托斯卡纳白葡萄酒。带有柑橘、白花、地中海香草及细腻咸鲜气息。口感均衡、矿物感明显，酸度清爽，余味干净偏干。",
+        "ja": "ヴェルメンティーノとヴィオニエから造られる、爽やかで旨味のある白ワイン。柑橘、白い花、地中海ハーブ、ほのかな塩味を感じます。バランスがよくミネラル感があり、酸味とドライな余韻が特徴です。"
+      }
+    },
+    {
+      "id": "il-seggio-poggio-al-tesoro",
+      "name": "Il Seggio",
+      "producer": "Poggio al Tesoro",
+      "category": "red",
+      "type": {
+        "it": "Bolgheri Rosso DOC",
+        "en": "Bolgheri Rosso DOC",
+        "de": "Bolgheri Rosso DOC",
+        "fr": "Bolgheri Rosso DOC",
+        "es": "Bolgheri Rosso DOC",
+        "pl": "Bolgheri Rosso DOC",
+        "ru": "Bolgheri Rosso DOC",
+        "zh": "博格利红葡萄酒 DOC",
+        "ja": "ボルゲリ・ロッソ DOC"
+      },
+      "origin": {
+        "it": "Bolgheri, Toscana",
+        "en": "Bolgheri, Tuscany",
+        "de": "Bolgheri, Toskana",
+        "fr": "Bolgheri, Toscane",
+        "es": "Bolgheri, Toscana",
+        "pl": "Bolgheri, Toskania",
+        "ru": "Болгери, Тоскана",
+        "zh": "托斯卡纳博格利",
+        "ja": "トスカーナ、ボルゲリ"
+      },
+      "grapes": "Merlot 50%, Cabernet Sauvignon 20%, Cabernet Franc 20%, Petit Verdot 10%",
+      "serving_temperature": "16–18 °C",
+      "price": "38 €",
+      "pairing": {
+        "it": "Carni rosse alla griglia, tagliata, selvaggina, brasati, formaggi stagionati e cucina toscana.",
+        "en": "Grilled red meats, sliced steak, game, braised dishes, aged cheeses and traditional Tuscan cuisine.",
+        "de": "Gegrilltes rotes Fleisch, Tagliata, Wild, Schmorgerichte, gereifter Käse und traditionelle toskanische Küche.",
+        "fr": "Viandes rouges grillées, tagliata, gibier, plats braisés, fromages affinés et cuisine toscane.",
+        "es": "Carnes rojas a la parrilla, tagliata, caza, estofados, quesos curados y cocina toscana.",
+        "pl": "Grillowane czerwone mięso, tagliata, dziczyzna, dania duszone, sery dojrzewające i kuchnia toskańska.",
+        "ru": "Красное мясо на гриле, тальята, дичь, тушёные блюда, выдержанные сыры и тосканская кухня.",
+        "zh": "适合搭配烤红肉、意式切片牛排、野味、炖肉、熟成奶酪及托斯卡纳传统菜肴。",
+        "ja": "赤身肉のグリル、タリアータ、ジビエ、煮込み料理、熟成チーズ、トスカーナ料理におすすめ。"
+      },
+      "description": {
+        "it": "Bolgheri rosso elegante ma immediato, con frutto rosso maturo, leggere note speziate e una raffinata vena minerale. Il tannino è morbido e setoso, il sorso avvolgente ed equilibrato, con un finale persistente e vivace.",
+        "en": "An elegant yet approachable Bolgheri red blend, offering ripe red fruit, delicate spice and refined mineral notes. Smooth, silky tannins and excellent balance lead to a long, lively and harmonious finish.",
+        "de": "Eine elegante und dennoch zugängliche Rotweincuvée aus Bolgheri mit reifen roten Früchten, feiner Würze und mineralischen Noten. Weiche, seidige Tannine und ein ausgewogener, langer Abgang.",
+        "fr": "Un rouge de Bolgheri élégant et accessible, aux arômes de fruits rouges mûrs, d’épices délicates et de notes minérales. Tanins souples et soyeux, bouche équilibrée et finale longue et vive.",
+        "es": "Tinto de Bolgheri elegante y accesible, con fruta roja madura, especias delicadas y notas minerales. Taninos suaves y sedosos, paso equilibrado y final largo y vivaz.",
+        "pl": "Eleganckie, a zarazem przystępne czerwone wino z Bolgheri, z aromatami dojrzałych czerwonych owoców, delikatnych przypraw i nut mineralnych. Miękkie taniny, harmonijny smak i długi finisz.",
+        "ru": "Элегантное и доступное красное вино из Болгери с ароматами спелых красных фруктов, лёгких специй и минеральными оттенками. Мягкие шелковистые танины, сбалансированный вкус и долгое живое послевкусие.",
+        "zh": "一款优雅且易饮的博格利红葡萄酒，散发成熟红色水果、细腻香料和矿物气息。单宁柔滑，口感饱满均衡，余味悠长而有活力。",
+        "ja": "熟した赤い果実、繊細なスパイス、上品なミネラル感を備えた、エレガントで親しみやすいボルゲリの赤。タンニンは柔らかく滑らかで、バランスのよい味わいと長い余韻が続きます。"
+      }
+    },
+    {
       "id": "eva-tenuta-casadei-2025",
       "name": "Eva",
       "producer": "Tenuta Casadei",
