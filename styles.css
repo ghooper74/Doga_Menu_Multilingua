@@ -102,3 +102,55 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
   margin:0 auto 14px;
   filter:invert(1);
 }
+
+
+.wine-filters{
+  display:flex;
+  gap:9px;
+  overflow-x:auto;
+  padding:4px 0 16px;
+  margin-bottom:18px;
+  scrollbar-width:none;
+}
+
+.wine-filters::-webkit-scrollbar{
+  display:none;
+}
+
+.wine-filter{
+  flex:0 0 auto;
+  border:1px solid #d8cfc0;
+  border-radius:999px;
+  padding:10px 15px;
+  background:#fffdf8;
+  color:#211c17;
+  font:inherit;
+  font-weight:750;
+  cursor:pointer;
+}
+
+.wine-filter.active{
+  background:#211c17;
+  color:#fff;
+  border-color:#211c17;
+}
+
+.wine-group{
+  margin-bottom:34px;
+}
+
+.wine-card h3{
+  margin-right:12px;
+}
+
+.wine-subtitle{
+  margin:18px 0 6px;
+  font-size:1rem;
+}
+
+.wine-description{
+  margin-top:18px;
+  padding-top:16px;
+  border-top:1px solid #ded6ca;
+  line-height:1.6;
+}

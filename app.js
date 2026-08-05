@@ -19,6 +19,7 @@ if (!supported.includes(lang)) lang = "en";
 
 const params = new URLSearchParams(location.search);
 let currentTab = params.get("section") || params.get("tab") || "menu";
+let selectedWineSection = "all";
 
 const fallbackLabels = {
   menu: { it: "Menù", en: "Menu", de: "Speisekarte", fr: "Menu", es: "Menú", pl: "Menu", ru: "Меню", zh: "菜单", ja: "メニュー" },
@@ -203,6 +204,258 @@ function renderSimple(kind) {
     rows.map(x => `<div class="simple-row"><strong>${esc(t(x.name) || x.name || "")}</strong><span>${esc(x.price || "")}</span></div>`).join("")
   }</div>`;
 }
+
+
+const wineSectionOrder = [
+  "all",
+  "sparkling_italian",
+  "sparkling_french",
+  "white_tuscany",
+  "white_other",
+  "rose",
+  "red_bolgheri",
+  "red_tuscany",
+  "super_tuscan",
+  "red_other",
+  "dessert",
+  "other"
+];
+
+const wineSectionLabels = {
+  all: {
+    it:"Tutti", en:"All", de:"Alle", fr:"Tous", es:"Todos",
+    pl:"Wszystkie", ru:"Все", zh:"全部", ja:"すべて"
+  },
+  sparkling_italian: {
+    it:"Bollicine italiane", en:"Italian sparkling wines",
+    de:"Italienische Schaumweine", fr:"Bulles italiennes",
+    es:"Espumosos italianos", pl:"Włoskie wina musujące",
+    ru:"Итальянские игристые", zh:"意大利起泡酒", ja:"イタリアのスパークリング"
+  },
+  sparkling_french: {
+    it:"Bollicine francesi", en:"French sparkling wines",
+    de:"Französische Schaumweine", fr:"Bulles françaises",
+    es:"Espumosos franceses", pl:"Francuskie wina musujące",
+    ru:"Французские игристые", zh:"法国起泡酒", ja:"フランスのスパークリング"
+  },
+  white_tuscany: {
+    it:"Bianchi toscani", en:"Tuscan white wines",
+    de:"Toskanische Weißweine", fr:"Blancs toscans",
+    es:"Blancos toscanos", pl:"Białe wina toskańskie",
+    ru:"Белые вина Тосканы", zh:"托斯卡纳白葡萄酒", ja:"トスカーナの白"
+  },
+  white_other: {
+    it:"Bianchi italiani ed esteri", en:"Italian and international whites",
+    de:"Italienische und internationale Weißweine",
+    fr:"Blancs italiens et étrangers",
+    es:"Blancos italianos e internacionales",
+    pl:"Białe włoskie i zagraniczne",
+    ru:"Белые вина Италии и других стран",
+    zh:"意大利及国际白葡萄酒", ja:"イタリア・海外の白"
+  },
+  rose: {
+    it:"Rosati", en:"Rosé wines", de:"Roséweine", fr:"Rosés",
+    es:"Rosados", pl:"Wina różowe", ru:"Розовые вина",
+    zh:"桃红葡萄酒", ja:"ロゼ"
+  },
+  red_bolgheri: {
+    it:"Rossi di Bolgheri", en:"Bolgheri reds",
+    de:"Rotweine aus Bolgheri", fr:"Rouges de Bolgheri",
+    es:"Tintos de Bolgheri", pl:"Czerwone z Bolgheri",
+    ru:"Красные вина Болгери", zh:"博格利红葡萄酒", ja:"ボルゲリの赤"
+  },
+  red_tuscany: {
+    it:"Rossi toscani", en:"Tuscan reds",
+    de:"Toskanische Rotweine", fr:"Rouges toscans",
+    es:"Tintos toscanos", pl:"Czerwone wina toskańskie",
+    ru:"Красные вина Тосканы", zh:"托斯卡纳红葡萄酒", ja:"トスカーナの赤"
+  },
+  super_tuscan: {
+    it:"Super Tuscan", en:"Super Tuscan", de:"Super Tuscan",
+    fr:"Super Tuscan", es:"Super Tuscan", pl:"Super Tuscan",
+    ru:"Супертосканские", zh:"超级托斯卡纳", ja:"スーパータスカン"
+  },
+  red_other: {
+    it:"Rossi italiani ed esteri", en:"Italian and international reds",
+    de:"Italienische und internationale Rotweine",
+    fr:"Rouges italiens et étrangers",
+    es:"Tintos italianos e internacionales",
+    pl:"Czerwone włoskie i zagraniczne",
+    ru:"Красные вина Италии и других стран",
+    zh:"意大利及国际红葡萄酒", ja:"イタリア・海外の赤"
+  },
+  dessert: {
+    it:"Vini dolci", en:"Dessert wines", de:"Dessertweine",
+    fr:"Vins de dessert", es:"Vinos de postre",
+    pl:"Wina deserowe", ru:"Десертные вина",
+    zh:"甜葡萄酒", ja:"デザートワイン"
+  },
+  other: {
+    it:"Altri vini", en:"Other wines", de:"Weitere Weine",
+    fr:"Autres vins", es:"Otros vinos", pl:"Pozostałe wina",
+    ru:"Другие вина", zh:"其他葡萄酒", ja:"その他"
+  }
+};
+
+const wineFieldLabels = {
+  type: {
+    it:"Tipologia", en:"Type", de:"Typ", fr:"Type", es:"Tipo",
+    pl:"Rodzaj", ru:"Тип", zh:"类型", ja:"種類"
+  },
+  origin: {
+    it:"Provenienza", en:"Origin", de:"Herkunft", fr:"Origine",
+    es:"Origen", pl:"Pochodzenie", ru:"Происхождение",
+    zh:"产地", ja:"産地"
+  },
+  grapes: {
+    it:"Uvaggio", en:"Grapes", de:"Rebsorten", fr:"Cépages",
+    es:"Uvas", pl:"Szczepy", ru:"Сорта винограда",
+    zh:"葡萄品种", ja:"ブドウ品種"
+  },
+  alcohol: {
+    it:"Gradazione alcolica", en:"Alcohol", de:"Alkoholgehalt",
+    fr:"Teneur en alcool", es:"Graduación alcohólica",
+    pl:"Zawartość alkoholu", ru:"Крепость",
+    zh:"酒精度", ja:"アルコール度数"
+  },
+  winemaking: {
+    it:"Vinificazione e affinamento", en:"Vinification and ageing",
+    de:"Vinifikation und Ausbau", fr:"Vinification et élevage",
+    es:"Vinificación y crianza", pl:"Winifikacja i dojrzewanie",
+    ru:"Винификация и выдержка", zh:"酿造与熟成", ja:"醸造・熟成"
+  },
+  temperature: {
+    it:"Temperatura di servizio", en:"Serving temperature",
+    de:"Serviertemperatur", fr:"Température de service",
+    es:"Temperatura de servicio", pl:"Temperatura podawania",
+    ru:"Температура подачи", zh:"饮用温度", ja:"提供温度"
+  },
+  pairing: {
+    it:"Abbinamenti", en:"Pairings", de:"Speiseempfehlungen",
+    fr:"Accords", es:"Maridajes", pl:"Połączenia kulinarne",
+    ru:"Гастрономические сочетания", zh:"餐酒搭配", ja:"おすすめの料理"
+  }
+};
+
+function wineTextLabel(collection, key) {
+  return collection[key]?.[lang] ||
+         collection[key]?.en ||
+         collection[key]?.it ||
+         key;
+}
+
+function wineCard(wine) {
+  const title = [
+    wine.name,
+    wine.producer ? `– ${wine.producer}` : "",
+    wine.vintage || ""
+  ].filter(Boolean).join(" ");
+
+  const type = t(wine.type);
+  const origin = t(wine.origin);
+  const grapes = t(wine.grapes);
+  const alcohol = wine.alcohol || wine.alcohol_content || "";
+  const winemaking = t(wine.winemaking || wine.vinification);
+  const temperature =
+    wine.serving_temperature ||
+    wine.service ||
+    wine.temperature ||
+    "";
+  const pairing = t(wine.pairing || wine.pairings);
+  const description = t(wine.description || wine.desc);
+
+  return `<article class="card wine-card">
+    <div class="card-head">
+      <h3>🍷 ${esc(title)}</h3>
+      <div class="price">${esc(wine.price || "")}</div>
+    </div>
+
+    ${type ? `<p class="desc"><strong>${esc(wineTextLabel(wineFieldLabels, "type"))}:</strong> ${esc(type)}</p>` : ""}
+    ${origin ? `<p class="desc"><strong>${esc(wineTextLabel(wineFieldLabels, "origin"))}:</strong> ${esc(origin)}</p>` : ""}
+    ${grapes ? `<p class="desc"><strong>${esc(wineTextLabel(wineFieldLabels, "grapes"))}:</strong> ${esc(grapes)}</p>` : ""}
+    ${alcohol ? `<p class="desc"><strong>${esc(wineTextLabel(wineFieldLabels, "alcohol"))}:</strong> ${esc(alcohol)}</p>` : ""}
+    ${winemaking ? `<p class="desc"><strong>${esc(wineTextLabel(wineFieldLabels, "winemaking"))}:</strong> ${esc(winemaking)}</p>` : ""}
+    ${temperature ? `<p class="desc"><strong>${esc(wineTextLabel(wineFieldLabels, "temperature"))}:</strong> ${esc(temperature)}</p>` : ""}
+
+    ${pairing ? `
+      <h4 class="wine-subtitle">${esc(wineTextLabel(wineFieldLabels, "pairing"))}</h4>
+      <p class="desc">${esc(pairing)}</p>
+    ` : ""}
+
+    ${description ? `<p class="desc wine-description">${esc(description)}</p>` : ""}
+  </article>`;
+}
+
+function renderWines() {
+  const wines = DATA.wines || [];
+
+  const availableSections = wineSectionOrder.filter(section =>
+    section === "all" ||
+    wines.some(wine => (wine.wine_section || "other") === section)
+  );
+
+  if (!availableSections.includes(selectedWineSection)) {
+    selectedWineSection = "all";
+  }
+
+  const visibleWines = selectedWineSection === "all"
+    ? wines
+    : wines.filter(wine =>
+        (wine.wine_section || "other") === selectedWineSection
+      );
+
+  const buttons = availableSections.map(section => `
+    <button
+      type="button"
+      class="wine-filter ${section === selectedWineSection ? "active" : ""}"
+      data-wine-section="${section}">
+      ${esc(wineTextLabel(wineSectionLabels, section))}
+    </button>
+  `).join("");
+
+  const grouped = selectedWineSection === "all"
+    ? availableSections
+        .filter(section => section !== "all")
+        .map(section => {
+          const sectionWines = wines.filter(wine =>
+            (wine.wine_section || "other") === section
+          );
+
+          if (!sectionWines.length) return "";
+
+          return `<section class="wine-group">
+            <h2 class="section-title">
+              ${esc(wineTextLabel(wineSectionLabels, section))}
+            </h2>
+            <div class="grid">
+              ${sectionWines.map(wineCard).join("")}
+            </div>
+          </section>`;
+        }).join("")
+    : `<h2 class="section-title">
+         ${esc(wineTextLabel(wineSectionLabels, selectedWineSection))}
+       </h2>
+       <div class="grid">
+         ${visibleWines.map(wineCard).join("")}
+       </div>`;
+
+  setTimeout(() => {
+    document.querySelectorAll("[data-wine-section]").forEach(button => {
+      button.onclick = () => {
+        selectedWineSection = button.dataset.wineSection;
+        render();
+        scrollTo({ top: 0, behavior: "smooth" });
+      };
+    });
+  }, 0);
+
+  return `
+    <h2 class="section-title">${esc(label("wines"))}</h2>
+    <div class="wine-filters">${buttons}</div>
+    ${grouped}
+  `;
+}
+
 
 function renderAllergens() {
   return `<h2 class="section-title">${esc(label("allergens"))}</h2>
