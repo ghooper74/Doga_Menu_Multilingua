@@ -1,63 +1,229 @@
 <!doctype html>
 <html lang="it">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>DOGA — Menù Mensa</title>
-  <style>
-    :root{--bg:#f5f3ee;--card:#fff;--text:#202020;--muted:#666;--line:#dedbd4;--accent:#264b3b}
-    *{box-sizing:border-box}
-    body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--text)}
-    main{max-width:760px;margin:auto;padding:28px 18px 44px}
-    header{text-align:center;margin-bottom:24px}
-    h1{margin:0;font-size:2rem;letter-spacing:.04em}
-    .sub{color:var(--muted);margin-top:6px}
-    .date{font-weight:700;margin-top:12px}
-    .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;margin:12px 0}
-    .label{font-size:.82rem;text-transform:uppercase;letter-spacing:.1em;color:var(--accent);font-weight:800}
-    .dish{font-size:1.18rem;font-weight:700;margin-top:6px}
-    .notes{font-size:.92rem;color:var(--muted);margin-top:5px}
-    footer{text-align:center;color:var(--muted);font-size:.85rem;margin-top:26px}
-  </style>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>DOGA - Menu Mensa</title>
+
+<style>
+*{box-sizing:border-box}
+body{
+  margin:0;
+  background:#f5f3ed;
+  color:#181818;
+  font-family:Arial,Helvetica,sans-serif;
+}
+main{
+  max-width:760px;
+  margin:auto;
+  padding:32px 18px 60px;
+}
+header{text-align:center;margin-bottom:28px}
+h1{
+  font-size:42px;
+  letter-spacing:5px;
+  margin:10px 0;
+}
+.subtitle{font-size:23px;color:#666}
+#today{font-size:21px;font-weight:bold;margin-top:20px}
+
+.languages{
+  display:flex;
+  justify-content:center;
+  gap:8px;
+  margin:24px 0;
+}
+.languages button{
+  border:1px solid #ccc;
+  background:white;
+  border-radius:20px;
+  padding:9px 17px;
+  font-weight:bold;
+  font-size:15px;
+}
+.languages button.active{
+  background:#285d4b;
+  color:white;
+  border-color:#285d4b;
+}
+
+.card{
+  background:#fff;
+  border:1px solid #ddd;
+  border-radius:25px;
+  padding:24px 26px;
+  margin:18px 0;
+}
+.label{
+  color:#285d4b;
+  font-size:18px;
+  font-weight:bold;
+  letter-spacing:2px;
+  margin-bottom:15px;
+}
+.dish{
+  font-size:21px;
+  font-weight:bold;
+  margin:10px 0 4px;
+}
+.notes{
+  color:#666;
+  font-size:16px;
+  margin-bottom:12px;
+}
+footer{
+  color:#666;
+  font-size:16px;
+  text-align:center;
+  margin-top:35px;
+  line-height:1.5;
+}
+</style>
 </head>
+
 <body>
 <main>
+
 <header>
-  <h1>DOGA</h1>
-  <div class="sub">Menù Mensa</div>
-  <div class="date" id="today"></div>
+<h1>DOGA</h1>
+<div class="subtitle" id="subtitle">Menù Mensa</div>
+<div id="today"></div>
+
+<div class="languages">
+<button id="b-it" onclick="setLang('it')">IT</button>
+<button id="b-en" onclick="setLang('en')">EN</button>
+<button id="b-es" onclick="setLang('es')">ES</button>
+</div>
 </header>
 
-<section class="card">
-  <div class="label">Primo</div>
-  <div class="dish">Inserire il primo del giorno</div>
-  <div class="notes">Allergeni: da indicare</div>
-</section>
+<div id="menu"></div>
 
-<section class="card">
-  <div class="label">Secondo</div>
-  <div class="dish">Inserire il secondo del giorno</div>
-  <div class="notes">Allergeni: da indicare</div>
-</section>
+<footer id="footer"></footer>
 
-<section class="card">
-  <div class="label">Contorno</div>
-  <div class="dish">Inserire il contorno del giorno</div>
-  <div class="notes">Allergeni: da indicare</div>
-</section>
-
-<section class="card">
-  <div class="label">Dolce / Frutta</div>
-  <div class="dish">Inserire la proposta del giorno</div>
-  <div class="notes">Allergeni: da indicare</div>
-</section>
-
-<footer>Il menù può variare in base alla disponibilità dei prodotti.</footer>
 </main>
 
 <script>
-const d=new Date();
-document.getElementById("today").textContent=d.toLocaleDateString("it-IT",{weekday:"long",day:"numeric",month:"long",year:"numeric"});
+const menus = {
+
+it:{
+ subtitle:"Menù Mensa",
+ sections:[
+  ["PRIMI",[
+   ["Pasta al ragù","Allergeni: glutine"],
+   ["Pasta ai frutti di mare","Allergeni: glutine, molluschi/crostacei secondo preparazione"]
+  ]],
+  ["SECONDI / ALTERNATIVE",[
+   ["Hamburger al piatto","Allergeni: chiedere al personale"],
+   ["Caprese","Allergeni: latte"],
+   ["Prosciutto e mozzarella","Allergeni: latte"],
+   ["Prosciutto e melone","Nessun allergene principale dichiarabile dagli ingredienti indicati"]
+  ]],
+  ["INSALATE",[
+   ["Caesar","Allergeni: glutine, latte, uova; chiedere al personale per la salsa"],
+   ["Insalatone","Allergeni: chiedere al personale in base agli ingredienti"]
+  ]],
+  ["CONTORNI",[
+   ["Patate al forno","Allergeni: chiedere al personale"],
+   ["Patate fritte","Allergeni: chiedere al personale per eventuali contaminazioni in frittura"],
+   ["Verdure miste","Allergeni: chiedere al personale"]
+  ]]
+ ],
+ footer:"Il menù può variare in base alla disponibilità dei prodotti. Per allergie o intolleranze rivolgersi al personale."
+},
+
+en:{
+ subtitle:"Canteen Menu",
+ sections:[
+  ["PASTA",[
+   ["Pasta with meat ragù","Allergens: gluten"],
+   ["Seafood pasta","Allergens: gluten, molluscs/crustaceans depending on preparation"]
+  ]],
+  ["MAIN COURSES / ALTERNATIVES",[
+   ["Hamburger served on a plate","Allergens: please ask our staff"],
+   ["Caprese salad","Allergens: milk"],
+   ["Ham and mozzarella","Allergens: milk"],
+   ["Ham and melon","No major allergens identifiable from the listed ingredients"]
+  ]],
+  ["SALADS",[
+   ["Caesar salad","Allergens: gluten, milk, eggs; please ask our staff about the dressing"],
+   ["Large mixed salad","Allergens: please ask our staff depending on ingredients"]
+  ]],
+  ["SIDE DISHES",[
+   ["Roast potatoes","Allergens: please ask our staff"],
+   ["French fries","Allergens: please ask our staff about possible cross-contact during frying"],
+   ["Mixed vegetables","Allergens: please ask our staff"]
+  ]]
+ ],
+ footer:"The menu may vary depending on product availability. Please inform our staff of any food allergies or intolerances."
+},
+
+es:{
+ subtitle:"Menú de Comedor",
+ sections:[
+  ["PRIMEROS",[
+   ["Pasta con ragú de carne","Alérgenos: gluten"],
+   ["Pasta con mariscos","Alérgenos: gluten, moluscos/crustáceos según la preparación"]
+  ]],
+  ["SEGUNDOS / ALTERNATIVAS",[
+   ["Hamburguesa al plato","Alérgenos: consultar al personal"],
+   ["Ensalada Caprese","Alérgenos: leche"],
+   ["Jamón y mozzarella","Alérgenos: leche"],
+   ["Jamón y melón","Sin alérgenos principales identificables por los ingredientes indicados"]
+  ]],
+  ["ENSALADAS",[
+   ["Ensalada César","Alérgenos: gluten, leche, huevos; consultar al personal sobre la salsa"],
+   ["Ensalada mixta grande","Alérgenos: consultar al personal según los ingredientes"]
+  ]],
+  ["GUARNICIONES",[
+   ["Patatas al horno","Alérgenos: consultar al personal"],
+   ["Patatas fritas","Alérgenos: consultar al personal sobre posibles contaminaciones durante la fritura"],
+   ["Verduras mixtas","Alérgenos: consultar al personal"]
+  ]]
+ ],
+ footer:"El menú puede variar según la disponibilidad de los productos. Para alergias o intolerancias, consulte al personal."
+}
+
+};
+
+function setLang(lang){
+ const x=menus[lang];
+
+ document.getElementById("subtitle").textContent=x.subtitle;
+ document.documentElement.lang=lang;
+
+ document.querySelectorAll(".languages button")
+   .forEach(b=>b.classList.remove("active"));
+ document.getElementById("b-"+lang).classList.add("active");
+
+ let html="";
+
+ x.sections.forEach(section=>{
+   html+='<section class="card">';
+   html+='<div class="label">'+section[0]+'</div>';
+
+   section[1].forEach(item=>{
+     html+='<div class="dish">'+item[0]+'</div>';
+     html+='<div class="notes">'+item[1]+'</div>';
+   });
+
+   html+='</section>';
+ });
+
+ document.getElementById("menu").innerHTML=html;
+ document.getElementById("footer").textContent=x.footer;
+
+ const locale=lang==="it"?"it-IT":lang==="es"?"es-ES":"en-GB";
+ document.getElementById("today").textContent=
+   new Date().toLocaleDateString(locale,{
+     weekday:"long",
+     day:"numeric",
+     month:"long",
+     year:"numeric"
+   });
+}
+
+setLang("it");
 </script>
+
 </body>
 </html>
