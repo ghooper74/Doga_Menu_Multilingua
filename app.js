@@ -23,6 +23,17 @@ let selectedWineSection = "all";
 
 const fallbackLabels = {
   menu: { it: "Menù", en: "Menu", de: "Speisekarte", fr: "Menu", es: "Menú", pl: "Menu", ru: "Меню", zh: "菜单", ja: "メニュー" },
+  canteen: {
+    it:"Mensa",
+    en:"Canteen",
+    de:"Kantine",
+    fr:"Cantine",
+    es:"Comedor",
+    pl:"Stołówka",
+    ru:"Столовая",
+    zh:"食堂",
+    ja:"食堂"
+  },
   breakfast: { it: "Colazioni", en: "Breakfast", de: "Frühstück", fr: "Petit-déjeuner", es: "Desayuno", pl: "Śniadanie", ru: "Завтрак", zh: "早餐", ja: "朝食" },
   showcase: { it: "Vetrina", en: "Display case", de: "Vitrine", fr: "Vitrine", es: "Vitrina", pl: "Witryna", ru: "Витрина", zh: "展示柜", ja: "ショーケース" },
   salads: { it: "Insalate", en: "Salads", de: "Salate", fr: "Salades", es: "Ensaladas", pl: "Sałatki", ru: "Салаты", zh: "沙拉", ja: "サラダ" },
@@ -506,7 +517,7 @@ function render() {
     };
   });
 
-  const tabs = ["menu", "breakfast", "showcase", "salads", "wines", "drinks", "allergens"];
+  const tabs = ["menu", "breakfast", "canteen", "showcase", "salads", "wines", "drinks", "allergens"];
   if (!tabs.includes(currentTab)) currentTab = "menu";
 
   document.getElementById("tabs").innerHTML = tabs
@@ -514,7 +525,13 @@ function render() {
     .join("");
 
   document.querySelectorAll("[data-tab]").forEach(b => {
-    b.onclick = () => setTab(b.dataset.tab);
+    b.onclick = () => {
+      if (b.dataset.tab === "canteen") {
+        location.href = "./mensa/";
+        return;
+      }
+      setTab(b.dataset.tab);
+    };
   });
 
   const c = document.getElementById("content");
