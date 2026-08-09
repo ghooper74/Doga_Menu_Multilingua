@@ -3407,6 +3407,61 @@
       "wine_section": "white_tuscany"
     },
     {
+      "id": "ansonaco-elena-casadei-2025",
+      "name": "Ansonaco",
+      "producer": "Le Anfore di Elena Casadei",
+      "vintage": "2025",
+      "category": "white",
+      "section": "bianchi_toscani",
+      "type": {
+        "it": "Ansonica Toscana IGT",
+        "en": "Ansonica Toscana IGT",
+        "de": "Ansonica Toscana IGT",
+        "fr": "Ansonica Toscana IGT",
+        "es": "Ansonica Toscana IGT",
+        "pl": "Ansonica Toscana IGT",
+        "ru": "Ансоника Тоскана IGT",
+        "zh": "托斯卡纳安索尼卡 IGT",
+        "ja": "アンソニカ・トスカーナ IGT"
+      },
+      "origin": {
+        "it": "Toscana, Italia",
+        "en": "Tuscany, Italy",
+        "de": "Toskana, Italien",
+        "fr": "Toscane, Italie",
+        "es": "Toscana, Italia",
+        "pl": "Toskania, Włochy",
+        "ru": "Тоскана, Италия",
+        "zh": "意大利托斯卡纳",
+        "ja": "イタリア、トスカーナ"
+      },
+      "grapes": "Ansonica 100%",
+      "serving_temperature": "8–12 °C",
+      "price": "35 €",
+      "pairing": {
+        "it": "Cucina asiatica fusion, pappardelle al ragù bianco di lepre, fritto misto di mare e polenta con baccalà.",
+        "en": "Asian fusion cuisine, pappardelle with white hare ragù, mixed fried seafood and polenta with salt cod.",
+        "de": "Asiatische Fusion-Küche, Pappardelle mit weißem Hasenragout, gemischter frittierter Fisch und Polenta mit Stockfisch.",
+        "fr": "Cuisine fusion asiatique, pappardelle au ragù blanc de lièvre, friture mixte de la mer et polenta à la morue.",
+        "es": "Cocina asiática de fusión, pappardelle con ragú blanco de liebre, fritura mixta de mar y polenta con bacalao.",
+        "pl": "Kuchnia azjatycka fusion, pappardelle z białym ragù z zająca, smażone owoce morza i polenta z dorszem.",
+        "ru": "Азиатская кухня фьюжн, паппарделле с белым рагу из зайца, жареные морепродукты и полента с треской.",
+        "zh": "适合搭配亚洲融合料理、白汁野兔宽面、炸什锦海鲜及鳕鱼玉米粥。",
+        "ja": "アジアン・フュージョン料理、野ウサギの白いラグーのパッパルデッレ、魚介のフリット、干し鱈のポレンタにおすすめ。"
+      },
+      "description": {
+        "it": "Ansonica in purezza selezionata da Elena Casadei e vinificata e affinata interamente in anfore di terracotta. Al naso offre biancospino, pesca bianca, susina e una delicata nota d’incenso; al palato emergono camomilla, tè e fiori gialli. Fresco, elegante e asciutto, con finale persistente.",
+        "en": "Pure Ansonica selected by Elena Casadei, vinified and aged entirely in terracotta amphorae. Hawthorn, white peach, plum and a delicate hint of incense lead to chamomile, tea and yellow flowers. Fresh, elegant and dry with a persistent finish.",
+        "de": "Reinsortige Ansonica, von Elena Casadei ausgewählt und vollständig in Terrakotta-Amphoren vinifiziert und ausgebaut. Weißdorn, weißer Pfirsich, Pflaume und ein Hauch Weihrauch, dazu Kamille, Tee und gelbe Blüten. Frisch, elegant und trocken.",
+        "fr": "Ansonica pure sélectionnée par Elena Casadei, vinifiée et élevée entièrement en amphores de terre cuite. Aubépine, pêche blanche, prune et une touche d’encens, puis camomille, thé et fleurs jaunes. Frais, élégant et sec.",
+        "es": "Ansonica pura seleccionada por Elena Casadei, vinificada y criada íntegramente en ánforas de terracota. Espino blanco, melocotón blanco, ciruela y un ligero toque de incienso, con manzanilla, té y flores amarillas. Fresco, elegante y seco.",
+        "pl": "Czysta Ansonica wyselekcjonowana przez Elenę Casadei, winifikowana i dojrzewająca wyłącznie w terakotowych amforach. Głóg, biała brzoskwinia, śliwka i kadzidło, następnie rumianek, herbata i żółte kwiaty. Świeże, eleganckie i wytrawne.",
+        "ru": "Чистая Ансоника, отобранная Еленой Казадеи, полностью винифицированная и выдержанная в терракотовых амфорах. Боярышник, белый персик, слива и лёгкий оттенок ладана, затем ромашка, чай и жёлтые цветы. Свежее, элегантное и сухое.",
+        "zh": "100%安索尼卡，由Elena Casadei精选，并完全在陶土双耳罐中酿造及熟成。带有山楂、白桃、李子和细微焚香气息，随后展现洋甘菊、茶及黄色花朵香气。口感清新优雅、干爽，余味持久。",
+        "ja": "エレナ・カサデイが選別したアンソニカ100%。テラコッタ製アンフォラのみで醸造・熟成。サンザシ、白桃、プラム、ほのかな香、カモミール、紅茶、黄色い花の香り。フレッシュで上品な辛口、余韻も長く続きます。"
+      }
+    },
+    {
       "id": "sauvignon-podere-cigli",
       "name": "Sauvignon",
       "producer": "Podere Cigli",
