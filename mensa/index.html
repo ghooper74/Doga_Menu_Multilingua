@@ -195,26 +195,62 @@ function setLang(lang){
    .forEach(b=>b.classList.remove("active"));
  document.getElementById("b-"+lang).classList.add("active");
 
+ const d=new Date();
+ const isSunday=d.getDay()===0;
  let html="";
 
- x.sections.forEach(section=>{
-   html+='<section class="card">';
-   html+='<div class="label">'+section[0]+'</div>';
+ if(isSunday){
+   const sunday={
+     it:{
+       label:"DOMENICA",
+       title:"Servizio mensa non effettuato",
+       text:"Su richiesta, possono essere disponibili alcune proposte in base alla disponibilità della cucina.",
+       footer:"Per informazioni rivolgersi al personale."
+     },
+     en:{
+       label:"SUNDAY",
+       title:"Canteen service not available",
+       text:"Some dishes may be available on request, subject to kitchen availability.",
+       footer:"Please ask our staff for more information."
+     },
+     es:{
+       label:"DOMINGO",
+       title:"Servicio de comedor no disponible",
+       text:"Algunos platos pueden estar disponibles bajo petición, según la disponibilidad de la cocina.",
+       footer:"Para más información, consulte al personal."
+     }
+   }[lang];
 
-   section[1].forEach(item=>{
-     html+='<div class="dish">'+item[0]+'</div>';
-     html+='<div class="notes">'+item[1]+'</div>';
+   html='<section class="card">'
+       +'<div class="label">'+sunday.label+'</div>'
+       +'<div class="dish">'+sunday.title+'</div>'
+       +'<div class="notes">'+sunday.text+'</div>'
+       +'</section>';
+
+   document.getElementById("footer").textContent=sunday.footer;
+
+ }else{
+
+   x.sections.forEach(section=>{
+     html+='<section class="card">';
+     html+='<div class="label">'+section[0]+'</div>';
+
+     section[1].forEach(item=>{
+       html+='<div class="dish">'+item[0]+'</div>';
+       html+='<div class="notes">'+item[1]+'</div>';
+     });
+
+     html+='</section>';
    });
 
-   html+='</section>';
- });
+   document.getElementById("footer").textContent=x.footer;
+ }
 
  document.getElementById("menu").innerHTML=html;
- document.getElementById("footer").textContent=x.footer;
 
  const locale=lang==="it"?"it-IT":lang==="es"?"es-ES":"en-GB";
  document.getElementById("today").textContent=
-   new Date().toLocaleDateString(locale,{
+   d.toLocaleDateString(locale,{
      weekday:"long",
      day:"numeric",
      month:"long",
