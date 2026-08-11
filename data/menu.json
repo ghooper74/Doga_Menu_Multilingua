@@ -3462,6 +3462,61 @@
       }
     },
     {
+      "id": "senti-oh-fontuccia-2023",
+      "name": "Senti Oh!",
+      "producer": "Vigneti Fontuccia",
+      "vintage": "2023",
+      "category": "white",
+      "section": "bianchi_toscani",
+      "type": {
+        "it": "Costa Toscana Ansonica IGT",
+        "en": "Costa Toscana Ansonica IGT",
+        "de": "Costa Toscana Ansonica IGT",
+        "fr": "Costa Toscana Ansonica IGT",
+        "es": "Costa Toscana Ansonica IGT",
+        "pl": "Costa Toscana Ansonica IGT",
+        "ru": "Коста Тоскана Ансоника IGT",
+        "zh": "托斯卡纳海岸安索尼卡 IGT",
+        "ja": "コスタ・トスカーナ・アンソニカ IGT"
+      },
+      "origin": {
+        "it": "Isola del Giglio, Toscana",
+        "en": "Giglio Island, Tuscany",
+        "de": "Insel Giglio, Toskana",
+        "fr": "Île de Giglio, Toscane",
+        "es": "Isla del Giglio, Toscana",
+        "pl": "Wyspa Giglio, Toskania",
+        "ru": "Остров Джильо, Тоскана",
+        "zh": "托斯卡纳，吉廖岛",
+        "ja": "トスカーナ、ジリオ島"
+      },
+      "grapes": "Ansonica 100%",
+      "serving_temperature": "10–12 °C",
+      "price": "30 €",
+      "pairing": {
+        "it": "Crudi di mare, crostacei, pesce alla griglia, primi di mare, fritto misto e formaggi freschi.",
+        "en": "Raw seafood, shellfish, grilled fish, seafood pasta, mixed fried seafood and fresh cheeses.",
+        "de": "Rohe Meeresfrüchte, Krustentiere, gegrillter Fisch, Meeresfrüchte-Pasta, Fritto misto und Frischkäse.",
+        "fr": "Fruits de mer crus, crustacés, poisson grillé, pâtes aux fruits de mer, friture mixte et fromages frais.",
+        "es": "Marisco crudo, crustáceos, pescado a la parrilla, pasta de mar, fritura mixta y quesos frescos.",
+        "pl": "Surowe owoce morza, skorupiaki, grillowane ryby, makarony z owocami morza i świeże sery.",
+        "ru": "Сырые морепродукты, ракообразные, рыба на гриле, паста с морепродуктами и свежие сыры.",
+        "zh": "适合搭配生鲜海产、甲壳类、烤鱼、海鲜意面、炸什锦海鲜及新鲜奶酪。",
+        "ja": "魚介のカルパッチョ、甲殻類、魚のグリル、魚介のパスタ、フリット、フレッシュチーズにおすすめ。"
+      },
+      "description": {
+        "it": "Ansonica in purezza dell’Isola del Giglio, coltivata sui caratteristici terrazzamenti affacciati sul mare. I terreni granitici e la forte influenza marina danno un vino mediterraneo, strutturato e molto sapido, con frutto giallo maturo, agrumi e una lunga impronta salina.",
+        "en": "Pure Ansonica from Giglio Island, grown on characteristic terraces overlooking the sea. Granitic soils and strong maritime influence create a Mediterranean, structured and savoury wine, with ripe yellow fruit, citrus and a long saline finish.",
+        "de": "Reinsortige Ansonica von der Insel Giglio, auf den typischen Terrassen über dem Meer angebaut. Granitböden und maritimer Einfluss verleihen reife gelbe Früchte, Zitrusnoten, Struktur und ausgeprägte Salzigkeit.",
+        "fr": "Ansonica pure de l’île de Giglio, cultivée sur les terrasses caractéristiques face à la mer. Les sols granitiques et l’influence marine donnent un vin méditerranéen, structuré et salin, aux notes de fruits jaunes mûrs et d’agrumes.",
+        "es": "Ansonica pura de la isla de Giglio, cultivada en terrazas frente al mar. Los suelos graníticos y la influencia marina dan un vino mediterráneo, estructurado y muy salino, con fruta amarilla madura y cítricos.",
+        "pl": "Czysta Ansonica z wyspy Giglio, uprawiana na tarasach nad morzem. Granitowe gleby i morski klimat dają strukturalne, słone wino z dojrzałymi żółtymi owocami i cytrusami.",
+        "ru": "Чистая Ансоника с острова Джильо, выращенная на террасах над морем. Гранитные почвы и морское влияние дают структурное, минерально-солоноватое вино с жёлтыми фруктами и цитрусами.",
+        "zh": "来自吉廖岛的100%安索尼卡，种植于面向大海的传统梯田。花岗岩土壤和强烈海洋影响赋予酒款成熟黄色水果、柑橘、良好结构及鲜明持久的咸鲜矿物感。",
+        "ja": "ジリオ島のアンソニカ100%。海を望む伝統的な段々畑と花崗岩土壌、強い海洋性の影響により、熟した黄色い果実と柑橘、豊かな骨格、長い塩味を備えます。"
+      }
+    },
+    {
       "id": "sauvignon-podere-cigli",
       "name": "Sauvignon",
       "producer": "Podere Cigli",
