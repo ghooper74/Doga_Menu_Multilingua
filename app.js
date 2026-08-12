@@ -192,8 +192,33 @@ function wineCard(wine) {
   </article>`;
 }
 
+let wineNameSearch = "";
+
+const wineSearchPlaceholder = {
+  it: "Cerca vino...",
+  en: "Search wine...",
+  de: "Wein suchen...",
+  fr: "Rechercher un vin...",
+  es: "Buscar vino...",
+  pl: "Szukaj wina...",
+  ru: "Поиск вина...",
+  zh: "搜索葡萄酒...",
+  ja: "ワインを検索..."
+};
+
 function renderWines() {
-  const wines = DATA.wines || [];
+  const allWines = DATA.wines || [];
+
+  const wineNameNeedle =
+    wineNameSearch.trim().toLocaleLowerCase();
+
+  const wines = wineNameNeedle
+    ? allWines.filter(wine =>
+        String(wine.name || "")
+          .toLocaleLowerCase()
+          .includes(wineNameNeedle)
+      )
+    : allWines;
 
   return `<h2 class="section-title">${esc(label("wines"))}</h2>
     <div class="grid">
@@ -451,7 +476,30 @@ function renderWines() {
        </div>`;
 
   setTimeout(() => {
-    document.querySelectorAll("[data-wine-section]").forEach(button => {
+const wineNameInput =
+      document.getElementById("wine-name-search");
+
+    if (wineNameInput) {
+      wineNameInput.addEventListener("input", (e) => {
+        wineNameSearch = e.target.value;
+
+        const cursor = wineNameSearch.length;
+
+        render();
+
+        setTimeout(() => {
+          const input =
+            document.getElementById("wine-name-search");
+
+          if (input) {
+            input.focus();
+            input.setSelectionRange(cursor, cursor);
+          }
+        }, 0);
+      });
+    }
+
+        document.querySelectorAll("[data-wine-section]").forEach(button => {
       button.onclick = () => {
         selectedWineSection = button.dataset.wineSection;
         render();
@@ -462,7 +510,25 @@ function renderWines() {
 
   return `
     <h2 class="section-title">${esc(label("wines"))}</h2>
-    <div class="wine-filters">${buttons}</div>
+    <div style="margin:14px 0 18px">
+        <input
+          id="wine-name-search"
+          type="search"
+          value="${esc(wineNameSearch)}"
+          placeholder="${esc(wineSearchPlaceholder[currentLang] || wineSearchPlaceholder.it)}"
+          autocomplete="off"
+          style="
+            width:100%;
+            box-sizing:border-box;
+            padding:13px 16px;
+            border:1px solid #bbb;
+            border-radius:12px;
+            font-size:16px;
+          "
+        >
+      </div>
+
+      <div class="wine-filters">${buttons}</div>
     ${grouped}
   `;
 }
