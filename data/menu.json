@@ -169,6 +169,28 @@
       "ru": "Дополнения к завтраку",
       "zh": "早餐额外项目",
       "ja": "朝食の追加メニュー"
+    },
+    "desserts": {
+      "it": "Dolci",
+      "en": "Desserts",
+      "de": "Desserts",
+      "fr": "Desserts",
+      "es": "Postres",
+      "pl": "Desery",
+      "ru": "Десерты",
+      "zh": "甜点",
+      "ja": "デザート"
+    },
+    "desserts_intro": {
+      "it": "Fatti consigliare dal nostro staff un vino da dessert o un distillato da abbinare al tuo dolce.",
+      "en": "Let our staff recommend a dessert wine or spirit to pair with your dessert.",
+      "de": "Lassen Sie sich von unserem Personal einen Dessertwein oder eine Spirituose empfehlen, die zu Ihrem Dessert passt.",
+      "fr": "Demandez à notre équipe de vous conseiller un vin de dessert ou un spiritueux à associer à votre dessert.",
+      "es": "Déjate aconsejar por nuestro personal un vino de postre o un destilado para acompañar tu postre.",
+      "pl": "Poproś nasz personel o polecenie wina deserowego lub mocnego alkoholu pasującego do deseru.",
+      "ru": "Попросите наш персонал порекомендовать десертное вино или крепкий напиток к вашему десерту.",
+      "zh": "欢迎让我们的工作人员为您的甜点推荐合适的甜酒或烈酒。",
+      "ja": "デザートに合うデザートワインや蒸留酒をスタッフがおすすめいたします。"
     }
   },
   "sections": [
@@ -9378,6 +9400,62 @@
         "zh": "风味浓郁的鱼类、香料料理、奶酪和味道丰富的菜肴。",
         "ja": "味わいの強い魚料理、スパイス料理、チーズ、しっかりした料理。"
       }
+    },
+    {
+      "id": "tuzko-rajnai-rizling-2025",
+      "name": "Rajnai Rizling 2025 – Tűzkő Birtok",
+      "producer": "Tűzkő Birtok",
+      "vintage": "2025",
+      "category": "white",
+      "wine_section": "white_other",
+      "type": {
+        "it": "Vino bianco secco – Riesling",
+        "en": "Dry white wine – Riesling",
+        "de": "Trockener Weißwein – Riesling",
+        "fr": "Vin blanc sec – Riesling",
+        "es": "Vino blanco seco – Riesling",
+        "pl": "Wytrawne wino białe – Riesling",
+        "ru": "Сухое белое вино – Рислинг",
+        "zh": "干白葡萄酒 – 雷司令",
+        "ja": "辛口白ワイン – リースリング"
+      },
+      "origin": {
+        "it": "Bátaapáti e Mőcsény, Tolna, Ungheria",
+        "en": "Bátaapáti and Mőcsény, Tolna, Hungary",
+        "de": "Bátaapáti und Mőcsény, Tolna, Ungarn",
+        "fr": "Bátaapáti et Mőcsény, Tolna, Hongrie",
+        "es": "Bátaapáti y Mőcsény, Tolna, Hungría",
+        "pl": "Bátaapáti i Mőcsény, Tolna, Węgry",
+        "ru": "Батаапати и Мёчень, Тольна, Венгрия",
+        "zh": "匈牙利托尔瑙，Bátaapáti 和 Mőcsény",
+        "ja": "ハンガリー、トルナ、バータアパーティ／ムーチェーニ"
+      },
+      "grapes": "Riesling (Rajnai Rizling) 100%",
+      "alcohol": "12.5%",
+      "serving_temperature": "9–11 °C",
+      "price": "23 €",
+      "description": {
+        "it": "Riesling ungherese fresco e slanciato. Al naso emergono lime, limone, pesca, frutta tropicale e delicate note floreali. Il sorso è equilibrato, vivace e sostenuto da una bella acidità, con finale fresco e persistente.",
+        "en": "A fresh, lively Hungarian Riesling. Lime, lemon, peach, tropical fruit and delicate floral notes lead to a balanced palate with bright acidity and a fresh, persistent finish.",
+        "de": "Frischer, lebendiger ungarischer Riesling mit Limette, Zitrone, Pfirsich, tropischen Früchten und feinen floralen Noten. Ausgewogen, mit lebendiger Säure und frischem, anhaltendem Finale.",
+        "fr": "Riesling hongrois frais et vif, aux arômes de citron vert, citron, pêche, fruits tropicaux et fleurs délicates. Bouche équilibrée, soutenue par une belle acidité et une finale fraîche et persistante.",
+        "es": "Riesling húngaro fresco y vivo, con notas de lima, limón, melocotón, fruta tropical y flores. Equilibrado, con buena acidez y un final fresco y persistente.",
+        "pl": "Świeży i żywy węgierski Riesling z aromatami limonki, cytryny, brzoskwini, owoców tropikalnych i kwiatów. Zrównoważony, z wyraźną kwasowością i świeżym, długim finiszem.",
+        "ru": "Свежий и выразительный венгерский Рислинг с ароматами лайма, лимона, персика, тропических фруктов и цветов. Сбалансированный вкус, яркая кислотность и свежее продолжительное послевкусие.",
+        "zh": "清新活泼的匈牙利雷司令，带有青柠、柠檬、桃子、热带水果和淡雅花香。口感平衡，酸度明快，余味清新持久。",
+        "ja": "ライム、レモン、桃、トロピカルフルーツ、繊細な花の香りを持つ、爽やかで生き生きとしたハンガリー産リースリング。明るい酸味とバランスのよい味わい、爽やかで長い余韻。"
+      },
+      "pairing": {
+        "it": "Antipasti di mare, crostacei, pesce alla griglia, fritture leggere, carni bianche e formaggi freschi.",
+        "en": "Seafood starters, shellfish, grilled fish, light fried dishes, white meats and fresh cheeses.",
+        "de": "Meeresfrüchte-Vorspeisen, Krustentiere, gegrillter Fisch, leichte Fritturen, weißes Fleisch und Frischkäse.",
+        "fr": "Entrées de la mer, crustacés, poisson grillé, fritures légères, viandes blanches et fromages frais.",
+        "es": "Entrantes de mar, mariscos, pescado a la parrilla, frituras ligeras, carnes blancas y quesos frescos.",
+        "pl": "Przystawki z owoców morza, skorupiaki, grillowane ryby, lekkie smażone dania, białe mięso i świeże sery.",
+        "ru": "Морские закуски, ракообразные, рыба на гриле, лёгкие жареные блюда, белое мясо и свежие сыры.",
+        "zh": "适合搭配海鲜前菜、甲壳类、烤鱼、清淡炸物、白肉和新鲜奶酪。",
+        "ja": "魚介の前菜、甲殻類、魚のグリル、軽いフリット、白身肉、フレッシュチーズにおすすめ。"
+      }
     }
   ],
   "drinks": [
@@ -10182,6 +10260,128 @@
       "name": "Crostata all'albicocca o ai frutti di bosco",
       "price": "4,00 €",
       "category": "dolce"
+    }
+  ],
+  "desserts": [
+    {
+      "name": {
+        "it": "Torta di ricotta con marmellata di arance e rosmarino",
+        "en": "Ricotta cake with orange and rosemary jam",
+        "de": "Ricottakuchen mit Orangen-Rosmarin-Konfitüre",
+        "fr": "Gâteau à la ricotta, confiture d’orange et romarin",
+        "es": "Tarta de ricotta con mermelada de naranja y romero",
+        "pl": "Ciasto z ricottą z konfiturą pomarańczową i rozmarynem",
+        "ru": "Торт с рикоттой, апельсиновым джемом и розмарином",
+        "zh": "瑞科塔奶酪蛋糕配橙子迷迭香果酱",
+        "ja": "リコッタケーキ オレンジとローズマリーのジャム添え"
+      },
+      "price": "7 €",
+      "allergens": "1,3,7"
+    },
+    {
+      "name": {
+        "it": "Tiramisù",
+        "en": "Tiramisu",
+        "de": "Tiramisu",
+        "fr": "Tiramisu",
+        "es": "Tiramisú",
+        "pl": "Tiramisu",
+        "ru": "Тирамису",
+        "zh": "提拉米苏",
+        "ja": "ティラミス"
+      },
+      "price": "7 €",
+      "allergens": "1,3,7"
+    },
+    {
+      "name": {
+        "it": "Cantucci e Vin Santo",
+        "en": "Cantucci with Vin Santo",
+        "de": "Cantucci mit Vin Santo",
+        "fr": "Cantucci et Vin Santo",
+        "es": "Cantucci con Vin Santo",
+        "pl": "Cantucci z Vin Santo",
+        "ru": "Кантуччи с Vin Santo",
+        "zh": "意式杏仁脆饼配圣酒",
+        "ja": "カントゥッチとヴィン・サント"
+      },
+      "price": "8 €",
+      "allergens": "1,3,7,8,12"
+    },
+    {
+      "name": {
+        "it": "Semifreddo al limone e cioccolato bianco",
+        "en": "Lemon and white chocolate semifreddo",
+        "de": "Zitronen-Semifreddo mit weißer Schokolade",
+        "fr": "Semifreddo au citron et chocolat blanc",
+        "es": "Semifreddo de limón y chocolate blanco",
+        "pl": "Semifreddo cytrynowe z białą czekoladą",
+        "ru": "Лимонное семифреддо с белым шоколадом",
+        "zh": "柠檬白巧克力半冻甜点",
+        "ja": "レモンとホワイトチョコレートのセミフレッド"
+      },
+      "price": "8 €",
+      "note": {
+        "it": "Per informazioni sugli allergeni, rivolgersi al personale.",
+        "en": "For allergen information, please ask the staff.",
+        "de": "Für Informationen zu Allergenen wenden Sie sich bitte an das Personal.",
+        "fr": "Pour toute information sur les allergènes, veuillez vous adresser au personnel.",
+        "es": "Para información sobre alérgenos, consulte al personal.",
+        "pl": "Informacje o alergenach są dostępne u personelu.",
+        "ru": "Информацию об аллергенах уточняйте у персонала.",
+        "zh": "如需过敏原信息，请咨询工作人员。",
+        "ja": "アレルゲン情報についてはスタッフにお尋ねください。"
+      }
+    },
+    {
+      "name": {
+        "it": "Cheesecake espresso con crumble e caramello mou salato",
+        "en": "Espresso cheesecake with crumble and salted caramel",
+        "de": "Espresso-Cheesecake mit Crumble und gesalzenem Karamell",
+        "fr": "Cheesecake à l’espresso, crumble et caramel salé",
+        "es": "Cheesecake de espresso con crumble y caramelo salado",
+        "pl": "Sernik espresso z kruszonką i solonym karmelem",
+        "ru": "Эспрессо-чизкейк с крамблом и солёной карамелью",
+        "zh": "浓缩咖啡芝士蛋糕配酥粒和海盐焦糖",
+        "ja": "エスプレッソチーズケーキ クランブルと塩キャラメル添え"
+      },
+      "price": "8 €",
+      "note": {
+        "it": "Per informazioni sugli allergeni, rivolgersi al personale.",
+        "en": "For allergen information, please ask the staff.",
+        "de": "Für Informationen zu Allergenen wenden Sie sich bitte an das Personal.",
+        "fr": "Pour toute information sur les allergènes, veuillez vous adresser au personnel.",
+        "es": "Para información sobre alérgenos, consulte al personal.",
+        "pl": "Informacje o alergenach są dostępne u personelu.",
+        "ru": "Информацию об аллергенах уточняйте у персонала.",
+        "zh": "如需过敏原信息，请咨询工作人员。",
+        "ja": "アレルゲン情報についてはスタッフにお尋ねください。"
+      }
+    },
+    {
+      "name": {
+        "it": "Tortino al cioccolato fondente e peperoncino servito con panna e caramello salato",
+        "en": "Dark chocolate and chili cake served with cream and salted caramel",
+        "de": "Dunkles Schokoladen-Chili-Küchlein mit Sahne und gesalzenem Karamell",
+        "fr": "Moelleux au chocolat noir et piment, crème et caramel salé",
+        "es": "Pastelito de chocolate negro y chile con nata y caramelo salado",
+        "pl": "Czekoladowe ciastko z chili, śmietanką i solonym karmelem",
+        "ru": "Пирожное из тёмного шоколада с чили, сливками и солёной карамелью",
+        "zh": "黑巧克力辣椒小蛋糕配奶油和海盐焦糖",
+        "ja": "ダークチョコレートと唐辛子のケーキ 生クリームと塩キャラメル添え"
+      },
+      "price": "8 €",
+      "note": {
+        "it": "Senza glutine. Per informazioni sugli altri allergeni, rivolgersi al personale.",
+        "en": "Gluten free. For information about other allergens, please ask the staff.",
+        "de": "Glutenfrei. Für Informationen zu weiteren Allergenen wenden Sie sich bitte an das Personal.",
+        "fr": "Sans gluten. Pour les autres allergènes, veuillez vous adresser au personnel.",
+        "es": "Sin gluten. Para información sobre otros alérgenos, consulte al personal.",
+        "pl": "Bez glutenu. Informacje o pozostałych alergenach są dostępne u personelu.",
+        "ru": "Без глютена. Информацию о других аллергенах уточняйте у персонала.",
+        "zh": "不含麸质。有关其他过敏原信息，请咨询工作人员。",
+        "ja": "グルテンフリー。その他のアレルゲンについてはスタッフにお尋ねください。"
+      }
     }
   ]
 }
