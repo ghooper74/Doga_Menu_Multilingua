@@ -37,6 +37,7 @@ const fallbackLabels = {
   breakfast: { it: "Colazioni", en: "Breakfast", de: "Frühstück", fr: "Petit-déjeuner", es: "Desayuno", pl: "Śniadanie", ru: "Завтрак", zh: "早餐", ja: "朝食" },
   showcase: { it: "Vetrina", en: "Display case", de: "Vitrine", fr: "Vitrine", es: "Vitrina", pl: "Witryna", ru: "Витрина", zh: "展示柜", ja: "ショーケース" },
   salads: { it: "Insalate", en: "Salads", de: "Salate", fr: "Salades", es: "Ensaladas", pl: "Sałatki", ru: "Салаты", zh: "沙拉", ja: "サラダ" },
+  desserts: { it: "Dolci", en: "Desserts", de: "Desserts", fr: "Desserts", es: "Postres", pl: "Desery", ru: "Десерты", zh: "甜点", ja: "デザート" },
   wines: { it: "Vini", en: "Wines", de: "Weine", fr: "Vins", es: "Vinos", pl: "Wina", ru: "Вина", zh: "葡萄酒", ja: "ワイン" },
   drinks: { it: "Drink", en: "Drinks", de: "Getränke", fr: "Boissons", es: "Bebidas", pl: "Napoje", ru: "Напитки", zh: "饮品", ja: "ドリンク" },
   allergens: { it: "Allergeni", en: "Allergens", de: "Allergene", fr: "Allergènes", es: "Alérgenos", pl: "Alergeny", ru: "Аллергены", zh: "过敏原", ja: "アレルゲン" },
@@ -375,7 +376,8 @@ function wineCard(wine) {
   const pairing = t(wine.pairing || wine.pairings);
   const description = t(wine.description || wine.desc);
 
-  return `<article class="card wine-card">
+  return `<article class="card wine-card"
+    data-wine-name="${esc(String(wine.name || "").toLocaleLowerCase())}">
     <div class="card-head">
       <h3>🍷 ${esc(title)}</h3>
       <div class="price">${esc(wine.price || "")}</div>
@@ -399,6 +401,30 @@ function wineCard(wine) {
 
 function renderWines() {
   const wines = DATA.wines || [];
+
+  const wineSearchPlaceholder = ({
+    it: "Cerca vino...",
+    en: "Search wine...",
+    de: "Wein suchen...",
+    fr: "Rechercher un vin...",
+    es: "Buscar vino...",
+    pl: "Szukaj wina...",
+    ru: "Поиск вина...",
+    zh: "搜索葡萄酒...",
+    ja: "ワインを検索..."
+  })[lang] || "Search wine...";
+
+  const wineSearchEmpty = ({
+    it: "Nessun vino trovato.",
+    en: "No wine found.",
+    de: "Kein Wein gefunden.",
+    fr: "Aucun vin trouvé.",
+    es: "No se encontró ningún vino.",
+    pl: "Nie znaleziono wina.",
+    ru: "Вино не найдено.",
+    zh: "未找到葡萄酒。",
+    ja: "ワインが見つかりません。"
+  })[lang] || "No wine found.";
 
   const availableSections = wineSectionOrder.filter(section =>
     section === "all" ||
@@ -458,10 +484,81 @@ function renderWines() {
         scrollTo({ top: 0, behavior: "smooth" });
       };
     });
+
+    const searchInput = document.getElementById("wine-search-input");
+
+    if (searchInput) {
+      const applyWineSearch = () => {
+        const query = String(searchInput.value || "")
+          .trim()
+          .toLocaleLowerCase();
+
+        let visibleCount = 0;
+
+        document
+          .querySelectorAll(".wine-card[data-wine-name]")
+          .forEach(card => {
+            const wineName = String(card.dataset.wineName || "")
+              .toLocaleLowerCase();
+
+            const matches = !query || wineName.includes(query);
+
+            card.hidden = !matches;
+
+            if (matches) visibleCount += 1;
+          });
+
+        document.querySelectorAll(".wine-group").forEach(group => {
+          const hasVisibleWine = Array
+            .from(group.querySelectorAll(".wine-card[data-wine-name]"))
+            .some(card => !card.hidden);
+
+          group.hidden = !hasVisibleWine;
+        });
+
+        const emptyNotice =
+          document.getElementById("wine-search-empty");
+
+        if (emptyNotice) {
+          emptyNotice.hidden = visibleCount !== 0;
+        }
+      };
+
+      searchInput.oninput = applyWineSearch;
+      applyWineSearch();
+    }
   }, 0);
 
   return `
     <h2 class="section-title">${esc(label("wines"))}</h2>
+
+    <div style="margin: 0 0 16px 0;">
+      <input
+        id="wine-search-input"
+        type="search"
+        placeholder="${esc(wineSearchPlaceholder)}"
+        aria-label="${esc(wineSearchPlaceholder)}"
+        autocomplete="off"
+        style="
+          width:100%;
+          box-sizing:border-box;
+          padding:13px 15px;
+          font-size:16px;
+          border:1px solid #aaa;
+          border-radius:10px;
+          background:#fff;
+          color:#111;
+        "
+      >
+    </div>
+
+    <div
+      id="wine-search-empty"
+      class="notice"
+      hidden>
+      ${esc(wineSearchEmpty)}
+    </div>
+
     <div class="wine-filters">${buttons}</div>
     ${grouped}
   `;
@@ -517,7 +614,7 @@ function render() {
     };
   });
 
-  const tabs = ["menu", "breakfast", "canteen", "showcase", "salads", "wines", "drinks", "allergens"];
+  const tabs = ["menu", "breakfast", "canteen", "showcase", "salads", "desserts", "wines", "drinks", "allergens"];
   if (!tabs.includes(currentTab)) currentTab = "menu";
 
   document.getElementById("tabs").innerHTML = tabs
@@ -541,6 +638,7 @@ function render() {
     currentTab === "salads" ? renderSalads() :
     currentTab === "breakfast" ? renderCollection("breakfast") :
     currentTab === "showcase" ? renderCollection("showcase") :
+    currentTab === "desserts" ? renderCollection("desserts") :
     currentTab === "wines" ? renderWines() :
     currentTab === "allergens" ? renderAllergens() :
     renderSimple(currentTab);
