@@ -3971,60 +3971,6 @@
       "wine_section": "white_other"
     },
     {
-      "id": "tuzko-rajnai-rizling",
-      "name": "Rajnai Rizling",
-      "producer": "Tűzkő Birtok",
-      "category": "white",
-      "type": {
-        "it": "Vino bianco secco Pannon",
-        "en": "Pannon dry white wine",
-        "de": "Trockener Weißwein aus Pannonien",
-        "fr": "Vin blanc sec de Pannonie",
-        "es": "Vino blanco seco de Panonia",
-        "pl": "Wytrawne białe wino panońskie",
-        "ru": "Сухое белое вино Паннонии",
-        "zh": "潘诺尼亚干白葡萄酒",
-        "ja": "パンノニア辛口白ワイン"
-      },
-      "origin": {
-        "it": "Bátaapáti e Mőcsény, Tolna, Ungheria",
-        "en": "Bátaapáti and Mőcsény, Tolna, Hungary",
-        "de": "Bátaapáti und Mőcsény, Tolna, Ungarn",
-        "fr": "Bátaapáti et Mőcsény, Tolna, Hongrie",
-        "es": "Bátaapáti y Mőcsény, Tolna, Hungría",
-        "pl": "Bátaapáti i Mőcsény, Tolna, Węgry",
-        "ru": "Батаапати и Мёчень, Тольна, Венгрия",
-        "zh": "匈牙利托尔瑙，巴陶帕蒂和默切尼",
-        "ja": "ハンガリー、トルナ、バータアパーティおよびムーチェーニ"
-      },
-      "grapes": "Riesling Renano 100%",
-      "serving_temperature": "9–11 °C",
-      "price": "23 €",
-      "pairing": {
-        "it": "Aperitivo, pesce arrosto, salmone affumicato, crostacei, risotti alle verdure, carni bianche e cucina asiatica.",
-        "en": "Aperitifs, roasted fish, smoked salmon, shellfish, vegetable risotto, white meats and Asian cuisine.",
-        "de": "Aperitif, gebratener Fisch, Räucherlachs, Krustentiere, Gemüserisotto, weißes Fleisch und asiatische Küche.",
-        "fr": "Apéritif, poisson rôti, saumon fumé, crustacés, risotto aux légumes, viandes blanches et cuisine asiatique.",
-        "es": "Aperitivo, pescado asado, salmón ahumado, crustáceos, risotto de verduras, carnes blancas y cocina asiática.",
-        "pl": "Aperitif, pieczone ryby, wędzony łosoś, skorupiaki, risotto warzywne, białe mięso i kuchnia azjatycka.",
-        "ru": "Аперитив, запечённая рыба, копчёный лосось, ракообразные, овощное ризотто, белое мясо и азиатская кухня.",
-        "zh": "适合作为开胃酒，搭配烤鱼、烟熏三文鱼、甲壳类、蔬菜烩饭、白肉及亚洲料理。",
-        "ja": "食前酒、魚のロースト、スモークサーモン、甲殻類、野菜のリゾット、白身肉、アジア料理におすすめ。"
-      },
-      "description": {
-        "it": "Riesling ungherese secco, fermentato a bassa temperatura e affinato in acciaio. Profuma di mela verde, pesca, lime, limone e fiori bianchi, con leggere note minerali e affumicate. Il sorso è fresco, ben strutturato e sostenuto da una viva acidità.",
-        "en": "A dry Hungarian Riesling fermented at low temperature and aged in stainless steel. Green apple, peach, lime, lemon and white flowers are joined by subtle mineral and smoky notes. Fresh and well structured, with lively acidity.",
-        "de": "Trockener ungarischer Riesling, kühl im Edelstahl vergoren und ausgebaut. Grüner Apfel, Pfirsich, Limette, Zitrone, weiße Blüten sowie mineralische und rauchige Noten. Frisch, strukturiert und lebendig.",
-        "fr": "Riesling hongrois sec, fermenté à basse température et élevé en acier. Pomme verte, pêche, citron vert, citron, fleurs blanches et fines notes minérales et fumées. Bouche fraîche, structurée et vive.",
-        "es": "Riesling húngaro seco, fermentado a baja temperatura y criado en acero. Manzana verde, melocotón, lima, limón, flores blancas y ligeras notas minerales y ahumadas. Fresco, estructurado y vivo.",
-        "pl": "Wytrawny węgierski Riesling fermentowany w niskiej temperaturze i dojrzewający w stali. Zielone jabłko, brzoskwinia, limonka, cytryna, białe kwiaty i mineralne nuty. Świeży i dobrze zbudowany.",
-        "ru": "Сухой венгерский Рислинг, ферментированный при низкой температуре и выдержанный в стали. Зелёное яблоко, персик, лайм, лимон, белые цветы, минеральные и дымные оттенки. Свежий и структурный.",
-        "zh": "低温发酵并在不锈钢中熟成。带有青苹果、桃子、青柠、柠檬、白花及轻微矿物和烟熏气息，口感清新有结构，酸度明快。",
-        "ja": "低温で発酵しステンレスタンクで熟成。青リンゴ、桃、ライム、レモン、白い花、ミネラル、ほのかなスモーク香。爽やかな酸と骨格があります。"
-      },
-      "wine_section": "white_other"
-    },
-    {
       "id": "tuzko-gewurztraminer",
       "name": "Tramini – Gewürztraminer",
       "producer": "Tűzkő Birtok",
