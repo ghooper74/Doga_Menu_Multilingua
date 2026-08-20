@@ -9402,6 +9402,59 @@
         "zh": "适合搭配海鲜前菜、甲壳类、烤鱼、清淡炸物、白肉和新鲜奶酪。",
         "ja": "魚介の前菜、甲殻類、魚のグリル、軽いフリット、白身肉、フレッシュチーズにおすすめ。"
       }
+    },
+    {
+      "id": "la-terrazza-tenuta-agostinetto",
+      "name": "La Terrazza",
+      "producer": "Tenuta Agostinetto",
+      "category": "white",
+      "wine_section": "white_tuscany",
+      "type": {
+        "it": "Maremma Toscana Vermentino DOC",
+        "en": "Maremma Toscana Vermentino DOC",
+        "de": "Maremma Toscana Vermentino DOC",
+        "fr": "Maremma Toscana Vermentino DOC",
+        "es": "Maremma Toscana Vermentino DOC",
+        "pl": "Maremma Toscana Vermentino DOC",
+        "ru": "Maremma Toscana Vermentino DOC",
+        "zh": "托斯卡纳马雷玛 Vermentino DOC",
+        "ja": "マレンマ・トスカーナ ヴェルメンティーノ DOC"
+      },
+      "origin": {
+        "it": "Maremma Toscana, Toscana, Italia",
+        "en": "Maremma Toscana, Tuscany, Italy",
+        "de": "Maremma Toscana, Toskana, Italien",
+        "fr": "Maremma Toscana, Toscane, Italie",
+        "es": "Maremma Toscana, Toscana, Italia",
+        "pl": "Maremma Toscana, Toskania, Włochy",
+        "ru": "Маремма Тоскана, Тоскана, Италия",
+        "zh": "意大利托斯卡纳马雷玛",
+        "ja": "イタリア、トスカーナ、マレンマ"
+      },
+      "grapes": "Vermentino 100%",
+      "price": "23 €",
+      "description": {
+        "it": "Vermentino in purezza affinato 4–6 mesi in acciaio. Giallo paglierino, esprime note floreali e di frutta gialla; al palato è fresco, sapido e piacevolmente mediterraneo.",
+        "en": "Pure Vermentino aged for 4–6 months in stainless steel. Straw yellow, with floral and yellow-fruit notes; fresh, savoury and distinctly Mediterranean on the palate.",
+        "de": "Reinsortiger Vermentino, 4–6 Monate im Edelstahl ausgebaut. Strohgelb, mit floralen Noten und gelben Früchten; frisch, würzig und mediterran am Gaumen.",
+        "fr": "Vermentino pur élevé 4 à 6 mois en cuve inox. Robe jaune paille, notes florales et de fruits jaunes; bouche fraîche, savoureuse et méditerranéenne.",
+        "es": "Vermentino 100% afinado entre 4 y 6 meses en acero. Amarillo pajizo, con notas florales y fruta amarilla; fresco, sabroso y mediterráneo.",
+        "pl": "Vermentino 100%, dojrzewające 4–6 miesięcy w stali. Słomkowe, z nutami kwiatów i żółtych owoców; świeże, wytrawne i przyjemnie mineralne.",
+        "ru": "Верментино 100%, выдержанный 4–6 месяцев в стали. Соломенно-жёлтый цвет, цветочные ноты и жёлтые фрукты; свежий, минеральный и средиземноморский стиль.",
+        "zh": "100% Vermentino，不锈钢熟成4–6个月。稻草黄色泽，带有花香和黄色水果香气，口感清新、咸鲜而富有地中海风格。",
+        "ja": "ヴェルメンティーノ100%。ステンレスタンクで4〜6か月熟成。淡い麦わら色で、花や黄色い果実の香り。爽やかな酸味と心地よい塩味を感じます。"
+      },
+      "pairing": {
+        "it": "Formaggi freschi, primi piatti di pesce, molluschi e crostacei.",
+        "en": "Fresh cheeses, fish first courses, molluscs and shellfish.",
+        "de": "Frischkäse, Fischgerichte, Weichtiere und Krustentiere.",
+        "fr": "Fromages frais, premiers plats de poisson, mollusques et crustacés.",
+        "es": "Quesos frescos, primeros platos de pescado, moluscos y crustáceos.",
+        "pl": "Świeże sery, dania z ryb, mięczaki i skorupiaki.",
+        "ru": "Свежие сыры, рыбные блюда, моллюски и ракообразные.",
+        "zh": "适合搭配新鲜奶酪、鱼类主食、贝类和甲壳类。",
+        "ja": "フレッシュチーズ、魚料理、貝類、甲殻類におすすめ。"
+      }
     }
   ],
   "drinks": [
