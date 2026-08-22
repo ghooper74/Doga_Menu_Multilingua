@@ -9455,6 +9455,59 @@
         "zh": "适合搭配新鲜奶酪、鱼类主食、贝类和甲壳类。",
         "ja": "フレッシュチーズ、魚料理、貝類、甲殻類におすすめ。"
       }
+    },
+    {
+      "id": "rosato-di-ampeleia",
+      "name": "Rosato di Ampeleia",
+      "producer": "Ampeleia",
+      "category": "rose",
+      "wine_section": "rose",
+      "type": {
+        "it": "Toscana Rosato IGT",
+        "en": "Tuscan Rosé IGT",
+        "de": "Toskanischer Rosé IGT",
+        "fr": "Rosé de Toscane IGT",
+        "es": "Rosado de Toscana IGT",
+        "pl": "Toskańskie rosé IGT",
+        "ru": "Тосканское розовое вино IGT",
+        "zh": "托斯卡纳桃红葡萄酒 IGT",
+        "ja": "トスカーナ・ロザート IGT"
+      },
+      "origin": {
+        "it": "Roccatederighi, Maremma Toscana",
+        "en": "Roccatederighi, Tuscan Maremma",
+        "de": "Roccatederighi, Toskanische Maremma",
+        "fr": "Roccatederighi, Maremme toscane",
+        "es": "Roccatederighi, Maremma Toscana",
+        "pl": "Roccatederighi, Maremma Toskańska",
+        "ru": "Роккатедериги, Тосканская Маремма",
+        "zh": "托斯卡纳马雷玛，Roccatederighi",
+        "ja": "トスカーナ・マレンマ、ロッカテデリーギ"
+      },
+      "grapes": "Carignano, Alicante Nero",
+      "price": "28 €",
+      "description": {
+        "it": "Rosato dal colore rosa intenso, caratterizzato da spiccata sapidità, freschezza definita e persistente e buon corpo. Un rosato gastronomico, mediterraneo e molto territoriale.",
+        "en": "Deep-coloured rosé with pronounced savouriness, clear persistent freshness and good body. A gastronomic, Mediterranean-style rosé with strong territorial character.",
+        "de": "Kräftig roséfarben, mit ausgeprägter Würze, klarer anhaltender Frische und gutem Körper. Ein mediterraner, gastronomischer Rosé mit starkem Terroircharakter.",
+        "fr": "Rosé à la couleur intense, marqué par une belle sapidité, une fraîcheur nette et persistante et une bonne structure. Un rosé gastronomique et méditerranéen.",
+        "es": "Rosado de color intenso, con marcada sapidez, frescura definida y persistente y buen cuerpo. Un rosado gastronómico y mediterráneo.",
+        "pl": "Rosé o intensywnym kolorze, wyraźnej mineralności, trwałej świeżości i dobrej strukturze. Gastronomiczne, śródziemnomorskie wino.",
+        "ru": "Насыщенное розовое вино с выраженной минеральностью, стойкой свежестью и хорошей структурой. Гастрономичный средиземноморский стиль.",
+        "zh": "色泽较深的桃红葡萄酒，咸鲜感明显，酸度清晰持久，酒体良好，具有鲜明的地中海风格。",
+        "ja": "濃いロゼ色で、しっかりとした塩味、持続する爽やかな酸、程よいボディを持つ、地中海らしい食中酒タイプです。"
+      },
+      "pairing": {
+        "it": "Crudi di mare, crostacei, tartare di tonno o salmone, fritto di pesce, zuppe di mare, carni bianche e verdure.",
+        "en": "Raw seafood, shellfish, tuna or salmon tartare, fried fish, seafood soups, white meats and vegetables.",
+        "de": "Rohe Meeresfrüchte, Krustentiere, Thunfisch- oder Lachstatar, frittierter Fisch, Fischsuppen, weißes Fleisch und Gemüse.",
+        "fr": "Fruits de mer crus, crustacés, tartare de thon ou saumon, poisson frit, soupes de poisson, viandes blanches et légumes.",
+        "es": "Marisco crudo, crustáceos, tartar de atún o salmón, pescado frito, sopas de pescado, carnes blancas y verduras.",
+        "pl": "Surowe owoce morza, skorupiaki, tatar z tuńczyka lub łososia, smażone ryby, zupy rybne, białe mięso i warzywa.",
+        "ru": "Сырые морепродукты, ракообразные, тартар из тунца или лосося, жареная рыба, рыбные супы, белое мясо и овощи.",
+        "zh": "适合搭配生食海鲜、甲壳类、金枪鱼或三文鱼塔塔、炸鱼、海鲜汤、白肉和蔬菜。",
+        "ja": "魚介の生料理、甲殻類、マグロやサーモンのタルタル、魚のフリット、魚介スープ、白身肉、野菜におすすめ。"
+      }
     }
   ],
   "drinks": [
