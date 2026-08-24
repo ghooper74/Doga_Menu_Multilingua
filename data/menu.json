@@ -9561,6 +9561,61 @@
         "zh": "适合搭配风味浓郁的意面、鱼类、甲壳类、白肉、奶酪及松露料理。",
         "ja": "風味豊かなパスタ、しっかりした魚料理、甲殻類、白身肉、チーズ、トリュフ料理におすすめ。"
       }
+    },
+    {
+      "id": "griari-grillo-alagna",
+      "name": "Griarì",
+      "producer": "Alagna Vini",
+      "category": "white",
+      "wine_section": "white_other",
+      "type": {
+        "it": "Sicilia Grillo DOC",
+        "en": "Sicilia Grillo DOC",
+        "de": "Sicilia Grillo DOC",
+        "fr": "Sicilia Grillo DOC",
+        "es": "Sicilia Grillo DOC",
+        "pl": "Sicilia Grillo DOC",
+        "ru": "Сицилия Грилло DOC",
+        "zh": "西西里 Grillo DOC",
+        "ja": "シチリア・グリッロ DOC"
+      },
+      "origin": {
+        "it": "Marsala e Mazara del Vallo, Sicilia",
+        "en": "Marsala and Mazara del Vallo, Sicily",
+        "de": "Marsala und Mazara del Vallo, Sizilien",
+        "fr": "Marsala et Mazara del Vallo, Sicile",
+        "es": "Marsala y Mazara del Vallo, Sicilia",
+        "pl": "Marsala i Mazara del Vallo, Sycylia",
+        "ru": "Марсала и Мадзара-дель-Валло, Сицилия",
+        "zh": "西西里，马尔萨拉和马扎拉-德尔瓦洛",
+        "ja": "シチリア、マルサーラ／マザーラ・デル・ヴァッロ"
+      },
+      "grapes": "Grillo 100%",
+      "alcohol": "12,5% vol.",
+      "serving_temperature": "8–10 °C",
+      "price": "27 €",
+      "description": {
+        "it": "Grillo siciliano fresco e profumato, affinato circa tre mesi in acciaio. Colore giallo paglierino intenso, profilo delicatamente fruttato e sorso fresco, strutturato e armonico.",
+        "en": "Fresh and aromatic Sicilian Grillo aged for about three months in stainless steel. Intense straw yellow, gently fruity, fresh, structured and harmonious.",
+        "de": "Frischer und aromatischer sizilianischer Grillo, etwa drei Monate im Edelstahl ausgebaut. Intensiv strohgelb, leicht fruchtig, frisch, strukturiert und harmonisch.",
+        "fr": "Grillo sicilien frais et aromatique, élevé environ trois mois en cuve inox. Jaune paille intense, légèrement fruité, frais, structuré et harmonieux.",
+        "es": "Grillo siciliano fresco y aromático, afinado unos tres meses en acero. Amarillo pajizo intenso, ligeramente afrutado, fresco, estructurado y armonioso.",
+        "pl": "Świeże i aromatyczne sycylijskie Grillo, dojrzewające około trzech miesięcy w stali. Intensywnie słomkowe, delikatnie owocowe, świeże i harmonijne.",
+        "ru": "Свежий ароматный сицилийский Грилло, выдержанный около трёх месяцев в стали. Интенсивный соломенный цвет, лёгкая фруктовость, свежесть и гармоничная структура.",
+        "zh": "清新芳香的西西里 Grillo，在不锈钢罐中熟成约三个月。呈浓郁稻草黄色，果香细腻，口感清新、均衡而有结构。",
+        "ja": "シチリア産グリッロ。約3か月ステンレスタンクで熟成。濃い麦わら色で、穏やかな果実香と爽やかさ、程よい骨格と調和があります。"
+      },
+      "pairing": {
+        "it": "Pesce, frutti di mare, carni bianche, formaggi freschi e insalate.",
+        "en": "Fish, seafood, white meats, fresh cheeses and salads.",
+        "de": "Fisch, Meeresfrüchte, weißes Fleisch, Frischkäse und Salate.",
+        "fr": "Poissons, fruits de mer, viandes blanches, fromages frais et salades.",
+        "es": "Pescado, marisco, carnes blancas, quesos frescos y ensaladas.",
+        "pl": "Ryby, owoce morza, białe mięso, świeże sery i sałatki.",
+        "ru": "Рыба, морепродукты, белое мясо, свежие сыры и салаты.",
+        "zh": "适合搭配鱼类、海鲜、白肉、新鲜奶酪和沙拉。",
+        "ja": "魚料理、魚介類、白身肉、フレッシュチーズ、サラダにおすすめ。"
+      }
     }
   ],
   "drinks": [
