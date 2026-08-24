@@ -9508,6 +9508,59 @@
         "zh": "适合搭配生食海鲜、甲壳类、金枪鱼或三文鱼塔塔、炸鱼、海鲜汤、白肉和蔬菜。",
         "ja": "魚介の生料理、甲殻類、マグロやサーモンのタルタル、魚のフリット、魚介スープ、白身肉、野菜におすすめ。"
       }
+    },
+    {
+      "id": "fonte-vivo-podere-pellicciano",
+      "name": "Fonte Vivo",
+      "producer": "Podere Pellicciano",
+      "category": "white",
+      "wine_section": "white_tuscany",
+      "type": {
+        "it": "Trebbiano Toscana IGT",
+        "en": "Tuscan Trebbiano IGT",
+        "de": "Trebbiano Toscana IGT",
+        "fr": "Trebbiano de Toscane IGT",
+        "es": "Trebbiano Toscana IGT",
+        "pl": "Trebbiano Toscana IGT",
+        "ru": "Треббьяно Тоскана IGT",
+        "zh": "托斯卡纳特雷比奥罗 IGT",
+        "ja": "トスカーナ・トレッビアーノ IGT"
+      },
+      "origin": {
+        "it": "San Miniato, Toscana, Italia",
+        "en": "San Miniato, Tuscany, Italy",
+        "de": "San Miniato, Toskana, Italien",
+        "fr": "San Miniato, Toscane, Italie",
+        "es": "San Miniato, Toscana, Italia",
+        "pl": "San Miniato, Toskania, Włochy",
+        "ru": "Сан-Миниато, Тоскана, Италия",
+        "zh": "意大利托斯卡纳，圣米尼亚托",
+        "ja": "イタリア、トスカーナ、サン・ミニアート"
+      },
+      "grapes": "Trebbiano 100%",
+      "price": "28 €",
+      "description": {
+        "it": "Trebbiano in purezza macerato, intenso e strutturato. Il profilo richiama frutta matura, erbe aromatiche e note balsamiche, con un sorso pieno, fresco, sapido e persistente.",
+        "en": "Skin-contact pure Trebbiano, intense and structured, with ripe fruit, aromatic herbs and balsamic notes. Full-bodied, fresh, savoury and persistent.",
+        "de": "Maischevergorener reinsortiger Trebbiano, intensiv und strukturiert, mit reifen Früchten, Kräutern und balsamischen Noten. Vollmundig, frisch, würzig und lang.",
+        "fr": "Trebbiano pur vinifié avec macération, intense et structuré, aux notes de fruits mûrs, d'herbes aromatiques et balsamiques. Bouche ample, fraîche, saline et persistante.",
+        "es": "Trebbiano 100% macerado, intenso y estructurado, con fruta madura, hierbas aromáticas y notas balsámicas. Amplio, fresco, sabroso y persistente.",
+        "pl": "Macerowane Trebbiano 100%, intensywne i strukturalne, z nutami dojrzałych owoców, ziół i akcentami balsamicznymi. Pełne, świeże i mineralne.",
+        "ru": "Мацерированное Треббьяно 100%: насыщенное и структурное, с нотами спелых фруктов, трав и бальзамическими оттенками. Полное, свежее и минеральное.",
+        "zh": "100% 特雷比奥罗浸皮酿造，风格浓郁而有结构，带成熟水果、香草和香脂气息，口感饱满、清新、咸鲜而持久。",
+        "ja": "トレッビアーノ100%の醸し仕込み。熟した果実やハーブ、バルサミックな香りがあり、豊かな骨格と爽やかな酸、塩味、長い余韻を備えます。"
+      },
+      "pairing": {
+        "it": "Primi piatti saporiti, pesce strutturato, crostacei, carni bianche, formaggi e piatti al tartufo.",
+        "en": "Flavourful pasta dishes, rich fish, shellfish, white meats, cheeses and truffle dishes.",
+        "de": "Kräftige Pastagerichte, gehaltvoller Fisch, Krustentiere, weißes Fleisch, Käse und Trüffelgerichte.",
+        "fr": "Pâtes savoureuses, poissons de caractère, crustacés, viandes blanches, fromages et plats à la truffe.",
+        "es": "Pastas sabrosas, pescados con estructura, crustáceos, carnes blancas, quesos y platos con trufa.",
+        "pl": "Wyraziste makarony, ryby, skorupiaki, białe mięso, sery i dania z truflami.",
+        "ru": "Насыщенные блюда из пасты, рыба, ракообразные, белое мясо, сыры и блюда с трюфелем.",
+        "zh": "适合搭配风味浓郁的意面、鱼类、甲壳类、白肉、奶酪及松露料理。",
+        "ja": "風味豊かなパスタ、しっかりした魚料理、甲殻類、白身肉、チーズ、トリュフ料理におすすめ。"
+      }
     }
   ],
   "drinks": [
