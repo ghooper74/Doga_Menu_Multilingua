@@ -13,7 +13,7 @@
       "ja": "デジタルメニュー"
     },
     "service": "2,50 €",
-    "water": "0,75 l · 2 €"
+    "water": "Acqua trattata naturale/gassata 2 € · Acqua confezionata 3 €"
   },
   "languages": {
     "it": "Italiano",
@@ -342,15 +342,15 @@
         },
         {
           "name": {
-            "it": "Paté di fegatini alla toscana",
-            "en": "Tuscan-style liver pâté",
-            "de": "Toskanische Leberpastete",
-            "fr": "Pâté de foie à la toscane",
-            "es": "Paté de hígado a la toscana",
-            "pl": "Toskański pasztet z wątróbki",
-            "ru": "Тосканский паштет из печени",
-            "zh": "托斯卡纳式鸡肝酱",
-            "ja": "トスカーナ風レバーパテ"
+            "it": "Sandwiches con paté di fegatini alla toscana",
+            "en": "Sandwiches with Tuscan-style liver pâté",
+            "de": "Sandwiches mit toskanischer Leberpastete",
+            "fr": "Sandwiches au pâté de foie à la toscane",
+            "es": "Sándwiches con paté de hígado a la toscana",
+            "pl": "Kanapki z toskańskim pasztetem z wątróbki",
+            "ru": "Сэндвичи с тосканским паштетом из печени",
+            "zh": "托斯卡纳式鸡肝酱三明治",
+            "ja": "トスカーナ風レバーパテのサンドイッチ"
           },
           "desc": {},
           "price": "15 €",
@@ -545,7 +545,7 @@
             "ja": "イカとエビのフリット"
           },
           "desc": {},
-          "price": "19 €",
+          "price": "20 €",
           "allergens": "1,2,14"
         },
         {
