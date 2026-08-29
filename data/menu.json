@@ -4133,6 +4133,61 @@
       "wine_section": "white_other"
     },
     {
+      "id": "ograde-skerk-2022",
+      "name": "Ograde – Škerk",
+      "producer": "Škerk",
+      "category": "white",
+      "type": {
+        "it": "Venezia Giulia IGT – vino bianco macerato",
+        "en": "Venezia Giulia IGT – skin-contact white wine",
+        "de": "Venezia Giulia IGT – maischevergorener Weißwein",
+        "fr": "Venezia Giulia IGT – vin blanc de macération",
+        "es": "Venezia Giulia IGT – vino blanco macerado",
+        "pl": "Venezia Giulia IGT – białe wino macerowane",
+        "ru": "Venezia Giulia IGT – мацерированное белое вино",
+        "zh": "Venezia Giulia IGT – 浸皮白葡萄酒",
+        "ja": "ヴェネツィア・ジュリア IGT – 醸し白ワイン"
+      },
+      "origin": {
+        "it": "Carso, Friuli-Venezia Giulia, Italia",
+        "en": "Carso, Friuli-Venezia Giulia, Italy",
+        "de": "Karst, Friaul-Julisch Venetien, Italien",
+        "fr": "Carso, Frioul-Vénétie Julienne, Italie",
+        "es": "Carso, Friuli-Venecia Julia, Italia",
+        "pl": "Kras, Friuli-Wenecja Julijska, Włochy",
+        "ru": "Карсо, Фриули-Венеция-Джулия, Италия",
+        "zh": "意大利弗留利-威尼斯朱利亚，卡尔索",
+        "ja": "イタリア、フリウリ＝ヴェネツィア・ジュリア州、カルソ"
+      },
+      "grapes": "Vitovska 25%, Malvasia Istriana 25%, Sauvignon 25%, Pinot Grigio 25%",
+      "serving_temperature": "8–10 °C",
+      "price": "60 €",
+      "pairing": {
+        "it": "Aperitivo, crudi di mare, crostacei, pesce delicato, verdure, risotti e formaggi freschi.",
+        "en": "Aperitifs, raw seafood, shellfish, delicate fish, vegetables, risotto and fresh cheeses.",
+        "de": "Aperitif, rohe Meeresfrüchte, Krustentiere, feiner Fisch, Gemüse, Risotto und Frischkäse.",
+        "fr": "Apéritif, fruits de mer crus, crustacés, poissons délicats, légumes, risotto et fromages frais.",
+        "es": "Aperitivo, marisco crudo, crustáceos, pescado delicado, verduras, risotto y quesos frescos.",
+        "pl": "Aperitif, surowe owoce morza, skorupiaki, delikatne ryby, warzywa, risotto i świeże sery.",
+        "ru": "Аперитив, сырые морепродукты, ракообразные, нежная рыба, овощи, ризотто и свежие сыры.",
+        "zh": "适合作为开胃酒，搭配生食海鲜、甲壳类、清淡鱼类、蔬菜、烩饭及新鲜奶酪。",
+        "ja": "食前酒、魚介の生料理、甲殻類、繊細な魚、野菜、リゾット、フレッシュチーズにおすすめ。"
+      },
+      "description": {
+        "it": "Bianco macerato del Carso, complesso e sapido, con note di agrumi, albicocca, fiori e spezie. Avvolgente, fresco e persistente.",
+        "en": "A skin-contact white wine from the Carso, complex and savoury, with citrus, apricot, floral and spicy notes. Rich, fresh and persistent.",
+        "de": "Maischevergorener Weißwein aus dem Karst, komplex und mineralisch, mit Noten von Zitrusfrüchten, Aprikose, Blüten und Gewürzen.",
+        "fr": "Vin blanc de macération du Carso, complexe et salin, aux notes d'agrumes, d'abricot, de fleurs et d'épices.",
+        "es": "Blanco macerado del Carso, complejo y sabroso, con notas de cítricos, albaricoque, flores y especias.",
+        "pl": "Białe wino macerowane z Krasu, złożone i mineralne, z nutami cytrusów, moreli, kwiatów i przypraw.",
+        "ru": "Мацерированное белое вино из Карсо, сложное и минеральное, с нотами цитрусовых, абрикоса, цветов и специй.",
+        "zh": "来自卡尔索的浸皮白葡萄酒，复杂而富有矿物感，带有柑橘、杏子、花香和香料气息。",
+        "ja": "カルソの醸し白ワイン。柑橘、アプリコット、花、スパイスの複雑な香りとミネラル感があります。"
+      },
+      "wine_section": "white_other",
+      "vintage": "2022"
+    },
+    {
       "id": "svol-sauvignon-viniverso",
       "name": "Svol Sauvignon",
       "producer": "Vini Verso by I Clivi",
