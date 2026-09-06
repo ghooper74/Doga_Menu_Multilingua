@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DOGA - Servizio al tavolo</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,Helvetica,sans-serif;
+    background:#f7f5ef;
+    color:#222;
+    min-height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.card{
+    width:min(92%,650px);
+    background:white;
+    padding:32px 24px;
+    border-radius:18px;
+    box-shadow:0 8px 30px rgba(0,0,0,.10);
+    text-align:center;
+}
+
+.logo{
+    font-size:42px;
+    letter-spacing:6px;
+    margin-bottom:28px;
+}
+
+.message{
+    font-size:28px;
+    line-height:1.35;
+    font-weight:600;
+    margin:25px 0 12px;
+}
+
+.thanks{
+    font-size:18px;
+    opacity:.75;
+}
+
+.languages{
+    margin-top:30px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    justify-content:center;
+}
+
+button{
+    border:1px solid #bbb;
+    background:white;
+    border-radius:8px;
+    padding:9px 12px;
+    font-size:14px;
+    cursor:pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div class="card">
+
+<div class="logo">DOGA</div>
+
+<div id="message" class="message"></div>
+<div id="thanks" class="thanks"></div>
+
+<div class="languages">
+<button onclick="setLang('it')">IT</button>
+<button onclick="setLang('en')">EN</button>
+<button onclick="setLang('de')">DE</button>
+<button onclick="setLang('fr')">FR</button>
+<button onclick="setLang('es')">ES</button>
+<button onclick="setLang('pl')">PL</button>
+<button onclick="setLang('ru')">RU</button>
+<button onclick="setLang('zh')">中文</button>
+<button onclick="setLang('ja')">日本語</button>
+</div>
+
+</div>
+
+<script>
+
+const text = {
+
+it:{
+message:"Il servizio al tavolo non è disponibile fino alle 12:00.",
+thanks:"Grazie per la comprensione."
+},
+
+en:{
+message:"Table service is not available until 12:00 noon.",
+thanks:"Thank you for your understanding."
+},
+
+de:{
+message:"Tischservice ist erst ab 12:00 Uhr verfügbar.",
+thanks:"Vielen Dank für Ihr Verständnis."
+},
+
+fr:{
+message:"Le service à table est disponible à partir de 12h00.",
+thanks:"Merci de votre compréhension."
+},
+
+es:{
+message:"El servicio de mesa está disponible a partir de las 12:00.",
+thanks:"Gracias por su comprensión."
+},
+
+pl:{
+message:"Obsługa przy stoliku jest dostępna od godziny 12:00.",
+thanks:"Dziękujemy za wyrozumiałość."
+},
+
+ru:{
+message:"Обслуживание за столиками доступно с 12:00.",
+thanks:"Спасибо за понимание."
+},
+
+zh:{
+message:"桌边服务从12:00开始。",
+thanks:"感谢您的理解。"
+},
+
+ja:{
+message:"テーブルサービスは12:00からとなります。",
+thanks:"ご理解ありがとうございます。"
+}
+
+};
+
+function setLang(lang){
+
+if(!text[lang]) lang="en";
+
+document.documentElement.lang=lang;
+document.getElementById("message").textContent=text[lang].message;
+document.getElementById("thanks").textContent=text[lang].thanks;
+
+}
+
+let lang=(navigator.language || "en").toLowerCase();
+
+if(lang.startsWith("it")) lang="it";
+else if(lang.startsWith("de")) lang="de";
+else if(lang.startsWith("fr")) lang="fr";
+else if(lang.startsWith("es")) lang="es";
+else if(lang.startsWith("pl")) lang="pl";
+else if(lang.startsWith("ru")) lang="ru";
+else if(lang.startsWith("zh")) lang="zh";
+else if(lang.startsWith("ja")) lang="ja";
+else lang="en";
+
+setLang(lang);
+
+</script>
+
+</body>
+</html>
