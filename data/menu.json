@@ -9671,6 +9671,59 @@
         "zh": "适合搭配鱼类、海鲜、白肉、新鲜奶酪和沙拉。",
         "ja": "魚料理、魚介類、白身肉、フレッシュチーズ、サラダにおすすめ。"
       }
+    },
+    {
+      "id": "pinot-grigio-mont-mes-castelfeder",
+      "name": "Pinot Grigio Mont Mès",
+      "producer": "Castelfeder",
+      "category": "white",
+      "wine_section": "white_other",
+      "type": {
+        "it": "Vigneti delle Dolomiti Pinot Grigio IGT",
+        "en": "Vigneti delle Dolomiti Pinot Grigio IGT",
+        "de": "Vigneti delle Dolomiti Pinot Grigio IGT",
+        "fr": "Vigneti delle Dolomiti Pinot Grigio IGT",
+        "es": "Vigneti delle Dolomiti Pinot Grigio IGT",
+        "pl": "Vigneti delle Dolomiti Pinot Grigio IGT",
+        "ru": "Пино Гриджо Vigneti delle Dolomiti IGT",
+        "zh": "多洛米蒂葡萄园灰皮诺 IGT",
+        "ja": "ヴィニェーティ・デッレ・ドロミティ ピノ・グリージョ IGT"
+      },
+      "origin": {
+        "it": "Bassa Atesina, Alto Adige",
+        "en": "Bassa Atesina, South Tyrol",
+        "de": "Unterland, Südtirol",
+        "fr": "Bassa Atesina, Haut-Adige",
+        "es": "Bassa Atesina, Alto Adige",
+        "pl": "Bassa Atesina, Górna Adyga",
+        "ru": "Басса-Атезина, Альто-Адидже",
+        "zh": "上阿迪杰，巴萨阿特西纳",
+        "ja": "南チロル、バッサ・アテジーナ"
+      },
+      "grapes": "Pinot Grigio 100%",
+      "price": "24 €",
+      "description": {
+        "it": "Pinot Grigio fresco e armonico, fermentato in acciaio e affinato sui lieviti per circa cinque mesi. Profumi di pera e mela matura, sorso morbido, pieno e dal finale rotondo.",
+        "en": "Fresh and harmonious Pinot Grigio, fermented in stainless steel and aged on the lees for about five months. Ripe pear and apple aromas, with a soft, full and rounded palate.",
+        "de": "Frischer, harmonischer Pinot Grigio, im Edelstahl vergoren und etwa fünf Monate auf der Hefe ausgebaut. Birne und reifer Apfel, weich, voll und rund.",
+        "fr": "Pinot Grigio frais et harmonieux, fermenté en cuve inox et élevé environ cinq mois sur lies. Arômes de poire et de pomme mûre, bouche souple, ample et ronde.",
+        "es": "Pinot Grigio fresco y armonioso, fermentado en acero y criado unos cinco meses sobre lías. Aromas de pera y manzana madura, suave, amplio y redondo.",
+        "pl": "Świeży i harmonijny Pinot Grigio, fermentowany w stali i dojrzewający około pięciu miesięcy na osadzie. Aromaty gruszki i dojrzałego jabłka, miękki i pełny.",
+        "ru": "Свежий гармоничный Пино Гриджо, ферментированный в стали и выдержанный около пяти месяцев на осадке. Ароматы груши и спелого яблока, мягкий и округлый вкус.",
+        "zh": "清新协调的灰皮诺，不锈钢发酵并在酒泥上熟成约五个月。带有梨和成熟苹果香气，口感柔和、饱满而圆润。",
+        "ja": "フレッシュで調和の取れたピノ・グリージョ。ステンレス発酵後、澱とともに約5か月熟成。洋梨と熟したリンゴの香り、柔らかく丸みのある味わい。"
+      },
+      "pairing": {
+        "it": "Antipasti, pesce, piatti leggermente speziati, verdure e carni bianche.",
+        "en": "Starters, fish, lightly spiced dishes, vegetables and white meats.",
+        "de": "Vorspeisen, Fisch, leicht gewürzte Gerichte, Gemüse und weißes Fleisch.",
+        "fr": "Entrées, poisson, plats légèrement épicés, légumes et viandes blanches.",
+        "es": "Entrantes, pescado, platos ligeramente especiados, verduras y carnes blancas.",
+        "pl": "Przystawki, ryby, lekko pikantne dania, warzywa i białe mięso.",
+        "ru": "Закуски, рыба, слегка пряные блюда, овощи и белое мясо.",
+        "zh": "适合搭配前菜、鱼类、微辣菜肴、蔬菜和白肉。",
+        "ja": "前菜、魚料理、軽くスパイスを効かせた料理、野菜、白身肉におすすめ。"
+      }
     }
   ],
   "drinks": [
