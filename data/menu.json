@@ -9724,6 +9724,59 @@
         "zh": "适合搭配前菜、鱼类、微辣菜肴、蔬菜和白肉。",
         "ja": "前菜、魚料理、軽くスパイスを効かせた料理、野菜、白身肉におすすめ。"
       }
+    },
+    {
+      "id": "sol-sera-bulichella",
+      "name": "Sol Sera",
+      "producer": "Bulichella",
+      "category": "rose",
+      "wine_section": "rose",
+      "type": {
+        "it": "Costa Toscana Rosato IGT",
+        "en": "Costa Toscana Rosé IGT",
+        "de": "Costa Toscana Rosé IGT",
+        "fr": "Costa Toscana Rosé IGT",
+        "es": "Costa Toscana Rosado IGT",
+        "pl": "Costa Toscana Rosé IGT",
+        "ru": "Розовое вино Costa Toscana IGT",
+        "zh": "托斯卡纳海岸桃红 IGT",
+        "ja": "コスタ・トスカーナ ロザート IGT"
+      },
+      "origin": {
+        "it": "Suvereto, Toscana, Italia",
+        "en": "Suvereto, Tuscany, Italy",
+        "de": "Suvereto, Toskana, Italien",
+        "fr": "Suvereto, Toscane, Italie",
+        "es": "Suvereto, Toscana, Italia",
+        "pl": "Suvereto, Toskania, Włochy",
+        "ru": "Суверето, Тоскана, Италия",
+        "zh": "意大利托斯卡纳，苏韦雷托",
+        "ja": "イタリア、トスカーナ、スヴェレート"
+      },
+      "grapes": "Syrah 100%",
+      "price": "27 €",
+      "description": {
+        "it": "Rosato toscano da Syrah, dal colore rosa tenue e brillante. Profuma di piccoli frutti di bosco, cassis e leggere sfumature di pepe bianco; al palato è fresco, sapido, gustoso e persistente.",
+        "en": "Tuscan rosé made from Syrah, pale and bright in colour. Aromas of small berries, cassis and delicate white-pepper notes; fresh, savoury, flavourful and persistent.",
+        "de": "Toskanischer Rosé aus Syrah, hell und brillant. Aromen von Waldbeeren, Cassis und feinen Noten von weißem Pfeffer; frisch, würzig und anhaltend.",
+        "fr": "Rosé toscan de Syrah, à la robe pâle et brillante. Arômes de petits fruits rouges, cassis et légères notes de poivre blanc; frais, savoureux et persistant.",
+        "es": "Rosado toscano de Syrah, de color pálido y brillante. Aromas de pequeños frutos del bosque, cassis y ligeras notas de pimienta blanca; fresco, sabroso y persistente.",
+        "pl": "Toskańskie rosé z Syrah, jasne i błyszczące. Aromaty owoców leśnych, cassis i delikatnego białego pieprzu; świeże, wyraziste i trwałe.",
+        "ru": "Тосканское розовое из Сира. Светлый блестящий цвет, ароматы лесных ягод, чёрной смородины и лёгкие оттенки белого перца; свежее, пикантное и стойкое.",
+        "zh": "托斯卡纳西拉桃红葡萄酒，色泽浅亮。带有森林浆果、黑醋栗和淡淡白胡椒香气，口感清新、咸鲜、富有风味且持久。",
+        "ja": "シラーから造るトスカーナのロゼ。淡く輝く色調で、ベリー、カシス、白胡椒のニュアンス。爽やかで塩味があり、旨味と長い余韻があります。"
+      },
+      "pairing": {
+        "it": "Piatti di pesce anche strutturati e carni bianche.",
+        "en": "Fish dishes, including richer preparations, and white meats.",
+        "de": "Fischgerichte, auch kräftigere, sowie weißes Fleisch.",
+        "fr": "Plats de poisson, même structurés, et viandes blanches.",
+        "es": "Platos de pescado, incluso intensos, y carnes blancas.",
+        "pl": "Dania rybne, także bardziej wyraziste, oraz białe mięso.",
+        "ru": "Рыбные блюда, в том числе насыщенные, и белое мясо.",
+        "zh": "适合搭配鱼类料理，包括较浓郁的做法，以及白肉。",
+        "ja": "魚料理、しっかりした味わいの魚料理、白身肉におすすめ。"
+      }
     }
   ],
   "drinks": [
