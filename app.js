@@ -1,7 +1,6 @@
 let DATA;
 
-let lang = localStorage.getItem("doga-lang") || (navigator.language || "it").slice(0, 2);
-const supported = ["it", "en", "de", "fr", "es", "pl", "ru", "zh", "ja"];
+const supported = ["it", "en", "de", "fr", "es", "nl", "nl-BE", "pl", "ru", "zh", "ja"];
 
 const languageFlags = {
   it: "🇮🇹",
@@ -9,13 +8,60 @@ const languageFlags = {
   de: "🇩🇪",
   fr: "🇫🇷",
   es: "🇪🇸",
+  nl: "🇳🇱",
+  "nl-BE": "🇧🇪",
   pl: "🇵🇱",
   ru: "🇷🇺",
   zh: "🇨🇳",
   ja: "🇯🇵"
 };
 
-if (!supported.includes(lang)) lang = "en";
+const languageShortLabels = {
+  "nl-BE": "BE"
+};
+
+function normalizeLanguageCode(code) {
+  const c = String(code || "")
+    .trim()
+    .toLowerCase()
+    .replace("_", "-");
+
+  if (c === "nl-be" || c.startsWith("nl-be-")) return "nl-BE";
+  if (c.startsWith("nl")) return "nl";
+  if (c.startsWith("it")) return "it";
+  if (c.startsWith("en")) return "en";
+  if (c.startsWith("de")) return "de";
+  if (c.startsWith("fr")) return "fr";
+  if (c.startsWith("es")) return "es";
+  if (c.startsWith("pl")) return "pl";
+  if (c.startsWith("ru")) return "ru";
+  if (c.startsWith("zh")) return "zh";
+  if (c.startsWith("ja")) return "ja";
+  return null;
+}
+
+function detectLanguage() {
+  const saved = localStorage.getItem("doga-lang");
+
+  if (supported.includes(saved)) return saved;
+
+  const savedNormalized = normalizeLanguageCode(saved);
+  if (savedNormalized) return savedNormalized;
+
+  const preferences =
+    Array.isArray(navigator.languages) && navigator.languages.length
+      ? navigator.languages
+      : [navigator.language || "en"];
+
+  for (const code of preferences) {
+    const normalized = normalizeLanguageCode(code);
+    if (normalized) return normalized;
+  }
+
+  return "en";
+}
+
+let lang = detectLanguage();
 
 const params = new URLSearchParams(location.search);
 let currentTab = params.get("section") || params.get("tab") || "menu";
@@ -50,12 +96,48 @@ const fallbackLabels = {
 const t = obj => {
   if (obj == null) return "";
   if (typeof obj === "string" || typeof obj === "number") return String(obj);
-  return obj?.[lang] || obj?.en || obj?.it || "";
+  return obj?.[lang] ||
+         (lang === "nl-BE" ? obj?.nl : "") ||
+         obj?.en ||
+         obj?.it ||
+         "";
+};
+
+
+const dutchFallbackLabels = {
+  menu: "Menu",
+  canteen: "Kantine",
+  breakfast: "Ontbijt",
+  showcase: "Vitrine",
+  salads: "Salades",
+  desserts: "Desserts",
+  wines: "Wijnen",
+  drinks: "Dranken",
+  allergens: "Allergenen",
+  ingredients: "Ingrediënten",
+  traces: "Mogelijke sporen",
+  note: "Opmerking",
+  choose_language: "Taal"
+};
+
+const footerLabels = {
+  it: { cover: "Coperto", water: "Acqua", note: "I prodotti con asterisco potrebbero essere congelati e/o abbattuti." },
+  en: { cover: "Cover charge", water: "Water", note: "Products marked with an asterisk may be frozen and/or blast-chilled." },
+  de: { cover: "Gedeck", water: "Wasser", note: "Mit einem Sternchen gekennzeichnete Produkte können tiefgekühlt und/oder schockgekühlt sein." },
+  fr: { cover: "Couvert", water: "Eau", note: "Les produits signalés par un astérisque peuvent être surgelés et/ou refroidis rapidement." },
+  es: { cover: "Cubierto", water: "Agua", note: "Los productos marcados con un asterisco pueden estar congelados y/o abatidos." },
+  pl: { cover: "Opłata za nakrycie", water: "Woda", note: "Produkty oznaczone gwiazdką mogą być mrożone i/lub schładzane szokowo." },
+  ru: { cover: "Сервировка", water: "Вода", note: "Продукты, отмеченные звёздочкой, могут быть заморожены и/или подвергнуты шоковому охлаждению." },
+  zh: { cover: "餐位费", water: "水", note: "带星号的食材可能经过冷冻和/或急速冷却处理。" },
+  ja: { cover: "席料", water: "水", note: "アスタリスク付きの食材は、冷凍または急速冷却処理されている場合があります。" },
+  nl: { cover: "Couvert", water: "Water", note: "Producten met een sterretje kunnen ingevroren en/of snel teruggekoeld zijn." }
 };
 
 const label = key =>
   DATA?.ui?.[key]?.[lang] ||
+  (lang === "nl-BE" ? DATA?.ui?.[key]?.nl : "") ||
   DATA?.ui?.[key]?.en ||
+  ((lang === "nl" || lang === "nl-BE") ? dutchFallbackLabels[key] : "") ||
   fallbackLabels[key]?.[lang] ||
   fallbackLabels[key]?.en ||
   key;
@@ -349,8 +431,39 @@ const wineFieldLabels = {
   }
 };
 
+
+const dutchWineLabels = {
+  all: "Alle",
+  sparkling_italian: "Italiaanse mousserende wijnen",
+  sparkling_french: "Franse mousserende wijnen",
+  white_tuscany: "Toscaanse witte wijnen",
+  white_other: "Italiaanse en internationale witte wijnen",
+  rose: "Roséwijnen",
+  red_bolgheri: "Rode wijnen uit Bolgheri",
+  red_tuscany: "Toscaanse rode wijnen",
+  super_tuscan: "Super Tuscan",
+  red_other: "Italiaanse en internationale rode wijnen",
+  dessert: "Dessertwijnen",
+  other: "Andere wijnen",
+  type: "Type",
+  origin: "Herkomst",
+  grapes: "Druiven",
+  alcohol: "Alcoholgehalte",
+  winemaking: "Vinificatie en rijping",
+  temperature: "Serveertemperatuur",
+  pairing: "Combinaties"
+};
+
 function wineTextLabel(collection, key) {
+  if (
+    (lang === "nl" || lang === "nl-BE") &&
+    dutchWineLabels[key]
+  ) {
+    return dutchWineLabels[key];
+  }
+
   return collection[key]?.[lang] ||
+         (lang === "nl-BE" ? collection[key]?.nl : "") ||
          collection[key]?.en ||
          collection[key]?.it ||
          key;
@@ -411,7 +524,9 @@ function renderWines() {
     pl: "Szukaj wina...",
     ru: "Поиск вина...",
     zh: "搜索葡萄酒...",
-    ja: "ワインを検索..."
+    ja: "ワインを検索...",
+    nl: "Wijn zoeken...",
+    "nl-BE": "Wijn zoeken..."
   })[lang] || "Search wine...";
 
   const wineSearchEmpty = ({
@@ -423,7 +538,9 @@ function renderWines() {
     pl: "Nie znaleziono wina.",
     ru: "Вино не найдено.",
     zh: "未找到葡萄酒。",
-    ja: "ワインが見つかりません。"
+    ja: "ワインが見つかりません。",
+    nl: "Geen wijn gevonden.",
+    "nl-BE": "Geen wijn gevonden."
   })[lang] || "No wine found.";
 
   const availableSections = wineSectionOrder.filter(section =>
@@ -569,7 +686,7 @@ function renderAllergens() {
   return `<h2 class="section-title">${esc(label("allergens"))}</h2>
     <div class="list">${
       Object.entries(DATA.allergens || {})
-        .map(([n, v]) => `<div class="simple-row"><strong>${n}</strong><span>${esc(v)}</span></div>`)
+        .map(([n, v]) => `<div class="simple-row"><strong>${n}</strong><span>${esc(t(v))}</span></div>`)
         .join("")
     }</div>`;
 }
@@ -602,7 +719,7 @@ function render() {
       aria-label="${esc(DATA.languages[code] || code)}"
       aria-pressed="${code === lang}">
       <span aria-hidden="true">${languageFlags[code]}</span>
-      <small>${code.toUpperCase()}</small>
+      <small>${esc(languageShortLabels[code] || code.toUpperCase())}</small>
     </button>
   `).join("");
 
@@ -643,8 +760,11 @@ function render() {
     currentTab === "allergens" ? renderAllergens() :
     renderSimple(currentTab);
 
+  const footerLang = lang === "nl-BE" ? "nl" : lang;
+  const footerCopy = footerLabels[footerLang] || footerLabels.en;
+
   document.getElementById("footer").innerHTML =
-    `<strong>DOGA</strong><br>Coperto / Service: ${esc(DATA.meta.service)} · Acqua / Water: ${esc(DATA.meta.water)}<br><small>I prodotti con asterisco potrebbero essere congelati e/o abbattuti.</small>`;
+    `<strong>DOGA</strong><br>${esc(footerCopy.cover)}: ${esc(DATA.meta.service)} · ${esc(footerCopy.water)}: ${esc(DATA.meta.water)}<br><small>${esc(footerCopy.note)}</small>`;
 }
 
 async function init() {
