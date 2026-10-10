@@ -2,9 +2,9 @@
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
-.hero{padding:12px 12px 18px;text-align:center;background:#f1e9d8;color:#5f2e27;border-bottom:1px solid #d7cbbd}
+.hero{padding:28px 18px 20px;text-align:center;background:#17130f;color:#fff}
 .logo{font-size:clamp(2.5rem,9vw,5rem);letter-spacing:.18em;font-weight:300}
-.subtitle{opacity:.78;margin-top:10px;color:#6c4f38;font-family:Georgia,'Times New Roman',serif;font-size:.95rem}
+.subtitle{opacity:.82;margin-top:2px}
 .language{display:inline-flex;gap:10px;align-items:center;margin-top:18px}
 select{font:inherit;padding:9px 12px;border-radius:10px;border:1px solid #ffffff42;background:#fff;color:#1c1814}
 .tabs{position:sticky;top:0;z-index:10;display:flex;gap:8px;overflow:auto;padding:10px;background:#fffdf8e8;backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
@@ -50,11 +50,11 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
 
 .language-button{
   min-width:48px;
-  border:1px solid #8d5a4f55;
+  border:1px solid #ffffff55;
   border-radius:13px;
   padding:7px 8px 6px;
-  background:#fffaf2;
-  color:#5f2e27;
+  background:#ffffff12;
+  color:#fff;
   font:inherit;
   cursor:pointer;
   display:flex;
@@ -76,11 +76,11 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
 }
 
 .language-button.active{
-  background:#6b352d;
-  color:#fffaf2;
-  border-color:#6b352d;
+  background:#fff;
+  color:#17130f;
+  border-color:#fff;
   transform:translateY(-2px);
-  box-shadow:0 4px 12px #5f2e2730
+  box-shadow:0 4px 12px #0006
 }
 
 @media(max-width:520px){
@@ -95,15 +95,12 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
 }
 
 
-.doga-logo{display:none}
-
-.menu-hero-art{
+.doga-logo{
   display:block;
-  width:min(1100px,100%);
+  width:min(340px,82vw);
   height:auto;
-  margin:0 auto;
-  border-radius:16px;
-  box-shadow:0 8px 28px #5f2e2718
+  margin:0 auto 14px;
+  filter:invert(1);
 }
 
 
@@ -156,10 +153,4 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
   padding-top:16px;
   border-top:1px solid #ded6ca;
   line-height:1.6;
-}
-
-@media(max-width:520px){
-  .hero{padding:8px 8px 14px}
-  .menu-hero-art{border-radius:12px}
-  .subtitle{margin-top:8px;font-size:.88rem}
 }
