@@ -229,19 +229,19 @@
   },
   "sections": [
     {
-      "id": "specials",
+      "id": "starters",
       "title": {
-        "it": "I nostri piatti speciali",
-        "en": "Our special dishes",
-        "de": "Unsere Spezialitäten",
-        "fr": "Nos plats spéciaux",
-        "es": "Nuestros platos especiales",
-        "pl": "Nasze dania specjalne",
-        "ru": "Наши фирменные блюда",
-        "zh": "特色菜",
-        "ja": "おすすめ料理",
-        "nl": "Onze speciale gerechten",
-        "nl-BE": "Onze speciale gerechten"
+        "it": "Antipasti",
+        "en": "Starters",
+        "de": "Vorspeisen",
+        "fr": "Entrées",
+        "es": "Entrantes",
+        "pl": "Przystawki",
+        "ru": "Закуски",
+        "zh": "前菜",
+        "ja": "前菜",
+        "nl": "Voorgerechten",
+        "nl-BE": "Voorgerechten"
       },
       "items": [
         {
@@ -260,211 +260,127 @@
           },
           "desc": {
             "it": "Selezione di salumi, formaggi, giardiniera e crostini misti",
-            "en": "Selection of cold cuts, cheeses, pickled vegetables and mixed crostini",
-            "de": "Auswahl an Wurstwaren, Käse, eingelegtem Gemüse und gemischten Crostini",
-            "fr": "Sélection de charcuteries, fromages, légumes marinés et crostini variés",
-            "es": "Selección de embutidos, quesos, encurtidos y crostini variados",
-            "pl": "Wybór wędlin, serów, marynowanych warzyw i crostini",
-            "ru": "Ассорти мясных деликатесов, сыров, маринованных овощей и кростини",
-            "zh": "冷切肉、奶酪、腌渍蔬菜和烤面包片拼盘",
-            "ja": "生ハム・サラミ、チーズ、野菜の酢漬け、クロスティーニの盛り合わせ",
-            "nl": "Selectie van vleeswaren, kazen, ingelegde groenten en diverse crostini",
-            "nl-BE": "Selectie van vleeswaren, kazen, ingelegde groenten en diverse crostini"
+            "en": "Selection of cold cuts, cheeses, giardiniera and mixed crostini",
+            "de": "Auswahl an Wurstwaren, Käse, Giardiniera und gemischten Crostini",
+            "fr": "Sélection de charcuteries, fromages, giardiniera et crostini variés",
+            "es": "Selección de embutidos, quesos, giardiniera y crostini variados",
+            "pl": "Wybór wędlin, serów, giardiniery i różnych crostini",
+            "ru": "Ассорти мясных деликатесов, сыров, джардиньеры и кростини",
+            "zh": "冷切肉、奶酪、意式腌渍蔬菜和混合烤面包片拼盘",
+            "ja": "生ハム・サラミ、チーズ、ジャルディニエーラ、クロスティーニの盛り合わせ",
+            "nl": "Selectie van vleeswaren, kazen, giardiniera en diverse crostini",
+            "nl-BE": "Selectie van vleeswaren, kazen, giardiniera en diverse crostini"
           },
           "price": "18 €",
           "allergens": "1,3,7,8,9,12"
         },
         {
           "name": {
-            "it": "La padellata di mare",
-            "en": "Seafood sauté",
-            "de": "Meeresfrüchtepfanne",
-            "fr": "Poêlée de fruits de mer",
-            "es": "Salteado de mariscos",
-            "pl": "Patelnia owoców morza",
-            "ru": "Морепродукты на сковороде",
-            "zh": "海鲜拼盘",
-            "ja": "魚介のソテー",
-            "nl": "Zeevruchtensauté",
-            "nl-BE": "Zeevruchtensauté"
-          },
-          "desc": {
-            "it": "Sauté di cozze, molluschi, crostacei e pescato del giorno. Minimo 2 persone",
-            "en": "Sauté of mussels, shellfish, crustaceans and catch of the day. Minimum 2 people",
-            "de": "Miesmuscheln, Weichtiere, Krustentiere und Tagesfang. Mindestens 2 Personen",
-            "fr": "Moules, coquillages, crustacés et poisson du jour. Minimum 2 personnes",
-            "es": "Mejillones, moluscos, crustáceos y pesca del día. Mínimo 2 personas",
-            "pl": "Małże, skorupiaki i ryba dnia. Minimum 2 osoby",
-            "ru": "Мидии, моллюски, ракообразные и рыба дня. Минимум 2 человека",
-            "zh": "贻贝、贝类、甲壳类及当日鲜鱼。至少2人",
-            "ja": "ムール貝、貝類、甲殻類、本日の鮮魚。2名様より",
-            "nl": "Sauté van mosselen, schelpdieren, schaaldieren en vangst van de dag. Minimaal 2 personen",
-            "nl-BE": "Sauté van mosselen, schelpdieren, schaaldieren en vangst van de dag. Minimaal 2 personen"
-          },
-          "price": "29 € / persona",
-          "allergens": "2,4,12,14"
-        }
-      ]
-    },
-    {
-      "id": "starters",
-      "title": {
-        "it": "Antipasti",
-        "en": "Starters",
-        "de": "Vorspeisen",
-        "fr": "Entrées",
-        "es": "Entrantes",
-        "pl": "Przystawki",
-        "ru": "Закуски",
-        "zh": "前菜",
-        "ja": "前菜",
-        "nl": "Voorgerechten",
-        "nl-BE": "Voorgerechten"
-      },
-      "items": [
-        {
-          "name": {
-            "it": "Giardiniera di verdure",
-            "en": "Pickled vegetables",
-            "de": "Eingelegtes Gemüse",
-            "fr": "Légumes marinés",
-            "es": "Verduras encurtidas",
-            "pl": "Marynowane warzywa",
-            "ru": "Маринованные овощи",
-            "zh": "腌渍蔬菜",
-            "ja": "野菜のピクルス",
-            "nl": "Ingelegde groenten",
-            "nl-BE": "Ingelegde groenten"
+            "it": "Giardiniera di verdure di nostra produzione",
+            "en": "Our own pickled vegetables",
+            "de": "Hausgemachtes eingelegtes Gemüse",
+            "fr": "Giardiniera de légumes maison",
+            "es": "Verduras encurtidas de elaboración propia",
+            "pl": "Domowa giardiniera z warzyw",
+            "ru": "Домашняя джардиньера из овощей",
+            "zh": "自制意式腌渍蔬菜",
+            "ja": "自家製野菜のジャルディニエーラ",
+            "nl": "Huisgemaakte ingelegde groenten",
+            "nl-BE": "Huisgemaakte ingelegde groenten"
           },
           "desc": {},
           "price": "10 €",
-          "allergens": "9,12"
+          "allergens": "8,12"
         },
         {
           "name": {
-            "it": "Carciofini sott’olio",
-            "en": "Artichokes in oil",
-            "de": "Artischocken in Öl",
-            "fr": "Artichauts à l’huile",
-            "es": "Alcachofas en aceite",
-            "pl": "Karczochy w oliwie",
-            "ru": "Артишоки в масле",
-            "zh": "油浸小洋蓟",
-            "ja": "アーティチョークのオイル漬け",
-            "nl": "Artisjokken in olie",
-            "nl-BE": "Artisjokken in olie"
+            "it": "Calamaretto spillo su crema di patate e cicoria ripassata",
+            "en": "Baby squid skewer in creamed potatoes and sautéed chicory",
+            "de": "Baby-Kalmarspieß auf Kartoffelcreme und sautiertem Chicorée",
+            "fr": "Brochette de petit calamar sur crème de pommes de terre et chicorée sautée",
+            "es": "Brocheta de calamar pequeño sobre crema de patata y achicoria salteada",
+            "pl": "Szaszłyk z małej kałamarnicy na kremie ziemniaczanym z podsmażaną cykorią",
+            "ru": "Шпажка из молодого кальмара на картофельном креме с обжаренным цикорием",
+            "zh": "小鱿鱼串配土豆泥和炒菊苣",
+            "ja": "ベビーイカの串焼き、ポテトクリームとソテーしたチコリ",
+            "nl": "Spiesje van kleine inktvis op aardappelcrème met gebakken cichorei",
+            "nl-BE": "Spiesje van kleine inktvis op aardappelcrème met gebakken cichorei"
           },
           "desc": {},
-          "price": "9 €",
-          "allergens": "12"
+          "price": "17 €",
+          "allergens": "4,14"
         },
         {
           "name": {
-            "it": "Tacos con tonno crudo, feta, avocado",
-            "en": "Tacos with raw tuna, feta and avocado",
-            "de": "Tacos mit rohem Thunfisch, Feta und Avocado",
-            "fr": "Tacos au thon cru, feta et avocat",
-            "es": "Tacos con atún crudo, feta y aguacate",
-            "pl": "Tacos z surowym tuńczykiem, fetą i awokado",
-            "ru": "Тако с сырым тунцом, фетой и авокадо",
-            "zh": "生金枪鱼、菲达奶酪和牛油果塔可",
-            "ja": "生マグロ、フェタ、アボカドのタコス",
-            "nl": "Taco's met rauwe tonijn, feta en avocado",
-            "nl-BE": "Taco's met rauwe tonijn, feta en avocado"
+            "it": "Battuta di manzo al coltello su osso e tartufo nero",
+            "en": "Hand-cut beef tartare on bone marrow and black truffle",
+            "de": "Handgeschnittenes Rindertatar auf Knochenmark mit schwarzem Trüffel",
+            "fr": "Tartare de bœuf coupé au couteau sur moelle osseuse et truffe noire",
+            "es": "Tartar de ternera cortado a cuchillo sobre tuétano y trufa negra",
+            "pl": "Tatar wołowy siekany nożem na szpiku kostnym z czarną truflą",
+            "ru": "Тартар из говядины ручной рубки на костном мозге с чёрным трюфелем",
+            "zh": "手切牛肉鞑靼配骨髓和黑松露",
+            "ja": "手切り牛肉のタルタル、骨髄と黒トリュフ",
+            "nl": "Met de hand gesneden rundertartaar op beenmerg met zwarte truffel",
+            "nl-BE": "Met de hand gesneden rundertartaar op beenmerg met zwarte truffel"
           },
           "desc": {},
-          "price": "16 €",
-          "allergens": "1,4,7"
-        },
-        {
-          "name": {
-            "it": "Insalatina di mare tiepida",
-            "en": "Warm seafood salad",
-            "de": "Lauwarmer Meeresfrüchtesalat",
-            "fr": "Salade tiède de fruits de mer",
-            "es": "Ensalada tibia de marisco",
-            "pl": "Ciepła sałatka z owoców morza",
-            "ru": "Тёплый салат из морепродуктов",
-            "zh": "温热海鲜沙拉",
-            "ja": "温かいシーフードサラダ",
-            "nl": "Lauwwarme zeevruchtensalade",
-            "nl-BE": "Lauwwarme zeevruchtensalade"
-          },
-          "desc": {},
-          "price": "18 €",
-          "allergens": "2,4,12,14"
-        },
-        {
-          "name": {
-            "it": "Sandwiches con paté di fegatini alla toscana",
-            "en": "Sandwiches with Tuscan-style liver pâté",
-            "de": "Sandwiches mit toskanischer Leberpastete",
-            "fr": "Sandwiches au pâté de foie à la toscane",
-            "es": "Sándwiches con paté de hígado a la toscana",
-            "pl": "Kanapki z toskańskim pasztetem z wątróbki",
-            "ru": "Сэндвичи с тосканским паштетом из печени",
-            "zh": "托斯卡纳式鸡肝酱三明治",
-            "ja": "トスカーナ風レバーパテのサンドイッチ",
-            "nl": "Sandwiches met Toscaanse leverpaté",
-            "nl-BE": "Sandwiches met Toscaanse leverpaté"
-          },
-          "desc": {},
-          "price": "15 €",
-          "allergens": "1,12"
-        },
-        {
-          "name": {
-            "it": "Parmigiana croccante",
-            "en": "Crispy parmigiana",
-            "de": "Knusprige Parmigiana",
-            "fr": "Parmigiana croustillante",
-            "es": "Parmigiana crujiente",
-            "pl": "Chrupiąca parmigiana",
-            "ru": "Хрустящая пармиджана",
-            "zh": "酥脆帕尔米贾纳",
-            "ja": "クリスピー・パルミジャーナ",
-            "nl": "Krokante parmigiana",
-            "nl-BE": "Krokante parmigiana"
-          },
-          "desc": {},
-          "price": "14 €",
+          "price": "20 €",
           "allergens": "1,3,7"
         },
         {
           "name": {
-            "it": "Pan brioche con alici del Mar Cantabrico",
-            "en": "Brioche with Cantabrian anchovies",
-            "de": "Brioche mit kantabrischen Sardellen",
-            "fr": "Brioche aux anchois de Cantabrie",
-            "es": "Brioche con anchoas del Cantábrico",
-            "pl": "Brioche z anchois z Kantabrii",
-            "ru": "Бриошь с кантабрийскими анчоусами",
-            "zh": "布里欧修配坎塔布里亚凤尾鱼",
-            "ja": "カンタブリア産アンチョビのブリオッシュ",
-            "nl": "Brioche met Cantabrische ansjovis",
-            "nl-BE": "Brioche met Cantabrische ansjovis"
+            "it": "Patè di fegatini alla toscana con pan brioche e riduzione del Chianti",
+            "en": "Tuscan chicken liver paté with brioche bread and red wine sauce",
+            "de": "Toskanische Hühnerleberpastete mit Brioche und Chianti-Reduktion",
+            "fr": "Pâté de foies de volaille à la toscane, brioche et réduction de Chianti",
+            "es": "Paté toscano de hígado de pollo con pan brioche y reducción de Chianti",
+            "pl": "Toskański pasztet z wątróbek drobiowych z brioche i redukcją Chianti",
+            "ru": "Тосканский паштет из куриной печени с бриошью и соусом-редукцией из Кьянти",
+            "zh": "托斯卡纳鸡肝酱配布里欧修面包和基安蒂红酒浓缩汁",
+            "ja": "トスカーナ風鶏レバーパテ、ブリオッシュとキャンティのリダクション",
+            "nl": "Toscaanse kippenleverpaté met brioche en Chianti-reductie",
+            "nl-BE": "Toscaanse kippenleverpaté met brioche en Chianti-reductie"
           },
           "desc": {},
-          "price": "16 €",
-          "allergens": "1,4,7"
+          "price": "15 €",
+          "allergens": "1,3,7,9,12"
         },
         {
           "name": {
-            "it": "Carpaccio di manzo",
-            "en": "Beef carpaccio",
-            "de": "Rindercarpaccio",
-            "fr": "Carpaccio de bœuf",
-            "es": "Carpaccio de ternera",
-            "pl": "Carpaccio wołowe",
-            "ru": "Карпаччо из говядины",
-            "zh": "牛肉卡帕乔",
-            "ja": "牛肉のカルパッチョ",
-            "nl": "Rundercarpaccio",
-            "nl-BE": "Rundercarpaccio"
+            "it": "Baccalà mantecato, chips di polenta grigliata e peperoni in agrodolce",
+            "en": "Creamed salted cod, crispy polenta chips and sweet & sour peppers",
+            "de": "Cremiger Stockfisch, knusprige gegrillte Polenta-Chips und süßsaure Paprika",
+            "fr": "Brandade de morue, chips de polenta grillée et poivrons aigres-doux",
+            "es": "Bacalao cremoso, chips crujientes de polenta a la parrilla y pimientos agridulces",
+            "pl": "Kremowy solony dorsz, chrupiące chipsy z grillowanej polenty i słodko-kwaśna papryka",
+            "ru": "Кремовый солёный баккала, хрустящие чипсы из поленты и кисло-сладкий перец",
+            "zh": "奶油盐鳕鱼配香脆烤玉米糕片和糖醋甜椒",
+            "ja": "バッカラのマンテカート、グリルしたポレンタチップスと甘酢パプリカ",
+            "nl": "Romige gezouten kabeljauw, krokante gegrilde polentachips en zoetzure paprika",
+            "nl-BE": "Romige gezouten kabeljauw, krokante gegrilde polentachips en zoetzure paprika"
           },
           "desc": {},
           "price": "16 €",
-          "allergens": "7,12"
+          "allergens": "4,12"
+        },
+        {
+          "name": {
+            "it": "Pan brioches, burro montato e alici del mar Cantabrico",
+            "en": "Brioche bread, whipped butter and Cantabrian anchovies",
+            "de": "Briochebrot, aufgeschlagene Butter und kantabrische Sardellen",
+            "fr": "Pain brioché, beurre fouetté et anchois de Cantabrie",
+            "es": "Pan brioche, mantequilla montada y anchoas del Cantábrico",
+            "pl": "Pieczywo brioche, ubite masło i anchois z Kantabrii",
+            "ru": "Бриошь, взбитое сливочное масло и кантабрийские анчоусы",
+            "zh": "布里欧修面包、打发黄油和坎塔布里亚凤尾鱼",
+            "ja": "ブリオッシュ、ホイップバター、カンタブリア産アンチョビ",
+            "nl": "Briochebrood, opgeklopte boter en Cantabrische ansjovis",
+            "nl-BE": "Briochebrood, opgeklopte boter en Cantabrische ansjovis"
+          },
+          "desc": {},
+          "price": "16 €",
+          "allergens": "1,3,4,7"
         }
       ]
     },
@@ -486,83 +402,71 @@
       "items": [
         {
           "name": {
-            "it": "Paccheri al ragù di polpo",
-            "en": "Paccheri with octopus ragout",
-            "de": "Paccheri mit Oktopusragout",
-            "fr": "Paccheri au ragoût de poulpe",
-            "es": "Paccheri con ragú de pulpo",
-            "pl": "Paccheri z ragù z ośmiornicy",
-            "ru": "Паккери с рагу из осьминога",
-            "zh": "章鱼肉酱宽管面",
-            "ja": "タコのラグーのパッケリ",
-            "nl": "Paccheri met octopusragù",
-            "nl-BE": "Paccheri met octopusragù"
+            "it": "Paccheri freschi al ragù di polpo e polvere di olive nere",
+            "en": "Fresh paccheri with octopus ragù and black olives dust",
+            "de": "Frische Paccheri mit Oktopusragout und schwarzem Olivenpulver",
+            "fr": "Paccheri frais au ragoût de poulpe et poudre d’olives noires",
+            "es": "Paccheri frescos con ragú de pulpo y polvo de aceitunas negras",
+            "pl": "Świeże paccheri z ragù z ośmiornicy i pudrem z czarnych oliwek",
+            "ru": "Свежие паккери с рагу из осьминога и пудрой из чёрных оливок",
+            "zh": "新鲜宽管面配章鱼肉酱和黑橄榄粉",
+            "ja": "生パッケリ、タコのラグーと黒オリーブパウダー",
+            "nl": "Verse paccheri met octopusragù en poeder van zwarte olijven",
+            "nl-BE": "Verse paccheri met octopusragù en poeder van zwarte olijven"
           },
           "desc": {},
           "price": "18 €",
-          "allergens": "1,4,14"
+          "allergens": "1,4,12,14*"
         },
         {
           "name": {
-            "it": "Linguine lupini, vongole e bottarga",
-            "en": "Linguine with clams and bottarga",
-            "de": "Linguine mit Venusmuscheln und Bottarga",
-            "fr": "Linguine aux palourdes et poutargue",
-            "es": "Linguine con almejas y bottarga",
-            "pl": "Linguine z małżami i bottargą",
-            "ru": "Лингвини с моллюсками и боттаргой",
-            "zh": "蛤蜊乌鱼子扁面",
-            "ja": "アサリとボッタルガのリングイネ",
-            "nl": "Linguine met venusschelpen en bottarga",
-            "nl-BE": "Linguine met venusschelpen en bottarga"
-          },
-          "desc": {
-            "it": "Bottarga grattugiata: uova di pesce salate ed essiccate, grattugiate sul piatto.",
-            "en": "Grated bottarga: salted and dried fish roe, grated over the dish.",
-            "de": "Geriebene Bottarga: gesalzener und getrockneter Fischrogen, über das Gericht gerieben.",
-            "fr": "Poutargue râpée : œufs de poisson salés et séchés, râpés sur le plat.",
-            "es": "Bottarga rallada: huevas de pescado saladas y secas, ralladas sobre el plato.",
-            "pl": "Starta bottarga: solona i suszona ikra rybia, starta na danie.",
-            "ru": "Тёртая боттарга: солёная и высушенная рыбная икра, натёртая на блюдо.",
-            "zh": "磨碎的 Bottarga：盐渍风干的鱼卵，刨碎后撒在菜品上。",
-            "ja": "すりおろしたボッタルガ：塩漬けして乾燥させた魚卵を、料理の上にすりおろして使います。",
-            "nl": "Geraspte bottarga: gezouten en gedroogde viskuit, over het gerecht geraspt.",
-            "nl-BE": "Geraspte bottarga: gezouten en gedroogde viskuit, over het gerecht geraspt."
-          },
-          "price": "20 €",
-          "allergens": "1,4,13,14"
-        },
-        {
-          "name": {
-            "it": "Linguine al pescato del giorno",
-            "en": "Linguine with catch of the day",
-            "de": "Linguine mit Tagesfang",
-            "fr": "Linguine au poisson du jour",
-            "es": "Linguine con pesca del día",
-            "pl": "Linguine z rybą dnia",
-            "ru": "Лингвини с рыбой дня",
-            "zh": "当日鲜鱼扁面",
-            "ja": "本日の鮮魚のリングイネ",
-            "nl": "Linguine met vangst van de dag",
-            "nl-BE": "Linguine met vangst van de dag"
+            "it": "Gnocchi con crema di zucca, porcini e nocciole tostate",
+            "en": "Potato gnocchi with pumpkin cream, porcini mushrooms and toasted hazelnuts",
+            "de": "Kartoffelgnocchi mit Kürbiscreme, Steinpilzen und gerösteten Haselnüssen",
+            "fr": "Gnocchi de pommes de terre à la crème de potiron, cèpes et noisettes grillées",
+            "es": "Ñoquis de patata con crema de calabaza, boletus y avellanas tostadas",
+            "pl": "Gnocchi ziemniaczane z kremem dyniowym, borowikami i prażonymi orzechami laskowymi",
+            "ru": "Картофельные ньокки с тыквенным кремом, белыми грибами и жареным фундуком",
+            "zh": "土豆团子配南瓜奶油、牛肝菌和烤榛子",
+            "ja": "ポテトニョッキ、カボチャクリーム、ポルチーニ、ローストヘーゼルナッツ",
+            "nl": "Aardappelgnocchi met pompoencrème, eekhoorntjesbrood en geroosterde hazelnoten",
+            "nl-BE": "Aardappelgnocchi met pompoencrème, eekhoorntjesbrood en geroosterde hazelnoten"
           },
           "desc": {},
-          "price": "19 €",
-          "allergens": "1,4"
+          "price": "18 €",
+          "allergens": "3,8"
         },
         {
           "name": {
-            "it": "Pici al ragù bianco di Cinta Senese",
-            "en": "Pici with white Cinta Senese ragù",
-            "de": "Pici mit weißem Cinta-Senese-Ragout",
-            "fr": "Pici au ragoût blanc de Cinta Senese",
-            "es": "Pici con ragú blanco de Cinta Senese",
-            "pl": "Pici z białym ragù z Cinta Senese",
-            "ru": "Пичи с белым рагу из свинины Cinta Senese",
-            "zh": "白酱森内斯黑猪肉皮奇面",
-            "ja": "チンタ・セネーゼ豚の白いラグーのピチ",
-            "nl": "Pici met witte ragù van Cinta Senese",
-            "nl-BE": "Pici met witte ragù van Cinta Senese"
+            "it": "Tagliolino burro e tartufo nero",
+            "en": "Fresh egg tagliolino with butter and black truffle",
+            "de": "Frische Eier-Tagliolini mit Butter und schwarzem Trüffel",
+            "fr": "Tagliolino frais aux œufs, beurre et truffe noire",
+            "es": "Tagliolino fresco al huevo con mantequilla y trufa negra",
+            "pl": "Świeże tagliolino jajeczne z masłem i czarną truflą",
+            "ru": "Свежие яичные тальолини со сливочным маслом и чёрным трюфелем",
+            "zh": "新鲜鸡蛋细面配黄油和黑松露",
+            "ja": "生卵のタリオリーノ、バターと黒トリュフ",
+            "nl": "Verse eiertagliolino met boter en zwarte truffel",
+            "nl-BE": "Verse eiertagliolino met boter en zwarte truffel"
+          },
+          "desc": {},
+          "price": "20 €",
+          "allergens": "1,3,7"
+        },
+        {
+          "name": {
+            "it": "Picio al ragù bianco di cinta senese",
+            "en": "Hand-rolled pici with white ragù of Cinta Senese pork",
+            "de": "Handgerollte Pici mit weißem Ragout vom Cinta-Senese-Schwein",
+            "fr": "Pici roulés à la main au ragoût blanc de porc Cinta Senese",
+            "es": "Pici hechos a mano con ragú blanco de cerdo Cinta Senese",
+            "pl": "Ręcznie rolowane pici z białym ragù z wieprzowiny Cinta Senese",
+            "ru": "Пичи ручной работы с белым рагу из свинины Cinta Senese",
+            "zh": "手工皮奇面配 Cinta Senese 猪肉白肉酱",
+            "ja": "手打ちピチ、チンタ・セネーゼ豚の白いラグー",
+            "nl": "Handgerolde pici met witte ragù van Cinta Senese-varkensvlees",
+            "nl-BE": "Handgerolde pici met witte ragù van Cinta Senese-varkensvlees"
           },
           "desc": {
             "it": "Ragù bianco di Cinta Senese: maiale di razza toscana, cotto senza pomodoro.",
@@ -578,25 +482,25 @@
             "nl-BE": "Witte ragù van Cinta Senese-varkensvlees, een Toscaans varkensras, bereid zonder tomaat."
           },
           "price": "17 €",
-          "allergens": "1,3"
+          "allergens": "1,3,9,12,*"
         },
         {
           "name": {
-            "it": "Gnocchi di semola con zucchine e ricotta salata",
-            "en": "Semolina gnocchi with courgettes and salted ricotta",
-            "de": "Grießgnocchi mit Zucchini und gesalzener Ricotta",
-            "fr": "Gnocchi de semoule aux courgettes et ricotta salée",
-            "es": "Ñoquis de sémola con calabacín y ricotta salada",
-            "pl": "Gnocchi z semoliny z cukinią i soloną ricottą",
-            "ru": "Ньокки из семолины с цукини и солёной рикоттой",
-            "zh": "粗粒小麦团子配西葫芦和咸乳清干酪",
-            "ja": "セモリナのニョッキ、ズッキーニと塩漬けリコッタ",
-            "nl": "Griesmeelgnocchi met courgette en gezouten ricotta",
-            "nl-BE": "Griesmeelgnocchi met courgette en gezouten ricotta"
+            "it": "Linguina ai sapori di mare",
+            "en": "Seafood linguine",
+            "de": "Linguine mit Meeresfrüchten",
+            "fr": "Linguine aux saveurs de la mer",
+            "es": "Linguine con sabores del mar",
+            "pl": "Linguine o smaku morza",
+            "ru": "Лингвини с морепродуктами",
+            "zh": "海鲜扁面",
+            "ja": "魚介のリングイネ",
+            "nl": "Linguine met zeevruchten",
+            "nl-BE": "Linguine met zeevruchten"
           },
           "desc": {},
-          "price": "15 €",
-          "allergens": "1,7"
+          "price": "19 €",
+          "allergens": "1,2,4,14"
         }
       ]
     },
@@ -618,71 +522,35 @@
       "items": [
         {
           "name": {
-            "it": "Entrecôte con patate novelle",
-            "en": "Entrecôte with new potatoes",
-            "de": "Entrecôte mit jungen Kartoffeln",
-            "fr": "Entrecôte aux pommes de terre nouvelles",
-            "es": "Entrecot con patatas nuevas",
-            "pl": "Antrykot z młodymi ziemniakami",
-            "ru": "Антрекот с молодым картофелем",
-            "zh": "肋眼牛排配新土豆",
-            "ja": "アントルコート、新じゃが添え",
-            "nl": "Entrecote met krielaardappelen",
-            "nl-BE": "Entrecote met krielaardappelen"
+            "it": "Entrecote di manzo e patate novelle",
+            "en": "Beef entrecote with roasted potatoes",
+            "de": "Rinderentrecôte mit Ofenkartoffeln",
+            "fr": "Entrecôte de bœuf et pommes de terre rôties",
+            "es": "Entrecot de ternera con patatas asadas",
+            "pl": "Antrykot wołowy z pieczonymi ziemniakami",
+            "ru": "Говяжий антрекот с запечённым картофелем",
+            "zh": "牛肉肋眼配烤土豆",
+            "ja": "牛肉のアントルコート、ローストポテト添え",
+            "nl": "Runderentrecote met geroosterde aardappelen",
+            "nl-BE": "Runderentrecote met geroosterde aardappelen"
           },
           "desc": {},
           "price": "22 €",
-          "allergens": "12"
+          "allergens": "9,12"
         },
         {
           "name": {
-            "it": "Frittura di calamari e gamberi",
-            "en": "Fried calamari and shrimp",
-            "de": "Frittierte Calamari und Garnelen",
-            "fr": "Friture de calamars et crevettes",
-            "es": "Fritura de calamares y gambas",
-            "pl": "Smażone kalmary i krewetki",
-            "ru": "Жареные кальмары и креветки",
-            "zh": "炸鱿鱼和虾",
-            "ja": "イカとエビのフリット",
-            "nl": "Gefrituurde calamares en garnalen",
-            "nl-BE": "Gefrituurde calamares en garnalen"
-          },
-          "desc": {},
-          "price": "20 €",
-          "allergens": "1,2,14"
-        },
-        {
-          "name": {
-            "it": "Pesce fresco al forno o all’isolana",
-            "en": "Fresh fish, baked or island-style",
-            "de": "Frischer Fisch aus dem Ofen oder nach Inselart",
-            "fr": "Poisson frais au four ou à l’insulaire",
-            "es": "Pescado fresco al horno o al estilo isleño",
-            "pl": "Świeża ryba pieczona lub po wyspiarsku",
-            "ru": "Свежая рыба, запечённая или по-островному",
-            "zh": "烤鲜鱼或海岛风味鲜鱼",
-            "ja": "鮮魚のオーブン焼き／島風",
-            "nl": "Verse vis, uit de oven of op eilandwijze",
-            "nl-BE": "Verse vis, uit de oven of op eilandwijze"
-          },
-          "desc": {},
-          "price": "7/8 € / hg",
-          "allergens": "4"
-        },
-        {
-          "name": {
-            "it": "Orata da porzione (400 g)",
-            "en": "Portion-sized sea bream (400 g)",
-            "de": "Dorade, Portionsgröße (400 g)",
-            "fr": "Dorade portion (400 g)",
-            "es": "Dorada de ración (400 g)",
-            "pl": "Dorada porcjowa (400 g)",
-            "ru": "Порционная дорада (400 г)",
-            "zh": "份装金头鲷（400克）",
-            "ja": "真鯛 1尾（400g）",
-            "nl": "Portie zeebrasem (400 g)",
-            "nl-BE": "Portie zeebrasem (400 g)"
+            "it": "Orata ripiena, salsa di finocchio e verdure saltate al peperoncino",
+            "en": "Stuffed sea bream, fennel sauce and chilli-tossed vegetables",
+            "de": "Gefüllte Dorade mit Fenchelsauce und in Chili geschwenktem Gemüse",
+            "fr": "Dorade farcie, sauce au fenouil et légumes sautés au piment",
+            "es": "Dorada rellena, salsa de hinojo y verduras salteadas con guindilla",
+            "pl": "Faszerowana dorada, sos z kopru włoskiego i warzywa smażone z chili",
+            "ru": "Фаршированная дорада, соус из фенхеля и овощи, обжаренные с перцем чили",
+            "zh": "酿金头鲷配茴香酱和辣椒炒蔬菜",
+            "ja": "詰め物をした真鯛、フェンネルソースと唐辛子炒め野菜",
+            "nl": "Gevulde zeebrasem, venkelsaus en met chili gebakken groenten",
+            "nl-BE": "Gevulde zeebrasem, venkelsaus en met chili gebakken groenten"
           },
           "desc": {},
           "price": "23 €",
@@ -690,21 +558,57 @@
         },
         {
           "name": {
-            "it": "Baccalà alla livornese",
-            "en": "Cod Livorno-style",
-            "de": "Stockfisch nach Livorno-Art",
-            "fr": "Morue à la livournaise",
-            "es": "Bacalao a la livornesa",
-            "pl": "Dorsz po livorneńsku",
-            "ru": "Треска по-ливорнски",
-            "zh": "里窝那风味鳕鱼",
-            "ja": "リヴォルノ風バッカラ",
-            "nl": "Kabeljauw op Livornese wijze",
-            "nl-BE": "Kabeljauw op Livornese wijze"
+            "it": "Baccalà in olio cottura con scarola, uvetta e pinoli",
+            "en": "Oil-poached salted cod with escarole, raisins and pine nuts",
+            "de": "In Öl gegarter Stockfisch mit Endivie, Rosinen und Pinienkernen",
+            "fr": "Morue cuite à l’huile avec scarole, raisins secs et pignons",
+            "es": "Bacalao confitado en aceite con escarola, pasas y piñones",
+            "pl": "Solony dorsz gotowany w oliwie z escarolą, rodzynkami i orzeszkami piniowymi",
+            "ru": "Солёная треска, томлённая в масле, с эскаролем, изюмом и кедровыми орехами",
+            "zh": "油浸盐鳕鱼配菊苣、葡萄干和松子",
+            "ja": "バッカラのオイル煮、エスカロール、レーズン、松の実",
+            "nl": "In olie gegaarde gezouten kabeljauw met escarole, rozijnen en pijnboompitten",
+            "nl-BE": "In olie gegaarde gezouten kabeljauw met escarole, rozijnen en pijnboompitten"
           },
           "desc": {},
           "price": "19 €",
-          "allergens": "1,4,12"
+          "allergens": "1,2,14*"
+        },
+        {
+          "name": {
+            "it": "Capocollo brasato con burro di mela e zucca speziata",
+            "en": "Braised pork capocollo with apple butter and spiced pumpkin",
+            "de": "Geschmorter Schweinenacken mit Apfelbutter und gewürztem Kürbis",
+            "fr": "Capocollo de porc braisé, beurre de pomme et potiron épicé",
+            "es": "Capocollo de cerdo braseado con mantequilla de manzana y calabaza especiada",
+            "pl": "Duszony capocollo wieprzowy z masłem jabłkowym i korzenną dynią",
+            "ru": "Томлёный свиной капоколло с яблочным маслом и пряной тыквой",
+            "zh": "炖猪颈肉配苹果酱和香料南瓜",
+            "ja": "豚カポコッロの煮込み、アップルバターとスパイス風味のカボチャ",
+            "nl": "Gestoofde varkenscapocollo met appelboter en gekruide pompoen",
+            "nl-BE": "Gestoofde varkenscapocollo met appelboter en gekruide pompoen"
+          },
+          "desc": {},
+          "price": "18 €",
+          "allergens": "7,9,12"
+        },
+        {
+          "name": {
+            "it": "Frittura di calamari e gamberi con verdure in pastella",
+            "en": "Fried calamari and prawns with battered vegetables",
+            "de": "Frittierte Calamari und Garnelen mit Gemüse im Teigmantel",
+            "fr": "Friture de calamars et crevettes avec légumes en beignet",
+            "es": "Fritura de calamares y gambas con verduras rebozadas",
+            "pl": "Smażone kalmary i krewetki z warzywami w cieście",
+            "ru": "Жареные кальмары и креветки с овощами в кляре",
+            "zh": "炸鱿鱼和虾配裹糊蔬菜",
+            "ja": "イカとエビのフリット、野菜の衣揚げ",
+            "nl": "Gefrituurde calamares en garnalen met groenten in beslag",
+            "nl-BE": "Gefrituurde calamares en garnalen met groenten in beslag"
+          },
+          "desc": {},
+          "price": "20 €",
+          "allergens": "4,9"
         }
       ]
     },
@@ -739,43 +643,43 @@
             "nl-BE": "Geroosterde aardappelen"
           },
           "desc": {},
-          "price": "5 €",
+          "price": "6 €",
           "allergens": ""
         },
         {
           "name": {
-            "it": "Verdure miste al forno",
-            "en": "Mixed roasted vegetables",
-            "de": "Gemischtes Ofengemüse",
-            "fr": "Légumes rôtis variés",
-            "es": "Verduras mixtas al horno",
-            "pl": "Mieszane pieczone warzywa",
-            "ru": "Овощи, запечённые в духовке",
-            "zh": "烤杂蔬",
-            "ja": "ミックスロースト野菜",
-            "nl": "Gemengde geroosterde groenten",
-            "nl-BE": "Gemengde geroosterde groenten"
+            "it": "Verdure a foglia secondo disponibilità",
+            "en": "Seasonal leafy greens",
+            "de": "Blattgemüse je nach Verfügbarkeit",
+            "fr": "Légumes-feuilles selon disponibilité",
+            "es": "Verduras de hoja según disponibilidad",
+            "pl": "Warzywa liściaste zależnie od dostępności",
+            "ru": "Листовые овощи в зависимости от наличия",
+            "zh": "时令绿叶蔬菜（视供应情况）",
+            "ja": "入荷状況による葉物野菜",
+            "nl": "Bladgroenten volgens beschikbaarheid",
+            "nl-BE": "Bladgroenten volgens beschikbaarheid"
+          },
+          "desc": {},
+          "price": "6 €",
+          "allergens": ""
+        },
+        {
+          "name": {
+            "it": "Contorno del giorno",
+            "en": "Daily side",
+            "de": "Tagesbeilage",
+            "fr": "Accompagnement du jour",
+            "es": "Guarnición del día",
+            "pl": "Dodatek dnia",
+            "ru": "Гарнир дня",
+            "zh": "今日配菜",
+            "ja": "本日の付け合わせ",
+            "nl": "Bijgerecht van de dag",
+            "nl-BE": "Bijgerecht van de dag"
           },
           "desc": {},
           "price": "7 €",
-          "allergens": ""
-        },
-        {
-          "name": {
-            "it": "Insalata mista",
-            "en": "Mixed salad",
-            "de": "Gemischter Salat",
-            "fr": "Salade composée",
-            "es": "Ensalada mixta",
-            "pl": "Sałatka mieszana",
-            "ru": "Смешанный салат",
-            "zh": "混合沙拉",
-            "ja": "ミックスサラダ",
-            "nl": "Gemengde salade",
-            "nl-BE": "Gemengde salade"
-          },
-          "desc": {},
-          "price": "5 €",
           "allergens": ""
         }
       ]
