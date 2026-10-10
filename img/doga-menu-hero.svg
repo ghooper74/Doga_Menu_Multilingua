@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 600" role="img" aria-labelledby="title desc">
+  <title id="title">DOGA · Menù digitale</title>
+  <desc id="desc">Grafica DOGA con vino, ulivi, aglio e titolo del menù digitale.</desc>
+  <rect width="1800" height="600" rx="34" fill="#f6f0e2"/>
+  <g fill="none" stroke="#6b2d24" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Bottle -->
+    <path d="M250 80h70v78c0 25 22 40 35 59 14 20 22 46 22 73v184c0 26-20 46-46 46h-92c-26 0-46-20-46-46V290c0-28 8-53 22-73 13-19 35-34 35-59z"/>
+    <path d="M250 128h70M205 322h160M205 440h160"/>
+    <path d="M267 86l36 36M267 105l36 36M267 124l30 30"/>
+    <!-- Wine glass -->
+    <path d="M365 244c0 83 36 132 94 132s94-49 94-132z"/>
+    <path d="M459 376v108M416 484h86"/>
+    <path d="M382 300c48 16 105 16 154 0"/>
+    <!-- Left olive branch -->
+    <path d="M55 480c95-58 142-74 196-75"/>
+    <path d="M79 455l-42-46M105 442l-31-59M139 427l-5-62M171 417l20-57M201 411l41-47"/>
+    <ellipse cx="79" cy="474" rx="25" ry="17"/>
+    <ellipse cx="126" cy="450" rx="25" ry="17"/>
+    <ellipse cx="174" cy="430" rx="25" ry="17"/>
+    <!-- Garlic -->
+    <path d="M1490 442c-33-47-28-102 5-138 7-8 12-16 15-29 13 12 22 24 25 39 20-15 39-22 58-20-4 14-1 27 9 39 34 42 25 105-15 135-34 25-76 27-97-26z"/>
+    <path d="M1517 321c-13 56-10 101 8 136M1554 312c-1 58 10 104 32 139"/>
+    <path d="M1582 469c-27 20-63 26-92 15"/>
+    <!-- Right olive branch -->
+    <path d="M1575 454c89-71 140-93 190-96"/>
+    <path d="M1601 433l-17-60M1638 410l2-65M1671 392l30-56M1704 378l49-43"/>
+    <ellipse cx="1618" cy="458" rx="24" ry="16"/>
+    <ellipse cx="1664" cy="422" rx="24" ry="16"/>
+    <ellipse cx="1710" cy="393" rx="24" ry="16"/>
+    <!-- Grounding -->
+    <path d="M55 520h640M1105 520h640"/>
+  </g>
+
+  <g fill="#6b2d24" text-anchor="middle">
+    <text x="900" y="170" font-family="Arial, Helvetica, sans-serif" font-size="108" font-weight="300" letter-spacing="10">DOGA</text>
+    <path d="M814 190c62-24 123-24 186 0 38 14 74 13 111-5" fill="none" stroke="#6b2d24" stroke-width="8" stroke-linecap="round"/>
+    <text x="900" y="322" font-family="Georgia, 'Times New Roman', serif" font-size="96">Menù digitale</text>
+    <text x="900" y="397" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-style="italic">Digital Menu</text>
+  </g>
+</svg>
