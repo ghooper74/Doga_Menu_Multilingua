@@ -768,8 +768,7 @@ function render() {
 }
 
 async function init() {
-  const res = await fetch("./data/menu.json?v=202610101233", { cache: "no-store" });
-  if (!res.ok) throw new Error(`menu.json HTTP ${res.status}`);
+  const res = await fetch("data/menu.json", { cache: "no-store" });
   DATA = await res.json();
 
   render();
