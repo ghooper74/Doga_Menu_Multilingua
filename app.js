@@ -706,6 +706,40 @@ function setTab(id) {
 function render() {
   document.documentElement.lang = lang;
 
+  const headerBanner = document.querySelector(".doga-logo");
+
+  if (headerBanner) {
+    const wineMode = currentTab === "wines";
+
+    const wantedBanner = wineMode
+      ? "img/banner-vini.jpg?v=20261011"
+      : "img/banner-doga.jpg?v=2580140";
+
+    const currentBanner =
+      (headerBanner.getAttribute("src") || "").split("?")[0];
+
+    const wantedPath = wantedBanner.split("?")[0];
+
+    if (currentBanner !== wantedPath) {
+      headerBanner.classList.add("banner-fade");
+
+      const nextBanner = new Image();
+
+      nextBanner.onload = () => {
+        headerBanner.src = wantedBanner;
+        headerBanner.alt = wineMode
+          ? "DOGA · Carta dei vini"
+          : "DOGA";
+
+        requestAnimationFrame(() => {
+          headerBanner.classList.remove("banner-fade");
+        });
+      };
+
+      nextBanner.src = wantedBanner;
+    }
+  }
+
   document.getElementById("subtitle").textContent = t(DATA.meta.subtitle);
   document.getElementById("languageLabel").textContent = label("choose_language");
 

@@ -168,3 +168,12 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
 .subtitle{
   display:none;
 }
+
+/* DOGA cambio banner Menu / Carta Vini */
+.doga-logo{
+  transition:opacity .28s ease;
+}
+
+.doga-logo.banner-fade{
+  opacity:0;
+}
