@@ -2,7 +2,7 @@
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif}
-.hero{padding:14px 12px 18px;text-align:center;background:#f4efe5;color:#6c4f38}
+.hero{padding:28px 18px 20px;text-align:center;background:#17130f;color:#fff}
 .logo{font-size:clamp(2.5rem,9vw,5rem);letter-spacing:.18em;font-weight:300}
 .subtitle{opacity:.82;margin-top:2px}
 .language{display:inline-flex;gap:10px;align-items:center;margin-top:18px}
@@ -50,11 +50,11 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
 
 .language-button{
   min-width:48px;
-  border:1px solid #d7cbbd;
+  border:1px solid #ffffff55;
   border-radius:13px;
   padding:7px 8px 6px;
-  background:#fffdf8;
-  color:#6c4f38;
+  background:#ffffff12;
+  color:#fff;
   font:inherit;
   cursor:pointer;
   display:flex;
@@ -76,11 +76,11 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
 }
 
 .language-button.active{
-  background:#7a3f36;
-  color:#fffdf8;
-  border-color:#7a3f36;
+  background:#fff;
+  color:#17130f;
+  border-color:#fff;
   transform:translateY(-2px);
-  box-shadow:0 4px 12px #6c4f3830
+  box-shadow:0 4px 12px #0006
 }
 
 @media(max-width:520px){
@@ -153,14 +153,4 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
   padding-top:16px;
   border-top:1px solid #ded6ca;
   line-height:1.6;
-}
-
-
-.menu-banner{
-  display:block;
-  width:min(1100px,100%);
-  height:auto;
-  margin:0 auto 14px;
-  border-radius:16px;
-  box-shadow:0 6px 18px #3b2f2214
 }
