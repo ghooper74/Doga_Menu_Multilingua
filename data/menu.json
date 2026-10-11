@@ -12,7 +12,8 @@
       "zh": "电子菜单",
       "ja": "デジタルメニュー",
       "nl": "Digitaal menu",
-      "nl-BE": "Digitaal menu"
+      "nl-BE": "Digitaal menu",
+      "sv": "Digital meny"
     },
     "service": "2,50 €",
     "water": "Acqua trattata naturale/gassata 2 € · Acqua confezionata 3 €"
@@ -28,7 +29,8 @@
     "zh": "中文",
     "ja": "日本語",
     "nl": "Nederlands (NL)",
-    "nl-BE": "Nederlands (BE)"
+    "nl-BE": "Nederlands (BE)",
+    "sv": "Svenska"
   },
   "ui": {
     "menu": {
@@ -42,7 +44,8 @@
       "zh": "菜单",
       "ja": "メニュー",
       "nl": "Menu",
-      "nl-BE": "Menu"
+      "nl-BE": "Menu",
+      "sv": "Meny"
     },
     "salads": {
       "it": "Insalate",
@@ -55,7 +58,8 @@
       "zh": "沙拉",
       "ja": "サラダ",
       "nl": "Salades",
-      "nl-BE": "Salades"
+      "nl-BE": "Salades",
+      "sv": "Sallader"
     },
     "wines": {
       "it": "Vini",
@@ -68,7 +72,8 @@
       "zh": "葡萄酒",
       "ja": "ワイン",
       "nl": "Wijnen",
-      "nl-BE": "Wijnen"
+      "nl-BE": "Wijnen",
+      "sv": "Viner"
     },
     "drinks": {
       "it": "Drink",
@@ -81,7 +86,8 @@
       "zh": "饮品",
       "ja": "ドリンク",
       "nl": "Dranken",
-      "nl-BE": "Dranken"
+      "nl-BE": "Dranken",
+      "sv": "Drycker"
     },
     "allergens": {
       "it": "Allergeni",
@@ -94,7 +100,8 @@
       "zh": "过敏原",
       "ja": "アレルゲン",
       "nl": "Allergenen",
-      "nl-BE": "Allergenen"
+      "nl-BE": "Allergenen",
+      "sv": "Allergener"
     },
     "price": {
       "it": "Prezzo",
@@ -107,7 +114,8 @@
       "zh": "价格",
       "ja": "価格",
       "nl": "Prijs",
-      "nl-BE": "Prijs"
+      "nl-BE": "Prijs",
+      "sv": "Pris"
     },
     "choose_language": {
       "it": "Lingua",
@@ -120,7 +128,8 @@
       "zh": "语言",
       "ja": "言語",
       "nl": "Taal",
-      "nl-BE": "Taal"
+      "nl-BE": "Taal",
+      "sv": "Språk"
     },
     "breakfast": {
       "it": "Colazioni",
@@ -133,7 +142,8 @@
       "zh": "早餐",
       "ja": "朝食",
       "nl": "Ontbijt",
-      "nl-BE": "Ontbijt"
+      "nl-BE": "Ontbijt",
+      "sv": "Frukost"
     },
     "breakfast_intro": {
       "it": "Buffet colazione: ingredienti, allergeni e possibili tracce. In caso di allergie o intolleranze gravi, rivolgersi sempre al personale.",
@@ -146,7 +156,8 @@
       "zh": "自助早餐：配料、过敏原和可能痕量。如有严重过敏或不耐受，请务必咨询工作人员。",
       "ja": "朝食ビュッフェ：原材料、アレルゲン、微量混入の可能性。重度のアレルギーや不耐症がある場合は、必ずスタッフにお尋ねください。",
       "nl": "Ontbijtbuffet: ingrediënten, allergenen en mogelijke sporen. Vraag bij ernstige allergieën of intoleranties altijd aan het personeel.",
-      "nl-BE": "Ontbijtbuffet: ingrediënten, allergenen en mogelijke sporen. Vraag bij ernstige allergieën of intoleranties altijd aan het personeel."
+      "nl-BE": "Ontbijtbuffet: ingrediënten, allergenen en mogelijke sporen. Vraag bij ernstige allergieën of intoleranties altijd aan het personeel.",
+      "sv": "Frukostbuffé: ingredienser, allergener och möjliga spår. Vid svåra allergier eller intoleranser, fråga alltid personalen."
     },
     "ingredients": {
       "it": "Ingredienti",
@@ -159,7 +170,8 @@
       "zh": "配料",
       "ja": "原材料",
       "nl": "Ingrediënten",
-      "nl-BE": "Ingrediënten"
+      "nl-BE": "Ingrediënten",
+      "sv": "Ingredienser"
     },
     "traces": {
       "it": "Possibili tracce",
@@ -172,7 +184,8 @@
       "zh": "可能痕量",
       "ja": "微量混入の可能性",
       "nl": "Mogelijke sporen",
-      "nl-BE": "Mogelijke sporen"
+      "nl-BE": "Mogelijke sporen",
+      "sv": "Möjliga spår"
     },
     "note": {
       "it": "Nota",
@@ -185,7 +198,8 @@
       "zh": "备注",
       "ja": "注記",
       "nl": "Opmerking",
-      "nl-BE": "Opmerking"
+      "nl-BE": "Opmerking",
+      "sv": "Obs"
     },
     "breakfast_extras": {
       "it": "Extra colazione",
@@ -198,7 +212,8 @@
       "zh": "早餐额外项目",
       "ja": "朝食の追加メニュー",
       "nl": "Extra's bij het ontbijt",
-      "nl-BE": "Extra's bij het ontbijt"
+      "nl-BE": "Extra's bij het ontbijt",
+      "sv": "Frukosttillägg"
     },
     "desserts": {
       "it": "Dolci",
@@ -211,7 +226,8 @@
       "zh": "甜点",
       "ja": "デザート",
       "nl": "Desserts",
-      "nl-BE": "Desserts"
+      "nl-BE": "Desserts",
+      "sv": "Desserter"
     },
     "desserts_intro": {
       "it": "Fatti consigliare dal nostro staff un vino da dessert o un distillato da abbinare al tuo dolce.",
@@ -224,7 +240,8 @@
       "zh": "欢迎让我们的工作人员为您的甜点推荐合适的甜酒或烈酒。",
       "ja": "デザートに合うデザートワインや蒸留酒をスタッフがおすすめいたします。",
       "nl": "Laat ons personeel u een dessertwijn of distillaat aanbevelen bij uw dessert.",
-      "nl-BE": "Laat ons personeel u een dessertwijn of distillaat aanbevelen bij uw dessert."
+      "nl-BE": "Laat ons personeel u een dessertwijn of distillaat aanbevelen bij uw dessert.",
+      "sv": "Låt vår personal rekommendera ett dessertvin eller en avec som passar till din dessert."
     }
   },
   "sections": [
@@ -241,7 +258,8 @@
         "zh": "前菜",
         "ja": "前菜",
         "nl": "Voorgerechten",
-        "nl-BE": "Voorgerechten"
+        "nl-BE": "Voorgerechten",
+        "sv": "Förrätter"
       },
       "items": [
         {
@@ -256,7 +274,8 @@
             "zh": "Nobile 拼盘",
             "ja": "ノービレ盛り合わせ",
             "nl": "Nobile-plank om te delen",
-            "nl-BE": "Nobile-plank om te delen"
+            "nl-BE": "Nobile-plank om te delen",
+            "sv": "Tagliere Nobile – urval av charkuterier och ostar"
           },
           "desc": {
             "it": "Selezione di salumi, formaggi, giardiniera e crostini misti",
@@ -269,7 +288,8 @@
             "zh": "冷切肉、奶酪、意式腌渍蔬菜和混合烤面包片拼盘",
             "ja": "生ハム・サラミ、チーズ、ジャルディニエーラ、クロスティーニの盛り合わせ",
             "nl": "Selectie van vleeswaren, kazen, giardiniera en diverse crostini",
-            "nl-BE": "Selectie van vleeswaren, kazen, giardiniera en diverse crostini"
+            "nl-BE": "Selectie van vleeswaren, kazen, giardiniera en diverse crostini",
+            "sv": "Urval av charkuterier, ostar, inlagda grönsaker och blandade crostini"
           },
           "price": "18 €",
           "allergens": "1,3,7,8,9,12"
@@ -286,7 +306,8 @@
             "zh": "自制意式腌渍蔬菜",
             "ja": "自家製野菜のジャルディニエーラ",
             "nl": "Huisgemaakte ingelegde groenten",
-            "nl-BE": "Huisgemaakte ingelegde groenten"
+            "nl-BE": "Huisgemaakte ingelegde groenten",
+            "sv": "Husets inlagda grönsaker"
           },
           "desc": {},
           "price": "10 €",
@@ -304,7 +325,8 @@
             "zh": "小鱿鱼串配土豆泥和炒菊苣",
             "ja": "ベビーイカの串焼き、ポテトクリームとソテーしたチコリ",
             "nl": "Spiesje van kleine inktvis op aardappelcrème met gebakken cichorei",
-            "nl-BE": "Spiesje van kleine inktvis op aardappelcrème met gebakken cichorei"
+            "nl-BE": "Spiesje van kleine inktvis op aardappelcrème met gebakken cichorei",
+            "sv": "Små bläckfiskar på potatiskräm med sauterad cikoria"
           },
           "desc": {},
           "price": "17 €",
@@ -322,7 +344,8 @@
             "zh": "手切牛肉鞑靼配骨髓和黑松露",
             "ja": "手切り牛肉のタルタル、骨髄と黒トリュフ",
             "nl": "Met de hand gesneden rundertartaar op beenmerg met zwarte truffel",
-            "nl-BE": "Met de hand gesneden rundertartaar op beenmerg met zwarte truffel"
+            "nl-BE": "Met de hand gesneden rundertartaar op beenmerg met zwarte truffel",
+            "sv": "Handhackad råbiff på ben med svart tryffel"
           },
           "desc": {},
           "price": "20 €",
@@ -340,7 +363,8 @@
             "zh": "托斯卡纳鸡肝酱配布里欧修面包和基安蒂红酒浓缩汁",
             "ja": "トスカーナ風鶏レバーパテ、ブリオッシュとキャンティのリダクション",
             "nl": "Toscaanse kippenleverpaté met brioche en Chianti-reductie",
-            "nl-BE": "Toscaanse kippenleverpaté met brioche en Chianti-reductie"
+            "nl-BE": "Toscaanse kippenleverpaté met brioche en Chianti-reductie",
+            "sv": "Toskansk leverpaté med brioche och Chiantireduktion"
           },
           "desc": {},
           "price": "15 €",
@@ -358,7 +382,8 @@
             "zh": "奶油盐鳕鱼配香脆烤玉米糕片和糖醋甜椒",
             "ja": "バッカラのマンテカート、グリルしたポレンタチップスと甘酢パプリカ",
             "nl": "Romige gezouten kabeljauw, krokante gegrilde polentachips en zoetzure paprika",
-            "nl-BE": "Romige gezouten kabeljauw, krokante gegrilde polentachips en zoetzure paprika"
+            "nl-BE": "Romige gezouten kabeljauw, krokante gegrilde polentachips en zoetzure paprika",
+            "sv": "Krämig baccalà med grillade polentachips och sötsura paprikor"
           },
           "desc": {},
           "price": "16 €",
@@ -376,7 +401,8 @@
             "zh": "布里欧修面包、打发黄油和坎塔布里亚凤尾鱼",
             "ja": "ブリオッシュ、ホイップバター、カンタブリア産アンチョビ",
             "nl": "Briochebrood, opgeklopte boter en Cantabrische ansjovis",
-            "nl-BE": "Briochebrood, opgeklopte boter en Cantabrische ansjovis"
+            "nl-BE": "Briochebrood, opgeklopte boter en Cantabrische ansjovis",
+            "sv": "Brioche, vispat smör och ansjovis från Kantabriska havet"
           },
           "desc": {},
           "price": "16 €",
@@ -397,7 +423,8 @@
         "zh": "第一道菜",
         "ja": "パスタ・第一皿",
         "nl": "Eerste gangen",
-        "nl-BE": "Eerste gangen"
+        "nl-BE": "Eerste gangen",
+        "sv": "Pastarätter och första rätter"
       },
       "items": [
         {
@@ -412,7 +439,8 @@
             "zh": "新鲜宽管面配章鱼肉酱和黑橄榄粉",
             "ja": "生パッケリ、タコのラグーと黒オリーブパウダー",
             "nl": "Verse paccheri met octopusragù en poeder van zwarte olijven",
-            "nl-BE": "Verse paccheri met octopusragù en poeder van zwarte olijven"
+            "nl-BE": "Verse paccheri met octopusragù en poeder van zwarte olijven",
+            "sv": "Färsk paccheri med bläckfiskragù och pulver av svarta oliver"
           },
           "desc": {},
           "price": "18 €",
@@ -430,7 +458,8 @@
             "zh": "土豆团子配南瓜奶油、牛肝菌和烤榛子",
             "ja": "ポテトニョッキ、カボチャクリーム、ポルチーニ、ローストヘーゼルナッツ",
             "nl": "Aardappelgnocchi met pompoencrème, eekhoorntjesbrood en geroosterde hazelnoten",
-            "nl-BE": "Aardappelgnocchi met pompoencrème, eekhoorntjesbrood en geroosterde hazelnoten"
+            "nl-BE": "Aardappelgnocchi met pompoencrème, eekhoorntjesbrood en geroosterde hazelnoten",
+            "sv": "Gnocchi med pumpakräm, karljohanssvamp och rostade hasselnötter"
           },
           "desc": {},
           "price": "18 €",
@@ -448,7 +477,8 @@
             "zh": "新鲜鸡蛋细面配黄油和黑松露",
             "ja": "生卵のタリオリーノ、バターと黒トリュフ",
             "nl": "Verse eiertagliolino met boter en zwarte truffel",
-            "nl-BE": "Verse eiertagliolino met boter en zwarte truffel"
+            "nl-BE": "Verse eiertagliolino met boter en zwarte truffel",
+            "sv": "Tagliolino med smör och svart tryffel"
           },
           "desc": {},
           "price": "20 €",
@@ -466,7 +496,8 @@
             "zh": "手工皮奇面配 Cinta Senese 猪肉白肉酱",
             "ja": "手打ちピチ、チンタ・セネーゼ豚の白いラグー",
             "nl": "Handgerolde pici met witte ragù van Cinta Senese-varkensvlees",
-            "nl-BE": "Handgerolde pici met witte ragù van Cinta Senese-varkensvlees"
+            "nl-BE": "Handgerolde pici met witte ragù van Cinta Senese-varkensvlees",
+            "sv": "Picio med vit ragù på Cinta Senese"
           },
           "desc": {
             "it": "Ragù bianco di Cinta Senese: maiale di razza toscana, cotto senza pomodoro.",
@@ -479,7 +510,8 @@
             "zh": "采用托斯卡纳 Cinta Senese 猪肉制作的白肉酱，不使用番茄。",
             "ja": "トスカーナ原産のチンタ・セネーゼ豚を使った、トマト不使用の白いラグーです。",
             "nl": "Witte ragù van Cinta Senese-varkensvlees, een Toscaans varkensras, bereid zonder tomaat.",
-            "nl-BE": "Witte ragù van Cinta Senese-varkensvlees, een Toscaans varkensras, bereid zonder tomaat."
+            "nl-BE": "Witte ragù van Cinta Senese-varkensvlees, een Toscaans varkensras, bereid zonder tomaat.",
+            "sv": "Vit ragù på Cinta Senese: toskansk grisköttsras, tillagad utan tomat."
           },
           "price": "17 €",
           "allergens": "1,3,9,12,*"
@@ -496,7 +528,8 @@
             "zh": "海鲜扁面",
             "ja": "魚介のリングイネ",
             "nl": "Linguine met zeevruchten",
-            "nl-BE": "Linguine met zeevruchten"
+            "nl-BE": "Linguine met zeevruchten",
+            "sv": "Linguina med havets smaker"
           },
           "desc": {},
           "price": "19 €",
@@ -517,7 +550,8 @@
         "zh": "主菜",
         "ja": "メイン料理",
         "nl": "Hoofdgerechten",
-        "nl-BE": "Hoofdgerechten"
+        "nl-BE": "Hoofdgerechten",
+        "sv": "Huvudrätter"
       },
       "items": [
         {
@@ -532,7 +566,8 @@
             "zh": "牛肉肋眼配烤土豆",
             "ja": "牛肉のアントルコート、ローストポテト添え",
             "nl": "Runderentrecote met geroosterde aardappelen",
-            "nl-BE": "Runderentrecote met geroosterde aardappelen"
+            "nl-BE": "Runderentrecote met geroosterde aardappelen",
+            "sv": "Entrecôte av nöt med färskpotatis"
           },
           "desc": {},
           "price": "22 €",
@@ -550,7 +585,8 @@
             "zh": "酿金头鲷配茴香酱和辣椒炒蔬菜",
             "ja": "詰め物をした真鯛、フェンネルソースと唐辛子炒め野菜",
             "nl": "Gevulde zeebrasem, venkelsaus en met chili gebakken groenten",
-            "nl-BE": "Gevulde zeebrasem, venkelsaus en met chili gebakken groenten"
+            "nl-BE": "Gevulde zeebrasem, venkelsaus en met chili gebakken groenten",
+            "sv": "Fylld guldsparid med fänkålssås och chilifrästa grönsaker"
           },
           "desc": {},
           "price": "23 €",
@@ -568,7 +604,8 @@
             "zh": "油浸盐鳕鱼配菊苣、葡萄干和松子",
             "ja": "バッカラのオイル煮、エスカロール、レーズン、松の実",
             "nl": "In olie gegaarde gezouten kabeljauw met escarole, rozijnen en pijnboompitten",
-            "nl-BE": "In olie gegaarde gezouten kabeljauw met escarole, rozijnen en pijnboompitten"
+            "nl-BE": "In olie gegaarde gezouten kabeljauw met escarole, rozijnen en pijnboompitten",
+            "sv": "Långkokt baccalà i olja med escarole, russin och pinjenötter"
           },
           "desc": {},
           "price": "19 €",
@@ -586,7 +623,8 @@
             "zh": "炖猪颈肉配苹果酱和香料南瓜",
             "ja": "豚カポコッロの煮込み、アップルバターとスパイス風味のカボチャ",
             "nl": "Gestoofde varkenscapocollo met appelboter en gekruide pompoen",
-            "nl-BE": "Gestoofde varkenscapocollo met appelboter en gekruide pompoen"
+            "nl-BE": "Gestoofde varkenscapocollo met appelboter en gekruide pompoen",
+            "sv": "Bräserad capocollo med äppelsmör och kryddad pumpa"
           },
           "desc": {},
           "price": "18 €",
@@ -604,7 +642,8 @@
             "zh": "炸鱿鱼和虾配裹糊蔬菜",
             "ja": "イカとエビのフリット、野菜の衣揚げ",
             "nl": "Gefrituurde calamares en garnalen met groenten in beslag",
-            "nl-BE": "Gefrituurde calamares en garnalen met groenten in beslag"
+            "nl-BE": "Gefrituurde calamares en garnalen met groenten in beslag",
+            "sv": "Friterad bläckfisk och räkor med frityrsmetade grönsaker"
           },
           "desc": {},
           "price": "20 €",
@@ -625,7 +664,8 @@
         "zh": "配菜",
         "ja": "付け合わせ",
         "nl": "Bijgerechten",
-        "nl-BE": "Bijgerechten"
+        "nl-BE": "Bijgerechten",
+        "sv": "Tillbehör"
       },
       "items": [
         {
@@ -640,7 +680,8 @@
             "zh": "烤土豆",
             "ja": "ローストポテト",
             "nl": "Geroosterde aardappelen",
-            "nl-BE": "Geroosterde aardappelen"
+            "nl-BE": "Geroosterde aardappelen",
+            "sv": "Ugnsrostad potatis"
           },
           "desc": {},
           "price": "6 €",
@@ -658,7 +699,8 @@
             "zh": "时令绿叶蔬菜（视供应情况）",
             "ja": "入荷状況による葉物野菜",
             "nl": "Bladgroenten volgens beschikbaarheid",
-            "nl-BE": "Bladgroenten volgens beschikbaarheid"
+            "nl-BE": "Bladgroenten volgens beschikbaarheid",
+            "sv": "Bladgrönsaker efter tillgång"
           },
           "desc": {},
           "price": "6 €",
@@ -676,7 +718,8 @@
             "zh": "今日配菜",
             "ja": "本日の付け合わせ",
             "nl": "Bijgerecht van de dag",
-            "nl-BE": "Bijgerecht van de dag"
+            "nl-BE": "Bijgerecht van de dag",
+            "sv": "Dagens tillbehör"
           },
           "desc": {},
           "price": "7 €",
