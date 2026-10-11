@@ -741,7 +741,8 @@
         "zh": "希腊沙拉",
         "ja": "ギリシャ風サラダ",
         "nl": "Salade op Griekse wijze",
-        "nl-BE": "Salade op Griekse wijze"
+        "nl-BE": "Salade op Griekse wijze",
+        "sv": "Grekisk sallad"
       },
       "desc": {
         "it": "Pomodorini Piccadilly, valeriana, pomodori secchi, olive, feta, origano, cipolla rossa, crostini e vinaigrette all’aceto balsamico",
@@ -754,7 +755,8 @@
         "zh": "Piccadilly小番茄、羊生菜、风干番茄、橄榄、菲达奶酪、牛至、红洋葱、面包丁和香醋汁",
         "ja": "ピカデリー・トマト、マーシュ、ドライトマト、オリーブ、フェタ、オレガノ、赤玉ねぎ、クルトン、バルサミコドレッシング",
         "nl": "Piccadilly-tomaten, veldsla, zongedroogde tomaten, olijven, feta, oregano, rode ui, croutons en balsamicovinaigrette",
-        "nl-BE": "Piccadilly-tomaten, veldsla, zongedroogde tomaten, olijven, feta, oregano, rode ui, croutons en balsamicovinaigrette"
+        "nl-BE": "Piccadilly-tomaten, veldsla, zongedroogde tomaten, olijven, feta, oregano, rode ui, croutons en balsamicovinaigrette",
+        "sv": "Piccadillytomater, mâchesallad, soltorkade tomater, oliver, fetaost, oregano, rödlök, krutonger och balsamicovinägrett"
       },
       "price": "13 €",
       "allergens": "1,3,12"
@@ -771,7 +773,8 @@
         "zh": "厄尔巴岛沙拉",
         "ja": "エルバ島サラダ",
         "nl": "Eiland Elba",
-        "nl-BE": "Eiland Elba"
+        "nl-BE": "Eiland Elba",
+        "sv": "Elba"
       },
       "desc": {
         "it": "Insalata iceberg, pomodori Piccadilly, olive nere, carote, pomodoro secco, tonno sott’olio e uovo sodo",
@@ -784,7 +787,8 @@
         "zh": "冰山生菜、Piccadilly小番茄、黑橄榄、胡萝卜、风干番茄、油浸金枪鱼和水煮蛋",
         "ja": "アイスバーグレタス、ピカデリートマト、黒オリーブ、ニンジン、ドライトマト、ツナ、ゆで卵",
         "nl": "IJsbergsla, Piccadilly-tomaten, zwarte olijven, wortelen, zongedroogde tomaten, tonijn in olie en hardgekookt ei",
-        "nl-BE": "IJsbergsla, Piccadilly-tomaten, zwarte olijven, wortelen, zongedroogde tomaten, tonijn in olie en hardgekookt ei"
+        "nl-BE": "IJsbergsla, Piccadilly-tomaten, zwarte olijven, wortelen, zongedroogde tomaten, tonijn in olie en hardgekookt ei",
+        "sv": "Isbergssallad, Piccadillytomater, svarta oliver, morötter, soltorkade tomater, tonfisk i olja och hårdkokt ägg"
       },
       "price": "12 €",
       "allergens": "3,4"
@@ -801,7 +805,8 @@
         "zh": "凯撒沙拉",
         "ja": "シーザーサラダ",
         "nl": "Caesar Salad",
-        "nl-BE": "Caesar Salad"
+        "nl-BE": "Caesar Salad",
+        "sv": "Caesarsallad"
       },
       "desc": {
         "it": "Pollo alla piastra, insalata romana, crostini, scaglie di grana, noci e salsa Caesar",
@@ -814,7 +819,8 @@
         "zh": "烤鸡肉、罗马生菜、面包丁、帕尔马干酪片、核桃和凯撒酱",
         "ja": "グリルチキン、ロメインレタス、クルトン、パルメザン、クルミ、シーザードレッシング",
         "nl": "Gegrilde kip, romainesla, croutons, Parmezaanschilfers, walnoten en caesardressing",
-        "nl-BE": "Gegrilde kip, romainesla, croutons, Parmezaanschilfers, walnoten en caesardressing"
+        "nl-BE": "Gegrilde kip, romainesla, croutons, Parmezaanschilfers, walnoten en caesardressing",
+        "sv": "Grillad kyckling, romansallad, krutonger, hyvlad parmesan, valnötter och caesardressing"
       },
       "price": "12 €",
       "allergens": "1,3,7,8,10,12"
@@ -831,7 +837,8 @@
         "zh": "蒙特克里斯托",
         "ja": "モンテクリスト",
         "nl": "Montecristo",
-        "nl-BE": "Montecristo"
+        "nl-BE": "Montecristo",
+        "sv": "Montecristo"
       },
       "desc": {
         "it": "Salmone gravlax, insalata iceberg, carote, ceci, semi di zucca e dressing agrodolce",
@@ -844,7 +851,8 @@
         "zh": "腌渍三文鱼、冰山生菜、胡萝卜、鹰嘴豆、南瓜籽和酸甜汁",
         "ja": "グラブラックスサーモン、アイスバーグレタス、ニンジン、ひよこ豆、カボチャの種、甘酸っぱいドレッシング",
         "nl": "Gravlaxzalm, ijsbergsla, wortelen, kikkererwten, pompoenpitten en zoetzure dressing",
-        "nl-BE": "Gravlaxzalm, ijsbergsla, wortelen, kikkererwten, pompoenpitten en zoetzure dressing"
+        "nl-BE": "Gravlaxzalm, ijsbergsla, wortelen, kikkererwten, pompoenpitten en zoetzure dressing",
+        "sv": "Gravad lax, isbergssallad, morötter, kikärter, pumpafrön och sötsyrlig dressing"
       },
       "price": "13 €",
       "allergens": "1,4,8,12"
@@ -12277,7 +12285,8 @@
         "zh": "瑞科塔奶酪蛋糕配橙子迷迭香果酱",
         "ja": "リコッタケーキ オレンジとローズマリーのジャム添え",
         "nl": "Ricottataart met sinaasappel- en rozemarijnjam",
-        "nl-BE": "Ricottataart met sinaasappel- en rozemarijnjam"
+        "nl-BE": "Ricottataart met sinaasappel- en rozemarijnjam",
+        "sv": "Ricottakaka med apelsin- och rosmarinsylt"
       },
       "price": "7 €",
       "allergens": "1,3,7"
@@ -12294,7 +12303,8 @@
         "zh": "提拉米苏",
         "ja": "ティラミス",
         "nl": "Tiramisu",
-        "nl-BE": "Tiramisu"
+        "nl-BE": "Tiramisu",
+        "sv": "Tiramisu"
       },
       "price": "7 €",
       "allergens": "1,3,7"
@@ -12311,7 +12321,8 @@
         "zh": "意式杏仁脆饼配圣酒",
         "ja": "カントゥッチとヴィン・サント",
         "nl": "Cantucci met Vin Santo",
-        "nl-BE": "Cantucci met Vin Santo"
+        "nl-BE": "Cantucci met Vin Santo",
+        "sv": "Cantucci med Vin Santo"
       },
       "price": "8 €",
       "allergens": "1,3,7,8,12"
@@ -12328,7 +12339,8 @@
         "zh": "柠檬白巧克力半冻甜点",
         "ja": "レモンとホワイトチョコレートのセミフレッド",
         "nl": "Semifreddo van citroen en witte chocolade",
-        "nl-BE": "Semifreddo van citroen en witte chocolade"
+        "nl-BE": "Semifreddo van citroen en witte chocolade",
+        "sv": "Semifreddo med citron och vit choklad"
       },
       "price": "8 €",
       "note": {
@@ -12342,7 +12354,8 @@
         "zh": "如需过敏原信息，请咨询工作人员。",
         "ja": "アレルゲン情報についてはスタッフにお尋ねください。",
         "nl": "Vraag het personeel om informatie over allergenen.",
-        "nl-BE": "Vraag het personeel om informatie over allergenen."
+        "nl-BE": "Vraag het personeel om informatie over allergenen.",
+        "sv": "Fråga personalen om allergener."
       }
     },
     {
@@ -12357,7 +12370,8 @@
         "zh": "浓缩咖啡芝士蛋糕配酥粒和海盐焦糖",
         "ja": "エスプレッソチーズケーキ クランブルと塩キャラメル添え",
         "nl": "Espresso-cheesecake met crumble en gezouten karamel",
-        "nl-BE": "Espresso-cheesecake met crumble en gezouten karamel"
+        "nl-BE": "Espresso-cheesecake met crumble en gezouten karamel",
+        "sv": "Espressocheesecake med smuldeg och salt kolasås"
       },
       "price": "8 €",
       "note": {
@@ -12371,7 +12385,8 @@
         "zh": "如需过敏原信息，请咨询工作人员。",
         "ja": "アレルゲン情報についてはスタッフにお尋ねください。",
         "nl": "Vraag het personeel om informatie over allergenen.",
-        "nl-BE": "Vraag het personeel om informatie over allergenen."
+        "nl-BE": "Vraag het personeel om informatie over allergenen.",
+        "sv": "Fråga personalen om allergener."
       }
     },
     {
@@ -12386,7 +12401,8 @@
         "zh": "黑巧克力辣椒小蛋糕配奶油和海盐焦糖",
         "ja": "ダークチョコレートと唐辛子のケーキ 生クリームと塩キャラメル添え",
         "nl": "Taart van pure chocolade en chilipeper, geserveerd met room en gezouten karamel",
-        "nl-BE": "Taart van pure chocolade en chilipeper, geserveerd met room en gezouten karamel"
+        "nl-BE": "Taart van pure chocolade en chilipeper, geserveerd met room en gezouten karamel",
+        "sv": "Mörk chokladkaka med chili, serverad med grädde och salt karamell"
       },
       "price": "8 €",
       "note": {
@@ -12400,7 +12416,8 @@
         "zh": "不含麸质。有关其他过敏原信息，请咨询工作人员。",
         "ja": "グルテンフリー。その他のアレルゲンについてはスタッフにお尋ねください。",
         "nl": "Glutenvrij. Vraag het personeel om informatie over andere allergenen.",
-        "nl-BE": "Glutenvrij. Vraag het personeel om informatie over andere allergenen."
+        "nl-BE": "Glutenvrij. Vraag het personeel om informatie over andere allergenen.",
+        "sv": "Glutenfri. Fråga personalen om övriga allergener."
       }
     }
   ]
