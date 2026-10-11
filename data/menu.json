@@ -1205,7 +1205,8 @@
         "zh": "传统法干型起泡酒",
         "ja": "ブリュット、瓶内二次発酵",
         "nl": "Brut mousserende wijn volgens de traditionele methode",
-        "nl-BE": "Brut mousserende wijn volgens de traditionele methode"
+        "nl-BE": "Brut mousserende wijn volgens de traditionele methode",
+        "sv": "Brut, traditionell metod"
       },
       "origin": {
         "it": "Toscana, Italia",
@@ -1218,7 +1219,8 @@
         "zh": "意大利托斯卡纳",
         "ja": "イタリア、トスカーナ",
         "nl": "Toscane, Italië",
-        "nl-BE": "Toscane, Italië"
+        "nl-BE": "Toscane, Italië",
+        "sv": "Toscana, Italien"
       },
       "grapes": "Manseng, Chardonnay",
       "serving_temperature": "8–10 °C",
@@ -1234,7 +1236,8 @@
         "zh": "适合搭配牡蛎、甲壳类、海鲜前菜、鱼类主食及清淡油炸菜肴。",
         "ja": "牡蠣、甲殻類、魚介の前菜、魚料理、軽いフリットにおすすめ。",
         "nl": "Oesters, schaaldieren, voorgerechten met zeevruchten, eerste visgerechten en lichte gefrituurde gerechten.",
-        "nl-BE": "Oesters, schaaldieren, voorgerechten met zeevruchten, eerste visgerechten en lichte gefrituurde gerechten."
+        "nl-BE": "Oesters, schaaldieren, voorgerechten met zeevruchten, eerste visgerechten en lichte gefrituurde gerechten.",
+        "sv": "Ostron, skaldjur, fisk- och skaldjursförrätter, pastarätter med fisk och lätt friterade rätter."
       },
       "description": {
         "it": "Metodo Classico toscano da Manseng e Chardonnay, affinato 36 mesi sui lieviti con remuage manuale. Fresco e asciutto, presenta agrumi, fiori bianchi, leggere note di pane e una piacevole vena sapida.",
@@ -1247,7 +1250,8 @@
         "zh": "托斯卡纳传统法起泡酒，由Manseng和霞多丽酿造，酒泥陈酿36个月并手工转瓶。清新偏干，带有柑橘、白花、面包及咸鲜矿物感。",
         "ja": "マンサンとシャルドネによるトスカーナの瓶内二次発酵。澱とともに36か月熟成し手作業でルミュアージュ。柑橘、白い花、パン、塩味を感じる爽やかな辛口です。",
         "nl": "Een Toscaanse mousserende wijn volgens de traditionele methode van Manseng en Chardonnay, 36 maanden gerijpt op de droesem met handmatige remuage. Fris en droog, met citrus, witte bloemen, lichte broodtonen en hartige mineraliteit.",
-        "nl-BE": "Een Toscaanse mousserende wijn volgens de traditionele methode van Manseng en Chardonnay, 36 maanden gerijpt op de droesem met handmatige remuage. Fris en droog, met citrus, witte bloemen, lichte broodtonen en hartige mineraliteit."
+        "nl-BE": "Een Toscaanse mousserende wijn volgens de traditionele methode van Manseng en Chardonnay, 36 maanden gerijpt op de droesem met handmatige remuage. Fris en droog, met citrus, witte bloemen, lichte broodtonen en hartige mineraliteit.",
+        "sv": "Ett mousserande vin från Toscana, framställt enligt traditionell metod av Manseng och Chardonnay. Lagrat 36 månader på jästfällningen med manuell remuage. Friskt och torrt med citrus, vita blommor, lätta brödtoner och mineralisk sälta."
       },
       "wine_section": "sparkling_italian"
     },
@@ -1267,7 +1271,8 @@
         "zh": "年份零加糖传统法起泡酒",
         "ja": "ヴィンテージ・ブリュット・ナチュール、瓶内二次発酵",
         "nl": "Mousserende wijn millésimé Brut Nature volgens de traditionele methode",
-        "nl-BE": "Mousserende wijn millésimé Brut Nature volgens de traditionele methode"
+        "nl-BE": "Mousserende wijn millésimé Brut Nature volgens de traditionele methode",
+        "sv": "Årgångsbetecknad Brut Nature, traditionell metod"
       },
       "origin": {
         "it": "Toscana, Italia",
@@ -1280,7 +1285,8 @@
         "zh": "意大利托斯卡纳",
         "ja": "イタリア、トスカーナ",
         "nl": "Toscane, Italië",
-        "nl-BE": "Toscane, Italië"
+        "nl-BE": "Toscane, Italië",
+        "sv": "Toscana, Italien"
       },
       "grapes": "Manseng, Chardonnay",
       "serving_temperature": "8–10 °C",
@@ -1296,7 +1302,8 @@
         "zh": "适合搭配烤鱼、甲壳类、白肉、熟成奶酪及风味浓郁的海鲜菜肴。",
         "ja": "魚のオーブン焼きやグリル、甲殻類、白身肉、熟成チーズ、しっかりした魚介料理におすすめ。",
         "nl": "Gebakken of gegrilde vis, schaaldieren, wit vlees, gerijpte kazen en gestructureerde visgerechten.",
-        "nl-BE": "Gebakken of gegrilde vis, schaaldieren, wit vlees, gerijpte kazen en gestructureerde visgerechten."
+        "nl-BE": "Gebakken of gegrilde vis, schaaldieren, wit vlees, gerijpte kazen en gestructureerde visgerechten.",
+        "sv": "Ugnsbakad eller grillad fisk, skaldjur, ljust kött, lagrade ostar och smakrika fisk- och skaldjursrätter."
       },
       "description": {
         "it": "Metodo Classico millesimato senza dosaggio, affinato 60 mesi sui lieviti. Complesso e profondo, unisce agrumi maturi, fiori, crosta di pane e leggere note tostate a una bocca tesa, sapida e persistente.",
@@ -1309,7 +1316,8 @@
         "zh": "年份零加糖传统法起泡酒，酒泥陈酿60个月。风格复杂深邃，具有成熟柑橘、花香、面包皮和轻微烘烤气息，口感紧致咸鲜，余味持久。",
         "ja": "ドサージュなしのヴィンテージ瓶内二次発酵で、澱とともに60か月熟成。熟した柑橘、花、パンの皮、軽いトースト香を持ち、引き締まった塩味と長い余韻が特徴です。",
         "nl": "Een mousserende wijn millésimé zonder dosage volgens de traditionele methode, 60 maanden gerijpt op de droesem. Complex en diep, met rijpe citrus, bloemen, broodkorst en lichte geroosterde tonen, met een strakke, hartige en aanhoudende smaak.",
-        "nl-BE": "Een mousserende wijn millésimé zonder dosage volgens de traditionele methode, 60 maanden gerijpt op de droesem. Complex en diep, met rijpe citrus, bloemen, broodkorst en lichte geroosterde tonen, met een strakke, hartige en aanhoudende smaak."
+        "nl-BE": "Een mousserende wijn millésimé zonder dosage volgens de traditionele methode, 60 maanden gerijpt op de droesem. Complex en diep, met rijpe citrus, bloemen, broodkorst en lichte geroosterde tonen, met een strakke, hartige en aanhoudende smaak.",
+        "sv": "Ett årgångsbetecknat mousserande vin utan dosage, framställt enligt traditionell metod och lagrat 60 månader på jästfällningen. Komplext och fylligt med mogen citrus, blommor, brödskorpa och lätta rostade toner. Stram, frisk smak med sälta och lång eftersmak."
       },
       "wine_section": "sparkling_italian"
     },
@@ -1330,7 +1338,8 @@
         "zh": "年份珍藏型 Trentodoc Brut",
         "ja": "ヴィンテージ・トレントドック・リゼルヴァ・ブリュット",
         "nl": "Trentodoc Riserva Brut millésimé",
-        "nl-BE": "Trentodoc Riserva Brut millésimé"
+        "nl-BE": "Trentodoc Riserva Brut millésimé",
+        "sv": "Årgångsbetecknad Trentodoc Riserva Brut"
       },
       "origin": {
         "it": "Trentino, Italia",
@@ -1343,7 +1352,8 @@
         "zh": "意大利特伦蒂诺",
         "ja": "イタリア、トレンティーノ",
         "nl": "Trentino, Italië",
-        "nl-BE": "Trentino, Italië"
+        "nl-BE": "Trentino, Italië",
+        "sv": "Trentino, Italien"
       },
       "grapes": "Chardonnay, Pinot Nero",
       "serving_temperature": "8–10 °C",
@@ -1359,7 +1369,8 @@
         "zh": "适合作为开胃酒，搭配甲壳类、寿司、鱼类、烩饭、白肉及软质奶酪。",
         "ja": "食前酒、甲殻類、寿司、魚料理、リゾット、白身肉、ソフトチーズにおすすめ。",
         "nl": "Aperitief, schaaldieren, sushi, vis, risotto, wit vlees en zachte kazen.",
-        "nl-BE": "Aperitief, schaaldieren, sushi, vis, risotto, wit vlees en zachte kazen."
+        "nl-BE": "Aperitief, schaaldieren, sushi, vis, risotto, wit vlees en zachte kazen.",
+        "sv": "Aperitif, skaldjur, sushi, fisk, risotto, ljust kött och milda ostar."
       },
       "description": {
         "it": "Trentodoc Riserva elegante e strutturato, affinato oltre 36 mesi sui lieviti. Perlage fine e cremoso, con profumi di frutta bianca, crosta di pane, miele e leggere spezie. Il sorso è secco, morbido e persistente.",
@@ -1372,7 +1383,8 @@
         "zh": "优雅而富有结构，酒泥陈酿超过36个月。气泡细腻柔滑，带有白色水果、面包皮、蜂蜜及轻微香料气息，口感干爽圆润，余味持久。",
         "ja": "澱とともに36か月以上熟成した、上品で骨格のあるトレントドック。白い果実、パンの皮、蜂蜜、スパイスの香り。辛口で滑らか、余韻も長く続きます。",
         "nl": "Een elegante, gestructureerde Trentodoc Riserva, meer dan 36 maanden gerijpt op de droesem. Fijne, romige bubbels met wit fruit, broodkorst, honing en subtiele kruiden. Droog, soepel en aanhoudend.",
-        "nl-BE": "Een elegante, gestructureerde Trentodoc Riserva, meer dan 36 maanden gerijpt op de droesem. Fijne, romige bubbels met wit fruit, broodkorst, honing en subtiele kruiden. Droog, soepel en aanhoudend."
+        "nl-BE": "Een elegante, gestructureerde Trentodoc Riserva, meer dan 36 maanden gerijpt op de droesem. Fijne, romige bubbels met wit fruit, broodkorst, honing en subtiele kruiden. Droog, soepel en aanhoudend.",
+        "sv": "En elegant och välstrukturerad Trentodoc Riserva, lagrad över 36 månader på jästfällningen. Fina, krämiga bubblor och toner av ljus frukt, brödskorpa, honung och milda kryddor. Torr och mjuk med lång eftersmak."
       },
       "wine_section": "sparkling_italian"
     },
@@ -1393,7 +1405,8 @@
         "zh": "年份珍藏型零加糖 Trentodoc",
         "ja": "ヴィンテージ・トレントドック・リゼルヴァ・ドサージュ・ゼロ",
         "nl": "Trentodoc Riserva millésimé zonder dosage",
-        "nl-BE": "Trentodoc Riserva millésimé zonder dosage"
+        "nl-BE": "Trentodoc Riserva millésimé zonder dosage",
+        "sv": "Årgångsbetecknad Trentodoc Riserva utan dosage"
       },
       "origin": {
         "it": "Trentino, Italia",
@@ -1406,7 +1419,8 @@
         "zh": "意大利特伦蒂诺",
         "ja": "イタリア、トレンティーノ",
         "nl": "Trentino, Italië",
-        "nl-BE": "Trentino, Italië"
+        "nl-BE": "Trentino, Italië",
+        "sv": "Trentino, Italien"
       },
       "grapes": "Chardonnay 100%",
       "serving_temperature": "8–10 °C",
@@ -1422,7 +1436,8 @@
         "zh": "适合搭配甲壳类、风味浓郁的鱼类、烩饭、白肉、禽类野味及熟成奶酪。",
         "ja": "甲殻類、しっかりした魚料理、リゾット、白身肉、野鳥料理、熟成チーズにおすすめ。",
         "nl": "Schaaldieren, rijke visgerechten, risotto, wit vlees, vederwild en gerijpte kazen.",
-        "nl-BE": "Schaaldieren, rijke visgerechten, risotto, wit vlees, vederwild en gerijpte kazen."
+        "nl-BE": "Schaaldieren, rijke visgerechten, risotto, wit vlees, vederwild en gerijpte kazen.",
+        "sv": "Skaldjur, smakrika fiskrätter, risotto, ljust kött, fågelvilt och lagrade ostar."
       },
       "description": {
         "it": "Trentodoc Dosaggio Zero da Chardonnay in purezza, affinato almeno 90 mesi sui lieviti. Complesso e profondo, offre crosta di pane, frutta matura, albicocca, spezie e leggere note tostate. Il sorso è teso, sapido e lunghissimo.",
@@ -1435,7 +1450,8 @@
         "zh": "采用100%霞多丽酿造，零加糖，酒泥陈酿至少90个月。带有面包皮、成熟水果、杏子、香料和烘烤气息，口感紧致咸鲜，余味极长。",
         "ja": "シャルドネ100%、ドサージュ・ゼロ。澱とともに最低90か月熟成。パンの皮、熟した果実、アプリコット、スパイス、トースト香があり、引き締まった塩味と非常に長い余韻が特徴です。",
         "nl": "Een Trentodoc zonder dosage van 100% Chardonnay, minstens 90 maanden gerijpt op de droesem. Complex en diep, met broodkorst, rijp fruit, abrikoos, kruiden en lichte geroosterde tonen. Strak, hartig en uitzonderlijk lang.",
-        "nl-BE": "Een Trentodoc zonder dosage van 100% Chardonnay, minstens 90 maanden gerijpt op de droesem. Complex en diep, met broodkorst, rijp fruit, abrikoos, kruiden en lichte geroosterde tonen. Strak, hartig en uitzonderlijk lang."
+        "nl-BE": "Een Trentodoc zonder dosage van 100% Chardonnay, minstens 90 maanden gerijpt op de droesem. Complex en diep, met broodkorst, rijp fruit, abrikoos, kruiden en lichte geroosterde tonen. Strak, hartig en uitzonderlijk lang.",
+        "sv": "En Trentodoc utan dosage, gjord på 100 % Chardonnay och lagrad minst 90 månader på jästfällningen. Komplex och djup med brödskorpa, mogen frukt, aprikos, kryddor och lätta rostade toner. Stram, frisk och mycket lång eftersmak med tydlig sälta."
       },
       "wine_section": "sparkling_italian"
     },
@@ -1455,7 +1471,8 @@
         "zh": "弗朗恰科塔特干型起泡酒 DOCG",
         "ja": "フランチャコルタ・エクストラ・ブリュット DOCG",
         "nl": "Franciacorta Extra Brut DOCG",
-        "nl-BE": "Franciacorta Extra Brut DOCG"
+        "nl-BE": "Franciacorta Extra Brut DOCG",
+        "sv": "Franciacorta Extra Brut DOCG"
       },
       "origin": {
         "it": "Franciacorta, Lombardia",
@@ -1468,7 +1485,8 @@
         "zh": "伦巴第，弗朗恰科塔",
         "ja": "ロンバルディア、フランチャコルタ",
         "nl": "Franciacorta, Lombardije",
-        "nl-BE": "Franciacorta, Lombardije"
+        "nl-BE": "Franciacorta, Lombardije",
+        "sv": "Franciacorta, Lombardiet"
       },
       "grapes": "Chardonnay, Pinot Nero, Pinot Bianco",
       "serving_temperature": "8–10 °C",
@@ -1484,7 +1502,8 @@
         "zh": "适合作为开胃酒，搭配生食海鲜、甲壳类、寿司、烩饭、鱼类及新鲜奶酪。",
         "ja": "食前酒、魚介の生料理、甲殻類、寿司、リゾット、魚、フレッシュチーズにおすすめ。",
         "nl": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, risotto, vis en verse kazen.",
-        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, risotto, vis en verse kazen."
+        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, risotto, vis en verse kazen.",
+        "sv": "Aperitif, råa fisk- och skaldjursrätter, skaldjur, sushi, risotto, fisk och färskostar."
       },
       "description": {
         "it": "Franciacorta Extra Brut elegante e preciso, ottenuto da Chardonnay, Pinot Nero e Pinot Bianco e affinato mediamente 25 mesi sui lieviti. Agrumi, frutta bianca, fiori e crosta di pane accompagnano un sorso fresco, cremoso e minerale.",
@@ -1497,7 +1516,8 @@
         "zh": "由霞多丽、黑皮诺和白皮诺酿造，酒泥陈酿约25个月。带有柑橘、白色水果、花香和面包皮气息，口感清新细腻，富有矿物感。",
         "ja": "シャルドネ、ピノ・ノワール、ピノ・ビアンコを使用し、澱とともに平均25か月熟成。柑橘、白い果実、花、パンの皮の香り。爽やかでクリーミー、ミネラル感があります。",
         "nl": "Een elegante en precieze Franciacorta Extra Brut van Chardonnay, Pinot Noir en Pinot Blanc, ongeveer 25 maanden gerijpt op de droesem. Citrus, wit fruit, bloemen en broodkorst leiden naar een frisse, romige en minerale smaak.",
-        "nl-BE": "Een elegante en precieze Franciacorta Extra Brut van Chardonnay, Pinot Noir en Pinot Blanc, ongeveer 25 maanden gerijpt op de droesem. Citrus, wit fruit, bloemen en broodkorst leiden naar een frisse, romige en minerale smaak."
+        "nl-BE": "Een elegante en precieze Franciacorta Extra Brut van Chardonnay, Pinot Noir en Pinot Blanc, ongeveer 25 maanden gerijpt op de droesem. Citrus, wit fruit, bloemen en broodkorst leiden naar een frisse, romige en minerale smaak.",
+        "sv": "En elegant och precis Franciacorta Extra Brut av Chardonnay, Pinot Noir och Pinot Blanc, lagrad omkring 25 månader på jästfällningen. Citrus, ljus frukt, blommor och brödskorpa följs av en frisk, krämig och mineralisk smak."
       },
       "wine_section": "sparkling_french"
     },
@@ -1517,7 +1537,8 @@
         "zh": "弗朗恰科塔桃红特干型起泡酒 DOCG",
         "ja": "フランチャコルタ・ロゼ・エクストラ・ブリュット DOCG",
         "nl": "Franciacorta Rosé Extra Brut DOCG",
-        "nl-BE": "Franciacorta Rosé Extra Brut DOCG"
+        "nl-BE": "Franciacorta Rosé Extra Brut DOCG",
+        "sv": "Franciacorta Rosé Extra Brut DOCG"
       },
       "origin": {
         "it": "Franciacorta, Lombardia",
@@ -1530,7 +1551,8 @@
         "zh": "伦巴第，弗朗恰科塔",
         "ja": "ロンバルディア、フランチャコルタ",
         "nl": "Franciacorta, Lombardije",
-        "nl-BE": "Franciacorta, Lombardije"
+        "nl-BE": "Franciacorta, Lombardije",
+        "sv": "Franciacorta, Lombardiet"
       },
       "grapes": "Pinot Nero, Chardonnay",
       "serving_temperature": "8–10 °C",
@@ -1546,7 +1568,8 @@
         "zh": "适合作为开胃酒，搭配三文鱼、金枪鱼、甲壳类、寿司、烩饭、精致冷切及白肉。",
         "ja": "食前酒、サーモン、マグロ、甲殻類、寿司、リゾット、繊細な生ハム、白身肉におすすめ。",
         "nl": "Aperitief, zalm, tonijn, schaaldieren, sushi, risotto, verfijnde vleeswaren en wit vlees.",
-        "nl-BE": "Aperitief, zalm, tonijn, schaaldieren, sushi, risotto, verfijnde vleeswaren en wit vlees."
+        "nl-BE": "Aperitief, zalm, tonijn, schaaldieren, sushi, risotto, verfijnde vleeswaren en wit vlees.",
+        "sv": "Aperitif, lax, tonfisk, skaldjur, sushi, risotto, milda charkuterier och ljust kött."
       },
       "description": {
         "it": "Franciacorta Rosé Extra Brut da Pinot Nero e Chardonnay, affinato mediamente 24 mesi sui lieviti. Piccoli frutti rossi, agrumi e fiori accompagnano una bollicina fine, un sorso fresco, sapido e delicatamente cremoso.",
@@ -1559,7 +1582,8 @@
         "zh": "由黑皮诺和霞多丽酿造，酒泥陈酿约24个月。带有红色浆果、柑橘和花香，气泡细腻，口感清新咸鲜并略带奶油感。",
         "ja": "ピノ・ノワールとシャルドネを使用し、澱とともに平均24か月熟成。赤い果実、柑橘、花の香り。泡は繊細で、爽やかな塩味と穏やかなクリーミーさがあります。",
         "nl": "Een Franciacorta Rosé Extra Brut van Pinot Noir en Chardonnay, ongeveer 24 maanden gerijpt op de droesem. Rood fruit, citrus en bloemen begeleiden fijne bubbels en een frisse, hartige, licht romige smaak.",
-        "nl-BE": "Een Franciacorta Rosé Extra Brut van Pinot Noir en Chardonnay, ongeveer 24 maanden gerijpt op de droesem. Rood fruit, citrus en bloemen begeleiden fijne bubbels en een frisse, hartige, licht romige smaak."
+        "nl-BE": "Een Franciacorta Rosé Extra Brut van Pinot Noir en Chardonnay, ongeveer 24 maanden gerijpt op de droesem. Rood fruit, citrus en bloemen begeleiden fijne bubbels en een frisse, hartige, licht romige smaak.",
+        "sv": "En Franciacorta Rosé Extra Brut av Pinot Noir och Chardonnay, lagrad omkring 24 månader på jästfällningen. Röda bär, citrus och blommor samspelar med fina bubblor och en frisk, lätt krämig smak med sälta."
       },
       "wine_section": "sparkling_french"
     },
@@ -1579,7 +1603,8 @@
         "zh": "年份奥特雷波帕韦塞 DOCG 传统法干型起泡酒",
         "ja": "ヴィンテージ・オルトレポ・パヴェーゼ DOCG ブリュット",
         "nl": "Oltrepò Pavese millésimé Brut volgens de traditionele methode DOCG",
-        "nl-BE": "Oltrepò Pavese millésimé Brut volgens de traditionele methode DOCG"
+        "nl-BE": "Oltrepò Pavese millésimé Brut volgens de traditionele methode DOCG",
+        "sv": "Årgångsbetecknad Oltrepò Pavese, traditionell metod DOCG Brut"
       },
       "origin": {
         "it": "Oltrepò Pavese, Lombardia",
@@ -1592,7 +1617,8 @@
         "zh": "伦巴第，奥特雷波帕韦塞",
         "ja": "ロンバルディア、オルトレポ・パヴェーゼ",
         "nl": "Oltrepò Pavese, Lombardije",
-        "nl-BE": "Oltrepò Pavese, Lombardije"
+        "nl-BE": "Oltrepò Pavese, Lombardije",
+        "sv": "Oltrepò Pavese, Lombardiet"
       },
       "grapes": "Pinot Nero 100%",
       "serving_temperature": "8–10 °C",
@@ -1608,7 +1634,8 @@
         "zh": "适合作为开胃酒，搭配冷切、甲壳类、烩饭、海鲜意面、鱼类及油炸菜肴。",
         "ja": "食前酒、生ハム、甲殻類、リゾット、魚介のパスタ、魚料理、フリットにおすすめ。",
         "nl": "Aperitief, vleeswaren, schaaldieren, risotto, pasta met zeevruchten, vis en gefrituurde gerechten.",
-        "nl-BE": "Aperitief, vleeswaren, schaaldieren, risotto, pasta met zeevruchten, vis en gefrituurde gerechten."
+        "nl-BE": "Aperitief, vleeswaren, schaaldieren, risotto, pasta met zeevruchten, vis en gefrituurde gerechten.",
+        "sv": "Aperitif, charkuterier, skaldjur, risotto, pasta med fisk och skaldjur, fisk och friterade rätter."
       },
       "description": {
         "it": "Metodo Classico dell’Oltrepò Pavese da Pinot Nero in purezza, affinato circa 30 mesi sui lieviti. Crosta di pane, glicine, sambuco, agrumi e piccoli frutti rossi anticipano un sorso fresco, deciso e sapido.",
@@ -1621,7 +1648,8 @@
         "zh": "采用100%黑皮诺酿造，酒泥陈酿约30个月。带有面包皮、紫藤、接骨木花、柑橘及红色浆果气息，口感清新有力，咸鲜感明显。",
         "ja": "ピノ・ノワール100%の瓶内二次発酵で、澱とともに約30か月熟成。パンの皮、藤、エルダーフラワー、柑橘、赤い果実の香り。爽やかで力強く、塩味があります。",
         "nl": "Een Oltrepò Pavese volgens de traditionele methode van 100% Pinot Noir, ongeveer 30 maanden gerijpt op de droesem. Broodkorst, blauweregen, vlierbloesem, citrus en rood fruit leiden naar een frisse, krachtige en hartige smaak.",
-        "nl-BE": "Een Oltrepò Pavese volgens de traditionele methode van 100% Pinot Noir, ongeveer 30 maanden gerijpt op de droesem. Broodkorst, blauweregen, vlierbloesem, citrus en rood fruit leiden naar een frisse, krachtige en hartige smaak."
+        "nl-BE": "Een Oltrepò Pavese volgens de traditionele methode van 100% Pinot Noir, ongeveer 30 maanden gerijpt op de droesem. Broodkorst, blauweregen, vlierbloesem, citrus en rood fruit leiden naar een frisse, krachtige en hartige smaak.",
+        "sv": "Ett mousserande vin från Oltrepò Pavese, framställt enligt traditionell metod av 100 % Pinot Noir och lagrat omkring 30 månader på jästfällningen. Brödskorpa, blåregn, fläderblom, citrus och röda bär ger en frisk, tydlig smak med sälta."
       },
       "wine_section": "sparkling_italian"
     },
@@ -1641,7 +1669,8 @@
         "zh": "年份奥特雷波帕韦塞 DOCG 桃红干型起泡酒",
         "ja": "ヴィンテージ・オルトレポ・パヴェーゼ DOCG ロゼ・ブリュット",
         "nl": "Oltrepò Pavese millésimé Rosé Brut volgens de traditionele methode DOCG",
-        "nl-BE": "Oltrepò Pavese millésimé Rosé Brut volgens de traditionele methode DOCG"
+        "nl-BE": "Oltrepò Pavese millésimé Rosé Brut volgens de traditionele methode DOCG",
+        "sv": "Årgångsbetecknad Oltrepò Pavese Rosé Brut, traditionell metod DOCG"
       },
       "origin": {
         "it": "Oltrepò Pavese, Lombardia",
@@ -1654,7 +1683,8 @@
         "zh": "伦巴第，奥特雷波帕韦塞",
         "ja": "ロンバルディア、オルトレポ・パヴェーゼ",
         "nl": "Oltrepò Pavese, Lombardije",
-        "nl-BE": "Oltrepò Pavese, Lombardije"
+        "nl-BE": "Oltrepò Pavese, Lombardije",
+        "sv": "Oltrepò Pavese, Lombardiet"
       },
       "grapes": "Pinot Nero 100%",
       "serving_temperature": "8–10 °C",
@@ -1670,7 +1700,8 @@
         "zh": "适合作为开胃酒，搭配精致冷切、甲壳类、生鱼、寿司、烩饭及鱼汤。",
         "ja": "食前酒、繊細な生ハム、甲殻類、魚の生料理、寿司、リゾット、魚のスープにおすすめ。",
         "nl": "Aperitief, verfijnde vleeswaren, schaaldieren, rauwe vis, sushi, risotto en vissoepen.",
-        "nl-BE": "Aperitief, verfijnde vleeswaren, schaaldieren, rauwe vis, sushi, risotto en vissoepen."
+        "nl-BE": "Aperitief, verfijnde vleeswaren, schaaldieren, rauwe vis, sushi, risotto en vissoepen.",
+        "sv": "Aperitif, milda charkuterier, skaldjur, rå fisk, sushi, risotto och fisksoppor."
       },
       "description": {
         "it": "Metodo Classico Rosé da Pinot Nero in purezza, affinato almeno 36 mesi sui lieviti. Lampone, ribes, fragolina, mandarino e crosta di pane accompagnano una bollicina fine e un sorso asciutto, fresco e minerale.",
@@ -1683,7 +1714,8 @@
         "zh": "采用100%黑皮诺酿造，酒泥陈酿至少36个月。带有覆盆子、红醋栗、野草莓、柑橘和面包皮气息，气泡细腻，口感干爽清新，富有矿物感。",
         "ja": "ピノ・ノワール100%のロゼで、澱とともに最低36か月熟成。ラズベリー、赤スグリ、野イチゴ、マンダリン、パンの皮の香り。泡は繊細で、辛口かつ爽やかです。",
         "nl": "Een rosé volgens de traditionele methode van 100% Pinot Noir, minstens 36 maanden gerijpt op de droesem. Framboos, rode bes, bosaardbei, mandarijn en broodkorst begeleiden fijne bubbels en een droge, frisse, minerale smaak.",
-        "nl-BE": "Een rosé volgens de traditionele methode van 100% Pinot Noir, minstens 36 maanden gerijpt op de droesem. Framboos, rode bes, bosaardbei, mandarijn en broodkorst begeleiden fijne bubbels en een droge, frisse, minerale smaak."
+        "nl-BE": "Een rosé volgens de traditionele methode van 100% Pinot Noir, minstens 36 maanden gerijpt op de droesem. Framboos, rode bes, bosaardbei, mandarijn en broodkorst begeleiden fijne bubbels en een droge, frisse, minerale smaak.",
+        "sv": "En rosé framställd enligt traditionell metod av 100 % Pinot Noir, lagrad minst 36 månader på jästfällningen. Hallon, röda vinbär, smultron, mandarin och brödskorpa möter fina bubblor och en torr, frisk, mineralisk smak."
       },
       "wine_section": "sparkling_italian"
     },
@@ -1703,7 +1735,8 @@
         "zh": "有机桃红零加糖传统法起泡酒",
         "ja": "オーガニック・ロゼ・パ・ドゼ、瓶内二次発酵",
         "nl": "Biologische Rosé volgens de traditionele methode Pas Dosé",
-        "nl-BE": "Biologische Rosé volgens de traditionele methode Pas Dosé"
+        "nl-BE": "Biologische Rosé volgens de traditionele methode Pas Dosé",
+        "sv": "Ekologisk rosé Pas Dosé, traditionell metod"
       },
       "origin": {
         "it": "Maremma Toscana, Italia",
@@ -1716,7 +1749,8 @@
         "zh": "意大利托斯卡纳马雷玛",
         "ja": "イタリア、トスカーナ・マレンマ",
         "nl": "Toscaanse Maremma, Italië",
-        "nl-BE": "Toscaanse Maremma, Italië"
+        "nl-BE": "Toscaanse Maremma, Italië",
+        "sv": "Maremma, Toscana, Italien"
       },
       "grapes": "Ciliegiolo 100%",
       "serving_temperature": "8–10 °C",
@@ -1732,7 +1766,8 @@
         "zh": "适合作为开胃酒，搭配冷切、甲壳类、寿司、炸鱼、清淡主食及白肉。",
         "ja": "食前酒、生ハム、甲殻類、寿司、魚のフリット、繊細な料理、白身肉におすすめ。",
         "nl": "Aperitief, vleeswaren, schaaldieren, sushi, gefrituurde vis, verfijnde eerste gangen en wit vlees.",
-        "nl-BE": "Aperitief, vleeswaren, schaaldieren, sushi, gefrituurde vis, verfijnde eerste gangen en wit vlees."
+        "nl-BE": "Aperitief, vleeswaren, schaaldieren, sushi, gefrituurde vis, verfijnde eerste gangen en wit vlees.",
+        "sv": "Aperitif, charkuterier, skaldjur, sushi, friterad fisk, milda pastarätter och ljust kött."
       },
       "description": {
         "it": "Metodo Classico rosato Pas Dosé da Ciliegiolo in purezza, affinato 24–30 mesi sui lieviti. Rosa brillante e perlage fine, con piccoli frutti di bosco e leggere note di pane. Secco, fresco, sapido e diretto.",
@@ -1745,7 +1780,8 @@
         "zh": "采用100%奇列乔洛酿造，零加糖，酒泥陈酿24至30个月。色泽明亮，气泡细腻，带有森林浆果和轻微面包气息，口感干爽清新，咸鲜利落。",
         "ja": "チリエジョーロ100%のロゼ・パ・ドゼで、澱とともに24〜30か月熟成。鮮やかなロゼ色と繊細な泡、森のベリーとパンの香り。辛口で爽やか、塩味があります。",
         "nl": "Een Pas Dosé rosé volgens de traditionele methode van 100% Ciliegiolo, 24–30 maanden gerijpt op de droesem. Helderroze met fijne bubbels, rood fruit en lichte broodtonen. Droog, fris, hartig en direct.",
-        "nl-BE": "Een Pas Dosé rosé volgens de traditionele methode van 100% Ciliegiolo, 24–30 maanden gerijpt op de droesem. Helderroze met fijne bubbels, rood fruit en lichte broodtonen. Droog, fris, hartig en direct."
+        "nl-BE": "Een Pas Dosé rosé volgens de traditionele methode van 100% Ciliegiolo, 24–30 maanden gerijpt op de droesem. Helderroze met fijne bubbels, rood fruit en lichte broodtonen. Droog, fris, hartig en direct.",
+        "sv": "En rosé utan dosage, framställd enligt traditionell metod av 100 % Ciliegiolo och lagrad 24–30 månader på jästfällningen. Klarrosa färg, fina bubblor, röda bär och lätta brödtoner. Torr, frisk och rak smak med sälta."
       },
       "wine_section": "sparkling_italian"
     },
@@ -1765,7 +1801,8 @@
         "zh": "传统法优质干型起泡酒",
         "ja": "高品質ブリュット、瓶内二次発酵",
         "nl": "Brut kwaliteitsmousserende wijn volgens de traditionele methode",
-        "nl-BE": "Brut kwaliteitsmousserende wijn volgens de traditionele methode"
+        "nl-BE": "Brut kwaliteitsmousserende wijn volgens de traditionele methode",
+        "sv": "Brut, mousserande kvalitetsvin enligt traditionell metod"
       },
       "origin": {
         "it": "Toscana, Italia",
@@ -1778,7 +1815,8 @@
         "zh": "意大利托斯卡纳",
         "ja": "イタリア、トスカーナ",
         "nl": "Toscane, Italië",
-        "nl-BE": "Toscane, Italië"
+        "nl-BE": "Toscane, Italië",
+        "sv": "Toscana, Italien"
       },
       "grapes": "Chardonnay 100%; liqueur d’expédition a base di Trebbiano affinato in anfora",
       "serving_temperature": "6–8 °C",
@@ -1794,7 +1832,8 @@
         "zh": "适合作为开胃酒，搭配奶油鳕鱼、炸蔬菜、烩饭、烤鱼及甲壳类。",
         "ja": "食前酒、干し鱈のマンテカート、野菜のフリット、リゾット、魚のオーブン焼き、甲殻類におすすめ。",
         "nl": "Aperitief, opgeklopte zoute kabeljauw, gefrituurde groenten, risotto, gebakken vis en schaaldieren.",
-        "nl-BE": "Aperitief, opgeklopte zoute kabeljauw, gefrituurde groenten, risotto, gebakken vis en schaaldieren."
+        "nl-BE": "Aperitief, opgeklopte zoute kabeljauw, gefrituurde groenten, risotto, gebakken vis en schaaldieren.",
+        "sv": "Aperitif, krämig saltad torsk, friterade grönsaker, risotto, ugnsbakad fisk och skaldjur."
       },
       "description": {
         "it": "Metodo Classico toscano da Chardonnay in purezza, affinato 60 mesi sui lieviti. La liqueur d’expédition è preparata con Trebbiano affinato in anfora. Offre crosta di pane, agrumi e frutta a polpa gialla; il sorso è fresco, sapido e morbido, con finale agrumato e persistente.",
@@ -1807,7 +1846,8 @@
         "zh": "采用100%霞多丽酿造，酒泥陈酿60个月，补液使用陶罐陈酿的特雷比奥罗。带有面包皮、柑橘和黄色水果香气，口感清新咸鲜、柔和，余味持久。",
         "ja": "シャルドネ100%、澱とともに60か月熟成。門出のリキュールにはアンフォラ熟成のトレッビアーノを使用。パンの皮、柑橘、黄色い果実の香りがあり、爽やかな塩味と長い余韻が特徴です。",
         "nl": "Een Toscaanse mousserende wijn volgens de traditionele methode van 100% Chardonnay, 60 maanden gerijpt op de droesem. De dosage wordt bereid met Trebbiano die in amfora is gerijpt. Broodkorst, citrus en geel fruit leiden naar een frisse, hartige en soepele smaak met een aanhoudende citrusfinale.",
-        "nl-BE": "Een Toscaanse mousserende wijn volgens de traditionele methode van 100% Chardonnay, 60 maanden gerijpt op de droesem. De dosage wordt bereid met Trebbiano die in amfora is gerijpt. Broodkorst, citrus en geel fruit leiden naar een frisse, hartige en soepele smaak met een aanhoudende citrusfinale."
+        "nl-BE": "Een Toscaanse mousserende wijn volgens de traditionele methode van 100% Chardonnay, 60 maanden gerijpt op de droesem. De dosage wordt bereid met Trebbiano die in amfora is gerijpt. Broodkorst, citrus en geel fruit leiden naar een frisse, hartige en soepele smaak met een aanhoudende citrusfinale.",
+        "sv": "Ett mousserande vin från Toscana, framställt enligt traditionell metod av 100 % Chardonnay och lagrat 60 månader på jästfällningen. Dosagen görs med Trebbiano som lagrats i amfora. Brödskorpa, citrus och gul frukt följs av en frisk, mjuk smak med sälta och lång citruspräglad eftersmak."
       },
       "wine_section": "sparkling_italian"
     },
