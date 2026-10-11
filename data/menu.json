@@ -2530,7 +2530,8 @@
         "zh": "特干型香槟 AOC",
         "ja": "シャンパーニュ・エクストラ・ブリュット AOC",
         "nl": "Champagne Extra-Brut AOC",
-        "nl-BE": "Champagne Extra-Brut AOC"
+        "nl-BE": "Champagne Extra-Brut AOC",
+        "sv": "Champagne Extra-Brut AOC"
       },
       "origin": {
         "it": "Champagne, Francia",
@@ -2543,7 +2544,8 @@
         "zh": "法国香槟区",
         "ja": "フランス、シャンパーニュ",
         "nl": "Champagne, Frankrijk",
-        "nl-BE": "Champagne, Frankrijk"
+        "nl-BE": "Champagne, Frankrijk",
+        "sv": "Champagne, Frankrike"
       },
       "grapes": "Pinot Nero 45%, Chardonnay 33%, Meunier 22%",
       "serving_temperature": "9–11 °C",
@@ -2559,7 +2561,8 @@
         "zh": "适合作为开胃酒，搭配甲壳类、牡蛎、禽肉、软质奶酪、寿司及烤鱼。",
         "ja": "食前酒、甲殻類、牡蠣、鶏肉、ソフトチーズ、寿司、魚のグリルにおすすめ。",
         "nl": "Aperitief, schaaldieren, oesters, gevogelte, zachte kazen, sushi en gegrilde vis.",
-        "nl-BE": "Aperitief, schaaldieren, oesters, gevogelte, zachte kazen, sushi en gegrilde vis."
+        "nl-BE": "Aperitief, schaaldieren, oesters, gevogelte, zachte kazen, sushi en gegrilde vis.",
+        "sv": "Aperitif, skaldjur, ostron, fågel, milda ostar, sushi och grillad fisk."
       },
       "description": {
         "it": "Champagne Extra-Brut prodotto esclusivamente con mosto di prima spremitura e una grande quota di vini di riserva. Affina tre anni sui lieviti e almeno sei mesi dopo la sboccatura. Agrumi, ribes, lampone, mandorla, pane tostato e frutta secca accompagnano un sorso vivace, ampio e molto pulito.",
@@ -2572,7 +2575,8 @@
         "zh": "仅使用第一道压榨汁，并加入大量储备酒。酒泥陈酿三年，除渣后再静置至少六个月。带有柑橘、红醋栗、覆盆子、杏仁、烤面包及干果香气，口感活泼饱满，收尾干净。",
         "ja": "第一搾汁のみを使用し、多量のリザーヴワインを加えたエクストラ・ブリュット。澱とともに3年、デゴルジュマン後さらに最低6か月熟成。柑橘、赤スグリ、ラズベリー、アーモンド、トースト、ドライフルーツ。生き生きとして厚みがあり、後味は非常にクリーンです。",
         "nl": "Een Extra-Brut Champagne uitsluitend gemaakt van de eerste persing en met een groot aandeel reservewijnen. Hij rijpt drie jaar op de droesem en minstens zes maanden na dégorgement. Citrus, rode bes, framboos, amandel, toast en gedroogd fruit begeleiden een levendige, brede en zeer zuivere smaak.",
-        "nl-BE": "Een Extra-Brut Champagne uitsluitend gemaakt van de eerste persing en met een groot aandeel reservewijnen. Hij rijpt drie jaar op de droesem en minstens zes maanden na dégorgement. Citrus, rode bes, framboos, amandel, toast en gedroogd fruit begeleiden een levendige, brede en zeer zuivere smaak."
+        "nl-BE": "Een Extra-Brut Champagne uitsluitend gemaakt van de eerste persing en met een groot aandeel reservewijnen. Hij rijpt drie jaar op de droesem en minstens zes maanden na dégorgement. Citrus, rode bes, framboos, amandel, toast en gedroogd fruit begeleiden een levendige, brede en zeer zuivere smaak.",
+        "sv": "En Extra-Brut Champagne gjord enbart på must från första pressningen och med en stor andel reservviner. Den lagras tre år på jästfällningen och minst sex månader efter degorgering. Citrus, röda vinbär, hallon, mandel, rostat bröd och torkad frukt ger en livlig, fyllig och mycket ren smak."
       },
       "wine_section": "sparkling_french"
     },
@@ -2593,7 +2597,8 @@
         "zh": "年份零加糖香槟 AOC",
         "ja": "ヴィンテージ・シャンパーニュ・ブリュット・ナチュール AOC",
         "nl": "Champagne Brut Nature millésimé AOC",
-        "nl-BE": "Champagne Brut Nature millésimé AOC"
+        "nl-BE": "Champagne Brut Nature millésimé AOC",
+        "sv": "Årgångschampagne Brut Nature AOC"
       },
       "origin": {
         "it": "Vandières, Vallée de la Marne",
@@ -2606,7 +2611,8 @@
         "zh": "马恩河谷，旺迪耶尔",
         "ja": "ヴァレ・ド・ラ・マルヌ、ヴァンディエール",
         "nl": "Vandières, Vallée de la Marne",
-        "nl-BE": "Vandières, Vallée de la Marne"
+        "nl-BE": "Vandières, Vallée de la Marne",
+        "sv": "Vandières, Vallée de la Marne"
       },
       "grapes": "Chardonnay 75%, Meunier 25%",
       "serving_temperature": "9–11 °C",
@@ -2622,7 +2628,8 @@
         "zh": "适合搭配牡蛎、扇贝、甲壳类、寿司、生食海鲜、烟熏鱼及日本料理。",
         "ja": "牡蠣、ホタテ、甲殻類、寿司、魚介の生料理、燻製魚、日本料理におすすめ。",
         "nl": "Oesters, sint-jakobsschelpen, schaaldieren, sushi, rauwe zeevruchten, gerookte vis en Japanse keuken.",
-        "nl-BE": "Oesters, sint-jakobsschelpen, schaaldieren, sushi, rauwe zeevruchten, gerookte vis en Japanse keuken."
+        "nl-BE": "Oesters, sint-jakobsschelpen, schaaldieren, sushi, rauwe zeevruchten, gerookte vis en Japanse keuken.",
+        "sv": "Ostron, pilgrimsmusslor, skaldjur, sushi, råa fisk- och skaldjursrätter, rökt fisk och japanska rätter."
       },
       "description": {
         "it": "Champagne millesimato non dosato da vecchie vigne di Chardonnay e Meunier coltivate su marne bianche e gesso affiorante. Affina circa sei anni sui lieviti. Agrumi, pera bianca, fiori, brioche e note gessose accompagnano un sorso verticale, salino, fresco e molto persistente.",
@@ -2635,7 +2642,8 @@
         "zh": "来自种植于白色泥灰岩和白垩土上的老藤霞多丽与莫尼耶，不加糖，酒泥陈酿约六年。带有柑橘、白梨、花香、布里欧修及白垩气息，口感紧致垂直，咸鲜清新，余味持久。",
         "ja": "白いマールとチョーク質土壌の古木シャルドネとムニエによる、ドサージュなしのヴィンテージ。澱とともに約6年熟成。柑橘、白い洋梨、花、ブリオッシュ、チョークの香り。直線的で塩味があり、爽やかで長い余韻があります。",
         "nl": "Een Champagne millésimé zonder dosage van oude Chardonnay- en Meunier-stokken op witte mergel en blootliggend krijt. Ongeveer zes jaar gerijpt op de droesem. Citrus, witte peer, bloemen, brioche en krijt begeleiden een verticale, zilte, frisse en aanhoudende smaak.",
-        "nl-BE": "Een Champagne millésimé zonder dosage van oude Chardonnay- en Meunier-stokken op witte mergel en blootliggend krijt. Ongeveer zes jaar gerijpt op de droesem. Citrus, witte peer, bloemen, brioche en krijt begeleiden een verticale, zilte, frisse en aanhoudende smaak."
+        "nl-BE": "Een Champagne millésimé zonder dosage van oude Chardonnay- en Meunier-stokken op witte mergel en blootliggend krijt. Ongeveer zes jaar gerijpt op de droesem. Citrus, witte peer, bloemen, brioche en krijt begeleiden een verticale, zilte, frisse en aanhoudende smaak.",
+        "sv": "En årgångschampagne utan dosage från gamla stockar av Chardonnay och Meunier på vit märgel och exponerad kritjord. Lagrad omkring sex år på jästfällningen. Citrus, vitt päron, blommor, brioche och krita förenas i en stram, frisk smak med sälta och lång eftersmak."
       },
       "wine_section": "sparkling_french"
     },
@@ -2655,7 +2663,8 @@
         "zh": "黑中白特干型香槟 AOC",
         "ja": "シャンパーニュ・ブラン・ド・ノワール・エクストラ・ブリュット AOC",
         "nl": "Champagne Blanc de Noirs Extra-Brut AOC",
-        "nl-BE": "Champagne Blanc de Noirs Extra-Brut AOC"
+        "nl-BE": "Champagne Blanc de Noirs Extra-Brut AOC",
+        "sv": "Champagne Blanc de Noirs Extra-Brut AOC"
       },
       "origin": {
         "it": "Vandières, Vallée de la Marne",
@@ -2668,7 +2677,8 @@
         "zh": "马恩河谷，旺迪耶尔",
         "ja": "ヴァレ・ド・ラ・マルヌ、ヴァンディエール",
         "nl": "Vandières, Vallée de la Marne",
-        "nl-BE": "Vandières, Vallée de la Marne"
+        "nl-BE": "Vandières, Vallée de la Marne",
+        "sv": "Vandières, Vallée de la Marne"
       },
       "grapes": "Meunier 100%",
       "serving_temperature": "9–11 °C",
@@ -2684,7 +2694,8 @@
         "zh": "适合搭配烩饭、甲壳类、三文鱼、烟熏鱼、禽肉、小牛肉、蘑菇及熟成奶酪。",
         "ja": "リゾット、甲殻類、サーモン、燻製魚、鶏肉、仔牛、キノコ、熟成チーズにおすすめ。",
         "nl": "Risotto, schaaldieren, zalm, gerookte vis, gevogelte, kalfsvlees, paddenstoelen en gerijpte kazen.",
-        "nl-BE": "Risotto, schaaldieren, zalm, gerookte vis, gevogelte, kalfsvlees, paddenstoelen en gerijpte kazen."
+        "nl-BE": "Risotto, schaaldieren, zalm, gerookte vis, gevogelte, kalfsvlees, paddenstoelen en gerijpte kazen.",
+        "sv": "Risotto, skaldjur, lax, rökt fisk, fågel, kalvkött, svamp och lagrade ostar."
       },
       "description": {
         "it": "Champagne Extra-Brut da Meunier in purezza, ottenuto attraverso una riserva perpetua avviata nel 1992. Ricco e maturo, esprime frutta gialla, agrumi, frutta secca, vaniglia e brioche. Il sorso è ampio e cremoso, sostenuto da freschezza e da un finale sapido.",
@@ -2697,7 +2708,8 @@
         "zh": "采用100%莫尼耶，并使用始于1992年的永久储备酒。带有黄色水果、柑橘、坚果、香草及布里欧修气息，口感丰润细腻，清新并带咸鲜余味。",
         "ja": "ムニエ100%、1992年に始められたパーペチュアル・リザーヴを使用。黄色い果実、柑橘、ナッツ、バニラ、ブリオッシュの香り。豊かでクリーミー、爽やかな塩味があります。",
         "nl": "Een Extra-Brut Champagne van 100% Meunier en een perpetuele reserve die in 1992 is gestart. Rijk en rijp, met geel fruit, citrus, noten, vanille en brioche. Breed en romig, met frisheid en een hartige finale.",
-        "nl-BE": "Een Extra-Brut Champagne van 100% Meunier en een perpetuele reserve die in 1992 is gestart. Rijk en rijp, met geel fruit, citrus, noten, vanille en brioche. Breed en romig, met frisheid en een hartige finale."
+        "nl-BE": "Een Extra-Brut Champagne van 100% Meunier en een perpetuele reserve die in 1992 is gestart. Rijk en rijp, met geel fruit, citrus, noten, vanille en brioche. Breed en romig, met frisheid en een hartige finale.",
+        "sv": "En Extra-Brut Champagne av 100 % Meunier med en kontinuerligt förnyad reserv som påbörjades 1992. Rik och mogen med gul frukt, citrus, nötter, vanilj och brioche. Fyllig och krämig med friskhet och en avslutning med sälta."
       },
       "wine_section": "sparkling_french"
     },
@@ -2717,7 +2729,8 @@
         "zh": "一级园特干型香槟 AOC",
         "ja": "シャンパーニュ・プルミエ・クリュ・エクストラ・ブリュット AOC",
         "nl": "Champagne Premier Cru Extra-Brut AOC",
-        "nl-BE": "Champagne Premier Cru Extra-Brut AOC"
+        "nl-BE": "Champagne Premier Cru Extra-Brut AOC",
+        "sv": "Champagne Premier Cru Extra-Brut AOC"
       },
       "origin": {
         "it": "Premier Cru della Champagne, Francia",
@@ -2730,7 +2743,8 @@
         "zh": "法国香槟区一级园",
         "ja": "フランス、シャンパーニュのプルミエ・クリュ",
         "nl": "Premier Cru-dorpen in Champagne, Frankrijk",
-        "nl-BE": "Premier Cru-dorpen in Champagne, Frankrijk"
+        "nl-BE": "Premier Cru-dorpen in Champagne, Frankrijk",
+        "sv": "Premier Cru-byar i Champagne, Frankrike"
       },
       "grapes": "Pinot Nero 33%, Meunier 33%, Chardonnay 33%",
       "serving_temperature": "9–11 °C",
@@ -2746,7 +2760,8 @@
         "zh": "适合搭配牡蛎、甲壳类、生食海鲜、寿司、烤鱼、禽肉及清淡奶酪。",
         "ja": "牡蠣、甲殻類、魚介の生料理、寿司、魚のグリル、鶏肉、繊細なチーズにおすすめ。",
         "nl": "Oesters, schaaldieren, rauwe zeevruchten, sushi, gegrilde vis, gevogelte en verfijnde kazen.",
-        "nl-BE": "Oesters, schaaldieren, rauwe zeevruchten, sushi, gegrilde vis, gevogelte en verfijnde kazen."
+        "nl-BE": "Oesters, schaaldieren, rauwe zeevruchten, sushi, gegrilde vis, gevogelte en verfijnde kazen.",
+        "sv": "Ostron, skaldjur, råa fisk- och skaldjursrätter, sushi, grillad fisk, fågel och milda ostar."
       },
       "description": {
         "it": "Champagne Premier Cru equilibrato e minerale, ottenuto in parti uguali da Pinot Nero, Meunier e Chardonnay. Al naso offre pera, frutta bianca, agrumi, miele d’acacia e leggere note speziate. Il sorso è preciso e profondo, con struttura morbida e finale fresco e gessoso.",
@@ -2759,7 +2774,8 @@
         "zh": "由等比例的黑皮诺、莫尼耶和霞多丽酿造。带有梨、白色水果、柑橘、洋槐蜂蜜及轻微香料气息，口感精准深邃，结构柔和，余味清新并带白垩矿物感。",
         "ja": "ピノ・ノワール、ムニエ、シャルドネを各3分の1使用。洋梨、白い果実、柑橘、アカシア蜂蜜、スパイスの香り。精密で深みがあり、柔らかな骨格とチョーク質の余韻があります。",
         "nl": "Een evenwichtige en minerale Premier Cru Champagne van gelijke delen Pinot Noir, Meunier en Chardonnay. Peer, wit fruit, citrus, acaciahoning en subtiele kruiden leiden naar een precieze, diepe smaak met zachte structuur en een frisse, krijtachtige finale.",
-        "nl-BE": "Een evenwichtige en minerale Premier Cru Champagne van gelijke delen Pinot Noir, Meunier en Chardonnay. Peer, wit fruit, citrus, acaciahoning en subtiele kruiden leiden naar een precieze, diepe smaak met zachte structuur en een frisse, krijtachtige finale."
+        "nl-BE": "Een evenwichtige en minerale Premier Cru Champagne van gelijke delen Pinot Noir, Meunier en Chardonnay. Peer, wit fruit, citrus, acaciahoning en subtiele kruiden leiden naar een precieze, diepe smaak met zachte structuur en een frisse, krijtachtige finale.",
+        "sv": "En balanserad och mineralisk Premier Cru Champagne med lika delar Pinot Noir, Meunier och Chardonnay. Päron, ljus frukt, citrus, akaciahonung och milda kryddor följs av en precis, djup smak med mjuk struktur och frisk, kritpräglad avslutning."
       },
       "wine_section": "sparkling_french"
     },
@@ -2779,7 +2795,8 @@
         "zh": "桃红干型香槟 AOC",
         "ja": "シャンパーニュ・ロゼ・ブリュット AOC",
         "nl": "Champagne Rosé Brut AOC",
-        "nl-BE": "Champagne Rosé Brut AOC"
+        "nl-BE": "Champagne Rosé Brut AOC",
+        "sv": "Champagne Rosé Brut AOC"
       },
       "origin": {
         "it": "Champagne, Francia",
@@ -2792,7 +2809,8 @@
         "zh": "法国香槟区",
         "ja": "フランス、シャンパーニュ",
         "nl": "Champagne, Frankrijk",
-        "nl-BE": "Champagne, Frankrijk"
+        "nl-BE": "Champagne, Frankrijk",
+        "sv": "Champagne, Frankrike"
       },
       "grapes": "Pinot Nero 45%, Meunier 45%, Chardonnay 10%",
       "serving_temperature": "8–10 °C",
@@ -2808,7 +2826,8 @@
         "zh": "适合搭配三文鱼、金枪鱼、虾、寿司、精致冷切、香料料理及红色水果甜点。",
         "ja": "サーモン、マグロ、エビ、寿司、繊細な生ハム、スパイシー料理、赤い果実のデザートにおすすめ。",
         "nl": "Zalm, tonijn, garnalen, sushi, verfijnde vleeswaren, pittige gerechten en desserts met rood fruit.",
-        "nl-BE": "Zalm, tonijn, garnalen, sushi, verfijnde vleeswaren, pittige gerechten en desserts met rood fruit."
+        "nl-BE": "Zalm, tonijn, garnalen, sushi, verfijnde vleeswaren, pittige gerechten en desserts met rood fruit.",
+        "sv": "Lax, tonfisk, räkor, sushi, milda charkuterier, kryddstarka rätter och desserter med röda bär."
       },
       "description": {
         "it": "Champagne Rosé fresco e fruttato, affinato per due o tre anni nelle cantine della Maison. Esprime ribes, mirtillo, lampone e fragolina di bosco. Il sorso è setoso e vivace, con bollicina fine, buona struttura e finale pulito.",
@@ -2821,7 +2840,8 @@
         "zh": "在酒窖中陈酿两至三年，带有红醋栗、蓝莓、覆盆子和野草莓香气。口感丝滑活泼，气泡细腻，结构均衡，余味干净。",
         "ja": "セラーで2〜3年熟成した、爽やかで果実味豊かなロゼ。赤スグリ、ブルーベリー、ラズベリー、野イチゴの香り。シルキーで生き生きとし、泡は繊細です。",
         "nl": "Een frisse, fruitige Rosé Champagne die twee tot drie jaar rijpt in de kelders van het huis. Aroma's van rode bes, bosbes, framboos en bosaardbei leiden naar een zijdezachte, levendige smaak met fijne bubbels en een zuivere finale.",
-        "nl-BE": "Een frisse, fruitige Rosé Champagne die twee tot drie jaar rijpt in de kelders van het huis. Aroma's van rode bes, bosbes, framboos en bosaardbei leiden naar een zijdezachte, levendige smaak met fijne bubbels en een zuivere finale."
+        "nl-BE": "Een frisse, fruitige Rosé Champagne die twee tot drie jaar rijpt in de kelders van het huis. Aroma's van rode bes, bosbes, framboos en bosaardbei leiden naar een zijdezachte, levendige smaak met fijne bubbels en een zuivere finale.",
+        "sv": "En frisk och fruktig roséchampagne, lagrad två till tre år i champagnehusets källare. Doft av röda vinbär, blåbär, hallon och smultron. Silkeslen och livlig smak med fina bubblor och ren avslutning."
       },
       "wine_section": "sparkling_french"
     },
@@ -2842,7 +2862,8 @@
         "zh": "年份干型香槟 AOC",
         "ja": "ヴィンテージ・シャンパーニュ・ブリュット AOC",
         "nl": "Champagne Brut millésimé AOC",
-        "nl-BE": "Champagne Brut millésimé AOC"
+        "nl-BE": "Champagne Brut millésimé AOC",
+        "sv": "Årgångschampagne Brut AOC"
       },
       "origin": {
         "it": "Champagne, Francia",
@@ -2855,7 +2876,8 @@
         "zh": "法国香槟区",
         "ja": "フランス、シャンパーニュ",
         "nl": "Champagne, Frankrijk",
-        "nl-BE": "Champagne, Frankrijk"
+        "nl-BE": "Champagne, Frankrijk",
+        "sv": "Champagne, Frankrike"
       },
       "grapes": "Chardonnay 33%, Pinot Nero 33%, Meunier 33%",
       "serving_temperature": "10–12 °C",
@@ -2871,7 +2893,8 @@
         "zh": "适合搭配甲壳类、烤鱼、烩饭、禽肉、小牛肉、蘑菇及熟成奶酪。",
         "ja": "甲殻類、魚のロースト、リゾット、鶏肉、仔牛、キノコ、熟成チーズにおすすめ。",
         "nl": "Schaaldieren, geroosterde vis, risotto, gevogelte, kalfsvlees, paddenstoelen en gerijpte kazen.",
-        "nl-BE": "Schaaldieren, geroosterde vis, risotto, gevogelte, kalfsvlees, paddenstoelen en gerijpte kazen."
+        "nl-BE": "Schaaldieren, geroosterde vis, risotto, gevogelte, kalfsvlees, paddenstoelen en gerijpte kazen.",
+        "sv": "Skaldjur, ugnsstekt fisk, risotto, fågel, kalvkött, svamp och lagrade ostar."
       },
       "description": {
         "it": "Champagne millesimato ottenuto in parti uguali da Chardonnay, Pinot Nero e Meunier. La grande annata 2012 e il lungo affinamento sviluppano profumi di miele d’acacia, frutta candita, agrumi, brioche e frutta secca. Il sorso è maturo, equilibrato e complesso, con freschezza ancora viva e finale persistente.",
@@ -2884,7 +2907,8 @@
         "zh": "由等比例的霞多丽、黑皮诺和莫尼耶酿造。2012优秀年份及长期陈酿带来洋槐蜂蜜、糖渍水果、柑橘、布里欧修和坚果气息，口感成熟均衡、复杂而持久。",
         "ja": "シャルドネ、ピノ・ノワール、ムニエを各3分の1使用。2012年の優れた収穫と長期熟成により、アカシア蜂蜜、果実のコンフィ、柑橘、ブリオッシュ、ナッツの香り。成熟した複雑さと長い余韻があります。",
         "nl": "Een Champagne millésimé van gelijke delen Chardonnay, Pinot Noir en Meunier. De uitstekende jaargang 2012 en lange rijping ontwikkelen aroma's van acaciahoning, gekonfijt fruit, citrus, brioche en noten. Rijp, evenwichtig en complex, met levendige frisheid en een aanhoudende finale.",
-        "nl-BE": "Een Champagne millésimé van gelijke delen Chardonnay, Pinot Noir en Meunier. De uitstekende jaargang 2012 en lange rijping ontwikkelen aroma's van acaciahoning, gekonfijt fruit, citrus, brioche en noten. Rijp, evenwichtig en complex, met levendige frisheid en een aanhoudende finale."
+        "nl-BE": "Een Champagne millésimé van gelijke delen Chardonnay, Pinot Noir en Meunier. De uitstekende jaargang 2012 en lange rijping ontwikkelen aroma's van acaciahoning, gekonfijt fruit, citrus, brioche en noten. Rijp, evenwichtig en complex, met levendige frisheid en een aanhoudende finale.",
+        "sv": "En årgångschampagne med lika delar Chardonnay, Pinot Noir och Meunier. Den utmärkta årgången 2012 och lång lagring ger doft av akaciahonung, kanderad frukt, citrus, brioche och nötter. Mogen, balanserad och komplex med livlig friskhet och lång eftersmak."
       },
       "wine_section": "sparkling_french"
     },
@@ -2904,7 +2928,8 @@
         "zh": "干型香槟 AOC",
         "ja": "シャンパーニュ・ブリュット AOC",
         "nl": "Champagne Brut AOC",
-        "nl-BE": "Champagne Brut AOC"
+        "nl-BE": "Champagne Brut AOC",
+        "sv": "Champagne Brut AOC"
       },
       "origin": {
         "it": "Champagne, Francia",
@@ -2917,7 +2942,8 @@
         "zh": "法国香槟区",
         "ja": "フランス、シャンパーニュ",
         "nl": "Champagne, Frankrijk",
-        "nl-BE": "Champagne, Frankrijk"
+        "nl-BE": "Champagne, Frankrijk",
+        "sv": "Champagne, Frankrike"
       },
       "grapes": "Chardonnay, Pinot Nero, Meunier; percentuali non dichiarate",
       "serving_temperature": "8–10 °C",
@@ -2933,7 +2959,8 @@
         "zh": "适合作为开胃酒，搭配清淡前菜、甲壳类、炸鱼、寿司及新鲜奶酪。",
         "ja": "食前酒、軽い前菜、甲殻類、魚のフリット、寿司、フレッシュチーズにおすすめ。",
         "nl": "Aperitief, lichte voorgerechten, schaaldieren, gefrituurde vis, sushi en verse kazen.",
-        "nl-BE": "Aperitief, lichte voorgerechten, schaaldieren, gefrituurde vis, sushi en verse kazen."
+        "nl-BE": "Aperitief, lichte voorgerechten, schaaldieren, gefrituurde vis, sushi en verse kazen.",
+        "sv": "Aperitif, lätta förrätter, skaldjur, friterad fisk, sushi och färskostar."
       },
       "description": {
         "it": "Champagne Brut fresco e immediato, con profumi di mela bianca, pera, agrumi, mandorla e fiori delicati. La bollicina è regolare e il sorso è asciutto, morbido ed equilibrato, con un finale pulito e piacevolmente fruttato.",
@@ -2946,7 +2973,8 @@
         "zh": "清新易饮的干型香槟，带有白苹果、梨、柑橘、杏仁及淡雅花香。气泡均匀，口感干爽柔和、均衡，余味干净并带果香。",
         "ja": "白リンゴ、洋梨、柑橘、アーモンド、繊細な花の香り。泡は整っており、辛口で柔らかく、バランスのよい果実味のある余韻です。",
         "nl": "Een frisse en toegankelijke Brut Champagne met aroma's van witte appel, peer, citrus, amandel en delicate bloemen. Regelmatige bubbels en een droge, soepele, evenwichtige smaak met een zuivere, aangenaam fruitige finale.",
-        "nl-BE": "Een frisse en toegankelijke Brut Champagne met aroma's van witte appel, peer, citrus, amandel en delicate bloemen. Regelmatige bubbels en een droge, soepele, evenwichtige smaak met een zuivere, aangenaam fruitige finale."
+        "nl-BE": "Een frisse en toegankelijke Brut Champagne met aroma's van witte appel, peer, citrus, amandel en delicate bloemen. Regelmatige bubbels en een droge, soepele, evenwichtige smaak met een zuivere, aangenaam fruitige finale.",
+        "sv": "En frisk och lättillgänglig Brut Champagne med doft av äpple, päron, citrus, mandel och milda blommor. Jämna bubblor och en torr, mjuk, balanserad smak med ren och behagligt fruktig avslutning."
       },
       "wine_section": "sparkling_french"
     },
@@ -2966,7 +2994,8 @@
         "zh": "特级园干型香槟 AOC",
         "ja": "シャンパーニュ・ブリュット・グラン・クリュ AOC",
         "nl": "Champagne Brut Grand Cru AOC",
-        "nl-BE": "Champagne Brut Grand Cru AOC"
+        "nl-BE": "Champagne Brut Grand Cru AOC",
+        "sv": "Champagne Brut Grand Cru AOC"
       },
       "origin": {
         "it": "Ambonnay, Montagne de Reims",
@@ -2979,7 +3008,8 @@
         "zh": "兰斯山，昂邦奈",
         "ja": "モンターニュ・ド・ランス、アンボネ",
         "nl": "Ambonnay, Montagne de Reims",
-        "nl-BE": "Ambonnay, Montagne de Reims"
+        "nl-BE": "Ambonnay, Montagne de Reims",
+        "sv": "Ambonnay, Montagne de Reims"
       },
       "grapes": "Pinot Nero, Chardonnay; percentuali non dichiarate",
       "serving_temperature": "8–10 °C",
@@ -2995,7 +3025,8 @@
         "zh": "适合作为开胃酒，搭配甲壳类、烤鱼、烩饭、禽肉、精致冷切及奶酪。",
         "ja": "食前酒、甲殻類、魚のロースト、リゾット、鶏肉、繊細な生ハム、チーズにおすすめ。",
         "nl": "Aperitief, schaaldieren, geroosterde vis, risotto, gevogelte, verfijnde vleeswaren en kazen.",
-        "nl-BE": "Aperitief, schaaldieren, geroosterde vis, risotto, gevogelte, verfijnde vleeswaren en kazen."
+        "nl-BE": "Aperitief, schaaldieren, geroosterde vis, risotto, gevogelte, verfijnde vleeswaren en kazen.",
+        "sv": "Aperitif, skaldjur, ugnsstekt fisk, risotto, fågel, milda charkuterier och ostar."
       },
       "description": {
         "it": "Champagne Grand Cru di Ambonnay, elegante e vinoso. Esprime frutta matura, prugna, fiori, brioche, pasticceria e leggere note tostate e speziate. La bollicina è fine e il sorso è ampio, armonioso e persistente.",
@@ -3008,7 +3039,8 @@
         "zh": "来自昂邦奈特级园，风格优雅而富有酒体。带有成熟水果、李子、花香、布里欧修、糕点及轻微烘烤香料气息，气泡细腻，口感丰润协调，余味持久。",
         "ja": "アンボネのグラン・クリュ。熟した果実、プラム、花、ブリオッシュ、焼き菓子、トースト、スパイスの香り。泡は繊細で、豊かで調和があり、長い余韻があります。",
         "nl": "Een elegante, vineuze Grand Cru Champagne uit Ambonnay. Rijp fruit, pruim, bloemen, brioche, patisserie en subtiele geroosterde kruiden begeleiden fijne bubbels en een brede, harmonieuze, aanhoudende smaak.",
-        "nl-BE": "Een elegante, vineuze Grand Cru Champagne uit Ambonnay. Rijp fruit, pruim, bloemen, brioche, patisserie en subtiele geroosterde kruiden begeleiden fijne bubbels en een brede, harmonieuze, aanhoudende smaak."
+        "nl-BE": "Een elegante, vineuze Grand Cru Champagne uit Ambonnay. Rijp fruit, pruim, bloemen, brioche, patisserie en subtiele geroosterde kruiden begeleiden fijne bubbels en een brede, harmonieuze, aanhoudende smaak.",
+        "sv": "En elegant, vinös Grand Cru Champagne från Ambonnay. Mogen frukt, plommon, blommor, brioche, bakverk och lätt rostade kryddtoner följs av fina bubblor och en fyllig, harmonisk smak med lång eftersmak."
       },
       "wine_section": "sparkling_french"
     },
@@ -3028,7 +3060,8 @@
         "zh": "一级园白中白特干型香槟 AOC",
         "ja": "シャンパーニュ・ブラン・ド・ブラン・プルミエ・クリュ・エクストラ・ブリュット AOC",
         "nl": "Champagne Blanc de Blancs Premier Cru Extra-Brut AOC",
-        "nl-BE": "Champagne Blanc de Blancs Premier Cru Extra-Brut AOC"
+        "nl-BE": "Champagne Blanc de Blancs Premier Cru Extra-Brut AOC",
+        "sv": "Champagne Blanc de Blancs Premier Cru Extra-Brut AOC"
       },
       "origin": {
         "it": "Vertus, Oger, Avize e Cramant, Côte des Blancs",
@@ -3041,7 +3074,8 @@
         "zh": "白丘地区的维尔蒂、奥热、阿维兹和克拉芒",
         "ja": "コート・デ・ブランのヴェルテュ、オジェ、アヴィーズ、クラマン",
         "nl": "Vertus, Oger, Avize en Cramant, Côte des Blancs",
-        "nl-BE": "Vertus, Oger, Avize en Cramant, Côte des Blancs"
+        "nl-BE": "Vertus, Oger, Avize en Cramant, Côte des Blancs",
+        "sv": "Vertus, Oger, Avize och Cramant, Côte des Blancs"
       },
       "grapes": "Chardonnay 100%; 40% vini di riserva perpetua",
       "serving_temperature": "9–11 °C",
@@ -3057,7 +3091,8 @@
         "zh": "适合搭配牡蛎、生食海鲜、扇贝、甲壳类、寿司、清淡鱼类及新鲜奶酪。",
         "ja": "牡蠣、魚介の生料理、ホタテ、甲殻類、寿司、繊細な魚、フレッシュチーズにおすすめ。",
         "nl": "Oesters, rauwe zeevruchten, sint-jakobsschelpen, schaaldieren, sushi, verfijnde visgerechten en verse kazen.",
-        "nl-BE": "Oesters, rauwe zeevruchten, sint-jakobsschelpen, schaaldieren, sushi, verfijnde visgerechten en verse kazen."
+        "nl-BE": "Oesters, rauwe zeevruchten, sint-jakobsschelpen, schaaldieren, sushi, verfijnde visgerechten en verse kazen.",
+        "sv": "Ostron, råa fisk- och skaldjursrätter, pilgrimsmusslor, skaldjur, sushi, milda fiskrätter och färskostar."
       },
       "description": {
         "it": "Blanc de Blancs Premier Cru Extra-Brut da Chardonnay in purezza, con il 40% di vini provenienti da una riserva perpetua iniziata nel 2004. Fermenta spontaneamente in legno e affina sui lieviti senza chiarifica né filtrazione. È verticale e minerale, con agrumi, mela verde, fiori, pasticceria e un lungo finale gessoso.",
@@ -3070,7 +3105,8 @@
         "zh": "采用100%霞多丽酿造，其中40%来自始于2004年的永久储备酒。木桶自然发酵，不澄清不过滤。带有柑橘、青苹果、花香、糕点和白垩矿物气息，口感紧致，余味悠长。",
         "ja": "シャルドネ100%、2004年に始めたパーペチュアル・リザーヴを40%使用。木樽で自然発酵し、清澄も濾過も行いません。柑橘、青リンゴ、花、焼き菓子、チョークの香りと長い余韻があります。",
         "nl": "Een Premier Cru Extra-Brut Blanc de Blancs van 100% Chardonnay, waarvan 40% uit een perpetuele reserve die in 2004 is gestart. Spontaan vergist in hout en gerijpt op de droesem zonder klaring of filtratie. Precies en mineraal, met citrus, groene appel, bloemen, patisserie en een lange krijtachtige finale.",
-        "nl-BE": "Een Premier Cru Extra-Brut Blanc de Blancs van 100% Chardonnay, waarvan 40% uit een perpetuele reserve die in 2004 is gestart. Spontaan vergist in hout en gerijpt op de droesem zonder klaring of filtratie. Precies en mineraal, met citrus, groene appel, bloemen, patisserie en een lange krijtachtige finale."
+        "nl-BE": "Een Premier Cru Extra-Brut Blanc de Blancs van 100% Chardonnay, waarvan 40% uit een perpetuele reserve die in 2004 is gestart. Spontaan vergist in hout en gerijpt op de droesem zonder klaring of filtratie. Precies en mineraal, met citrus, groene appel, bloemen, patisserie en een lange krijtachtige finale.",
+        "sv": "En Premier Cru Extra-Brut Blanc de Blancs av 100 % Chardonnay, varav 40 % kommer från en kontinuerligt förnyad reserv som påbörjades 2004. Spontanjäst på träfat och lagrad på jästfällningen utan klarning eller filtrering. Precis och mineralisk med citrus, grönt äpple, blommor, bakverk och lång, kritpräglad avslutning."
       },
       "wine_section": "sparkling_french"
     },
@@ -3090,7 +3126,8 @@
         "zh": "特干型香槟 AOC",
         "ja": "シャンパーニュ・エクストラ・ブリュット AOC",
         "nl": "Champagne Extra-Brut AOC",
-        "nl-BE": "Champagne Extra-Brut AOC"
+        "nl-BE": "Champagne Extra-Brut AOC",
+        "sv": "Champagne Extra-Brut AOC"
       },
       "origin": {
         "it": "Aÿ, Dizy, Hautvillers, Champillon, Avize e Oiry",
@@ -3103,7 +3140,8 @@
         "zh": "艾村、迪济、欧维莱、尚皮永、阿维兹及瓦里",
         "ja": "アイ、ディジー、オーヴィレール、シャンピヨン、アヴィーズ、オワリー",
         "nl": "Aÿ, Dizy, Hautvillers, Champillon, Avize en Oiry",
-        "nl-BE": "Aÿ, Dizy, Hautvillers, Champillon, Avize en Oiry"
+        "nl-BE": "Aÿ, Dizy, Hautvillers, Champillon, Avize en Oiry",
+        "sv": "Aÿ, Dizy, Hautvillers, Champillon, Avize och Oiry"
       },
       "grapes": "Pinot Nero, Meunier, Chardonnay; cuvée a prevalenza di Pinot",
       "serving_temperature": "10–12 °C",
@@ -3119,7 +3157,8 @@
         "zh": "适合搭配甲壳类、烤鱼、多宝鱼、禽肉、小牛肉、蘑菇、松露及熟成奶酪。",
         "ja": "甲殻類、魚のロースト、ターボット、鶏肉、仔牛、キノコ、トリュフ、熟成チーズにおすすめ。",
         "nl": "Schaaldieren, geroosterde vis, tarbot, gevogelte, kalfsvlees, paddenstoelen, truffel en gerijpte kazen.",
-        "nl-BE": "Schaaldieren, geroosterde vis, tarbot, gevogelte, kalfsvlees, paddenstoelen, truffel en gerijpte kazen."
+        "nl-BE": "Schaaldieren, geroosterde vis, tarbot, gevogelte, kalfsvlees, paddenstoelen, truffel en gerijpte kazen.",
+        "sv": "Skaldjur, ugnsstekt fisk, piggvar, fågel, kalvkött, svamp, tryffel och lagrade ostar."
       },
       "description": {
         "it": "Champagne Extra-Brut basato sulla vendemmia 2019, con prevalenza di Pinot provenienti da Aÿ, Dizy, Hautvillers e Champillon. Vinifica e affina in grandi botti di legno sui lieviti, senza filtrazione né chiarifica, con dosaggio di 1,5 g/l. È strutturato e complesso, con frutta matura, agrumi, spezie, pane e una profonda vena minerale.",
@@ -3132,7 +3171,8 @@
         "zh": "以2019年份为基础，以艾村、迪济、欧维莱和尚皮永的黑葡萄为主。在大型木桶中酒泥陈酿，不澄清不过滤，补糖量1.5克/升。带有成熟水果、柑橘、香料、面包及深邃矿物感，口感富有结构且复杂。",
         "ja": "2019年をベースに、アイ、ディジー、オーヴィレール、シャンピヨンのピノを主体としたエクストラ・ブリュット。大樽で澱と熟成し、清澄・濾過なし。ドサージュ1.5g/L。熟した果実、柑橘、スパイス、パン、深いミネラル感があります。",
         "nl": "Een Extra-Brut Champagne op basis van de oogst 2019, gedomineerd door Pinots uit Aÿ, Dizy, Hautvillers en Champillon. Gevinifieerd en gerijpt op de droesem in grote houten vaten zonder klaring of filtratie, met een dosage van 1,5 g/l. Gestructureerd en complex, met rijp fruit, citrus, kruiden, brood en diepe mineraliteit.",
-        "nl-BE": "Een Extra-Brut Champagne op basis van de oogst 2019, gedomineerd door Pinots uit Aÿ, Dizy, Hautvillers en Champillon. Gevinifieerd en gerijpt op de droesem in grote houten vaten zonder klaring of filtratie, met een dosage van 1,5 g/l. Gestructureerd en complex, met rijp fruit, citrus, kruiden, brood en diepe mineraliteit."
+        "nl-BE": "Een Extra-Brut Champagne op basis van de oogst 2019, gedomineerd door Pinots uit Aÿ, Dizy, Hautvillers en Champillon. Gevinifieerd en gerijpt op de droesem in grote houten vaten zonder klaring of filtratie, met een dosage van 1,5 g/l. Gestructureerd en complex, met rijp fruit, citrus, kruiden, brood en diepe mineraliteit.",
+        "sv": "En Extra-Brut Champagne baserad på skörden 2019, dominerad av Pinot-druvor från Aÿ, Dizy, Hautvillers och Champillon. Vinifierad och lagrad på jästfällningen i stora träkar utan klarning eller filtrering, med en dosage på 1,5 g/l. Strukturerad och komplex med mogen frukt, citrus, kryddor, bröd och djup mineralitet."
       },
       "wine_section": "sparkling_french"
     },
