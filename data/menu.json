@@ -11289,7 +11289,8 @@
       "zh": "麸质",
       "ja": "グルテン",
       "nl": "Gluten",
-      "nl-BE": "Gluten"
+      "nl-BE": "Gluten",
+      "sv": "Gluten"
     },
     "2": {
       "it": "Crostacei",
@@ -11302,7 +11303,8 @@
       "zh": "甲壳类",
       "ja": "甲殻類",
       "nl": "Schaaldieren",
-      "nl-BE": "Schaaldieren"
+      "nl-BE": "Schaaldieren",
+      "sv": "Kräftdjur"
     },
     "3": {
       "it": "Uova",
@@ -11315,7 +11317,8 @@
       "zh": "鸡蛋",
       "ja": "卵",
       "nl": "Eieren",
-      "nl-BE": "Eieren"
+      "nl-BE": "Eieren",
+      "sv": "Ägg"
     },
     "4": {
       "it": "Pesce",
@@ -11328,7 +11331,8 @@
       "zh": "鱼类",
       "ja": "魚",
       "nl": "Vis",
-      "nl-BE": "Vis"
+      "nl-BE": "Vis",
+      "sv": "Fisk"
     },
     "5": {
       "it": "Arachidi",
@@ -11341,7 +11345,8 @@
       "zh": "花生",
       "ja": "ピーナッツ",
       "nl": "Pinda's",
-      "nl-BE": "Pinda's"
+      "nl-BE": "Pinda's",
+      "sv": "Jordnötter"
     },
     "6": {
       "it": "Soia",
@@ -11354,7 +11359,8 @@
       "zh": "大豆",
       "ja": "大豆",
       "nl": "Soja",
-      "nl-BE": "Soja"
+      "nl-BE": "Soja",
+      "sv": "Sojabönor"
     },
     "7": {
       "it": "Latte",
@@ -11367,7 +11373,8 @@
       "zh": "牛奶",
       "ja": "乳",
       "nl": "Melk",
-      "nl-BE": "Melk"
+      "nl-BE": "Melk",
+      "sv": "Mjölk"
     },
     "8": {
       "it": "Frutta a guscio",
@@ -11380,7 +11387,8 @@
       "zh": "坚果",
       "ja": "ナッツ類",
       "nl": "Noten",
-      "nl-BE": "Noten"
+      "nl-BE": "Noten",
+      "sv": "Nötter"
     },
     "9": {
       "it": "Sedano",
@@ -11393,7 +11401,8 @@
       "zh": "芹菜",
       "ja": "セロリ",
       "nl": "Selderij",
-      "nl-BE": "Selderij"
+      "nl-BE": "Selderij",
+      "sv": "Selleri"
     },
     "10": {
       "it": "Senape",
@@ -11406,7 +11415,8 @@
       "zh": "芥末",
       "ja": "マスタード",
       "nl": "Mosterd",
-      "nl-BE": "Mosterd"
+      "nl-BE": "Mosterd",
+      "sv": "Senap"
     },
     "11": {
       "it": "Sesamo",
@@ -11419,7 +11429,8 @@
       "zh": "芝麻",
       "ja": "ごま",
       "nl": "Sesam",
-      "nl-BE": "Sesam"
+      "nl-BE": "Sesam",
+      "sv": "Sesamfrön"
     },
     "12": {
       "it": "Anidride solforosa e solfiti",
@@ -11432,7 +11443,8 @@
       "zh": "二氧化硫和亚硫酸盐",
       "ja": "二酸化硫黄・亜硫酸塩",
       "nl": "Zwaveldioxide en sulfieten",
-      "nl-BE": "Zwaveldioxide en sulfieten"
+      "nl-BE": "Zwaveldioxide en sulfieten",
+      "sv": "Svaveldioxid och sulfiter"
     },
     "13": {
       "it": "Lupini",
@@ -11445,7 +11457,8 @@
       "zh": "羽扇豆",
       "ja": "ルピナス",
       "nl": "Lupine",
-      "nl-BE": "Lupine"
+      "nl-BE": "Lupine",
+      "sv": "Lupin"
     },
     "14": {
       "it": "Molluschi",
@@ -11458,7 +11471,8 @@
       "zh": "软体动物",
       "ja": "軟体動物",
       "nl": "Weekdieren",
-      "nl-BE": "Weekdieren"
+      "nl-BE": "Weekdieren",
+      "sv": "Blötdjur"
     }
   },
   "breakfast": [
