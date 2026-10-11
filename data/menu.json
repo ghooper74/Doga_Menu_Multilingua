@@ -11496,7 +11496,8 @@
         "zh": "果酱塔",
         "ja": "ジャムタルト",
         "nl": "Taart met jam",
-        "nl-BE": "Taart met jam"
+        "nl-BE": "Taart met jam",
+        "sv": "Syltpaj"
       },
       "ingredients": {
         "it": "Uova, burro, zucchero, farina, marmellata di albicocca, frutti di bosco, mela, noci e cannella.",
@@ -11509,7 +11510,8 @@
         "zh": "鸡蛋、黄油、糖、面粉、杏子果酱、森林莓果、苹果、核桃和肉桂。",
         "ja": "卵、バター、砂糖、小麦粉、アプリコットジャム、ベリー、りんご、くるみ、シナモン。",
         "nl": "Eieren, boter, suiker, bloem, abrikozenjam, bessen, appel, walnoten en kaneel.",
-        "nl-BE": "Eieren, boter, suiker, bloem, abrikozenjam, bessen, appel, walnoten en kaneel."
+        "nl-BE": "Eieren, boter, suiker, bloem, abrikozenjam, bessen, appel, walnoten en kaneel.",
+        "sv": "Ägg, smör, socker, mjöl, aprikossylt, bär, äpple, valnötter och kanel."
       },
       "allergens": "1, 3, 7, 8"
     },
@@ -11525,7 +11527,8 @@
         "zh": "香蕉面包",
         "ja": "バナナブレッド",
         "nl": "Bananenbrood",
-        "nl-BE": "Bananenbrood"
+        "nl-BE": "Bananenbrood",
+        "sv": "Bananbröd"
       },
       "ingredients": {
         "it": "Farina, burro, zucchero, uova, frutta a guscio, banane.",
@@ -11538,7 +11541,8 @@
         "zh": "面粉、黄油、糖、鸡蛋、坚果、香蕉。",
         "ja": "小麦粉、バター、砂糖、卵、ナッツ類、バナナ。",
         "nl": "Bloem, boter, suiker, eieren, noten, bananen.",
-        "nl-BE": "Bloem, boter, suiker, eieren, noten, bananen."
+        "nl-BE": "Bloem, boter, suiker, eieren, noten, bananen.",
+        "sv": "Mjöl, smör, socker, ägg, nötter och bananer."
       },
       "allergens": "1, 3, 7, 8"
     },
@@ -11554,7 +11558,8 @@
         "zh": "胡萝卜蛋糕",
         "ja": "キャロットケーキ",
         "nl": "Worteltaart",
-        "nl-BE": "Worteltaart"
+        "nl-BE": "Worteltaart",
+        "sv": "Morotskaka"
       },
       "ingredients": {
         "it": "Farina, uova, zucchero, carote, olio di semi.",
@@ -11567,7 +11572,8 @@
         "zh": "面粉、鸡蛋、糖、胡萝卜、植物油。",
         "ja": "小麦粉、卵、砂糖、にんじん、植物油。",
         "nl": "Bloem, eieren, suiker, wortelen, plantaardige olie.",
-        "nl-BE": "Bloem, eieren, suiker, wortelen, plantaardige olie."
+        "nl-BE": "Bloem, eieren, suiker, wortelen, plantaardige olie.",
+        "sv": "Mjöl, ägg, socker, morötter och vegetabilisk olja."
       },
       "allergens": "1, 3, 5",
       "note": {
@@ -11581,7 +11587,8 @@
         "zh": "过敏原5需确认：是否含花生、花生油或痕量。",
         "ja": "アレルゲン5は確認が必要です：落花生、落花生油、または微量混入の有無。",
         "nl": "Allergeen 5 controleren: bevestigen of het pinda's, pindaolie of sporen daarvan bevat.",
-        "nl-BE": "Allergeen 5 controleren: bevestigen of het pinda's, pindaolie of sporen daarvan bevat."
+        "nl-BE": "Allergeen 5 controleren: bevestigen of het pinda's, pindaolie of sporen daarvan bevat.",
+        "sv": "Allergen 5 behöver kontrolleras: bekräfta om produkten innehåller jordnötter, jordnötsolja eller spår av jordnötter."
       }
     },
     {
@@ -11596,7 +11603,8 @@
         "zh": "布里欧修面包",
         "ja": "ブリオッシュパン",
         "nl": "Briochebrood",
-        "nl-BE": "Briochebrood"
+        "nl-BE": "Briochebrood",
+        "sv": "Briochebröd"
       },
       "ingredients": {
         "it": "Farina, uova, sale, burro, zucchero, lievito di birra, acqua.",
@@ -11609,7 +11617,8 @@
         "zh": "面粉、鸡蛋、盐、黄油、糖、啤酒酵母、水。",
         "ja": "小麦粉、卵、塩、バター、砂糖、ビール酵母、水。",
         "nl": "Bloem, eieren, zout, boter, suiker, bakkersgist, water.",
-        "nl-BE": "Bloem, eieren, zout, boter, suiker, bakkersgist, water."
+        "nl-BE": "Bloem, eieren, zout, boter, suiker, bakkersgist, water.",
+        "sv": "Mjöl, ägg, salt, smör, socker, jäst och vatten."
       },
       "allergens": "1, 3, 7"
     },
@@ -11625,7 +11634,8 @@
         "zh": "奶油羊角面包",
         "ja": "クリーム入りクロワッサン",
         "nl": "Croissants met roomvulling",
-        "nl-BE": "Croissants met roomvulling"
+        "nl-BE": "Croissants met roomvulling",
+        "sv": "Vaniljkrämsfyllda croissanter"
       },
       "ingredients": {
         "it": "Uova, burro, latte, farina, zucchero, lievito, acqua, vaniglia.",
@@ -11638,7 +11648,8 @@
         "zh": "鸡蛋、黄油、牛奶、面粉、糖、酵母、水、香草。",
         "ja": "卵、バター、牛乳、小麦粉、砂糖、酵母、水、バニラ。",
         "nl": "Eieren, boter, melk, bloem, suiker, gist, water, vanille.",
-        "nl-BE": "Eieren, boter, melk, bloem, suiker, gist, water, vanille."
+        "nl-BE": "Eieren, boter, melk, bloem, suiker, gist, water, vanille.",
+        "sv": "Ägg, smör, mjölk, mjöl, socker, jäst, vatten och vanilj."
       },
       "allergens": "1, 3, 7"
     },
@@ -11654,7 +11665,8 @@
         "zh": "冷切肉",
         "ja": "ハム・サラミ類",
         "nl": "Vleeswaren",
-        "nl-BE": "Vleeswaren"
+        "nl-BE": "Vleeswaren",
+        "sv": "Charkuterier"
       },
       "ingredients": {
         "it": "Ingredienti da verificare secondo prodotto e fornitore.",
@@ -11667,7 +11679,8 @@
         "zh": "配料需根据具体产品和供应商确认。",
         "ja": "原材料は商品および仕入先により確認が必要です。",
         "nl": "Ingrediënten te controleren volgens product en leverancier.",
-        "nl-BE": "Ingrediënten te controleren volgens product en leverancier."
+        "nl-BE": "Ingrediënten te controleren volgens product en leverancier.",
+        "sv": "Ingredienserna måste kontrolleras för respektive produkt och leverantör."
       },
       "allergens": "Da verificare",
       "note": {
@@ -11681,7 +11694,8 @@
         "zh": "请查看标签或供应商资料。",
         "ja": "ラベルまたは仕入先資料を確認してください。",
         "nl": "Controleer het etiket of de productspecificatie van de leverancier.",
-        "nl-BE": "Controleer het etiket of de productspecificatie van de leverancier."
+        "nl-BE": "Controleer het etiket of de productspecificatie van de leverancier.",
+        "sv": "Kontrollera produktetiketten eller leverantörens produktblad."
       }
     },
     {
@@ -11696,7 +11710,8 @@
         "zh": "奶酪",
         "ja": "チーズ",
         "nl": "Kazen",
-        "nl-BE": "Kazen"
+        "nl-BE": "Kazen",
+        "sv": "Ostar"
       },
       "ingredients": {
         "it": "Latte, sale, caglio e/o fermenti secondo tipologia.",
@@ -11709,7 +11724,8 @@
         "zh": "牛奶、盐、凝乳酶和/或发酵剂，视种类而定。",
         "ja": "牛乳、塩、レンネットおよび/または発酵菌（種類による）。",
         "nl": "Melk, zout, stremsel en/of culturen afhankelijk van het type.",
-        "nl-BE": "Melk, zout, stremsel en/of culturen afhankelijk van het type."
+        "nl-BE": "Melk, zout, stremsel en/of culturen afhankelijk van het type.",
+        "sv": "Mjölk, salt, löpe och/eller mjölksyrakulturer beroende på ostsort."
       },
       "allergens": "7"
     },
@@ -11725,7 +11741,8 @@
         "zh": "烟熏三文鱼",
         "ja": "スモークサーモン",
         "nl": "Gerookte zalm",
-        "nl-BE": "Gerookte zalm"
+        "nl-BE": "Gerookte zalm",
+        "sv": "Rökt lax"
       },
       "ingredients": {
         "it": "Salmone affumicato.",
@@ -11738,7 +11755,8 @@
         "zh": "烟熏三文鱼。",
         "ja": "スモークサーモン。",
         "nl": "Gerookte zalm.",
-        "nl-BE": "Gerookte zalm."
+        "nl-BE": "Gerookte zalm.",
+        "sv": "Rökt lax."
       },
       "allergens": "4"
     },
@@ -11754,7 +11772,8 @@
         "zh": "炒蛋",
         "ja": "スクランブルエッグ",
         "nl": "Roerei",
-        "nl-BE": "Roerei"
+        "nl-BE": "Roerei",
+        "sv": "Äggröra"
       },
       "ingredients": {
         "it": "Uova, latte, sale.",
@@ -11767,7 +11786,8 @@
         "zh": "鸡蛋、牛奶、盐。",
         "ja": "卵、牛乳、塩。",
         "nl": "Eieren, melk, zout.",
-        "nl-BE": "Eieren, melk, zout."
+        "nl-BE": "Eieren, melk, zout.",
+        "sv": "Ägg, mjölk och salt."
       },
       "allergens": "3, 7"
     },
@@ -11783,7 +11803,8 @@
         "zh": "白面包和谷物面包",
         "ja": "白パン・穀物パン",
         "nl": "Witbrood en meergranenbrood",
-        "nl-BE": "Witbrood en meergranenbrood"
+        "nl-BE": "Witbrood en meergranenbrood",
+        "sv": "Vitt bröd och flerkornsbröd"
       },
       "ingredients": {
         "it": "Farina, acqua, lievito, sale, cereali vari.",
@@ -11796,7 +11817,8 @@
         "zh": "面粉、水、酵母、盐、各种谷物。",
         "ja": "小麦粉、水、酵母、塩、各種穀物。",
         "nl": "Bloem, water, gist, zout, gemengde granen.",
-        "nl-BE": "Bloem, water, gist, zout, gemengde granen."
+        "nl-BE": "Bloem, water, gist, zout, gemengde granen.",
+        "sv": "Mjöl, vatten, jäst, salt och olika spannmål."
       },
       "allergens": "1, 11",
       "note": {
@@ -11810,7 +11832,8 @@
         "zh": "如谷物面包含芝麻，需确认。",
         "ja": "穀物パンにごまが含まれる場合は確認が必要です。",
         "nl": "Sesam controleren indien aanwezig in het meergranenbrood.",
-        "nl-BE": "Sesam controleren indien aanwezig in het meergranenbrood."
+        "nl-BE": "Sesam controleren indien aanwezig in het meergranenbrood.",
+        "sv": "Kontrollera om flerkornsbrödet innehåller sesam."
       }
     },
     {
@@ -11825,7 +11848,8 @@
         "zh": "全脂牛奶",
         "ja": "全乳",
         "nl": "Volle melk",
-        "nl-BE": "Volle melk"
+        "nl-BE": "Volle melk",
+        "sv": "Standardmjölk"
       },
       "ingredients": {
         "it": "Latte.",
@@ -11838,7 +11862,8 @@
         "zh": "牛奶。",
         "ja": "牛乳。",
         "nl": "Melk.",
-        "nl-BE": "Melk."
+        "nl-BE": "Melk.",
+        "sv": "Mjölk."
       },
       "allergens": "7"
     },
@@ -11854,7 +11879,8 @@
         "zh": "豆奶",
         "ja": "豆乳",
         "nl": "Sojamelk",
-        "nl-BE": "Sojamelk"
+        "nl-BE": "Sojamelk",
+        "sv": "Sojadryck"
       },
       "ingredients": {
         "it": "Da verificare secondo etichetta del prodotto.",
@@ -11867,7 +11893,8 @@
         "zh": "需根据产品标签确认。",
         "ja": "商品の表示に従って確認が必要です。",
         "nl": "Te controleren volgens het productetiket.",
-        "nl-BE": "Te controleren volgens het productetiket."
+        "nl-BE": "Te controleren volgens het productetiket.",
+        "sv": "Kontrollera ingredienserna på produktetiketten."
       },
       "allergens": "6"
     },
@@ -11883,7 +11910,8 @@
         "zh": "杏仁饮品",
         "ja": "アーモンドミルク",
         "nl": "Amandelmelk",
-        "nl-BE": "Amandelmelk"
+        "nl-BE": "Amandelmelk",
+        "sv": "Mandeldryck"
       },
       "ingredients": {
         "it": "Da verificare secondo etichetta del prodotto.",
@@ -11896,7 +11924,8 @@
         "zh": "需根据产品标签确认。",
         "ja": "商品の表示に従って確認が必要です。",
         "nl": "Te controleren volgens het productetiket.",
-        "nl-BE": "Te controleren volgens het productetiket."
+        "nl-BE": "Te controleren volgens het productetiket.",
+        "sv": "Kontrollera ingredienserna på produktetiketten."
       },
       "allergens": "8"
     },
@@ -11912,7 +11941,8 @@
         "zh": "酸奶",
         "ja": "ヨーグルト",
         "nl": "Yoghurt",
-        "nl-BE": "Yoghurt"
+        "nl-BE": "Yoghurt",
+        "sv": "Yoghurt"
       },
       "ingredients": {
         "it": "Da verificare secondo etichetta del prodotto.",
@@ -11925,7 +11955,8 @@
         "zh": "需根据产品标签确认。",
         "ja": "商品の表示に従って確認が必要です。",
         "nl": "Te controleren volgens het productetiket.",
-        "nl-BE": "Te controleren volgens het productetiket."
+        "nl-BE": "Te controleren volgens het productetiket.",
+        "sv": "Kontrollera ingredienserna på produktetiketten."
       },
       "allergens": "7"
     },
@@ -11941,7 +11972,8 @@
         "zh": "谷物、麦片和格兰诺拉",
         "ja": "シリアル、ミューズリー、グラノーラ",
         "nl": "Ontbijtgranen, muesli en granola",
-        "nl-BE": "Ontbijtgranen, muesli en granola"
+        "nl-BE": "Ontbijtgranen, muesli en granola",
+        "sv": "Flingor, müsli och granola"
       },
       "ingredients": {
         "it": "Da verificare secondo etichetta del prodotto.",
@@ -11954,7 +11986,8 @@
         "zh": "需根据产品标签确认。",
         "ja": "商品の表示に従って確認が必要です。",
         "nl": "Te controleren volgens het productetiket.",
-        "nl-BE": "Te controleren volgens het productetiket."
+        "nl-BE": "Te controleren volgens het productetiket.",
+        "sv": "Kontrollera ingredienserna på produktetiketten."
       },
       "allergens": "Da verificare",
       "traces": {
@@ -11968,7 +12001,8 @@
         "zh": "可能含麸质、大豆、牛奶、坚果、芝麻。",
         "ja": "グルテン、大豆、乳、ナッツ類、ごまの可能性。",
         "nl": "Mogelijk gluten, soja, melk, noten en sesam.",
-        "nl-BE": "Mogelijk gluten, soja, melk, noten en sesam."
+        "nl-BE": "Mogelijk gluten, soja, melk, noten en sesam.",
+        "sv": "Kan innehålla gluten, soja, mjölk, nötter och sesam."
       }
     },
     {
@@ -11983,7 +12017,8 @@
         "zh": "混合种子",
         "ja": "ミックスシード",
         "nl": "Gemengde zaden",
-        "nl-BE": "Gemengde zaden"
+        "nl-BE": "Gemengde zaden",
+        "sv": "Blandade frön"
       },
       "ingredients": {
         "it": "Da verificare secondo etichetta del prodotto.",
@@ -11996,7 +12031,8 @@
         "zh": "需根据产品标签确认。",
         "ja": "商品の表示に従って確認が必要です。",
         "nl": "Te controleren volgens het productetiket.",
-        "nl-BE": "Te controleren volgens het productetiket."
+        "nl-BE": "Te controleren volgens het productetiket.",
+        "sv": "Kontrollera ingredienserna på produktetiketten."
       },
       "allergens": "11 se contiene sesamo",
       "note": {
@@ -12010,7 +12046,8 @@
         "zh": "芝麻是欧盟过敏原；其他种子仍应作为配料列出。",
         "ja": "ごまはEU指定アレルゲンです。他の種子も原材料として記載してください。",
         "nl": "Sesam is een EU-allergeen; andere zaden moeten nog steeds als ingrediënten worden vermeld.",
-        "nl-BE": "Sesam is een EU-allergeen; andere zaden moeten nog steeds als ingrediënten worden vermeld."
+        "nl-BE": "Sesam is een EU-allergeen; andere zaden moeten nog steeds als ingrediënten worden vermeld.",
+        "sv": "Sesam är en allergen enligt EU:s regler. Andra frön ska ändå anges som ingredienser."
       }
     },
     {
@@ -12025,7 +12062,8 @@
         "zh": "坚果和干果",
         "ja": "ナッツ類・ドライフルーツ",
         "nl": "Noten en gedroogd fruit",
-        "nl-BE": "Noten en gedroogd fruit"
+        "nl-BE": "Noten en gedroogd fruit",
+        "sv": "Nötter och torkad frukt"
       },
       "ingredients": {
         "it": "Da verificare secondo etichetta del prodotto.",
@@ -12038,7 +12076,8 @@
         "zh": "需根据产品标签确认。",
         "ja": "商品の表示に従って確認が必要です。",
         "nl": "Te controleren volgens het productetiket.",
-        "nl-BE": "Te controleren volgens het productetiket."
+        "nl-BE": "Te controleren volgens het productetiket.",
+        "sv": "Kontrollera ingredienserna på produktetiketten."
       },
       "allergens": "8, 5 se contiene arachidi",
       "traces": {
@@ -12052,7 +12091,8 @@
         "zh": "干果中可能含亚硫酸盐，需确认。",
         "ja": "ドライフルーツに亜硫酸塩が含まれる可能性があります。確認が必要です。",
         "nl": "Mogelijke sulfieten in gedroogd fruit, te controleren.",
-        "nl-BE": "Mogelijke sulfieten in gedroogd fruit, te controleren."
+        "nl-BE": "Mogelijke sulfieten in gedroogd fruit, te controleren.",
+        "sv": "Torkad frukt kan innehålla sulfiter; detta måste kontrolleras."
       }
     },
     {
@@ -12067,7 +12107,8 @@
         "zh": "黄油、果酱和蜂蜜",
         "ja": "バター、ジャム、はちみつ",
         "nl": "Boter, jam en honing",
-        "nl-BE": "Boter, jam en honing"
+        "nl-BE": "Boter, jam en honing",
+        "sv": "Smör, sylt och honung"
       },
       "ingredients": {
         "it": "Burro: latte. Confetture e miele: da verificare secondo etichetta del prodotto.",
@@ -12080,7 +12121,8 @@
         "zh": "黄油：牛奶。果酱和蜂蜜：需根据产品标签确认。",
         "ja": "バター：乳。ジャムとはちみつ：商品の表示に従って確認が必要です。",
         "nl": "Boter: melk. Jam en honing: te controleren volgens het productetiket.",
-        "nl-BE": "Boter: melk. Jam en honing: te controleren volgens het productetiket."
+        "nl-BE": "Boter: melk. Jam en honing: te controleren volgens het productetiket.",
+        "sv": "Smör: mjölk. Sylt och honung: kontrollera produktetiketten."
       },
       "allergens": "7 per il burro"
     },
@@ -12096,7 +12138,8 @@
         "zh": "果汁和水",
         "ja": "フルーツジュース・水",
         "nl": "Vruchtensappen en water",
-        "nl-BE": "Vruchtensappen en water"
+        "nl-BE": "Vruchtensappen en water",
+        "sv": "Fruktjuicer och vatten"
       },
       "ingredients": {
         "it": "Da verificare secondo etichetta del prodotto.",
@@ -12109,7 +12152,8 @@
         "zh": "需根据产品标签确认。",
         "ja": "商品の表示に従って確認が必要です。",
         "nl": "Te controleren volgens het productetiket.",
-        "nl-BE": "Te controleren volgens het productetiket."
+        "nl-BE": "Te controleren volgens het productetiket.",
+        "sv": "Kontrollera ingredienserna på produktetiketten."
       },
       "allergens": "Da verificare",
       "note": {
@@ -12123,7 +12167,8 @@
         "zh": "检查标签上是否标明亚硫酸盐或其他过敏原。",
         "ja": "ラベルに記載された亜硫酸塩やその他のアレルゲンを確認してください。",
         "nl": "Controleer op sulfieten of andere allergenen die op het etiket vermeld staan.",
-        "nl-BE": "Controleer op sulfieten of andere allergenen die op het etiket vermeld staan."
+        "nl-BE": "Controleer op sulfieten of andere allergenen die op het etiket vermeld staan.",
+        "sv": "Kontrollera om sulfiter eller andra allergener anges på etiketten."
       }
     },
     {
@@ -12140,7 +12185,8 @@
         "zh": "鲜榨橙汁",
         "ja": "搾りたてオレンジジュース",
         "nl": "Versgeperst sinaasappelsap",
-        "nl-BE": "Versgeperst sinaasappelsap"
+        "nl-BE": "Versgeperst sinaasappelsap",
+        "sv": "Färskpressad apelsinjuice"
       },
       "ingredients": {
         "it": "Arance fresche.",
@@ -12153,7 +12199,8 @@
         "zh": "新鲜橙子。",
         "ja": "新鮮なオレンジ。",
         "nl": "Verse sinaasappels.",
-        "nl-BE": "Verse sinaasappels."
+        "nl-BE": "Verse sinaasappels.",
+        "sv": "Färska apelsiner."
       },
       "price": "4 €"
     },
@@ -12171,7 +12218,8 @@
         "zh": "现点现做欧姆蛋",
         "ja": "注文を受けてから作るオムレツ",
         "nl": "Omelet op bestelling",
-        "nl-BE": "Omelet op bestelling"
+        "nl-BE": "Omelet op bestelling",
+        "sv": "Omelett tillagad på beställning"
       },
       "ingredients": {
         "it": "Uova. Eventuali ingredienti aggiuntivi da concordare con il personale.",
@@ -12184,7 +12232,8 @@
         "zh": "鸡蛋。其他配料请与工作人员确认。",
         "ja": "卵。追加の具材はスタッフにご確認ください。",
         "nl": "Eieren. Eventuele extra ingrediënten in overleg met het personeel.",
-        "nl-BE": "Eieren. Eventuele extra ingrediënten in overleg met het personeel."
+        "nl-BE": "Eieren. Eventuele extra ingrediënten in overleg met het personeel.",
+        "sv": "Ägg. Eventuella extra ingredienser bestäms i samråd med personalen."
       },
       "allergens": "3",
       "price": "8 €"
