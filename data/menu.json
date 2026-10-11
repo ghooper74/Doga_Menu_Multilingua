@@ -5180,7 +5180,8 @@
         "zh": "加卢拉维蒙蒂诺 DOCG 高级",
         "ja": "ヴェルメンティーノ・ディ・ガッルーラ DOCG スペリオーレ",
         "nl": "Vermentino di Gallura DOCG Superiore",
-        "nl-BE": "Vermentino di Gallura DOCG Superiore"
+        "nl-BE": "Vermentino di Gallura DOCG Superiore",
+        "sv": "Vermentino di Gallura DOCG Superiore"
       },
       "origin": {
         "it": "Gallura, Sardegna",
@@ -5193,7 +5194,8 @@
         "zh": "撒丁岛，加卢拉",
         "ja": "サルデーニャ、ガッルーラ",
         "nl": "Gallura, Sardinië",
-        "nl-BE": "Gallura, Sardinië"
+        "nl-BE": "Gallura, Sardinië",
+        "sv": "Gallura, Sardinien"
       },
       "grapes": "Vermentino 100%",
       "serving_temperature": "10–12 °C",
@@ -5209,7 +5211,8 @@
         "zh": "适合搭配章鱼沙拉、龙虾、甲壳类、烤鱼、白肉、蘑菇及新鲜奶酪。",
         "ja": "タコのサラダ、ロブスター、甲殻類、魚のオーブン焼き、白身肉、キノコ、フレッシュチーズにおすすめ。",
         "nl": "Octopussalade, kreeft, schaaldieren, gebakken vis, wit vlees, paddenstoelen en verse kazen.",
-        "nl-BE": "Octopussalade, kreeft, schaaldieren, gebakken vis, wit vlees, paddenstoelen en verse kazen."
+        "nl-BE": "Octopussalade, kreeft, schaaldieren, gebakken vis, wit vlees, paddenstoelen en verse kazen.",
+        "sv": "Bläckfisksallad, hummer, skaldjur, ugnsbakad fisk, ljust kött, svamp och färskostar."
       },
       "description": {
         "it": "Vermentino di Gallura da vecchie vigne su terreni granitici, vinificato e affinato tra acciaio, cemento e tonneaux. Esprime cedro, bergamotto, scorza di limone, mela, frutta gialla, glicine, ginestra e mirto, con accenni iodati. Il sorso è sapido, dritto e persistente.",
@@ -5222,7 +5225,8 @@
         "zh": "来自花岗岩土壤上的老藤，在不锈钢、水泥罐和大橡木桶中酿造熟成。带有香橼、佛手柑、柠檬皮、苹果、黄色水果、紫藤、金雀花、桃金娘及海洋碘香，口感咸鲜精准，余味持久。",
         "ja": "花崗岩土壌の古木ヴェルメンティーノを、ステンレス、コンクリート、トノーで醸造・熟成。シトロン、ベルガモット、レモンの皮、リンゴ、黄色い果実、花、ミルト、ヨードの香り。塩味があり長く続きます。",
         "nl": "Een Vermentino di Gallura van oude stokken op granietbodems, gevinifieerd en gerijpt in roestvrij staal, beton en tonneaux. Cedraat, bergamot, citroenschil, appel, geel fruit, blauweregen, brem en mirte worden aangevuld met jodiumtonen. Hartig, precies en aanhoudend.",
-        "nl-BE": "Een Vermentino di Gallura van oude stokken op granietbodems, gevinifieerd en gerijpt in roestvrij staal, beton en tonneaux. Cedraat, bergamot, citroenschil, appel, geel fruit, blauweregen, brem en mirte worden aangevuld met jodiumtonen. Hartig, precies en aanhoudend."
+        "nl-BE": "Een Vermentino di Gallura van oude stokken op granietbodems, gevinifieerd en gerijpt in roestvrij staal, beton en tonneaux. Cedraat, bergamot, citroenschil, appel, geel fruit, blauweregen, brem en mirte worden aangevuld met jodiumtonen. Hartig, precies en aanhoudend.",
+        "sv": "En Vermentino di Gallura från gamla vinstockar på granitjord, vinifierad och lagrad i ståltank, betong och tonneauxfat. Suckatcitron, bergamott, citronskal, äpple, gul frukt, blåregn, ginst och myrten kompletteras av havstoner. Smakrik, precis och med lång eftersmak."
       },
       "wine_section": "white_other"
     },
@@ -5243,7 +5247,8 @@
         "zh": "索阿韦经典 DOC – Foscarino 单一地理单元",
         "ja": "ソアーヴェ・クラッシコ DOC – フォスカリーノ",
         "nl": "Soave Classico DOC – Foscarino MGA",
-        "nl-BE": "Soave Classico DOC – Foscarino MGA"
+        "nl-BE": "Soave Classico DOC – Foscarino MGA",
+        "sv": "Soave Classico DOC – Foscarino MGA"
       },
       "origin": {
         "it": "Monte Foscarino, Soave, Veneto",
@@ -5256,7 +5261,8 @@
         "zh": "威尼托，索阿韦，福斯卡里诺山",
         "ja": "ヴェネト、ソアーヴェ、モンテ・フォスカリーノ",
         "nl": "Monte Foscarino, Soave, Veneto",
-        "nl-BE": "Monte Foscarino, Soave, Veneto"
+        "nl-BE": "Monte Foscarino, Soave, Veneto",
+        "sv": "Monte Foscarino, Soave, Veneto"
       },
       "grapes": "Garganega 100%",
       "serving_temperature": "10–12 °C",
@@ -5272,7 +5278,8 @@
         "zh": "适合搭配烩饭、烤鱼、甲壳类、鳕鱼、白肉、蘑菇及中度熟成奶酪。",
         "ja": "リゾット、魚のオーブン焼き、甲殻類、塩鱈、白身肉、キノコ、中熟成チーズにおすすめ。",
         "nl": "Risotto, gebakken vis, schaaldieren, zoute kabeljauw, wit vlees, paddenstoelen en halfgerijpte kazen.",
-        "nl-BE": "Risotto, gebakken vis, schaaldieren, zoute kabeljauw, wit vlees, paddenstoelen en halfgerijpte kazen."
+        "nl-BE": "Risotto, gebakken vis, schaaldieren, zoute kabeljauw, wit vlees, paddenstoelen en halfgerijpte kazen.",
+        "sv": "Risotto, ugnsbakad fisk, skaldjur, saltad torsk, ljust kött, svamp och mellanlagrade ostar."
       },
       "description": {
         "it": "Soave Classico da vecchie vigne di Garganega coltivate su basalto vulcanico. Dopo una breve macerazione, fermenta tra acciaio, botte grande e barrique usate. È complesso e profondo, con sambuco, iris, camomilla, mandorla dolce, nocciola e una marcata mineralità.",
@@ -5285,7 +5292,8 @@
         "zh": "来自火山玄武岩土壤上的老藤卡尔卡耐卡。短暂浸皮后，分别在不锈钢、大橡木桶及旧小橡木桶中发酵。带有接骨木花、鸢尾、洋甘菊、甜杏仁、榛子及鲜明矿物气息。",
         "ja": "火山性玄武岩土壌の古木ガルガーネガ。短時間のスキンコンタクト後、ステンレス、大樽、使用済みバリックで発酵。エルダーフラワー、アイリス、カモミール、アーモンド、ヘーゼルナッツ、ミネラルの香り。",
         "nl": "Een Soave Classico van oude Garganega-stokken op vulkanisch basalt. Na kort schilcontact vindt de vergisting plaats in roestvrij staal, grote vaten en gebruikte barriques. Complex en diep, met vlierbloesem, iris, kamille, zoete amandel, hazelnoot en uitgesproken mineraliteit.",
-        "nl-BE": "Een Soave Classico van oude Garganega-stokken op vulkanisch basalt. Na kort schilcontact vindt de vergisting plaats in roestvrij staal, grote vaten en gebruikte barriques. Complex en diep, met vlierbloesem, iris, kamille, zoete amandel, hazelnoot en uitgesproken mineraliteit."
+        "nl-BE": "Een Soave Classico van oude Garganega-stokken op vulkanisch basalt. Na kort schilcontact vindt de vergisting plaats in roestvrij staal, grote vaten en gebruikte barriques. Complex en diep, met vlierbloesem, iris, kamille, zoete amandel, hazelnoot en uitgesproken mineraliteit.",
+        "sv": "En Soave Classico från gamla Garganega-stockar på vulkanisk basalt. Efter kort skalkontakt sker jäsningen i ståltank, stora träfat och använda barriquefat. Komplex och djup med fläderblom, iris, kamomill, sötmandel, hasselnöt och tydlig mineralitet."
       },
       "wine_section": "white_other"
     },
@@ -5306,7 +5314,8 @@
         "zh": "卢加纳 DOC",
         "ja": "ルガーナ DOC",
         "nl": "Lugana DOC",
-        "nl-BE": "Lugana DOC"
+        "nl-BE": "Lugana DOC",
+        "sv": "Lugana DOC"
       },
       "origin": {
         "it": "Desenzano del Garda, Lombardia",
@@ -5319,7 +5328,8 @@
         "zh": "伦巴第，加尔达湖畔代森扎诺",
         "ja": "ロンバルディア、デゼンツァーノ・デル・ガルダ",
         "nl": "Desenzano del Garda, Lombardije",
-        "nl-BE": "Desenzano del Garda, Lombardije"
+        "nl-BE": "Desenzano del Garda, Lombardije",
+        "sv": "Desenzano del Garda, Lombardiet"
       },
       "grapes": "Turbiana 100%",
       "serving_temperature": "8–10 °C",
@@ -5335,7 +5345,8 @@
         "zh": "适合作为开胃酒，搭配湖鱼、生食海鲜、甲壳类、烩饭、烤鱼及蔬菜。",
         "ja": "食前酒、湖の魚、魚介の生料理、甲殻類、リゾット、魚のオーブン焼き、野菜料理におすすめ。",
         "nl": "Aperitief, meervis, rauwe zeevruchten, schaaldieren, risotto, gebakken vis en groenten.",
-        "nl-BE": "Aperitief, meervis, rauwe zeevruchten, schaaldieren, risotto, gebakken vis en groenten."
+        "nl-BE": "Aperitief, meervis, rauwe zeevruchten, schaaldieren, risotto, gebakken vis en groenten.",
+        "sv": "Aperitif, insjöfisk, råa fisk- och skaldjursrätter, skaldjur, risotto, ugnsbakad fisk och grönsaker."
       },
       "description": {
         "it": "Lugana da Turbiana in purezza, fermentato senza malolattica e affinato sei mesi in cemento più due mesi in bottiglia. Profuma di fiori bianchi, erbe aromatiche e salvia. Il sorso è fresco e ben definito, con intensa mineralità, sapidità e un finale persistente.",
@@ -5348,7 +5359,8 @@
         "zh": "采用100%图尔比亚纳酿造，不进行苹果酸乳酸发酵，在水泥罐中熟成六个月，再瓶陈两个月。带有白花、芳香草本及鼠尾草气息，口感清新清晰，矿物感和咸鲜感强，余味持久。",
         "ja": "トゥルビアーナ100%、マロラクティック発酵なし。コンクリートで6か月、瓶内で2か月熟成。白い花、ハーブ、セージの香り。爽やかで明確なミネラルと塩味、長い余韻があります。",
         "nl": "Een pure Turbiana Lugana, vergist zonder malolactische omzetting en zes maanden gerijpt in beton plus twee maanden op fles. Witte bloemen, aromatische kruiden en salie leiden naar een frisse, goed gedefinieerde smaak met intense mineraliteit, hartigheid en een aanhoudende finale.",
-        "nl-BE": "Een pure Turbiana Lugana, vergist zonder malolactische omzetting en zes maanden gerijpt in beton plus twee maanden op fles. Witte bloemen, aromatische kruiden en salie leiden naar een frisse, goed gedefinieerde smaak met intense mineraliteit, hartigheid en een aanhoudende finale."
+        "nl-BE": "Een pure Turbiana Lugana, vergist zonder malolactische omzetting en zes maanden gerijpt in beton plus twee maanden op fles. Witte bloemen, aromatische kruiden en salie leiden naar een frisse, goed gedefinieerde smaak met intense mineraliteit, hartigheid en een aanhoudende finale.",
+        "sv": "En ren Turbiana från Lugana, jäst utan malolaktisk omvandling och lagrad sex månader i betong samt två månader på flaska. Vita blommor, aromatiska örter och salvia följs av en frisk, tydlig smak med intensiv mineralitet, sälta och lång eftersmak."
       },
       "wine_section": "white_other"
     },
@@ -5368,7 +5380,8 @@
         "zh": "威尼斯朱利亚丽波拉贾拉 IGP",
         "ja": "ヴェネツィア・ジュリア・リボッラ・ジャッラ IGP",
         "nl": "Venezia Giulia Ribolla Gialla PGI",
-        "nl-BE": "Venezia Giulia Ribolla Gialla PGI"
+        "nl-BE": "Venezia Giulia Ribolla Gialla PGI",
+        "sv": "Venezia Giulia Ribolla Gialla IGP"
       },
       "origin": {
         "it": "Gramogliano, Corno di Rosazzo, Friuli Venezia Giulia",
@@ -5381,7 +5394,8 @@
         "zh": "弗留利-威尼斯朱利亚，科尔诺迪罗萨佐，格拉莫利亚诺",
         "ja": "フリウリ＝ヴェネツィア・ジュリア、コルノ・ディ・ロザッツォ",
         "nl": "Gramogliano, Corno di Rosazzo, Friuli Venezia Giulia",
-        "nl-BE": "Gramogliano, Corno di Rosazzo, Friuli Venezia Giulia"
+        "nl-BE": "Gramogliano, Corno di Rosazzo, Friuli Venezia Giulia",
+        "sv": "Gramogliano, Corno di Rosazzo, Friuli Venezia Giulia"
       },
       "grapes": "Ribolla Gialla 100%",
       "serving_temperature": "9–11 °C",
@@ -5397,7 +5411,8 @@
         "zh": "适合作为开胃酒，搭配牡蛎、生食海鲜、甲壳类、炸鱼、蔬菜烩饭及新鲜奶酪。",
         "ja": "食前酒、牡蠣、魚介の生料理、甲殻類、魚のフリット、野菜のリゾット、フレッシュチーズにおすすめ。",
         "nl": "Aperitief, oesters, rauwe zeevruchten, schaaldieren, gefrituurde vis, groenterisotto en verse kazen.",
-        "nl-BE": "Aperitief, oesters, rauwe zeevruchten, schaaldieren, gefrituurde vis, groenterisotto en verse kazen."
+        "nl-BE": "Aperitief, oesters, rauwe zeevruchten, schaaldieren, gefrituurde vis, groenterisotto en verse kazen.",
+        "sv": "Aperitif, ostron, råa fisk- och skaldjursrätter, skaldjur, friterad fisk, grönsaksrisotto och färskostar."
       },
       "description": {
         "it": "Ribolla Gialla friulana fine e verticale, coltivata su marne e arenarie. Al naso è delicatamente floreale, con richiami alla scorza di limone. Il sorso è molto asciutto, fresco e minerale, con acidità agrumata e un finale salino e sapido.",
@@ -5410,7 +5425,8 @@
         "zh": "生长于泥灰岩和砂岩土壤，带有细腻花香和柠檬皮气息。口感非常干爽、清新而富有矿物感，柑橘酸度明快，余味咸鲜。",
         "ja": "マールと砂岩の畑で育つリボッラ・ジャッラ。繊細な花とレモンの皮の香りがあり、非常に辛口で爽やか、ミネラルと塩味のある余韻が特徴です。",
         "nl": "Een verfijnde en precieze Friulische Ribolla Gialla, geteeld op mergel en zandsteen. Delicate bloemige aroma's en citroenschil leiden naar een zeer droge, frisse en minerale smaak met citruszuren en een zilte finale.",
-        "nl-BE": "Een verfijnde en precieze Friulische Ribolla Gialla, geteeld op mergel en zandsteen. Delicate bloemige aroma's en citroenschil leiden naar een zeer droge, frisse en minerale smaak met citruszuren en een zilte finale."
+        "nl-BE": "Een verfijnde en precieze Friulische Ribolla Gialla, geteeld op mergel en zandsteen. Delicate bloemige aroma's en citroenschil leiden naar een zeer droge, frisse en minerale smaak met citruszuren en een zilte finale.",
+        "sv": "En raffinerad och precis Ribolla Gialla från Friuli, odlad på märgel och sandsten. Fina blommiga dofter och citronskal följs av en mycket torr, frisk och mineralisk smak med citrussyra och saltpräglad avslutning."
       },
       "wine_section": "white_other"
     },
@@ -5430,7 +5446,8 @@
         "zh": "科利奥玛尔维萨 DOC",
         "ja": "コッリオ・マルヴァジア DOC",
         "nl": "Collio Malvasia DOC",
-        "nl-BE": "Collio Malvasia DOC"
+        "nl-BE": "Collio Malvasia DOC",
+        "sv": "Collio Malvasia DOC"
       },
       "origin": {
         "it": "Brazzano di Cormons, Collio, Friuli Venezia Giulia",
@@ -5443,7 +5460,8 @@
         "zh": "弗留利-威尼斯朱利亚，科利奥，布拉扎诺迪科尔蒙斯",
         "ja": "フリウリ＝ヴェネツィア・ジュリア、コッリオ",
         "nl": "Brazzano di Cormons, Collio, Friuli Venezia Giulia",
-        "nl-BE": "Brazzano di Cormons, Collio, Friuli Venezia Giulia"
+        "nl-BE": "Brazzano di Cormons, Collio, Friuli Venezia Giulia",
+        "sv": "Brazzano di Cormons, Collio, Friuli Venezia Giulia"
       },
       "grapes": "Malvasia Istriana 100%",
       "serving_temperature": "10–12 °C",
@@ -5459,7 +5477,8 @@
         "zh": "适合搭配甲壳类、烤鱼、烩饭、亚洲料理、香料菜肴、蔬菜及软质奶酪。",
         "ja": "甲殻類、魚のオーブン焼き、リゾット、アジア料理、スパイシー料理、野菜、ソフトチーズにおすすめ。",
         "nl": "Schaaldieren, gebakken vis, risotto, Aziatische keuken, pittige gerechten, groenten en zachte kazen.",
-        "nl-BE": "Schaaldieren, gebakken vis, risotto, Aziatische keuken, pittige gerechten, groenten en zachte kazen."
+        "nl-BE": "Schaaldieren, gebakken vis, risotto, Aziatische keuken, pittige gerechten, groenten en zachte kazen.",
+        "sv": "Skaldjur, ugnsbakad fisk, risotto, asiatisk mat, kryddstarka rätter, grönsaker och milda ostar."
       },
       "description": {
         "it": "Malvasia Istriana proveniente da vigne di oltre ottant’anni e affinata a lungo sulle proprie fecce. È delicatamente aromatica, con camomilla, fiori, agrumi ed erbe. Il sorso è profondo ma agile, sostenuto da acidità, mineralità e un finale secco e persistente.",
@@ -5472,7 +5491,8 @@
         "zh": "来自超过八十年的老藤，并长期于酒泥上熟成。带有洋甘菊、花香、柑橘及草本气息，口感深邃而轻盈，酸度和矿物感鲜明，余味干爽持久。",
         "ja": "樹齢80年以上のマルヴァジア・イストリアーナを、長期間澱と熟成。カモミール、花、柑橘、ハーブの香り。深みがありながら軽快で、酸とミネラル、辛口の余韻があります。",
         "nl": "Een Malvasia Istriana van stokken ouder dan tachtig jaar, langdurig gerijpt op de droesem. Licht aromatisch, met kamille, bloemen, citrus en kruiden. Diep maar beweeglijk, met zuren, mineraliteit en een droge, aanhoudende finale.",
-        "nl-BE": "Een Malvasia Istriana van stokken ouder dan tachtig jaar, langdurig gerijpt op de droesem. Licht aromatisch, met kamille, bloemen, citrus en kruiden. Diep maar beweeglijk, met zuren, mineraliteit en een droge, aanhoudende finale."
+        "nl-BE": "Een Malvasia Istriana van stokken ouder dan tachtig jaar, langdurig gerijpt op de droesem. Licht aromatisch, met kamille, bloemen, citrus en kruiden. Diep maar beweeglijk, met zuren, mineraliteit en een droge, aanhoudende finale.",
+        "sv": "En Malvasia Istriana från mer än åttio år gamla vinstockar, lagrad länge på jästfällningen. Milt aromatisk med kamomill, blommor, citrus och örter. Djup men livlig med syra, mineralitet och torr, lång eftersmak."
       },
       "wine_section": "white_other"
     },
@@ -5492,7 +5512,8 @@
         "zh": "弗留利长相思白葡萄酒",
         "ja": "フリウリ産ソーヴィニヨン・ブラン",
         "nl": "Friulische Sauvignon Blanc witte wijn",
-        "nl-BE": "Friulische Sauvignon Blanc witte wijn"
+        "nl-BE": "Friulische Sauvignon Blanc witte wijn",
+        "sv": "Vitt Sauvignon Blanc-vin från Friuli"
       },
       "origin": {
         "it": "Kraoretto di Prepotto, Friuli Venezia Giulia",
@@ -5505,7 +5526,8 @@
         "zh": "弗留利-威尼斯朱利亚，普雷波托，克拉奥雷托",
         "ja": "フリウリ＝ヴェネツィア・ジュリア、プレポット",
         "nl": "Kraoretto di Prepotto, Friuli Venezia Giulia",
-        "nl-BE": "Kraoretto di Prepotto, Friuli Venezia Giulia"
+        "nl-BE": "Kraoretto di Prepotto, Friuli Venezia Giulia",
+        "sv": "Kraoretto di Prepotto, Friuli Venezia Giulia"
       },
       "grapes": "Sauvignon Blanc 100%",
       "serving_temperature": "9–11 °C",
@@ -5521,7 +5543,8 @@
         "zh": "适合搭配芦笋、芳香草本、生食海鲜、甲壳类、鱼类、蔬菜烩饭及新鲜奶酪。",
         "ja": "アスパラガス、ハーブ、魚介の生料理、甲殻類、魚、野菜のリゾット、フレッシュチーズにおすすめ。",
         "nl": "Asperges, aromatische kruiden, rauwe zeevruchten, schaaldieren, vis, groenterisotto en verse kazen.",
-        "nl-BE": "Asperges, aromatische kruiden, rauwe zeevruchten, schaaldieren, vis, groenterisotto en verse kazen."
+        "nl-BE": "Asperges, aromatische kruiden, rauwe zeevruchten, schaaldieren, vis, groenterisotto en verse kazen.",
+        "sv": "Sparris, aromatiska örter, råa fisk- och skaldjursrätter, skaldjur, fisk, grönsaksrisotto och färskostar."
       },
       "description": {
         "it": "Sauvignon friulano essenziale e territoriale. Al naso offre agrumi, fiori bianchi, erbe aromatiche e frutta fresca. Il sorso è lineare e vibrante, guidato da freschezza e sapidità, con un finale preciso, asciutto e minerale.",
@@ -5534,7 +5557,8 @@
         "zh": "具有鲜明风土特色，带有柑橘、白花、芳香草本及新鲜水果气息。口感紧致活泼，清新咸鲜，余味精准、干爽并带矿物感。",
         "ja": "フリウリらしいソーヴィニヨン。柑橘、白い花、ハーブ、フレッシュな果実の香り。直線的で生き生きとし、爽やかな塩味とドライな余韻があります。",
         "nl": "Een pure, terroirgedreven Friulische Sauvignon. Citrus, witte bloemen, aromatische kruiden en vers fruit leiden naar een lineaire, levendige smaak, gedragen door frisheid en hartige mineraliteit, met een precieze droge finale.",
-        "nl-BE": "Een pure, terroirgedreven Friulische Sauvignon. Citrus, witte bloemen, aromatische kruiden en vers fruit leiden naar een lineaire, levendige smaak, gedragen door frisheid en hartige mineraliteit, met een precieze droge finale."
+        "nl-BE": "Een pure, terroirgedreven Friulische Sauvignon. Citrus, witte bloemen, aromatische kruiden en vers fruit leiden naar een lineaire, levendige smaak, gedragen door frisheid en hartige mineraliteit, met een precieze droge finale.",
+        "sv": "En ren, terroirpräglad Sauvignon från Friuli. Citrus, vita blommor, aromatiska örter och färsk frukt följs av en rak, livlig smak med friskhet och mineralisk sälta samt en precis, torr avslutning."
       },
       "wine_section": "white_other"
     },
@@ -5554,7 +5578,8 @@
         "zh": "罗埃罗阿内斯 DOCG",
         "ja": "ロエロ・アルネイス DOCG",
         "nl": "Roero Arneis DOCG",
-        "nl-BE": "Roero Arneis DOCG"
+        "nl-BE": "Roero Arneis DOCG",
+        "sv": "Roero Arneis DOCG"
       },
       "origin": {
         "it": "Roero, Piemonte",
@@ -5567,7 +5592,8 @@
         "zh": "皮埃蒙特，罗埃罗",
         "ja": "ピエモンテ、ロエロ",
         "nl": "Roero, Piemonte",
-        "nl-BE": "Roero, Piemonte"
+        "nl-BE": "Roero, Piemonte",
+        "sv": "Roero, Piemonte"
       },
       "grapes": "Arneis 100%",
       "serving_temperature": "8–10 °C",
@@ -5583,7 +5609,8 @@
         "zh": "适合作为开胃酒，搭配皮埃蒙特前菜、生食海鲜、甲壳类、鱼类、白肉及蔬菜。",
         "ja": "食前酒、ピエモンテの前菜、魚介の生料理、甲殻類、魚、白身肉、野菜におすすめ。",
         "nl": "Aperitief, Piëmontese voorgerechten, rauwe zeevruchten, schaaldieren, vis, wit vlees en groenten.",
-        "nl-BE": "Aperitief, Piëmontese voorgerechten, rauwe zeevruchten, schaaldieren, vis, wit vlees en groenten."
+        "nl-BE": "Aperitief, Piëmontese voorgerechten, rauwe zeevruchten, schaaldieren, vis, wit vlees en groenten.",
+        "sv": "Aperitif, piemontesiska förrätter, råa fisk- och skaldjursrätter, skaldjur, fisk, ljust kött och grönsaker."
       },
       "description": {
         "it": "Arneis del Roero fresco ed elegante, fermentato in acciaio e affinato brevemente sui lieviti. Offre frutta gialla, fiori bianchi e una marcata componente minerale. Il sorso è morbido e intenso, ravvivato da acidità e da un finale persistente.",
@@ -5596,7 +5623,8 @@
         "zh": "在不锈钢中发酵并短期于酒泥上熟成。带有黄色水果、白花及鲜明矿物气息，口感柔和浓郁，酸度清新，余味持久。",
         "ja": "ステンレスタンクで発酵し、短期間澱と熟成。黄色い果実、白い花、明確なミネラルの香り。柔らかく豊かで、酸と長い余韻があります。",
         "nl": "Een frisse en elegante Roero Arneis, vergist in roestvrij staal en kort gerijpt op de droesem. Geel fruit, witte bloemen en uitgesproken mineraliteit leiden naar een soepele, intense smaak, opgefrist door zuren en met een aanhoudende finale.",
-        "nl-BE": "Een frisse en elegante Roero Arneis, vergist in roestvrij staal en kort gerijpt op de droesem. Geel fruit, witte bloemen en uitgesproken mineraliteit leiden naar een soepele, intense smaak, opgefrist door zuren en met een aanhoudende finale."
+        "nl-BE": "Een frisse en elegante Roero Arneis, vergist in roestvrij staal en kort gerijpt op de droesem. Geel fruit, witte bloemen en uitgesproken mineraliteit leiden naar een soepele, intense smaak, opgefrist door zuren en met een aanhoudende finale.",
+        "sv": "En frisk och elegant Roero Arneis, jäst på ståltank och kort lagrad på jästfällningen. Gul frukt, vita blommor och tydlig mineralitet följs av en mjuk, intensiv smak med uppfriskande syra och lång eftersmak."
       },
       "wine_section": "white_other"
     },
@@ -5616,7 +5644,8 @@
         "zh": "朗格霞多丽 DOC",
         "ja": "ランゲ・シャルドネ DOC",
         "nl": "Langhe Chardonnay DOC",
-        "nl-BE": "Langhe Chardonnay DOC"
+        "nl-BE": "Langhe Chardonnay DOC",
+        "sv": "Langhe Chardonnay DOC"
       },
       "origin": {
         "it": "Langhe, Piemonte",
@@ -5629,7 +5658,8 @@
         "zh": "皮埃蒙特，朗格",
         "ja": "ピエモンテ、ランゲ",
         "nl": "Langhe, Piemonte",
-        "nl-BE": "Langhe, Piemonte"
+        "nl-BE": "Langhe, Piemonte",
+        "sv": "Langhe, Piemonte"
       },
       "grapes": "Chardonnay 100%",
       "serving_temperature": "8–10 °C",
@@ -5645,7 +5675,8 @@
         "zh": "适合作为开胃酒，搭配前菜、甲壳类、烤鱼、奶油意面、白肉及软质奶酪。",
         "ja": "食前酒、前菜、甲殻類、魚のグリル、クリームパスタ、白身肉、ソフトチーズにおすすめ。",
         "nl": "Aperitief, voorgerechten, schaaldieren, gegrilde vis, romige pasta, wit vlees en zachte kazen.",
-        "nl-BE": "Aperitief, voorgerechten, schaaldieren, gegrilde vis, romige pasta, wit vlees en zachte kazen."
+        "nl-BE": "Aperitief, voorgerechten, schaaldieren, gegrilde vis, romige pasta, wit vlees en zachte kazen.",
+        "sv": "Aperitif, förrätter, skaldjur, grillad fisk, krämig pasta, ljust kött och milda ostar."
       },
       "description": {
         "it": "Chardonnay delle Langhe vinificato tra acciaio e piccole botti di rovere e affinato brevemente in legno. Profuma di mela, banana, frutta matura e vaniglia. Il sorso è secco, pieno ed elegante, con buona intensità e persistenza.",
@@ -5658,7 +5689,8 @@
         "zh": "在不锈钢及小橡木桶中发酵，并短期木桶熟成。带有苹果、香蕉、成熟水果及香草气息，口感干爽饱满、优雅且持久。",
         "ja": "ステンレスと小樽で発酵し、短期間木樽で熟成。リンゴ、バナナ、熟した果実、バニラの香り。辛口で豊か、上品で長い余韻があります。",
         "nl": "Een Langhe Chardonnay, gevinifieerd in roestvrij staal en kleine eiken vaten en kort gerijpt in hout. Appel, banaan, rijp fruit en vanille leiden naar een droge, volle en elegante smaak met goede intensiteit en lengte.",
-        "nl-BE": "Een Langhe Chardonnay, gevinifieerd in roestvrij staal en kleine eiken vaten en kort gerijpt in hout. Appel, banaan, rijp fruit en vanille leiden naar een droge, volle en elegante smaak met goede intensiteit en lengte."
+        "nl-BE": "Een Langhe Chardonnay, gevinifieerd in roestvrij staal en kleine eiken vaten en kort gerijpt in hout. Appel, banaan, rijp fruit en vanille leiden naar een droge, volle en elegante smaak met goede intensiteit en lengte.",
+        "sv": "En Chardonnay från Langhe, vinifierad på ståltank och små ekfat och kort lagrad på träfat. Äpple, banan, mogen frukt och vanilj följs av en torr, fyllig och elegant smak med god intensitet och lång eftersmak."
       },
       "wine_section": "white_other"
     },
@@ -5678,7 +5710,8 @@
         "zh": "翁布里亚霞多丽 IGT",
         "ja": "ウンブリア・シャルドネ IGT",
         "nl": "Umbria Chardonnay IGT",
-        "nl-BE": "Umbria Chardonnay IGT"
+        "nl-BE": "Umbria Chardonnay IGT",
+        "sv": "Umbria Chardonnay IGT"
       },
       "origin": {
         "it": "Orvieto, Umbria",
@@ -5691,7 +5724,8 @@
         "zh": "翁布里亚，奥尔维耶托",
         "ja": "ウンブリア、オルヴィエート",
         "nl": "Orvieto, Umbrië",
-        "nl-BE": "Orvieto, Umbrië"
+        "nl-BE": "Orvieto, Umbrië",
+        "sv": "Orvieto, Umbrien"
       },
       "grapes": "Chardonnay 100%",
       "serving_temperature": "10–12 °C",
@@ -5707,7 +5741,8 @@
         "zh": "适合搭配甲壳类、烤鱼、烩饭、奶油意面、白肉、蘑菇及软质奶酪。",
         "ja": "甲殻類、魚のグリル、リゾット、クリームパスタ、白身肉、キノコ、ソフトチーズにおすすめ。",
         "nl": "Schaaldieren, gegrilde vis, risotto, romige pasta, wit vlees, paddenstoelen en zachte kazen.",
-        "nl-BE": "Schaaldieren, gegrilde vis, risotto, romige pasta, wit vlees, paddenstoelen en zachte kazen."
+        "nl-BE": "Schaaldieren, gegrilde vis, risotto, romige pasta, wit vlees, paddenstoelen en zachte kazen.",
+        "sv": "Skaldjur, grillad fisk, risotto, krämig pasta, ljust kött, svamp och milda ostar."
       },
       "description": {
         "it": "Chardonnay umbro elegante e minerale, fermentato in parte in acciaio e in parte in legno. Offre pera, ginestra, lime, nocciola tostata, burro e pan brioche. Il sorso è armonioso, fresco e sapido, con un finale lungo di mandorla e pietra.",
@@ -5720,7 +5755,8 @@
         "zh": "部分在不锈钢、部分在橡木中发酵。带有梨、金雀花、青柠、烤榛子、黄油及布里欧修气息，口感协调清新、咸鲜，余味带有杏仁和矿物感。",
         "ja": "一部をステンレス、一部を木樽で発酵。洋梨、エニシダ、ライム、ローストしたヘーゼルナッツ、バター、ブリオッシュの香り。調和があり、爽やかな塩味と長い余韻があります。",
         "nl": "Een elegante en minerale Umbrische Chardonnay, deels vergist in roestvrij staal en deels in eiken. Peer, brembloem, limoen, geroosterde hazelnoot, boter en brioche leiden naar een harmonieuze, frisse en hartige smaak met een lange amandel- en minerale finale.",
-        "nl-BE": "Een elegante en minerale Umbrische Chardonnay, deels vergist in roestvrij staal en deels in eiken. Peer, brembloem, limoen, geroosterde hazelnoot, boter en brioche leiden naar een harmonieuze, frisse en hartige smaak met een lange amandel- en minerale finale."
+        "nl-BE": "Een elegante en minerale Umbrische Chardonnay, deels vergist in roestvrij staal en deels in eiken. Peer, brembloem, limoen, geroosterde hazelnoot, boter en brioche leiden naar een harmonieuze, frisse en hartige smaak met een lange amandel- en minerale finale.",
+        "sv": "En elegant och mineralisk Chardonnay från Umbrien, jäst delvis på ståltank och delvis på ekfat. Päron, ginstblom, lime, rostad hasselnöt, smör och brioche följs av en harmonisk, frisk smak med sälta och lång avslutning av mandel och mineralitet."
       },
       "wine_section": "white_other"
     },
@@ -5740,7 +5776,8 @@
         "zh": "翁布里亚白葡萄酒 IGT",
         "ja": "ウンブリア白ワイン IGT",
         "nl": "Umbria White IGT",
-        "nl-BE": "Umbria White IGT"
+        "nl-BE": "Umbria White IGT",
+        "sv": "Umbria Bianco IGT"
       },
       "origin": {
         "it": "Orvieto, Umbria",
@@ -5753,7 +5790,8 @@
         "zh": "翁布里亚，奥尔维耶托",
         "ja": "ウンブリア、オルヴィエート",
         "nl": "Orvieto, Umbrië",
-        "nl-BE": "Orvieto, Umbrië"
+        "nl-BE": "Orvieto, Umbrië",
+        "sv": "Orvieto, Umbrien"
       },
       "grapes": "Sauvignon Blanc, Sémillon",
       "serving_temperature": "8–10 °C",
@@ -5769,7 +5807,8 @@
         "zh": "适合作为开胃酒，搭配生食海鲜、甲壳类、寿司、鱼类、香草烩饭、芦笋及新鲜奶酪。",
         "ja": "食前酒、魚介の生料理、甲殻類、寿司、魚、ハーブのリゾット、アスパラガス、フレッシュチーズにおすすめ。",
         "nl": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, vis, kruidenrisotto, asperges en verse kazen.",
-        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, vis, kruidenrisotto, asperges en verse kazen."
+        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, vis, kruidenrisotto, asperges en verse kazen.",
+        "sv": "Aperitif, råa fisk- och skaldjursrätter, skaldjur, sushi, fisk, örtrisotto, sparris och färskostar."
       },
       "description": {
         "it": "Bianco umbro fresco e aromatico da Sauvignon Blanc e Sémillon. Offre pompelmo rosa, litchi, lime, ananas, frutto della passione, fiori ed erbe aromatiche. Il sorso è elegante e vibrante, con acidità spiccata, mineralità e un finale lungo e raffinato.",
@@ -5782,7 +5821,8 @@
         "zh": "由长相思和赛美蓉酿造，带有粉红葡萄柚、荔枝、青柠、菠萝、百香果、花香及草本气息。口感优雅活泼，酸度明快，富有矿物感，余味悠长精致。",
         "ja": "ソーヴィニヨン・ブランとセミヨンを使用。ピンクグレープフルーツ、ライチ、ライム、パイナップル、パッションフルーツ、花、ハーブの香り。上品で生き生きとし、ミネラル感と長い余韻があります。",
         "nl": "Een frisse en aromatische Umbrische witte wijn van Sauvignon Blanc en Sémillon. Roze grapefruit, lychee, limoen, ananas, passievrucht, bloemen en kruiden leiden naar een elegante, levendige smaak met heldere zuren, mineraliteit en een lange verfijnde finale.",
-        "nl-BE": "Een frisse en aromatische Umbrische witte wijn van Sauvignon Blanc en Sémillon. Roze grapefruit, lychee, limoen, ananas, passievrucht, bloemen en kruiden leiden naar een elegante, levendige smaak met heldere zuren, mineraliteit en een lange verfijnde finale."
+        "nl-BE": "Een frisse en aromatische Umbrische witte wijn van Sauvignon Blanc en Sémillon. Roze grapefruit, lychee, limoen, ananas, passievrucht, bloemen en kruiden leiden naar een elegante, levendige smaak met heldere zuren, mineraliteit en een lange verfijnde finale.",
+        "sv": "Ett friskt och aromatiskt vitt vin från Umbrien av Sauvignon Blanc och Sémillon. Rosa grapefrukt, litchi, lime, ananas, passionsfrukt, blommor och örter följs av en elegant, livlig smak med tydlig syra, mineralitet och lång, raffinerad eftersmak."
       },
       "wine_section": "white_other"
     },
