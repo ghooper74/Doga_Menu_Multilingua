@@ -875,7 +875,8 @@
         "zh": "弗朗恰科塔干型起泡酒 DOCG",
         "ja": "フランチャコルタ・ブリュット DOCG",
         "nl": "Franciacorta Brut DOCG",
-        "nl-BE": "Franciacorta Brut DOCG"
+        "nl-BE": "Franciacorta Brut DOCG",
+        "sv": "Franciacorta Brut DOCG"
       },
       "origin": {
         "it": "Franciacorta, Lombardia",
@@ -888,7 +889,8 @@
         "zh": "伦巴第，弗朗恰科塔",
         "ja": "ロンバルディア、フランチャコルタ",
         "nl": "Franciacorta, Lombardije",
-        "nl-BE": "Franciacorta, Lombardije"
+        "nl-BE": "Franciacorta, Lombardije",
+        "sv": "Franciacorta, Lombardiet"
       },
       "grapes": "Chardonnay 90%, Pinot Nero 10%",
       "serving_temperature": "7–9 °C",
@@ -904,7 +906,8 @@
         "zh": "适合作为开胃酒，搭配甲壳类、生食海鲜、寿司、炸鱼及精致前菜。",
         "ja": "食前酒、甲殻類、魚介の生料理、寿司、魚のフリット、繊細な前菜におすすめ。",
         "nl": "Aperitief, schaaldieren, rauwe zeevruchten, sushi, gefrituurde vis en verfijnde voorgerechten.",
-        "nl-BE": "Aperitief, schaaldieren, rauwe zeevruchten, sushi, gefrituurde vis en verfijnde voorgerechten."
+        "nl-BE": "Aperitief, schaaldieren, rauwe zeevruchten, sushi, gefrituurde vis en verfijnde voorgerechten.",
+        "sv": "Aperitif, skaldjur, råa fisk- och skaldjursrätter, sushi, friterad fisk och milda förrätter."
       },
       "description": {
         "it": "Franciacorta vivace ed elegante, con perlage fine e persistente. Al naso esprime fiori bianchi, frutta a polpa bianca, miele e una delicata nota di vaniglia. Il sorso è fresco, armonioso e sostenuto da una piacevole acidità.",
@@ -917,7 +920,8 @@
         "zh": "活泼优雅的弗朗恰科塔，气泡细腻持久。散发白花、白色果肉水果、蜂蜜及淡淡香草气息，口感清新协调，酸度怡人。",
         "ja": "きめ細かく持続する泡を持つ、快活で上品なフランチャコルタ。白い花、白い果実、蜂蜜、ほのかなバニラの香り。爽やかな酸と調和の取れた味わいです。",
         "nl": "Een levendige en elegante Franciacorta met fijne, aanhoudende mousse. Aroma's van witte bloemen, wit fruit, honing en een delicate toets van vanille. Fris en harmonieus, met aangename zuren.",
-        "nl-BE": "Een levendige en elegante Franciacorta met fijne, aanhoudende mousse. Aroma's van witte bloemen, wit fruit, honing en een delicate toets van vanille. Fris en harmonieus, met aangename zuren."
+        "nl-BE": "Een levendige en elegante Franciacorta met fijne, aanhoudende mousse. Aroma's van witte bloemen, wit fruit, honing en een delicate toets van vanille. Fris en harmonieus, met aangename zuren.",
+        "sv": "En livlig och elegant Franciacorta med fina, långvariga bubblor. Doften bjuder på vita blommor, ljus frukt, honung och en lätt ton av vanilj. Smaken är frisk och harmonisk med behaglig syra."
       },
       "wine_section": "sparkling_french"
     },
@@ -937,7 +941,8 @@
         "zh": "弗朗恰科塔 Satèn 起泡酒 DOCG",
         "ja": "フランチャコルタ・サテン DOCG",
         "nl": "Franciacorta Satèn DOCG",
-        "nl-BE": "Franciacorta Satèn DOCG"
+        "nl-BE": "Franciacorta Satèn DOCG",
+        "sv": "Franciacorta Satèn DOCG"
       },
       "origin": {
         "it": "Franciacorta, Lombardia",
@@ -950,7 +955,8 @@
         "zh": "伦巴第，弗朗恰科塔",
         "ja": "ロンバルディア、フランチャコルタ",
         "nl": "Franciacorta, Lombardije",
-        "nl-BE": "Franciacorta, Lombardije"
+        "nl-BE": "Franciacorta, Lombardije",
+        "sv": "Franciacorta, Lombardiet"
       },
       "grapes": "Chardonnay 100%",
       "serving_temperature": "7–9 °C",
@@ -966,7 +972,8 @@
         "zh": "适合作为开胃酒，搭配甲壳类、海鲜烩饭、清淡鱼类、白肉及新鲜奶酪。",
         "ja": "食前酒、甲殻類、魚介のリゾット、繊細な魚料理、白身肉、フレッシュチーズにおすすめ。",
         "nl": "Aperitief, schaaldieren, risotto met zeevruchten, verfijnde visgerechten, wit vlees en verse kazen.",
-        "nl-BE": "Aperitief, schaaldieren, risotto met zeevruchten, verfijnde visgerechten, wit vlees en verse kazen."
+        "nl-BE": "Aperitief, schaaldieren, risotto met zeevruchten, verfijnde visgerechten, wit vlees en verse kazen.",
+        "sv": "Aperitif, skaldjur, skaldjursrisotto, milda fiskrätter, ljust kött och färskostar."
       },
       "description": {
         "it": "Satèn cremoso e vellutato da Chardonnay in purezza. Profuma di frutta bianca, fiori, mandorla e vaniglia. La bollicina è fine ed equilibrata, il sorso morbido, fresco e persistente.",
@@ -979,7 +986,8 @@
         "zh": "由霞多丽单一品种酿造，口感柔滑细腻。带有白色水果、花朵、杏仁和香草香气，气泡精致均衡，余味清新持久。",
         "ja": "シャルドネ100%のクリーミーで滑らかなサテン。白い果実、花、アーモンド、バニラの香り。泡は繊細で、柔らかく爽やかな余韻が続きます。",
         "nl": "Een romige, fluweelzachte Satèn van 100% Chardonnay. Aroma's van wit fruit, bloemen, amandel en vanille. Fijne, evenwichtige bubbels met een zachte, frisse en aanhoudende smaak.",
-        "nl-BE": "Een romige, fluweelzachte Satèn van 100% Chardonnay. Aroma's van wit fruit, bloemen, amandel en vanille. Fijne, evenwichtige bubbels met een zachte, frisse en aanhoudende smaak."
+        "nl-BE": "Een romige, fluweelzachte Satèn van 100% Chardonnay. Aroma's van wit fruit, bloemen, amandel en vanille. Fijne, evenwichtige bubbels met een zachte, frisse en aanhoudende smaak.",
+        "sv": "En krämig och sammetslen Satèn gjord enbart på Chardonnay. Doft av ljus frukt, blommor, mandel och vanilj. Fina, balanserade bubblor och en mjuk, frisk smak med lång eftersmak."
       },
       "wine_section": "sparkling_french"
     },
@@ -999,7 +1007,8 @@
         "zh": "弗朗恰科塔桃红起泡酒 DOCG",
         "ja": "フランチャコルタ・ロゼ DOCG",
         "nl": "Franciacorta Rosé DOCG",
-        "nl-BE": "Franciacorta Rosé DOCG"
+        "nl-BE": "Franciacorta Rosé DOCG",
+        "sv": "Franciacorta Rosé DOCG"
       },
       "origin": {
         "it": "Franciacorta, Lombardia",
@@ -1012,7 +1021,8 @@
         "zh": "伦巴第，弗朗恰科尔塔",
         "ja": "ロンバルディア、フランチャコルタ",
         "nl": "Franciacorta, Lombardije",
-        "nl-BE": "Franciacorta, Lombardije"
+        "nl-BE": "Franciacorta, Lombardije",
+        "sv": "Franciacorta, Lombardiet"
       },
       "grapes": "Chardonnay 50%, Pinot Nero 50%",
       "serving_temperature": "7–9 °C",
@@ -1028,7 +1038,8 @@
         "zh": "适合作为开胃酒，搭配三文鱼、金枪鱼、甲壳类、寿司、烩饭及清淡白肉。",
         "ja": "食前酒、サーモン、マグロ、甲殻類、寿司、リゾット、繊細な白身肉におすすめ。",
         "nl": "Aperitief, zalm, tonijn, schaaldieren, sushi, risotto en verfijnd wit vlees.",
-        "nl-BE": "Aperitief, zalm, tonijn, schaaldieren, sushi, risotto en verfijnd wit vlees."
+        "nl-BE": "Aperitief, zalm, tonijn, schaaldieren, sushi, risotto en verfijnd wit vlees.",
+        "sv": "Aperitif, lax, tonfisk, skaldjur, sushi, risotto och milda rätter med ljust kött."
       },
       "description": {
         "it": "Rosé elegante e sapido, con profumi di ciliegia, lampone e piccoli frutti rossi. Il perlage è fine e persistente; la bocca è fresca, armoniosa e leggermente cremosa.",
@@ -1041,7 +1052,8 @@
         "zh": "优雅鲜爽的桃红起泡酒，带有樱桃、覆盆子及红色浆果香气。气泡细腻持久，口感清新协调，略带奶油般柔滑感。",
         "ja": "チェリー、ラズベリー、赤い果実の香りを持つ、上品で旨味のあるロゼ。泡は繊細で長く続き、爽やかで調和の取れた軽やかなクリーミーさがあります。",
         "nl": "Een elegante, hartige rosé met aroma's van kers, framboos en rood fruit. Fijne, aanhoudende bubbels met een frisse, harmonieuze en licht romige smaak.",
-        "nl-BE": "Een elegante, hartige rosé met aroma's van kers, framboos en rood fruit. Fijne, aanhoudende bubbels met een frisse, harmonieuze en licht romige smaak."
+        "nl-BE": "Een elegante, hartige rosé met aroma's van kers, framboos en rood fruit. Fijne, aanhoudende bubbels met een frisse, harmonieuze en licht romige smaak.",
+        "sv": "En elegant rosé med frisk sälta och doft av körsbär, hallon och röda bär. Fina, ihållande bubblor och en frisk, harmonisk smak med lätt krämig struktur."
       },
       "wine_section": "sparkling_french"
     },
@@ -1061,7 +1073,8 @@
         "zh": "弗朗恰科塔零加糖起泡酒 DOCG",
         "ja": "フランチャコルタ・ナチュール DOCG",
         "nl": "Franciacorta Nature DOCG",
-        "nl-BE": "Franciacorta Nature DOCG"
+        "nl-BE": "Franciacorta Nature DOCG",
+        "sv": "Franciacorta Nature DOCG"
       },
       "origin": {
         "it": "Franciacorta, Lombardia",
@@ -1074,7 +1087,8 @@
         "zh": "伦巴第，弗朗恰科尔塔",
         "ja": "ロンバルディア、フランチャコルタ",
         "nl": "Franciacorta, Lombardije",
-        "nl-BE": "Franciacorta, Lombardije"
+        "nl-BE": "Franciacorta, Lombardije",
+        "sv": "Franciacorta, Lombardiet"
       },
       "grapes": "Chardonnay 90%, Pinot Nero 10%",
       "serving_temperature": "7–9 °C",
@@ -1090,7 +1104,8 @@
         "zh": "适合搭配牡蛎、生食海鲜、甲壳类、烤鱼、油炸菜肴及熟成奶酪。",
         "ja": "牡蠣、魚介の生料理、甲殻類、魚のグリル、フリット、熟成チーズにおすすめ。",
         "nl": "Oesters, rauwe zeevruchten, schaaldieren, gegrilde vis, gefrituurde gerechten en gerijpte kazen.",
-        "nl-BE": "Oesters, rauwe zeevruchten, schaaldieren, gegrilde vis, gefrituurde gerechten en gerijpte kazen."
+        "nl-BE": "Oesters, rauwe zeevruchten, schaaldieren, gegrilde vis, gefrituurde gerechten en gerijpte kazen.",
+        "sv": "Ostron, råa fisk- och skaldjursrätter, skaldjur, grillad fisk, friterade rätter och lagrade ostar."
       },
       "description": {
         "it": "Franciacorta senza dosaggio, teso e minerale. Al naso emergono crosta di pane, agrumi e note minerali; al palato è pieno, equilibrato, sapido e molto persistente.",
@@ -1103,7 +1118,8 @@
         "zh": "零加糖风格，紧致而富有矿物感。带有面包皮、柑橘和矿石香气，口感饱满均衡，咸鲜感明显，余味悠长。",
         "ja": "ドサージュ・ゼロの引き締まったミネラル感あるフランチャコルタ。パンの皮、柑橘、鉱物の香り。厚みと塩味があり、長い余韻が続きます。",
         "nl": "Een Franciacorta zonder dosage, met spanning en mineraliteit. Aroma's van broodkorst, citrus en minerale tonen; vol, evenwichtig, hartig en zeer aanhoudend in de mond.",
-        "nl-BE": "Een Franciacorta zonder dosage, met spanning en mineraliteit. Aroma's van broodkorst, citrus en minerale tonen; vol, evenwichtig, hartig en zeer aanhoudend in de mond."
+        "nl-BE": "Een Franciacorta zonder dosage, met spanning en mineraliteit. Aroma's van broodkorst, citrus en minerale tonen; vol, evenwichtig, hartig en zeer aanhoudend in de mond.",
+        "sv": "En Franciacorta utan dosage, med stram struktur och mineralitet. Doft av brödskorpa, citrus och mineraliska toner. Smaken är fyllig, balanserad och frisk med tydlig sälta och lång eftersmak."
       },
       "wine_section": "sparkling_french"
     },
@@ -1123,7 +1139,8 @@
         "zh": "有机白中白零加糖传统法起泡酒",
         "ja": "オーガニック・ブラン・ド・ブラン・ナチュール、瓶内二次発酵",
         "nl": "Biologische Blanc de Blancs Nature volgens de traditionele methode",
-        "nl-BE": "Biologische Blanc de Blancs Nature volgens de traditionele methode"
+        "nl-BE": "Biologische Blanc de Blancs Nature volgens de traditionele methode",
+        "sv": "Ekologiskt Blanc de Blancs Nature, traditionell metod"
       },
       "origin": {
         "it": "Erbusco, Franciacorta",
@@ -1136,7 +1153,8 @@
         "zh": "弗朗恰科尔塔，埃尔布斯科",
         "ja": "フランチャコルタ、エルブスコ",
         "nl": "Erbusco, Franciacorta",
-        "nl-BE": "Erbusco, Franciacorta"
+        "nl-BE": "Erbusco, Franciacorta",
+        "sv": "Erbusco, Franciacorta"
       },
       "grapes": "Chardonnay 100%",
       "serving_temperature": "8–10 °C",
@@ -1152,7 +1170,8 @@
         "zh": "适合搭配牡蛎、生食海鲜、甲壳类、寿司、清淡鱼类及新鲜奶酪。",
         "ja": "牡蠣、魚介の生料理、甲殻類、寿司、繊細な魚料理、フレッシュチーズにおすすめ。",
         "nl": "Oesters, rauwe zeevruchten, schaaldieren, sushi, verfijnde visgerechten en verse kazen.",
-        "nl-BE": "Oesters, rauwe zeevruchten, schaaldieren, sushi, verfijnde visgerechten en verse kazen."
+        "nl-BE": "Oesters, rauwe zeevruchten, schaaldieren, sushi, verfijnde visgerechten en verse kazen.",
+        "sv": "Ostron, råa fisk- och skaldjursrätter, skaldjur, sushi, milda fiskrätter och färskostar."
       },
       "description": {
         "it": "Blanc de Blancs Nature da Chardonnay biodinamico, senza dosaggio e con almeno 30 mesi sui lieviti. Fine e verticale, presenta agrumi, fiori bianchi, note minerali e una bollicina precisa e persistente.",
@@ -1165,7 +1184,8 @@
         "zh": "采用生物动力法种植的霞多丽酿造，不加糖，酒泥陈酿至少30个月。风格精致利落，带有柑橘、白花和矿物气息，气泡持久。",
         "ja": "ビオディナミ栽培のシャルドネによるドサージュ・ゼロ。澱とともに最低30か月熟成。柑橘、白い花、ミネラルの香りと、精密で持続する泡が特徴です。",
         "nl": "Een Blanc de Blancs zonder dosage van biodynamisch geteelde Chardonnay, minstens 30 maanden gerijpt op de droesem. Fijn en precies, met citrus, witte bloemen, minerale tonen en een aanhoudende mousse.",
-        "nl-BE": "Een Blanc de Blancs zonder dosage van biodynamisch geteelde Chardonnay, minstens 30 maanden gerijpt op de droesem. Fijn en precies, met citrus, witte bloemen, minerale tonen en een aanhoudende mousse."
+        "nl-BE": "Een Blanc de Blancs zonder dosage van biodynamisch geteelde Chardonnay, minstens 30 maanden gerijpt op de droesem. Fijn en precies, met citrus, witte bloemen, minerale tonen en een aanhoudende mousse.",
+        "sv": "En Blanc de Blancs utan dosage, gjord på biodynamiskt odlad Chardonnay och lagrad minst 30 månader på jästfällningen. Elegant och stringent med citrus, vita blommor, mineraliska toner och fina, långvariga bubblor."
       },
       "wine_section": "sparkling_french"
     },
