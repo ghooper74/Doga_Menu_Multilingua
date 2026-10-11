@@ -154,3 +154,17 @@ footer{max-width:980px;margin:10px auto 30px;padding:0 18px;color:var(--muted);f
   border-top:1px solid #ded6ca;
   line-height:1.6;
 }
+
+/* DOGA banner 2026-10-11 */
+.doga-logo{
+  display:block;
+  width:min(1000px,96vw);
+  height:auto;
+  margin:0 auto 14px;
+  filter:none;
+  border-radius:14px;
+}
+
+.subtitle{
+  display:none;
+}
