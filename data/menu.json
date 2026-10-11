@@ -1867,7 +1867,8 @@
         "zh": "白中白零加糖传统法起泡酒",
         "ja": "ブラン・ド・ブラン・パ・ドゼ、瓶内二次発酵",
         "nl": "Blanc de Blancs Pas Dosé volgens de traditionele methode",
-        "nl-BE": "Blanc de Blancs Pas Dosé volgens de traditionele methode"
+        "nl-BE": "Blanc de Blancs Pas Dosé volgens de traditionele methode",
+        "sv": "Blanc de Blancs Pas Dosé, traditionell metod"
       },
       "origin": {
         "it": "Montalbano, Toscana",
@@ -1880,7 +1881,8 @@
         "zh": "托斯卡纳，蒙塔尔巴诺",
         "ja": "トスカーナ、モンタルバーノ",
         "nl": "Montalbano, Toscane",
-        "nl-BE": "Montalbano, Toscane"
+        "nl-BE": "Montalbano, Toscane",
+        "sv": "Montalbano, Toscana"
       },
       "grapes": "Chardonnay 100%",
       "serving_temperature": "8–10 °C",
@@ -1896,7 +1898,8 @@
         "zh": "适合搭配甲壳类、生食海鲜、软质奶酪、蔬菜烘蛋、鱼类主食及油炸菜肴。",
         "ja": "甲殻類、魚介の生料理、ソフトチーズ、野菜のフラン、魚料理、フリットにおすすめ。",
         "nl": "Schaaldieren, rauwe zeevruchten, zachte kazen, groenteflans, eerste visgerechten en gefrituurde gerechten.",
-        "nl-BE": "Schaaldieren, rauwe zeevruchten, zachte kazen, groenteflans, eerste visgerechten en gefrituurde gerechten."
+        "nl-BE": "Schaaldieren, rauwe zeevruchten, zachte kazen, groenteflans, eerste visgerechten en gefrituurde gerechten.",
+        "sv": "Skaldjur, råa fisk- och skaldjursrätter, milda ostar, grönsakstimbaler, pastarätter med fisk och friterade rätter."
       },
       "description": {
         "it": "Blanc de Blancs toscano da Chardonnay in purezza, senza dosaggio. Il profilo è fresco e minerale, con agrumi, fiori, lievito e leggere note di pasticceria secca. La bollicina è fine, il sorso asciutto, sapido e persistente.",
@@ -1909,7 +1912,8 @@
         "zh": "采用100%霞多丽酿造，不加糖。带有柑橘、花香、酵母和细腻糕点气息，气泡精致，口感干爽、咸鲜且持久。",
         "ja": "シャルドネ100%のブラン・ド・ブラン、ドサージュなし。柑橘、花、酵母、焼き菓子の香り。泡は繊細で、辛口かつミネラル感があり、余韻も長く続きます。",
         "nl": "Een Toscaanse Blanc de Blancs van 100% Chardonnay zonder dosage. Fris en mineraal, met citrus, bloemen, gist en lichte patisserietonen. Fijne bubbels en een droge, hartige, aanhoudende smaak.",
-        "nl-BE": "Een Toscaanse Blanc de Blancs van 100% Chardonnay zonder dosage. Fris en mineraal, met citrus, bloemen, gist en lichte patisserietonen. Fijne bubbels en een droge, hartige, aanhoudende smaak."
+        "nl-BE": "Een Toscaanse Blanc de Blancs van 100% Chardonnay zonder dosage. Fris en mineraal, met citrus, bloemen, gist en lichte patisserietonen. Fijne bubbels en een droge, hartige, aanhoudende smaak.",
+        "sv": "En Blanc de Blancs från Toscana av 100 % Chardonnay, helt utan dosage. Frisk och mineralisk med toner av citrus, blommor, jäst och lätt bakverk. Fina bubblor och en torr smak med sälta och lång eftersmak."
       },
       "wine_section": "sparkling_italian"
     },
@@ -1930,7 +1934,8 @@
         "zh": "弗朗恰科塔珍藏特干型起泡酒 DOCG",
         "ja": "フランチャコルタ・リゼルヴァ・エクストラ・ブリュット DOCG",
         "nl": "Franciacorta Riserva Extra Brut DOCG",
-        "nl-BE": "Franciacorta Riserva Extra Brut DOCG"
+        "nl-BE": "Franciacorta Riserva Extra Brut DOCG",
+        "sv": "Franciacorta Riserva Extra Brut DOCG"
       },
       "origin": {
         "it": "Franciacorta, Lombardia",
@@ -1943,7 +1948,8 @@
         "zh": "伦巴第，弗朗恰科塔",
         "ja": "ロンバルディア、フランチャコルタ",
         "nl": "Franciacorta, Lombardije",
-        "nl-BE": "Franciacorta, Lombardije"
+        "nl-BE": "Franciacorta, Lombardije",
+        "sv": "Franciacorta, Lombardiet"
       },
       "grapes": "Pinot Nero 100%",
       "serving_temperature": "10–12 °C",
@@ -1959,7 +1965,8 @@
         "zh": "适合搭配浓郁主食、炖鱼、甲壳类、白肉、烤肉及熟成奶酪。",
         "ja": "しっかりした第一皿、魚の煮込み、甲殻類、白身肉、ロースト、熟成チーズにおすすめ。",
         "nl": "Rijke eerste gangen, gestoofde vis, schaaldieren, wit vlees, gebraad en gerijpte kazen.",
-        "nl-BE": "Rijke eerste gangen, gestoofde vis, schaaldieren, wit vlees, gebraad en gerijpte kazen."
+        "nl-BE": "Rijke eerste gangen, gestoofde vis, schaaldieren, wit vlees, gebraad en gerijpte kazen.",
+        "sv": "Smakrika pastarätter, bräserad fisk, skaldjur, ljust kött, stekar och lagrade ostar."
       },
       "description": {
         "it": "Franciacorta Riserva Extra Brut da Pinot Nero in purezza, affinato per circa dieci anni sui lieviti. È profondo e raffinato, con fiori bianchi, agrumi, frutta matura e leggere note tostate. Il sorso unisce grande freschezza, struttura, sapidità e lunghissima persistenza.",
@@ -1972,7 +1979,8 @@
         "zh": "采用100%黑皮诺酿造，酒泥陈酿约十年。风格深邃精致，带有白花、柑橘、成熟水果及轻微烘烤气息，口感清新而富有结构，咸鲜感明显，余味极长。",
         "ja": "ピノ・ノワール100%、澱とともに約10年間熟成。白い花、柑橘、熟した果実、トースト香があり、深みと上品さを備えます。高い酸、骨格、塩味、非常に長い余韻が特徴です。",
         "nl": "Een Franciacorta Riserva Extra Brut van 100% Pinot Noir, ongeveer tien jaar gerijpt op de droesem. Diep en verfijnd, met witte bloemen, citrus, rijp fruit en lichte geroosterde tonen. Grote frisheid, structuur, hartige mineraliteit en uitzonderlijke lengte.",
-        "nl-BE": "Een Franciacorta Riserva Extra Brut van 100% Pinot Noir, ongeveer tien jaar gerijpt op de droesem. Diep en verfijnd, met witte bloemen, citrus, rijp fruit en lichte geroosterde tonen. Grote frisheid, structuur, hartige mineraliteit en uitzonderlijke lengte."
+        "nl-BE": "Een Franciacorta Riserva Extra Brut van 100% Pinot Noir, ongeveer tien jaar gerijpt op de droesem. Diep en verfijnd, met witte bloemen, citrus, rijp fruit en lichte geroosterde tonen. Grote frisheid, structuur, hartige mineraliteit en uitzonderlijke lengte.",
+        "sv": "En Franciacorta Riserva Extra Brut av 100 % Pinot Noir, lagrad omkring tio år på jästfällningen. Djup och raffinerad med vita blommor, citrus, mogen frukt och lätta rostade toner. Mycket frisk med struktur, mineralisk sälta och exceptionellt lång eftersmak."
       },
       "wine_section": "sparkling_french"
     },
@@ -1992,7 +2000,8 @@
         "zh": "传统法桃红特干型起泡酒",
         "ja": "ロゼ・エクストラ・ブリュット、瓶内二次発酵",
         "nl": "Rosé Extra Brut mousserende wijn volgens de traditionele methode",
-        "nl-BE": "Rosé Extra Brut mousserende wijn volgens de traditionele methode"
+        "nl-BE": "Rosé Extra Brut mousserende wijn volgens de traditionele methode",
+        "sv": "Rosé Extra Brut, traditionell metod"
       },
       "origin": {
         "it": "Monticelli Brusati, Lombardia",
@@ -2005,7 +2014,8 @@
         "zh": "伦巴第，蒙蒂切利布鲁萨蒂",
         "ja": "ロンバルディア、モンティチェッリ・ブルザーティ",
         "nl": "Monticelli Brusati, Lombardije",
-        "nl-BE": "Monticelli Brusati, Lombardije"
+        "nl-BE": "Monticelli Brusati, Lombardije",
+        "sv": "Monticelli Brusati, Lombardiet"
       },
       "grapes": "Pinot Nero 100%",
       "serving_temperature": "8–10 °C",
@@ -2021,7 +2031,8 @@
         "zh": "适合作为开胃酒，搭配冷切、金枪鱼、三文鱼、甲壳类、寿司、烩饭及白肉。",
         "ja": "食前酒、生ハム、マグロ、サーモン、甲殻類、寿司、リゾット、白身肉におすすめ。",
         "nl": "Aperitief, vleeswaren, tonijn, zalm, schaaldieren, sushi, risotto en wit vlees.",
-        "nl-BE": "Aperitief, vleeswaren, tonijn, zalm, schaaldieren, sushi, risotto en wit vlees."
+        "nl-BE": "Aperitief, vleeswaren, tonijn, zalm, schaaldieren, sushi, risotto en wit vlees.",
+        "sv": "Aperitif, charkuterier, tonfisk, lax, skaldjur, sushi, risotto och ljust kött."
       },
       "description": {
         "it": "Metodo Classico Rosé Extra Brut da Pinot Nero in purezza, affinato 60 mesi sui lieviti indigeni. Presenta piccoli frutti rossi, agrumi, fiori e leggere note di pane. La bollicina è fine e il sorso asciutto, fresco, sapido e persistente.",
@@ -2034,7 +2045,8 @@
         "zh": "采用100%黑皮诺酿造，在本土酵母酒泥上陈酿60个月。带有红色浆果、柑橘、花香和轻微面包气息，气泡细腻，口感干爽清新，咸鲜持久。",
         "ja": "ピノ・ノワール100%、天然酵母の澱とともに60か月熟成。赤い果実、柑橘、花、パンの香り。泡は繊細で、辛口かつ爽やかな塩味と長い余韻があります。",
         "nl": "Een Extra Brut rosé volgens de traditionele methode van 100% Pinot Noir, 60 maanden gerijpt op inheemse droesem. Rood fruit, citrus, bloemen en lichte broodtonen begeleiden fijne bubbels en een droge, frisse, hartige, aanhoudende smaak.",
-        "nl-BE": "Een Extra Brut rosé volgens de traditionele methode van 100% Pinot Noir, 60 maanden gerijpt op inheemse droesem. Rood fruit, citrus, bloemen en lichte broodtonen begeleiden fijne bubbels en een droge, frisse, hartige, aanhoudende smaak."
+        "nl-BE": "Een Extra Brut rosé volgens de traditionele methode van 100% Pinot Noir, 60 maanden gerijpt op inheemse droesem. Rood fruit, citrus, bloemen en lichte broodtonen begeleiden fijne bubbels en een droge, frisse, hartige, aanhoudende smaak.",
+        "sv": "En rosé Extra Brut av 100 % Pinot Noir, framställd enligt traditionell metod och lagrad 60 månader på naturligt förekommande jästfällning. Röda bär, citrus, blommor och lätta brödtoner följs av fina bubblor och en torr, frisk smak med sälta och lång eftersmak."
       },
       "wine_section": "sparkling_italian"
     },
@@ -2054,7 +2066,8 @@
         "zh": "Trentodoc 白中白干型传统法起泡酒",
         "ja": "トレントドック・ブリュット・ブラン・ド・ブラン",
         "nl": "Trentodoc Brut Blanc de Blancs volgens de traditionele methode",
-        "nl-BE": "Trentodoc Brut Blanc de Blancs volgens de traditionele methode"
+        "nl-BE": "Trentodoc Brut Blanc de Blancs volgens de traditionele methode",
+        "sv": "Trentodoc Brut Blanc de Blancs, traditionell metod"
       },
       "origin": {
         "it": "Valle dei Laghi, Trentino",
@@ -2067,7 +2080,8 @@
         "zh": "特伦蒂诺，湖谷",
         "ja": "トレンティーノ、ヴァッレ・デイ・ラーギ",
         "nl": "Valle dei Laghi, Trentino",
-        "nl-BE": "Valle dei Laghi, Trentino"
+        "nl-BE": "Valle dei Laghi, Trentino",
+        "sv": "Valle dei Laghi, Trentino"
       },
       "grapes": "Chardonnay 100%",
       "serving_temperature": "6–8 °C",
@@ -2083,7 +2097,8 @@
         "zh": "适合作为开胃酒，搭配生食海鲜、甲壳类、寿司、清淡鱼类、烩饭及新鲜奶酪。",
         "ja": "食前酒、魚介の生料理、甲殻類、寿司、繊細な魚料理、リゾット、フレッシュチーズにおすすめ。",
         "nl": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, verfijnde visgerechten, risotto en verse kazen.",
-        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, verfijnde visgerechten, risotto en verse kazen."
+        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, verfijnde visgerechten, risotto en verse kazen.",
+        "sv": "Aperitif, råa fisk- och skaldjursrätter, skaldjur, sushi, milda fiskrätter, risotto och färskostar."
       },
       "description": {
         "it": "Trentodoc Brut Blanc de Blancs da Chardonnay in purezza, rifermentato in bottiglia e maturato a lungo sui lieviti. Il perlage è fine e persistente; al naso emergono fiori e frutta bianca, mentre il sorso è morbido, fresco e armonioso.",
@@ -2096,7 +2111,8 @@
         "zh": "采用100%霞多丽酿造，瓶内二次发酵并长期酒泥陈酿。气泡细腻持久，带有花香和白色水果气息，口感柔和清新、协调。",
         "ja": "シャルドネ100%のトレントドック・ブリュット。瓶内二次発酵後、長期間澱と熟成。繊細な泡、花と白い果実の香りがあり、柔らかく爽やかで調和の取れた味わいです。",
         "nl": "Een Trentodoc Brut Blanc de Blancs van 100% Chardonnay, op fles vergist en lang gerijpt op de droesem. Fijne, aanhoudende bubbels met bloemige aroma's en wit fruit; soepel, fris en harmonieus.",
-        "nl-BE": "Een Trentodoc Brut Blanc de Blancs van 100% Chardonnay, op fles vergist en lang gerijpt op de droesem. Fijne, aanhoudende bubbels met bloemige aroma's en wit fruit; soepel, fris en harmonieus."
+        "nl-BE": "Een Trentodoc Brut Blanc de Blancs van 100% Chardonnay, op fles vergist en lang gerijpt op de droesem. Fijne, aanhoudende bubbels met bloemige aroma's en wit fruit; soepel, fris en harmonieus.",
+        "sv": "En Trentodoc Brut Blanc de Blancs av 100 % Chardonnay, med andra jäsning på flaska och lång lagring på jästfällningen. Fina, ihållande bubblor med blommiga toner och ljus frukt. Mjuk, frisk och harmonisk smak."
       },
       "wine_section": "sparkling_italian"
     },
@@ -2116,7 +2132,8 @@
         "zh": "年份 Trentodoc 特干型传统法起泡酒",
         "ja": "ヴィンテージ・トレントドック・エクストラ・ブリュット",
         "nl": "Trentodoc Extra Brut millésimé volgens de traditionele methode",
-        "nl-BE": "Trentodoc Extra Brut millésimé volgens de traditionele methode"
+        "nl-BE": "Trentodoc Extra Brut millésimé volgens de traditionele methode",
+        "sv": "Årgångsbetecknad Trentodoc Extra Brut, traditionell metod"
       },
       "origin": {
         "it": "Valle dei Laghi, Trentino",
@@ -2129,7 +2146,8 @@
         "zh": "特伦蒂诺，湖谷",
         "ja": "トレンティーノ、ヴァッレ・デイ・ラーギ",
         "nl": "Valle dei Laghi, Trentino",
-        "nl-BE": "Valle dei Laghi, Trentino"
+        "nl-BE": "Valle dei Laghi, Trentino",
+        "sv": "Valle dei Laghi, Trentino"
       },
       "grapes": "Pinot Bianco 100%",
       "serving_temperature": "8–10 °C",
@@ -2145,7 +2163,8 @@
         "zh": "适合作为开胃酒，搭配牡蛎、生食海鲜、甲壳类、寿司、清淡鱼类及烩饭。",
         "ja": "食前酒、牡蠣、魚介の生料理、甲殻類、寿司、繊細な魚料理、リゾットにおすすめ。",
         "nl": "Aperitief, oesters, rauwe zeevruchten, schaaldieren, sushi, verfijnde visgerechten en risotto.",
-        "nl-BE": "Aperitief, oesters, rauwe zeevruchten, schaaldieren, sushi, verfijnde visgerechten en risotto."
+        "nl-BE": "Aperitief, oesters, rauwe zeevruchten, schaaldieren, sushi, verfijnde visgerechten en risotto.",
+        "sv": "Aperitif, ostron, råa fisk- och skaldjursrätter, skaldjur, sushi, milda fiskrätter och risotto."
       },
       "description": {
         "it": "Trentodoc Extra Brut Millesimato da Pinot Bianco in purezza. Il colore è paglierino con riflessi verdolini e il perlage fine e persistente. Profuma di pesca bianca e melissa; al palato è delicato, morbido all’ingresso e sostenuto da una viva acidità.",
@@ -2158,7 +2177,8 @@
         "zh": "采用100%白皮诺酿造。浅稻草黄色，泛绿色光泽，气泡细腻持久。带有白桃和香蜂草气息，入口柔和细致，酸度清新明快。",
         "ja": "ピノ・ビアンコ100%のヴィンテージ・トレントドック・エクストラ・ブリュット。淡い麦わら色と繊細な泡。白桃とレモンバームの香りがあり、柔らかな口当たりと生き生きした酸が特徴です。",
         "nl": "Een Trentodoc Extra Brut millésimé van 100% Pinot Blanc. Bleek strogeel met groene reflecties en fijne, aanhoudende bubbels. Aroma's van witte perzik en citroenmelisse leiden naar een verfijnde smaak met een zachte aanzet en levendige zuren.",
-        "nl-BE": "Een Trentodoc Extra Brut millésimé van 100% Pinot Blanc. Bleek strogeel met groene reflecties en fijne, aanhoudende bubbels. Aroma's van witte perzik en citroenmelisse leiden naar een verfijnde smaak met een zachte aanzet en levendige zuren."
+        "nl-BE": "Een Trentodoc Extra Brut millésimé van 100% Pinot Blanc. Bleek strogeel met groene reflecties en fijne, aanhoudende bubbels. Aroma's van witte perzik en citroenmelisse leiden naar een verfijnde smaak met een zachte aanzet en levendige zuren.",
+        "sv": "En årgångsbetecknad Trentodoc Extra Brut av 100 % Pinot Blanc. Ljust halmgul med gröna skiftningar och fina, ihållande bubblor. Doft av vit persika och citronmeliss. Delikat smak med mjuk inledning och livlig syra."
       },
       "wine_section": "sparkling_italian"
     },
@@ -2178,7 +2198,8 @@
         "zh": "香槟多年份干型起泡酒 AOC",
         "ja": "シャンパーニュ・ブリュット・マルチヴィンテージ AOC",
         "nl": "Champagne Brut multi-vintage AOC",
-        "nl-BE": "Champagne Brut multi-vintage AOC"
+        "nl-BE": "Champagne Brut multi-vintage AOC",
+        "sv": "Champagne Brut, flera årgångar, AOC"
       },
       "origin": {
         "it": "Champagne, Francia",
@@ -2191,7 +2212,8 @@
         "zh": "法国香槟区",
         "ja": "フランス、シャンパーニュ",
         "nl": "Champagne, Frankrijk",
-        "nl-BE": "Champagne, Frankrijk"
+        "nl-BE": "Champagne, Frankrijk",
+        "sv": "Champagne, Frankrike"
       },
       "grapes": "Chardonnay 41%, Pinot Nero 33%, Meunier 26%",
       "serving_temperature": "9–11 °C",
@@ -2207,7 +2229,8 @@
         "zh": "适合作为开胃酒，搭配牡蛎、甲壳类、生食海鲜、寿司、鱼类、禽肉及清淡奶酪。",
         "ja": "食前酒、牡蠣、甲殻類、魚介の生料理、寿司、魚、鶏肉、繊細なチーズにおすすめ。",
         "nl": "Aperitief, oesters, schaaldieren, rauwe zeevruchten, sushi, vis, gevogelte en verfijnde kazen.",
-        "nl-BE": "Aperitief, oesters, schaaldieren, rauwe zeevruchten, sushi, vis, gevogelte en verfijnde kazen."
+        "nl-BE": "Aperitief, oesters, schaaldieren, rauwe zeevruchten, sushi, vis, gevogelte en verfijnde kazen.",
+        "sv": "Aperitif, ostron, skaldjur, råa fisk- och skaldjursrätter, sushi, fisk, fågel och milda ostar."
       },
       "description": {
         "it": "Champagne ampio ed equilibrato, basato sulla vendemmia 2019 e arricchito da riserva perpetua e vini di riserva affinati in legno. Profuma di pesca, pera, agrumi, note iodate, gesso e leggere sfumature tostate. Il sorso è cremoso, ricco e fresco, con finale sapido e persistente.",
@@ -2220,7 +2243,8 @@
         "zh": "以2019年份为基础，并加入永久储备酒和橡木陈酿储备酒。带有桃子、梨、柑橘、海洋、白垩及轻微烘烤气息，口感丰润细腻而清新，余味咸鲜持久。",
         "ja": "2019年をベースに、パーペチュアル・リザーヴと樽熟成リザーヴワインを加えたシャンパーニュ。桃、洋梨、柑橘、ヨード、チョーク、軽いトースト香。クリーミーで豊か、爽やかな塩味と長い余韻があります。",
         "nl": "Een brede en evenwichtige Champagne op basis van de oogst 2019, verrijkt met een perpetuele reserve en in hout gerijpte reservewijnen. Aroma's van perzik, peer, citrus, jodium, krijt en subtiele geroosterde tonen. Romig, rijk en fris, met een hartige, aanhoudende finale.",
-        "nl-BE": "Een brede en evenwichtige Champagne op basis van de oogst 2019, verrijkt met een perpetuele reserve en in hout gerijpte reservewijnen. Aroma's van perzik, peer, citrus, jodium, krijt en subtiele geroosterde tonen. Romig, rijk en fris, met een hartige, aanhoudende finale."
+        "nl-BE": "Een brede en evenwichtige Champagne op basis van de oogst 2019, verrijkt met een perpetuele reserve en in hout gerijpte reservewijnen. Aroma's van perzik, peer, citrus, jodium, krijt en subtiele geroosterde tonen. Romig, rijk en fris, met een hartige, aanhoudende finale.",
+        "sv": "En fyllig och balanserad Champagne baserad på skörden 2019, kompletterad med en kontinuerligt förnyad reserv och ekfatslagrade reservviner. Doft av persika, päron, citrus, havstoner, krita och lätt rostade inslag. Krämig, rik och frisk med lång eftersmak och sälta."
       },
       "wine_section": "sparkling_french"
     },
@@ -2241,7 +2265,8 @@
         "zh": "年份零加糖香槟 AOC",
         "ja": "ヴィンテージ・シャンパーニュ・ブリュット・ナチュール AOC",
         "nl": "Champagne Brut Nature millésimé AOC",
-        "nl-BE": "Champagne Brut Nature millésimé AOC"
+        "nl-BE": "Champagne Brut Nature millésimé AOC",
+        "sv": "Årgångschampagne Brut Nature AOC"
       },
       "origin": {
         "it": "Cumières, Champagne",
@@ -2254,7 +2279,8 @@
         "zh": "香槟区屈米耶尔",
         "ja": "シャンパーニュ、キュミエール",
         "nl": "Cumières, Champagne",
-        "nl-BE": "Cumières, Champagne"
+        "nl-BE": "Cumières, Champagne",
+        "sv": "Cumières, Champagne"
       },
       "grapes": "Chardonnay 46%, Pinot Nero 37%, Meunier 17%",
       "serving_temperature": "10–12 °C",
@@ -2270,7 +2296,8 @@
         "zh": "适合搭配牡蛎、生食海鲜、甲壳类、烤鱼、寿司、鱼子酱及蔬菜料理。",
         "ja": "牡蠣、魚介の生料理、甲殻類、魚のグリル、寿司、キャビア、野菜料理におすすめ。",
         "nl": "Oesters, rauwe zeevruchten, schaaldieren, gegrilde vis, sushi, kaviaar en groentegerechten.",
-        "nl-BE": "Oesters, rauwe zeevruchten, schaaldieren, gegrilde vis, sushi, kaviaar en groentegerechten."
+        "nl-BE": "Oesters, rauwe zeevruchten, schaaldieren, gegrilde vis, sushi, kaviaar en groentegerechten.",
+        "sv": "Ostron, råa fisk- och skaldjursrätter, skaldjur, grillad fisk, sushi, kaviar och grönsaksrätter."
       },
       "description": {
         "it": "Champagne millesimato senza dosaggio, nato dalle vigne di Cumières e firmato con Philippe Starck. Parte del vino fermenta in legno e non svolge fermentazione malolattica. È puro e teso, con agrumi maturi, frutta gialla, erbe, note saline e una lunga freschezza minerale.",
@@ -2283,7 +2310,8 @@
         "zh": "来自屈米耶尔葡萄园，与Philippe Starck共同打造的年份零加糖香槟。部分基酒在橡木中发酵，不进行苹果酸乳酸发酵。风格纯净紧致，带有成熟柑橘、黄色水果、香草、咸鲜及矿物气息。",
         "ja": "キュミエールの畑から生まれ、フィリップ・スタルクと造られたドサージュ・ゼロのヴィンテージ。部分的に樽発酵し、マロラクティック発酵は行いません。熟した柑橘、黄色い果実、ハーブ、塩味、長いミネラル感があります。",
         "nl": "Een Champagne millésimé zonder dosage uit de wijngaarden van Cumières, gecreëerd met Philippe Starck. Een deel van de wijn vergist in hout en er wordt geen malolactische gisting toegepast. Puur en strak, met rijpe citrus, geel fruit, kruiden, zilte tonen en een lange minerale frisheid.",
-        "nl-BE": "Een Champagne millésimé zonder dosage uit de wijngaarden van Cumières, gecreëerd met Philippe Starck. Een deel van de wijn vergist in hout en er wordt geen malolactische gisting toegepast. Puur en strak, met rijpe citrus, geel fruit, kruiden, zilte tonen en een lange minerale frisheid."
+        "nl-BE": "Een Champagne millésimé zonder dosage uit de wijngaarden van Cumières, gecreëerd met Philippe Starck. Een deel van de wijn vergist in hout en er wordt geen malolactische gisting toegepast. Puur en strak, met rijpe citrus, geel fruit, kruiden, zilte tonen en een lange minerale frisheid.",
+        "sv": "En årgångschampagne utan dosage från vingårdarna i Cumières, framtagen tillsammans med Philippe Starck. En del av vinet jäser på ekfat och ingen malolaktisk jäsning genomförs. Ren och stram med mogen citrus, gul frukt, örter, sälta och lång mineralisk friskhet."
       },
       "wine_section": "sparkling_french"
     },
@@ -2303,7 +2331,8 @@
         "zh": "传统法优质干型起泡酒",
         "ja": "高品質ブリュット、瓶内二次発酵",
         "nl": "Brut kwaliteitsmousserende wijn, traditionele methode",
-        "nl-BE": "Brut kwaliteitsmousserende wijn, traditionele methode"
+        "nl-BE": "Brut kwaliteitsmousserende wijn, traditionele methode",
+        "sv": "Brut, mousserande kvalitetsvin enligt traditionell metod"
       },
       "origin": {
         "it": "Francia",
@@ -2316,7 +2345,8 @@
         "zh": "法国",
         "ja": "フランス",
         "nl": "Frankrijk",
-        "nl-BE": "Frankrijk"
+        "nl-BE": "Frankrijk",
+        "sv": "Frankrike"
       },
       "grapes": "Chardonnay, Chenin Blanc, Ugni Blanc",
       "serving_temperature": "6–8 °C",
@@ -2332,7 +2362,8 @@
         "zh": "适合作为开胃酒，搭配清淡前菜、甲壳类、炸鱼、寿司及新鲜奶酪。",
         "ja": "食前酒、軽い前菜、甲殻類、魚のフリット、寿司、フレッシュチーズにおすすめ。",
         "nl": "Aperitief, lichte voorgerechten, schaaldieren, gefrituurde vis, sushi en verse kazen.",
-        "nl-BE": "Aperitief, lichte voorgerechten, schaaldieren, gefrituurde vis, sushi en verse kazen."
+        "nl-BE": "Aperitief, lichte voorgerechten, schaaldieren, gefrituurde vis, sushi en verse kazen.",
+        "sv": "Aperitif, lätta förrätter, skaldjur, friterad fisk, sushi och färskostar."
       },
       "description": {
         "it": "Spumante francese Blanc de Blancs Brut, fresco e immediato. Presenta un perlage fine, profumi di mela verde, agrumi, fiori bianchi e leggere note di pane tostato. Il sorso è leggero, equilibrato e pulito, con finale minerale.",
@@ -2345,7 +2376,8 @@
         "zh": "清新易饮的法国白中白干型起泡酒。气泡细腻，带有青苹果、柑橘、白花及轻微烤面包气息，口感轻盈均衡，余味干净并带矿物感。",
         "ja": "爽やかで親しみやすいフランスのブラン・ド・ブラン・ブリュット。青リンゴ、柑橘、白い花、軽いトースト香。軽やかでバランスがよく、ミネラル感のある余韻です。",
         "nl": "Een frisse en toegankelijke Franse Blanc de Blancs Brut. Fijne bubbels met groene appel, citrus, witte bloemen en lichte tonen van geroosterd brood. Licht, evenwichtig en zuiver, met een minerale finale.",
-        "nl-BE": "Een frisse en toegankelijke Franse Blanc de Blancs Brut. Fijne bubbels met groene appel, citrus, witte bloemen en lichte tonen van geroosterd brood. Licht, evenwichtig en zuiver, met een minerale finale."
+        "nl-BE": "Een frisse en toegankelijke Franse Blanc de Blancs Brut. Fijne bubbels met groene appel, citrus, witte bloemen en lichte tonen van geroosterd brood. Licht, evenwichtig en zuiver, met een minerale finale.",
+        "sv": "En frisk och lättillgänglig fransk Blanc de Blancs Brut. Fina bubblor med grönt äpple, citrus, vita blommor och lätta toner av rostat bröd. Lätt, balanserad och ren med mineralisk avslutning."
       },
       "wine_section": "sparkling_french"
     },
@@ -2365,7 +2397,8 @@
         "zh": "干型香槟 AOC",
         "ja": "シャンパーニュ・ブリュット AOC",
         "nl": "Champagne Brut AOC",
-        "nl-BE": "Champagne Brut AOC"
+        "nl-BE": "Champagne Brut AOC",
+        "sv": "Champagne Brut AOC"
       },
       "origin": {
         "it": "Champagne, Francia",
@@ -2378,7 +2411,8 @@
         "zh": "法国香槟区",
         "ja": "フランス、シャンパーニュ",
         "nl": "Champagne, Frankrijk",
-        "nl-BE": "Champagne, Frankrijk"
+        "nl-BE": "Champagne, Frankrijk",
+        "sv": "Champagne, Frankrike"
       },
       "grapes": "Pinot Nero 60%, Chardonnay 25%, Meunier 15%",
       "serving_temperature": "10–12 °C",
@@ -2394,7 +2428,8 @@
         "zh": "适合作为开胃酒，搭配甲壳类、烤鱼、禽肉、小牛肉、蘑菇及熟成奶酪。",
         "ja": "食前酒、甲殻類、魚のロースト、鶏肉、仔牛、キノコ、熟成チーズにおすすめ。",
         "nl": "Aperitief, schaaldieren, geroosterde vis, gevogelte, kalfsvlees, paddenstoelen en gerijpte kazen.",
-        "nl-BE": "Aperitief, schaaldieren, geroosterde vis, gevogelte, kalfsvlees, paddenstoelen en gerijpte kazen."
+        "nl-BE": "Aperitief, schaaldieren, geroosterde vis, gevogelte, kalfsvlees, paddenstoelen en gerijpte kazen.",
+        "sv": "Aperitif, skaldjur, ugnsstekt fisk, fågel, kalvkött, svamp och lagrade ostar."
       },
       "description": {
         "it": "Champagne ricco e vinoso, costruito in prevalenza sul Pinot Nero e su una grande quota di vini di riserva, parte dei quali conservati in magnum. Mela cotta, pesca, spezie, brioche e frutta secca accompagnano una bollicina cremosa e un sorso profondo, fresco e persistente.",
@@ -2407,7 +2442,8 @@
         "zh": "以黑皮诺为主，并加入大量储备酒，部分储备酒在大瓶中陈年。带有烤苹果、桃子、香料、布里欧修和坚果香气，气泡柔滑，口感深邃清新，余味持久。",
         "ja": "ピノ・ノワール主体で、多量のリザーヴワインを使用し、一部はマグナムで熟成。焼きリンゴ、桃、スパイス、ブリオッシュ、ナッツの香り。泡はクリーミーで、深みと爽やかさ、長い余韻があります。",
         "nl": "Een rijke, vineuze Champagne waarin Pinot Noir domineert en met een groot aandeel reservewijnen, waarvan sommige in magnums zijn gerijpt. Gebakken appel, perzik, kruiden, brioche en noten begeleiden romige bubbels en een diepe, frisse, aanhoudende smaak.",
-        "nl-BE": "Een rijke, vineuze Champagne waarin Pinot Noir domineert en met een groot aandeel reservewijnen, waarvan sommige in magnums zijn gerijpt. Gebakken appel, perzik, kruiden, brioche en noten begeleiden romige bubbels en een diepe, frisse, aanhoudende smaak."
+        "nl-BE": "Een rijke, vineuze Champagne waarin Pinot Noir domineert en met een groot aandeel reservewijnen, waarvan sommige in magnums zijn gerijpt. Gebakken appel, perzik, kruiden, brioche en noten begeleiden romige bubbels en een diepe, frisse, aanhoudende smaak.",
+        "sv": "En rik, vinös Champagne med Pinot Noir i centrum och en stor andel reservviner, varav vissa lagrats på magnumflaskor. Bakat äpple, persika, kryddor, brioche och nötter förenas med krämiga bubblor och en djup, frisk smak med lång eftersmak."
       },
       "wine_section": "sparkling_french"
     },
@@ -2428,7 +2464,8 @@
         "zh": "黑中白干型香槟 AOC",
         "ja": "シャンパーニュ・ブラン・ド・ノワール・ブリュット AOC",
         "nl": "Champagne Blanc de Noirs Brut AOC",
-        "nl-BE": "Champagne Blanc de Noirs Brut AOC"
+        "nl-BE": "Champagne Blanc de Noirs Brut AOC",
+        "sv": "Champagne Blanc de Noirs Brut AOC"
       },
       "origin": {
         "it": "Aÿ e Montagne de Reims, Champagne",
@@ -2441,7 +2478,8 @@
         "zh": "香槟区艾村及兰斯山",
         "ja": "シャンパーニュ、アイおよびモンターニュ・ド・ランス",
         "nl": "Aÿ en Montagne de Reims, Champagne",
-        "nl-BE": "Aÿ en Montagne de Reims, Champagne"
+        "nl-BE": "Aÿ en Montagne de Reims, Champagne",
+        "sv": "Aÿ och Montagne de Reims, Champagne"
       },
       "grapes": "Pinot Nero 100%",
       "serving_temperature": "10–12 °C",
@@ -2457,7 +2495,8 @@
         "zh": "适合搭配金枪鱼、三文鱼、甲壳类、烤禽肉、小牛肉、蘑菇、松露及熟成奶酪。",
         "ja": "マグロ、サーモン、甲殻類、鶏肉のロースト、仔牛、キノコ、トリュフ、熟成チーズにおすすめ。",
         "nl": "Tonijn, zalm, schaaldieren, geroosterd gevogelte, kalfsvlees, paddenstoelen, truffel en gerijpte kazen.",
-        "nl-BE": "Tonijn, zalm, schaaldieren, geroosterd gevogelte, kalfsvlees, paddenstoelen, truffel en gerijpte kazen."
+        "nl-BE": "Tonijn, zalm, schaaldieren, geroosterd gevogelte, kalfsvlees, paddenstoelen, truffel en gerijpte kazen.",
+        "sv": "Tonfisk, lax, skaldjur, ugnsstekt fågel, kalvkött, svamp, tryffel och lagrade ostar."
       },
       "description": {
         "it": "Blanc de Noirs da Pinot Nero in purezza, basato prevalentemente sulla vendemmia 2018 e sul cru di Aÿ, con vini di riserva provenienti anche da annate precedenti. È intenso e avvolgente, con pesca, albicocca, agrumi canditi, nocciola e spezie. Il sorso è ricco, teso e sapido, con finale lungo.",
@@ -2470,7 +2509,8 @@
         "zh": "采用100%黑皮诺酿造，以2018年份和艾村葡萄为主，并加入较老年份的储备酒。带有桃子、杏子、糖渍柑橘、榛子及香料气息，口感浓郁紧致，咸鲜而悠长。",
         "ja": "ピノ・ノワール100%のブラン・ド・ノワール。2018年とアイ村を中心に、古いリザーヴワインを加えています。桃、アプリコット、柑橘のコンフィ、ヘーゼルナッツ、スパイス。豊かで引き締まり、塩味と長い余韻があります。",
         "nl": "Een Blanc de Noirs van 100% Pinot Noir, voornamelijk gebaseerd op de oogst 2018 en de cru Aÿ, met reservewijnen uit eerdere jaargangen. Intens en omhullend, met perzik, abrikoos, gekonfijte citrus, hazelnoot en kruiden. Rijk, strak en hartig, met een lange finale.",
-        "nl-BE": "Een Blanc de Noirs van 100% Pinot Noir, voornamelijk gebaseerd op de oogst 2018 en de cru Aÿ, met reservewijnen uit eerdere jaargangen. Intens en omhullend, met perzik, abrikoos, gekonfijte citrus, hazelnoot en kruiden. Rijk, strak en hartig, met een lange finale."
+        "nl-BE": "Een Blanc de Noirs van 100% Pinot Noir, voornamelijk gebaseerd op de oogst 2018 en de cru Aÿ, met reservewijnen uit eerdere jaargangen. Intens en omhullend, met perzik, abrikoos, gekonfijte citrus, hazelnoot en kruiden. Rijk, strak en hartig, met een lange finale.",
+        "sv": "En Blanc de Noirs av 100 % Pinot Noir, huvudsakligen baserad på skörden 2018 och vingårdarna i Aÿ, med reservviner från tidigare årgångar. Intensiv och fyllig med persika, aprikos, kanderad citrus, hasselnöt och kryddor. Rik och stram med sälta och lång eftersmak."
       },
       "wine_section": "sparkling_french"
     },
