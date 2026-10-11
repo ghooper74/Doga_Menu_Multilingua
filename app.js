@@ -1,6 +1,6 @@
 let DATA;
 
-const supported = ["it", "en", "de", "fr", "es", "nl", "nl-BE", "pl", "ru", "zh", "ja"];
+const supported = ["it", "en", "de", "fr", "es", "nl", "nl-BE", "pl", "ru", "zh", "ja", "sv"];
 
 const languageFlags = {
   it: "🇮🇹",
@@ -13,7 +13,8 @@ const languageFlags = {
   pl: "🇵🇱",
   ru: "🇷🇺",
   zh: "🇨🇳",
-  ja: "🇯🇵"
+  ja: "🇯🇵",
+  sv: "🇸🇪"
 };
 
 const languageShortLabels = {
@@ -37,6 +38,7 @@ function normalizeLanguageCode(code) {
   if (c.startsWith("ru")) return "ru";
   if (c.startsWith("zh")) return "zh";
   if (c.startsWith("ja")) return "ja";
+  if (c.startsWith("sv")) return "sv";
   return null;
 }
 
@@ -68,7 +70,7 @@ let currentTab = params.get("section") || params.get("tab") || "menu";
 let selectedWineSection = "all";
 
 const fallbackLabels = {
-  menu: { it: "Menù", en: "Menu", de: "Speisekarte", fr: "Menu", es: "Menú", pl: "Menu", ru: "Меню", zh: "菜单", ja: "メニュー" },
+  menu: { it: "Menù", en: "Menu", de: "Speisekarte", fr: "Menu", es: "Menú", pl: "Menu", ru: "Меню", zh: "菜单", ja: "メニュー", sv: "Meny" },
   canteen: {
     it:"Mensa",
     en:"Canteen",
@@ -78,19 +80,20 @@ const fallbackLabels = {
     pl:"Stołówka",
     ru:"Столовая",
     zh:"食堂",
-    ja:"食堂"
+    ja:"食堂",
+    sv:"Matsal"
   },
-  breakfast: { it: "Colazioni", en: "Breakfast", de: "Frühstück", fr: "Petit-déjeuner", es: "Desayuno", pl: "Śniadanie", ru: "Завтрак", zh: "早餐", ja: "朝食" },
-  showcase: { it: "Vetrina", en: "Display case", de: "Vitrine", fr: "Vitrine", es: "Vitrina", pl: "Witryna", ru: "Витрина", zh: "展示柜", ja: "ショーケース" },
-  salads: { it: "Insalate", en: "Salads", de: "Salate", fr: "Salades", es: "Ensaladas", pl: "Sałatki", ru: "Салаты", zh: "沙拉", ja: "サラダ" },
-  desserts: { it: "Dolci", en: "Desserts", de: "Desserts", fr: "Desserts", es: "Postres", pl: "Desery", ru: "Десерты", zh: "甜点", ja: "デザート" },
-  wines: { it: "Vini", en: "Wines", de: "Weine", fr: "Vins", es: "Vinos", pl: "Wina", ru: "Вина", zh: "葡萄酒", ja: "ワイン" },
-  drinks: { it: "Drink", en: "Drinks", de: "Getränke", fr: "Boissons", es: "Bebidas", pl: "Napoje", ru: "Напитки", zh: "饮品", ja: "ドリンク" },
-  allergens: { it: "Allergeni", en: "Allergens", de: "Allergene", fr: "Allergènes", es: "Alérgenos", pl: "Alergeny", ru: "Аллергены", zh: "过敏原", ja: "アレルゲン" },
-  ingredients: { it: "Ingredienti", en: "Ingredients", de: "Zutaten", fr: "Ingrédients", es: "Ingredientes", pl: "Składniki", ru: "Ингредиенты", zh: "配料", ja: "原材料" },
-  traces: { it: "Possibili tracce", en: "Possible traces", de: "Mögliche Spuren", fr: "Traces possibles", es: "Posibles trazas", pl: "Możliwe ślady", ru: "Возможные следы", zh: "可能痕量", ja: "微量混入の可能性" },
-  note: { it: "Nota", en: "Note", de: "Hinweis", fr: "Note", es: "Nota", pl: "Uwaga", ru: "Примечание", zh: "备注", ja: "注記" },
-  choose_language: { it: "Lingua", en: "Language", de: "Sprache", fr: "Langue", es: "Idioma", pl: "Język", ru: "Язык", zh: "语言", ja: "言語" }
+  breakfast: { it: "Colazioni", en: "Breakfast", de: "Frühstück", fr: "Petit-déjeuner", es: "Desayuno", pl: "Śniadanie", ru: "Завтрак", zh: "早餐", ja: "朝食", sv: "Frukost" },
+  showcase: { it: "Vetrina", en: "Display case", de: "Vitrine", fr: "Vitrine", es: "Vitrina", pl: "Witryna", ru: "Витрина", zh: "展示柜", ja: "ショーケース", sv: "Vitrin" },
+  salads: { it: "Insalate", en: "Salads", de: "Salate", fr: "Salades", es: "Ensaladas", pl: "Sałatki", ru: "Салаты", zh: "沙拉", ja: "サラダ", sv: "Sallader" },
+  desserts: { it: "Dolci", en: "Desserts", de: "Desserts", fr: "Desserts", es: "Postres", pl: "Desery", ru: "Десерты", zh: "甜点", ja: "デザート", sv: "Desserter" },
+  wines: { it: "Vini", en: "Wines", de: "Weine", fr: "Vins", es: "Vinos", pl: "Wina", ru: "Вина", zh: "葡萄酒", ja: "ワイン", sv: "Viner" },
+  drinks: { it: "Drink", en: "Drinks", de: "Getränke", fr: "Boissons", es: "Bebidas", pl: "Napoje", ru: "Напитки", zh: "饮品", ja: "ドリンク", sv: "Drycker" },
+  allergens: { it: "Allergeni", en: "Allergens", de: "Allergene", fr: "Allergènes", es: "Alérgenos", pl: "Alergeny", ru: "Аллергены", zh: "过敏原", ja: "アレルゲン", sv: "Allergener" },
+  ingredients: { it: "Ingredienti", en: "Ingredients", de: "Zutaten", fr: "Ingrédients", es: "Ingredientes", pl: "Składniki", ru: "Ингредиенты", zh: "配料", ja: "原材料", sv: "Ingredienser" },
+  traces: { it: "Possibili tracce", en: "Possible traces", de: "Mögliche Spuren", fr: "Traces possibles", es: "Posibles trazas", pl: "Możliwe ślady", ru: "Возможные следы", zh: "可能痕量", ja: "微量混入の可能性", sv: "Möjliga spår" },
+  note: { it: "Nota", en: "Note", de: "Hinweis", fr: "Note", es: "Nota", pl: "Uwaga", ru: "Примечание", zh: "备注", ja: "注記", sv: "Obs" },
+  choose_language: { it: "Lingua", en: "Language", de: "Sprache", fr: "Langue", es: "Idioma", pl: "Język", ru: "Язык", zh: "语言", ja: "言語", sv: "Språk" }
 };
 
 const t = obj => {
@@ -130,7 +133,8 @@ const footerLabels = {
   ru: { cover: "Сервировка", water: "Вода", note: "Продукты, отмеченные звёздочкой, могут быть заморожены и/или подвергнуты шоковому охлаждению." },
   zh: { cover: "餐位费", water: "水", note: "带星号的食材可能经过冷冻和/或急速冷却处理。" },
   ja: { cover: "席料", water: "水", note: "アスタリスク付きの食材は、冷凍または急速冷却処理されている場合があります。" },
-  nl: { cover: "Couvert", water: "Water", note: "Producten met een sterretje kunnen ingevroren en/of snel teruggekoeld zijn." }
+  nl: { cover: "Couvert", water: "Water", note: "Producten met een sterretje kunnen ingevroren en/of snel teruggekoeld zijn." },
+  sv: { cover: "Kuvertavgift", water: "Vatten", note: "Produkter märkta med en asterisk kan vara frysta och/eller snabbkylda." }
 };
 
 const label = key =>
@@ -432,6 +436,28 @@ const wineFieldLabels = {
 };
 
 
+const swedishWineLabels = {
+  all: "Alla",
+  sparkling_italian: "Italienska mousserande viner",
+  sparkling_french: "Franska mousserande viner",
+  white_tuscany: "Toskanska vita viner",
+  white_other: "Italienska och internationella vita viner",
+  rose: "Roséviner",
+  red_bolgheri: "Röda viner från Bolgheri",
+  red_tuscany: "Toskanska röda viner",
+  super_tuscan: "Super Tuscan",
+  red_other: "Italienska och internationella röda viner",
+  dessert: "Dessertviner",
+  other: "Övriga viner",
+  type: "Typ",
+  origin: "Ursprung",
+  grapes: "Druvor",
+  alcohol: "Alkoholhalt",
+  winemaking: "Vinifiering och lagring",
+  temperature: "Serveringstemperatur",
+  pairing: "Matkombinationer"
+};
+
 const dutchWineLabels = {
   all: "Alle",
   sparkling_italian: "Italiaanse mousserende wijnen",
@@ -455,6 +481,10 @@ const dutchWineLabels = {
 };
 
 function wineTextLabel(collection, key) {
+  if (lang === "sv" && swedishWineLabels[key]) {
+    return swedishWineLabels[key];
+  }
+
   if (
     (lang === "nl" || lang === "nl-BE") &&
     dutchWineLabels[key]
@@ -526,7 +556,8 @@ function renderWines() {
     zh: "搜索葡萄酒...",
     ja: "ワインを検索...",
     nl: "Wijn zoeken...",
-    "nl-BE": "Wijn zoeken..."
+    "nl-BE": "Wijn zoeken...",
+    sv: "Sök vin..."
   })[lang] || "Search wine...";
 
   const wineSearchEmpty = ({
@@ -540,7 +571,8 @@ function renderWines() {
     zh: "未找到葡萄酒。",
     ja: "ワインが見つかりません。",
     nl: "Geen wijn gevonden.",
-    "nl-BE": "Geen wijn gevonden."
+    "nl-BE": "Geen wijn gevonden.",
+    sv: "Inget vin hittades."
   })[lang] || "No wine found.";
 
   const availableSections = wineSectionOrder.filter(section =>
