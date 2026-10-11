@@ -4519,7 +4519,8 @@
         "zh": "上阿迪杰白皮诺 DOC",
         "ja": "アルト・アディジェ・ピノ・ビアンコ DOC",
         "nl": "Alto Adige Pinot Blanc DOC",
-        "nl-BE": "Alto Adige Pinot Blanc DOC"
+        "nl-BE": "Alto Adige Pinot Blanc DOC",
+        "sv": "Alto Adige Pinot Bianco DOC"
       },
       "origin": {
         "it": "San Paolo–Appiano, Alto Adige",
@@ -4532,7 +4533,8 @@
         "zh": "上阿迪杰，圣保罗–阿皮亚诺",
         "ja": "南チロル、サン・パオロ–アッピアーノ",
         "nl": "St. Pauls–Eppan, Zuid-Tirol",
-        "nl-BE": "St. Pauls–Eppan, Zuid-Tirol"
+        "nl-BE": "St. Pauls–Eppan, Zuid-Tirol",
+        "sv": "St. Pauls–Eppan, Sydtyrolen"
       },
       "grapes": "Pinot Bianco 100%",
       "serving_temperature": "8–10 °C",
@@ -4548,7 +4550,8 @@
         "zh": "适合作为开胃酒，搭配清淡前菜、生食海鲜、清淡鱼类、烩饭及蔬菜。",
         "ja": "食前酒、軽い前菜、魚介の生料理、繊細な魚、リゾット、野菜料理におすすめ。",
         "nl": "Aperitief, lichte voorgerechten, rauwe zeevruchten, verfijnde visgerechten, risotto en groenten.",
-        "nl-BE": "Aperitief, lichte voorgerechten, rauwe zeevruchten, verfijnde visgerechten, risotto en groenten."
+        "nl-BE": "Aperitief, lichte voorgerechten, rauwe zeevruchten, verfijnde visgerechten, risotto en groenten.",
+        "sv": "Aperitif, lätta förrätter, råa fisk- och skaldjursrätter, milda fiskrätter, risotto och grönsaker."
       },
       "description": {
         "it": "Pinot Bianco altoatesino fermentato lentamente in acciaio. Offre mela verde, pesca e pera, con una delicata componente floreale. Il sorso è succoso e fresco, con buona mineralità e un finale pulito e diretto.",
@@ -4561,7 +4564,8 @@
         "zh": "缓慢在不锈钢中发酵，带有青苹果、桃子、梨及淡雅花香。口感多汁清新，矿物感良好，余味干净利落。",
         "ja": "ステンレスタンクでゆっくり発酵。青リンゴ、桃、洋梨、繊細な花の香り。ジューシーで爽やか、ミネラル感のある後味です。",
         "nl": "Een Zuid-Tiroolse Pinot Blanc die langzaam in roestvrij staal vergist. Groene appel, perzik, peer en delicate bloemige tonen leiden naar een sappige, frisse smaak met goede mineraliteit en een zuivere finale.",
-        "nl-BE": "Een Zuid-Tiroolse Pinot Blanc die langzaam in roestvrij staal vergist. Groene appel, perzik, peer en delicate bloemige tonen leiden naar een sappige, frisse smaak met goede mineraliteit en een zuivere finale."
+        "nl-BE": "Een Zuid-Tiroolse Pinot Blanc die langzaam in roestvrij staal vergist. Groene appel, perzik, peer en delicate bloemige tonen leiden naar een sappige, frisse smaak met goede mineraliteit en een zuivere finale.",
+        "sv": "En Pinot Bianco från Sydtyrolen, långsamt jäst på ståltank. Grönt äpple, persika, päron och milda blommiga toner följs av en saftig, frisk smak med god mineralitet och ren avslutning."
       },
       "wine_section": "white_other"
     },
@@ -4581,7 +4585,8 @@
         "zh": "上阿迪杰白皮诺 DOC",
         "ja": "アルト・アディジェ・ピノ・ビアンコ DOC",
         "nl": "Alto Adige Pinot Blanc DOC",
-        "nl-BE": "Alto Adige Pinot Blanc DOC"
+        "nl-BE": "Alto Adige Pinot Blanc DOC",
+        "sv": "Alto Adige Pinot Bianco DOC"
       },
       "origin": {
         "it": "Plötzner, San Paolo–Appiano, Alto Adige",
@@ -4594,7 +4599,8 @@
         "zh": "上阿迪杰，圣保罗–阿皮亚诺，Plötzner",
         "ja": "南チロル、サン・パオロ–アッピアーノ、プレッツナー",
         "nl": "Plötzner, St. Pauls–Eppan, Zuid-Tirol",
-        "nl-BE": "Plötzner, St. Pauls–Eppan, Zuid-Tirol"
+        "nl-BE": "Plötzner, St. Pauls–Eppan, Zuid-Tirol",
+        "sv": "Plötzner, St. Pauls–Eppan, Sydtyrolen"
       },
       "grapes": "Pinot Bianco 100%",
       "serving_temperature": "10–12 °C",
@@ -4610,7 +4616,8 @@
         "zh": "适合作为开胃酒，搭配烩饭、鱼类、芦笋、甲壳类、蔬菜及软质奶酪。",
         "ja": "食前酒、リゾット、魚、アスパラガス、甲殻類、野菜、ソフトチーズにおすすめ。",
         "nl": "Aperitief, risotto, vis, asperges, schaaldieren, groenten en zachte kazen.",
-        "nl-BE": "Aperitief, risotto, vis, asperges, schaaldieren, groenten en zachte kazen."
+        "nl-BE": "Aperitief, risotto, vis, asperges, schaaldieren, groenten en zachte kazen.",
+        "sv": "Aperitif, risotto, fisk, sparris, skaldjur, grönsaker och milda ostar."
       },
       "description": {
         "it": "Pinot Bianco di montagna proveniente da vigneti posti tra 550 e 650 metri. Fermenta tra grandi botti di legno e acciaio e affina sulle fecce fini. Mela verde, pera, pesca bianca, fiori ed erbe accompagnano un sorso fine, fresco e sapido.",
@@ -4623,7 +4630,8 @@
         "zh": "来自海拔550至650米的山地葡萄园，在大型木桶和不锈钢中发酵，并于细酒泥上熟成。带有青苹果、梨、白桃、花香及草本气息，口感细致、清新咸鲜。",
         "ja": "標高550〜650mの山地畑のピノ・ビアンコ。大樽とステンレスタンクで発酵し、細かな澱と熟成。青リンゴ、洋梨、白桃、花、ハーブの香り。繊細で爽やかな塩味があります。",
         "nl": "Een berg-Pinot Blanc uit wijngaarden op 550–650 meter hoogte. Vergist in grote houten vaten en roestvrij staal en gerijpt op fijne droesem. Groene appel, peer, witte perzik, bloemen en kruiden leiden naar een verfijnde, frisse en hartige smaak.",
-        "nl-BE": "Een berg-Pinot Blanc uit wijngaarden op 550–650 meter hoogte. Vergist in grote houten vaten en roestvrij staal en gerijpt op fijne droesem. Groene appel, peer, witte perzik, bloemen en kruiden leiden naar een verfijnde, frisse en hartige smaak."
+        "nl-BE": "Een berg-Pinot Blanc uit wijngaarden op 550–650 meter hoogte. Vergist in grote houten vaten en roestvrij staal en gerijpt op fijne droesem. Groene appel, peer, witte perzik, bloemen en kruiden leiden naar een verfijnde, frisse en hartige smaak.",
+        "sv": "En Pinot Bianco från bergsvingårdar på 550–650 meters höjd. Jäst i stora träfat och ståltank och lagrad på finjästfällningen. Grönt äpple, päron, vit persika, blommor och örter följs av en raffinerad, frisk smak med sälta."
       },
       "wine_section": "white_other"
     },
@@ -4643,7 +4651,8 @@
         "zh": "上阿迪杰霞多丽 DOC",
         "ja": "アルト・アディジェ・シャルドネ DOC",
         "nl": "Alto Adige Chardonnay DOC",
-        "nl-BE": "Alto Adige Chardonnay DOC"
+        "nl-BE": "Alto Adige Chardonnay DOC",
+        "sv": "Alto Adige Chardonnay DOC"
       },
       "origin": {
         "it": "Cornaiano–Appiano, Alto Adige",
@@ -4656,7 +4665,8 @@
         "zh": "上阿迪杰，科尔奈阿诺–阿皮亚诺",
         "ja": "南チロル、コルナイアーノ–アッピアーノ",
         "nl": "Girlan–Eppan, Zuid-Tirol",
-        "nl-BE": "Girlan–Eppan, Zuid-Tirol"
+        "nl-BE": "Girlan–Eppan, Zuid-Tirol",
+        "sv": "Girlan–Eppan, Sydtyrolen"
       },
       "grapes": "Chardonnay 100%",
       "serving_temperature": "12–14 °C",
@@ -4672,7 +4682,8 @@
         "zh": "适合搭配意面、烤鱼、甲壳类、贝类、白肉及禽肉。",
         "ja": "パスタ、魚のグリル、甲殻類、貝類、白身肉、鶏肉におすすめ。",
         "nl": "Pasta, gegrilde vis, schaaldieren, weekdieren, wit vlees en gevogelte.",
-        "nl-BE": "Pasta, gegrilde vis, schaaldieren, weekdieren, wit vlees en gevogelte."
+        "nl-BE": "Pasta, gegrilde vis, schaaldieren, weekdieren, wit vlees en gevogelte.",
+        "sv": "Pasta, grillad fisk, skaldjur, blötdjur, ljust kött och fågel."
       },
       "description": {
         "it": "Chardonnay altoatesino ricco e strutturato, fermentato in barrique nuove e usate. Affina dieci mesi sulle fecce fini con bâtonnage e almeno sei mesi in bottiglia. Offre frutta secca, mango, melone, vaniglia e legno delicato, con un sorso cremoso, fresco e persistente.",
@@ -4685,7 +4696,8 @@
         "zh": "在新旧小橡木桶中发酵，于细酒泥上熟成十个月并定期搅桶，随后瓶陈至少六个月。带有坚果、芒果、甜瓜、香草及细腻木质气息，口感柔滑饱满、清新持久。",
         "ja": "新樽と使用済みバリックで発酵し、細かな澱と10か月熟成、さらに瓶内で最低6か月熟成。ナッツ、マンゴー、メロン、バニラ、上品な樽香があり、クリーミーで長い余韻があります。",
         "nl": "Een rijke, gestructureerde Zuid-Tiroolse Chardonnay, vergist in nieuwe en gebruikte barriques. Tien maanden gerijpt op fijne droesem met bâtonnage en minstens zes maanden op fles. Noten, mango, meloen, vanille en subtiel eiken leiden naar een romige, frisse en aanhoudende smaak.",
-        "nl-BE": "Een rijke, gestructureerde Zuid-Tiroolse Chardonnay, vergist in nieuwe en gebruikte barriques. Tien maanden gerijpt op fijne droesem met bâtonnage en minstens zes maanden op fles. Noten, mango, meloen, vanille en subtiel eiken leiden naar een romige, frisse en aanhoudende smaak."
+        "nl-BE": "Een rijke, gestructureerde Zuid-Tiroolse Chardonnay, vergist in nieuwe en gebruikte barriques. Tien maanden gerijpt op fijne droesem met bâtonnage en minstens zes maanden op fles. Noten, mango, meloen, vanille en subtiel eiken leiden naar een romige, frisse en aanhoudende smaak.",
+        "sv": "En rik och strukturerad Chardonnay från Sydtyrolen, jäst på nya och använda barriquefat. Lagrad tio månader på finjästfällningen med bâtonnage och minst sex månader på flaska. Nötter, mango, melon, vanilj och subtil ek följs av en krämig, frisk smak med lång eftersmak."
       },
       "wine_section": "white_other"
     },
@@ -4705,7 +4717,8 @@
         "zh": "上阿迪杰长相思 DOC",
         "ja": "アルト・アディジェ・ソーヴィニヨン DOC",
         "nl": "Alto Adige Sauvignon DOC",
-        "nl-BE": "Alto Adige Sauvignon DOC"
+        "nl-BE": "Alto Adige Sauvignon DOC",
+        "sv": "Alto Adige Sauvignon DOC"
       },
       "origin": {
         "it": "Cornaiano–Appiano, Alto Adige",
@@ -4718,7 +4731,8 @@
         "zh": "上阿迪杰，科尔奈阿诺–阿皮亚诺",
         "ja": "南チロル、コルナイアーノ–アッピアーノ",
         "nl": "Girlan–Eppan, Zuid-Tirol",
-        "nl-BE": "Girlan–Eppan, Zuid-Tirol"
+        "nl-BE": "Girlan–Eppan, Zuid-Tirol",
+        "sv": "Girlan–Eppan, Sydtyrolen"
       },
       "grapes": "Sauvignon Blanc 100%",
       "serving_temperature": "12–14 °C",
@@ -4734,7 +4748,8 @@
         "zh": "适合搭配鱼类、香草料理、香料白肉、蔬菜、烩饭及新鲜奶酪。",
         "ja": "魚、ハーブ料理、スパイスを使った白身肉、野菜、リゾット、フレッシュチーズにおすすめ。",
         "nl": "Vis, gerechten met kruiden, gekruid wit vlees, groenten, risotto en verse kazen.",
-        "nl-BE": "Vis, gerechten met kruiden, gekruid wit vlees, groenten, risotto en verse kazen."
+        "nl-BE": "Vis, gerechten met kruiden, gekruid wit vlees, groenten, risotto en verse kazen.",
+        "sv": "Fisk, örtkryddade rätter, kryddat ljust kött, grönsaker, risotto och färskostar."
       },
       "description": {
         "it": "Sauvignon altoatesino intenso e longevo. Dopo una breve macerazione, fermenta per metà in acciaio e per metà in legno e barrique, affinando circa otto mesi sulle fecce. Profuma di sambuco, fiori d’acacia, salvia e legno delicato; il sorso è strutturato, fresco e molto persistente.",
@@ -4747,7 +4762,8 @@
         "zh": "短暂浸皮后，一半在不锈钢中发酵，另一半在木桶及小橡木桶中发酵，并于酒泥上熟成约八个月。带有接骨木花、洋槐花、鼠尾草及细腻木质气息，口感富有结构、清新而持久。",
         "ja": "短時間のスキンコンタクト後、半分をステンレス、半分を木樽とバリックで発酵し、澱と約8か月熟成。エルダーフラワー、アカシア、セージ、上品な樽香があり、骨格と爽やかさ、長い余韻があります。",
         "nl": "Een intense, bewaarkrachtige Zuid-Tiroolse Sauvignon. Na kort schilcontact vergist de helft in roestvrij staal en de helft in eiken en barriques, gevolgd door ongeveer acht maanden rijping op de droesem. Vlierbloesem, acaciabloesem, salie en subtiel eiken leiden naar een gestructureerde, frisse en aanhoudende smaak.",
-        "nl-BE": "Een intense, bewaarkrachtige Zuid-Tiroolse Sauvignon. Na kort schilcontact vergist de helft in roestvrij staal en de helft in eiken en barriques, gevolgd door ongeveer acht maanden rijping op de droesem. Vlierbloesem, acaciabloesem, salie en subtiel eiken leiden naar een gestructureerde, frisse en aanhoudende smaak."
+        "nl-BE": "Een intense, bewaarkrachtige Zuid-Tiroolse Sauvignon. Na kort schilcontact vergist de helft in roestvrij staal en de helft in eiken en barriques, gevolgd door ongeveer acht maanden rijping op de droesem. Vlierbloesem, acaciabloesem, salie en subtiel eiken leiden naar een gestructureerde, frisse en aanhoudende smaak.",
+        "sv": "En intensiv och lagringsduglig Sauvignon från Sydtyrolen. Efter kort skalkontakt jäser hälften på ståltank och hälften på ekfat och barriquefat, följt av omkring åtta månader på jästfällningen. Fläderblom, akaciablom, salvia och subtil ek följs av en strukturerad, frisk smak med lång eftersmak."
       },
       "wine_section": "white_other"
     },
@@ -4767,7 +4783,8 @@
         "zh": "潘诺尼亚干白葡萄酒",
         "ja": "パンノニア辛口白ワイン",
         "nl": "Pannon droge witte wijn",
-        "nl-BE": "Pannon droge witte wijn"
+        "nl-BE": "Pannon droge witte wijn",
+        "sv": "Torrt vitt vin från Pannonien"
       },
       "origin": {
         "it": "Bátaapáti, Tolna, Ungheria",
@@ -4780,7 +4797,8 @@
         "zh": "匈牙利托尔瑙，巴陶帕蒂",
         "ja": "ハンガリー、トルナ、バータアパーティ",
         "nl": "Bátaapáti, Tolna, Hongarije",
-        "nl-BE": "Bátaapáti, Tolna, Hongarije"
+        "nl-BE": "Bátaapáti, Tolna, Hongarije",
+        "sv": "Bátaapáti, Tolna, Ungern"
       },
       "grapes": "Gewürztraminer 100%",
       "serving_temperature": "10–12 °C",
@@ -4796,7 +4814,8 @@
         "zh": "适合搭配甲壳类、寿司、三文鱼、咖喱、亚洲料理、香料菜肴及风味奶酪。",
         "ja": "甲殻類、寿司、サーモン、カレー、アジア料理、スパイシー料理、風味豊かなチーズにおすすめ。",
         "nl": "Schaaldieren, sushi, zalm, curry, Aziatische keuken, pittige gerechten en smaakvolle kazen.",
-        "nl-BE": "Schaaldieren, sushi, zalm, curry, Aziatische keuken, pittige gerechten en smaakvolle kazen."
+        "nl-BE": "Schaaldieren, sushi, zalm, curry, Aziatische keuken, pittige gerechten en smaakvolle kazen.",
+        "sv": "Skaldjur, sushi, lax, curry, asiatisk mat, kryddstarka rätter och smakrika ostar."
       },
       "description": {
         "it": "Gewürztraminer ungherese aromatico, sottoposto a una breve macerazione sulle bucce e fermentato in acciaio. Esprime litchi, frutto della passione, albicocca, mandarino, pompelmo e petali di rosa. Il sorso è intenso, fresco ed equilibrato, con un finale lungo e profumato.",
@@ -4809,7 +4828,8 @@
         "zh": "短暂浸皮后在不锈钢中发酵。带有荔枝、百香果、杏子、柑橘、葡萄柚及玫瑰花瓣气息，口感浓郁清新、均衡，芳香余味悠长。",
         "ja": "短時間のスキンコンタクト後、ステンレスタンクで発酵。ライチ、パッションフルーツ、アプリコット、マンダリン、グレープフルーツ、バラの香り。豊かで爽やかです。",
         "nl": "Een aromatische Hongaarse Gewürztraminer met kort schilcontact en vergisting in roestvrij staal. Lychee, passievrucht, abrikoos, mandarijn, grapefruit en rozenblaadjes leiden naar een intense, frisse en evenwichtige smaak met een lange aromatische finale.",
-        "nl-BE": "Een aromatische Hongaarse Gewürztraminer met kort schilcontact en vergisting in roestvrij staal. Lychee, passievrucht, abrikoos, mandarijn, grapefruit en rozenblaadjes leiden naar een intense, frisse en evenwichtige smaak met een lange aromatische finale."
+        "nl-BE": "Een aromatische Hongaarse Gewürztraminer met kort schilcontact en vergisting in roestvrij staal. Lychee, passievrucht, abrikoos, mandarijn, grapefruit en rozenblaadjes leiden naar een intense, frisse en evenwichtige smaak met een lange aromatische finale.",
+        "sv": "En aromatisk ungersk Gewürztraminer med kort skalkontakt, jäst på ståltank. Litchi, passionsfrukt, aprikos, mandarin, grapefrukt och rosenblad följs av en intensiv, frisk och balanserad smak med lång aromatisk eftersmak."
       },
       "wine_section": "white_other"
     },
@@ -4829,7 +4849,8 @@
         "zh": "潘诺尼亚干白葡萄酒",
         "ja": "パンノニア辛口白ワイン",
         "nl": "Pannon droge witte wijn",
-        "nl-BE": "Pannon droge witte wijn"
+        "nl-BE": "Pannon droge witte wijn",
+        "sv": "Torrt vitt vin från Pannonien"
       },
       "origin": {
         "it": "Bátaapáti e Mőcsény, Tolna, Ungheria",
@@ -4842,7 +4863,8 @@
         "zh": "匈牙利托尔瑙，巴陶帕蒂和默切尼",
         "ja": "ハンガリー、トルナ、バータアパーティおよびムーチェーニ",
         "nl": "Bátaapáti en Mőcsény, Tolna, Hongarije",
-        "nl-BE": "Bátaapáti en Mőcsény, Tolna, Hongarije"
+        "nl-BE": "Bátaapáti en Mőcsény, Tolna, Hongarije",
+        "sv": "Bátaapáti och Mőcsény, Tolna, Ungern"
       },
       "grapes": "Grüner Veltliner 100%",
       "serving_temperature": "9–11 °C",
@@ -4858,7 +4880,8 @@
         "zh": "适合作为开胃酒，搭配前菜、蔬菜、清淡鱼类、禽肉、精致意面及新鲜奶酪。",
         "ja": "食前酒、前菜、野菜、軽い魚料理、鶏肉、繊細なパスタ、フレッシュチーズにおすすめ。",
         "nl": "Aperitief, voorgerechten, groenten, lichte visgerechten, gevogelte, verfijnde pasta en verse kazen.",
-        "nl-BE": "Aperitief, voorgerechten, groenten, lichte visgerechten, gevogelte, verfijnde pasta en verse kazen."
+        "nl-BE": "Aperitief, voorgerechten, groenten, lichte visgerechten, gevogelte, verfijnde pasta en verse kazen.",
+        "sv": "Aperitif, förrätter, grönsaker, lätta fiskrätter, fågel, milda pastarätter och färskostar."
       },
       "description": {
         "it": "Grüner Veltliner ungherese fermentato e affinato in acciaio. Al naso offre mela verde, agrumi, erbe fresche e la tipica nota di pepe bianco. Il sorso è pulito, vivace e armonioso, con buona acidità e un finale fresco e persistente.",
@@ -4871,7 +4894,8 @@
         "zh": "在不锈钢中发酵和熟成。带有青苹果、柑橘、新鲜草本及典型白胡椒气息，口感干净活泼、协调，酸度清爽，余味持久。",
         "ja": "ステンレスタンクで発酵・熟成。青リンゴ、柑橘、フレッシュハーブ、白コショウの香り。クリーンで生き生きとし、爽やかな余韻があります。",
         "nl": "Een Hongaarse Grüner Veltliner, vergist en gerijpt in roestvrij staal. Groene appel, citrus, verse kruiden en karakteristieke witte peper leiden naar een zuivere, levendige en harmonieuze smaak met verfrissende zuren en een aanhoudende finale.",
-        "nl-BE": "Een Hongaarse Grüner Veltliner, vergist en gerijpt in roestvrij staal. Groene appel, citrus, verse kruiden en karakteristieke witte peper leiden naar een zuivere, levendige en harmonieuze smaak met verfrissende zuren en een aanhoudende finale."
+        "nl-BE": "Een Hongaarse Grüner Veltliner, vergist en gerijpt in roestvrij staal. Groene appel, citrus, verse kruiden en karakteristieke witte peper leiden naar een zuivere, levendige en harmonieuze smaak met verfrissende zuren en een aanhoudende finale.",
+        "sv": "En ungersk Grüner Veltliner, jäst och lagrad på ståltank. Grönt äpple, citrus, färska örter och karaktäristisk vitpeppar följs av en ren, livlig och harmonisk smak med uppfriskande syra och lång eftersmak."
       },
       "wine_section": "white_other"
     },
@@ -4891,7 +4915,8 @@
         "zh": "弗留利-威尼斯朱利亚灰皮诺 DOP",
         "ja": "フリウリ・ヴェネツィア・ジュリア・ピノ・グリージョ DOP",
         "nl": "Friuli Venezia Giulia Pinot Grigio PDO",
-        "nl-BE": "Friuli Venezia Giulia Pinot Grigio PDO"
+        "nl-BE": "Friuli Venezia Giulia Pinot Grigio PDO",
+        "sv": "Friuli Venezia Giulia Pinot Grigio DOP"
       },
       "origin": {
         "it": "Contea di Gorizia e Gradisca, Friuli",
@@ -4904,7 +4929,8 @@
         "zh": "弗留利，戈里齐亚与格拉迪斯卡",
         "ja": "フリウリ、ゴリツィアおよびグラディスカ",
         "nl": "Gorizia en Gradisca County, Friuli",
-        "nl-BE": "Gorizia en Gradisca County, Friuli"
+        "nl-BE": "Gorizia en Gradisca County, Friuli",
+        "sv": "Gorizia och Gradisca, Friuli"
       },
       "grapes": "Pinot Grigio 100%",
       "serving_temperature": "8–10 °C",
@@ -4920,7 +4946,8 @@
         "zh": "适合作为开胃酒，搭配生食海鲜、甲壳类、清淡鱼类、蔬菜、烩饭及新鲜奶酪。",
         "ja": "食前酒、魚介の生料理、甲殻類、繊細な魚、野菜、リゾット、フレッシュチーズにおすすめ。",
         "nl": "Aperitief, rauwe zeevruchten, schaaldieren, verfijnde visgerechten, groenten, risotto en verse kazen.",
-        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, verfijnde visgerechten, groenten, risotto en verse kazen."
+        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, verfijnde visgerechten, groenten, risotto en verse kazen.",
+        "sv": "Aperitif, råa fisk- och skaldjursrätter, skaldjur, milda fiskrätter, grönsaker, risotto och färskostar."
       },
       "description": {
         "it": "Pinot Grigio friulano fermentato e affinato sei mesi in cemento sulle fecce. Profuma di biancospino, ginestra e acacia. Il sorso è asciutto e preciso, con acidità viva, note di sale e pietra bagnata e un finale minerale persistente.",
@@ -4933,7 +4960,8 @@
         "zh": "在水泥罐中发酵并于酒泥上熟成六个月。带有山楂、金雀花和洋槐香气，口感干爽精准，酸度明快，具有盐分、湿石及持久矿物余味。",
         "ja": "コンクリートで発酵し、澱とともに6か月熟成。サンザシ、エニシダ、アカシアの香り。辛口で精密、塩、濡れた石、長いミネラル感があります。",
         "nl": "Een Friulische Pinot Grigio, vergist en zes maanden gerijpt in beton op de droesem. Meidoorn, brem en acacia leiden naar een droge, precieze smaak met levendige zuren, zoutigheid, natte steen en een aanhoudende minerale finale.",
-        "nl-BE": "Een Friulische Pinot Grigio, vergist en zes maanden gerijpt in beton op de droesem. Meidoorn, brem en acacia leiden naar een droge, precieze smaak met levendige zuren, zoutigheid, natte steen en een aanhoudende minerale finale."
+        "nl-BE": "Een Friulische Pinot Grigio, vergist en zes maanden gerijpt in beton op de droesem. Meidoorn, brem en acacia leiden naar een droge, precieze smaak met levendige zuren, zoutigheid, natte steen en een aanhoudende minerale finale.",
+        "sv": "En Pinot Grigio från Friuli, jäst och lagrad sex månader på jästfällningen i betongtank. Hagtorn, ginst och akacia följs av en torr, precis smak med livlig syra, sälta, våt sten och lång mineralisk eftersmak."
       },
       "wine_section": "white_other"
     },
@@ -4953,7 +4981,8 @@
         "zh": "Venezia Giulia IGT – 浸皮白葡萄酒",
         "ja": "ヴェネツィア・ジュリア IGT – 醸し白ワイン",
         "nl": "Venezia Giulia IGT – witte wijn met schilcontact",
-        "nl-BE": "Venezia Giulia IGT – witte wijn met schilcontact"
+        "nl-BE": "Venezia Giulia IGT – witte wijn met schilcontact",
+        "sv": "Venezia Giulia IGT – skalmacererat vitt vin"
       },
       "origin": {
         "it": "Carso, Friuli-Venezia Giulia, Italia",
@@ -4966,7 +4995,8 @@
         "zh": "意大利弗留利-威尼斯朱利亚，卡尔索",
         "ja": "イタリア、フリウリ＝ヴェネツィア・ジュリア州、カルソ",
         "nl": "Carso, Friuli-Venezia Giulia, Italië",
-        "nl-BE": "Carso, Friuli-Venezia Giulia, Italië"
+        "nl-BE": "Carso, Friuli-Venezia Giulia, Italië",
+        "sv": "Karstområdet, Friuli-Venezia Giulia, Italien"
       },
       "grapes": "Vitovska 25%, Malvasia Istriana 25%, Sauvignon 25%, Pinot Grigio 25%",
       "serving_temperature": "8–10 °C",
@@ -4982,7 +5012,8 @@
         "zh": "适合作为开胃酒，搭配生食海鲜、甲壳类、清淡鱼类、蔬菜、烩饭及新鲜奶酪。",
         "ja": "食前酒、魚介の生料理、甲殻類、繊細な魚、野菜、リゾット、フレッシュチーズにおすすめ。",
         "nl": "Aperitief, rauwe zeevruchten, schaaldieren, verfijnde visgerechten, groenten, risotto en verse kazen.",
-        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, verfijnde visgerechten, groenten, risotto en verse kazen."
+        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, verfijnde visgerechten, groenten, risotto en verse kazen.",
+        "sv": "Aperitif, råa fisk- och skaldjursrätter, skaldjur, milda fiskrätter, grönsaker, risotto och färskostar."
       },
       "description": {
         "it": "Bianco macerato del Carso, complesso e sapido, con note di agrumi, albicocca, fiori e spezie. Avvolgente, fresco e persistente.",
@@ -4995,7 +5026,8 @@
         "zh": "来自卡尔索的浸皮白葡萄酒，复杂而富有矿物感，带有柑橘、杏子、花香和香料气息。",
         "ja": "カルソの醸し白ワイン。柑橘、アプリコット、花、スパイスの複雑な香りとミネラル感があります。",
         "nl": "Een witte wijn met schilcontact uit de Carso, complex en hartig, met citrus, abrikoos, bloemige en kruidige tonen. Rijk, fris en aanhoudend.",
-        "nl-BE": "Een witte wijn met schilcontact uit de Carso, complex en hartig, met citrus, abrikoos, bloemige en kruidige tonen. Rijk, fris en aanhoudend."
+        "nl-BE": "Een witte wijn met schilcontact uit de Carso, complex en hartig, met citrus, abrikoos, bloemige en kruidige tonen. Rijk, fris en aanhoudend.",
+        "sv": "Ett skalmacererat vitt vin från Karstområdet, komplext och smakrikt med citrus, aprikos, blommiga och kryddiga toner. Rikt, friskt och med lång eftersmak."
       },
       "wine_section": "white_other",
       "vintage": "2022"
@@ -5016,7 +5048,8 @@
         "zh": "三威尼斯长相思 IGP",
         "ja": "トレヴェネツィエ・ソーヴィニヨン IGP",
         "nl": "Trevenezie Sauvignon PGI",
-        "nl-BE": "Trevenezie Sauvignon PGI"
+        "nl-BE": "Trevenezie Sauvignon PGI",
+        "sv": "Trevenezie Sauvignon IGP"
       },
       "origin": {
         "it": "Contea di Gorizia e Gradisca, Friuli",
@@ -5029,7 +5062,8 @@
         "zh": "弗留利，戈里齐亚与格拉迪斯卡",
         "ja": "フリウリ、ゴリツィアおよびグラディスカ",
         "nl": "Gorizia en Gradisca County, Friuli",
-        "nl-BE": "Gorizia en Gradisca County, Friuli"
+        "nl-BE": "Gorizia en Gradisca County, Friuli",
+        "sv": "Gorizia och Gradisca, Friuli"
       },
       "grapes": "Sauvignon Blanc 100%",
       "serving_temperature": "8–10 °C",
@@ -5045,7 +5079,8 @@
         "zh": "适合搭配芦笋、蔬菜、生食海鲜、甲壳类、鱼类、香草烩饭及新鲜奶酪。",
         "ja": "アスパラガス、野菜、魚介の生料理、甲殻類、魚、ハーブのリゾット、フレッシュチーズにおすすめ。",
         "nl": "Asperges, groenten, rauwe zeevruchten, schaaldieren, vis, kruidenrisotto en verse kazen.",
-        "nl-BE": "Asperges, groenten, rauwe zeevruchten, schaaldieren, vis, kruidenrisotto en verse kazen."
+        "nl-BE": "Asperges, groenten, rauwe zeevruchten, schaaldieren, vis, kruidenrisotto en verse kazen.",
+        "sv": "Sparris, grönsaker, råa fisk- och skaldjursrätter, skaldjur, fisk, örtrisotto och färskostar."
       },
       "description": {
         "it": "Sauvignon friulano fermentato e affinato sei mesi in cemento sulle fecce. Offre sambuco, foglia di pomodoro, salvia, agrumi e frutta bianca. Al palato è asciutto e verticale, con acidità vivace, mineralità e un finale pulito e sapido.",
@@ -5058,7 +5093,8 @@
         "zh": "在水泥罐中发酵并于酒泥上熟成六个月。带有接骨木花、番茄叶、鼠尾草、柑橘及白色水果气息，口感干爽紧致，酸度明快，余味清洁咸鲜。",
         "ja": "コンクリートで発酵し、澱とともに6か月熟成。エルダーフラワー、トマトの葉、セージ、柑橘、白い果実の香り。辛口で直線的、爽やかな塩味があります。",
         "nl": "Een Friulische Sauvignon, vergist en zes maanden gerijpt in beton op de droesem. Vlierbloesem, tomatenblad, salie, citrus en wit fruit leiden naar een droge, verticale smaak met levendige zuren, mineraliteit en een zuivere, hartige finale.",
-        "nl-BE": "Een Friulische Sauvignon, vergist en zes maanden gerijpt in beton op de droesem. Vlierbloesem, tomatenblad, salie, citrus en wit fruit leiden naar een droge, verticale smaak met levendige zuren, mineraliteit en een zuivere, hartige finale."
+        "nl-BE": "Een Friulische Sauvignon, vergist en zes maanden gerijpt in beton op de droesem. Vlierbloesem, tomatenblad, salie, citrus en wit fruit leiden naar een droge, verticale smaak met levendige zuren, mineraliteit en een zuivere, hartige finale.",
+        "sv": "En Sauvignon från Friuli, jäst och lagrad sex månader på jästfällningen i betongtank. Fläderblom, tomatblad, salvia, citrus och ljus frukt följs av en torr, stram smak med livlig syra, mineralitet och ren avslutning med sälta."
       },
       "wine_section": "white_other"
     },
@@ -5078,7 +5114,8 @@
         "zh": "三威尼斯霞多丽 IGP",
         "ja": "トレヴェネツィエ・シャルドネ IGP",
         "nl": "Trevenezie Chardonnay PGI",
-        "nl-BE": "Trevenezie Chardonnay PGI"
+        "nl-BE": "Trevenezie Chardonnay PGI",
+        "sv": "Trevenezie Chardonnay IGP"
       },
       "origin": {
         "it": "Contea di Gorizia e Gradisca, Friuli",
@@ -5091,7 +5128,8 @@
         "zh": "弗留利，戈里齐亚与格拉迪斯卡",
         "ja": "フリウリ、ゴリツィアおよびグラディスカ",
         "nl": "Gorizia en Gradisca County, Friuli",
-        "nl-BE": "Gorizia en Gradisca County, Friuli"
+        "nl-BE": "Gorizia en Gradisca County, Friuli",
+        "sv": "Gorizia och Gradisca, Friuli"
       },
       "grapes": "Chardonnay 100%",
       "serving_temperature": "10–12 °C",
@@ -5107,7 +5145,8 @@
         "zh": "适合搭配甲壳类、烤鱼、烩饭、奶油意面、白肉、蔬菜及软质奶酪。",
         "ja": "甲殻類、魚のグリル、リゾット、クリームパスタ、白身肉、野菜、ソフトチーズにおすすめ。",
         "nl": "Schaaldieren, gegrilde vis, risotto, romige pasta, wit vlees, groenten en zachte kazen.",
-        "nl-BE": "Schaaldieren, gegrilde vis, risotto, romige pasta, wit vlees, groenten en zachte kazen."
+        "nl-BE": "Schaaldieren, gegrilde vis, risotto, romige pasta, wit vlees, groenten en zachte kazen.",
+        "sv": "Skaldjur, grillad fisk, risotto, krämiga pastarätter, ljust kött, grönsaker och milda ostar."
       },
       "description": {
         "it": "Chardonnay friulano fermentato e affinato sei mesi in cemento sulle fecce. Esprime agrumi maturi, frutta gialla, fiori bianchi, terra e mineralità, con leggere note di burro e miele. Il sorso è asciutto, verticale e persistente.",
@@ -5120,7 +5159,8 @@
         "zh": "在水泥罐中发酵并于酒泥上熟成六个月。带有成熟柑橘、黄色水果、白花、泥土和矿物气息，并伴有轻微黄油与蜂蜜香，口感干爽紧致，余味持久。",
         "ja": "コンクリートで発酵し、澱とともに6か月熟成。熟した柑橘、黄色い果実、白い花、土、ミネラル、ほのかなバターと蜂蜜の香り。辛口で直線的、余韻が長く続きます。",
         "nl": "Een Friulische Chardonnay, vergist en zes maanden gerijpt in beton op de droesem. Rijpe citrus, geel fruit, witte bloemen, aardse mineraliteit en subtiele boter- en honingtonen leiden naar een droge, verticale en aanhoudende smaak.",
-        "nl-BE": "Een Friulische Chardonnay, vergist en zes maanden gerijpt in beton op de droesem. Rijpe citrus, geel fruit, witte bloemen, aardse mineraliteit en subtiele boter- en honingtonen leiden naar een droge, verticale en aanhoudende smaak."
+        "nl-BE": "Een Friulische Chardonnay, vergist en zes maanden gerijpt in beton op de droesem. Rijpe citrus, geel fruit, witte bloemen, aardse mineraliteit en subtiele boter- en honingtonen leiden naar een droge, verticale en aanhoudende smaak.",
+        "sv": "En Chardonnay från Friuli, jäst och lagrad sex månader på jästfällningen i betongtank. Mogen citrus, gul frukt, vita blommor, jordig mineralitet och subtila toner av smör och honung följs av en torr, stram smak med lång eftersmak."
       },
       "wine_section": "white_other"
     },
