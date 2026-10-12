@@ -9850,7 +9850,8 @@
         "zh": "托斯卡纳品丽珠 IGT",
         "ja": "トスカーナ・カベルネ・フラン IGT",
         "nl": "Toscana Cabernet Franc IGT",
-        "nl-BE": "Toscana Cabernet Franc IGT"
+        "nl-BE": "Toscana Cabernet Franc IGT",
+        "sv": "Toscana Cabernet Franc IGT"
       },
       "origin": {
         "it": "Costa Toscana, tra Bolgheri, Bibbona e Suvereto",
@@ -9863,7 +9864,8 @@
         "zh": "托斯卡纳海岸，博格利、比博纳和苏韦雷托之间",
         "ja": "トスカーナ沿岸、ボルゲリ、ビッボーナ、スヴェレート周辺",
         "nl": "Toscaanse kust, tussen Bolgheri, Bibbona en Suvereto",
-        "nl-BE": "Toscaanse kust, tussen Bolgheri, Bibbona en Suvereto"
+        "nl-BE": "Toscaanse kust, tussen Bolgheri, Bibbona en Suvereto",
+        "sv": "Toscanas kust, mellan Bolgheri, Bibbona och Suvereto"
       },
       "grapes": "Cabernet Franc 100%",
       "serving_temperature": "16–18 °C",
@@ -9879,7 +9881,8 @@
         "zh": "适合搭配羊腿、乳鸽、鸭肉、牛里脊、野味、炖肉、松露及熟成奶酪。",
         "ja": "仔羊のもも肉、鳩、鴨、牛フィレ、ジビエ、煮込み肉、トリュフ、熟成チーズにおすすめ。",
         "nl": "Lamsbout, duif, eend, runderfilet, wild, gestoofd vlees, truffel en gerijpte kazen.",
-        "nl-BE": "Lamsbout, duif, eend, runderfilet, wild, gestoofd vlees, truffel en gerijpte kazen."
+        "nl-BE": "Lamsbout, duif, eend, runderfilet, wild, gestoofd vlees, truffel en gerijpte kazen.",
+        "sv": "Lammstek, duva, anka, oxfilé, vilt, bräserat kött, tryffel och lagrade ostar."
       },
       "description": {
         "it": "Cabernet Franc prodotto soltanto nelle annate ritenute adatte alla sua identità. Dopo una breve macerazione a freddo fermenta e macera in acciaio per circa tre-quattro settimane, quindi affina circa un anno in barrique francesi nuove e usate. Offre frutta rossa matura, mora, note balsamiche, spezie, moka e legno di sandalo. Il sorso è intenso, equilibrato e sorprendentemente fresco.",
@@ -9892,7 +9895,8 @@
         "zh": "仅在适合其风格的年份酿造。短暂低温浸皮后，在不锈钢中发酵浸皮约三至四周，随后在新旧法国小橡木桶中熟成约一年。带有成熟红色水果、黑莓、香脂、香料、摩卡及檀香木气息。",
         "ja": "このスタイルに適した年だけ造られるカベルネ・フラン。短時間の低温浸漬後、ステンレスで3〜4週間発酵・醸しし、新旧フレンチバリックで約1年熟成。熟した赤い果実、ブラックベリー、モカ、サンダルウッドの香り。",
         "nl": "Een Cabernet Franc die alleen wordt geproduceerd in jaargangen die geschikt worden geacht voor zijn identiteit. Na korte koude maceratie vergist en macereert hij ongeveer drie tot vier weken in roestvrij staal, waarna hij ongeveer één jaar rijpt in nieuwe en gebruikte Franse barriques. Rijp rood fruit, braam, balsamische tonen, specerijen, mokka en sandelhout leiden naar een intense maar frisse smaak.",
-        "nl-BE": "Een Cabernet Franc die alleen wordt geproduceerd in jaargangen die geschikt worden geacht voor zijn identiteit. Na korte koude maceratie vergist en macereert hij ongeveer drie tot vier weken in roestvrij staal, waarna hij ongeveer één jaar rijpt in nieuwe en gebruikte Franse barriques. Rijp rood fruit, braam, balsamische tonen, specerijen, mokka en sandelhout leiden naar een intense maar frisse smaak."
+        "nl-BE": "Een Cabernet Franc die alleen wordt geproduceerd in jaargangen die geschikt worden geacht voor zijn identiteit. Na korte koude maceratie vergist en macereert hij ongeveer drie tot vier weken in roestvrij staal, waarna hij ongeveer één jaar rijpt in nieuwe en gebruikte Franse barriques. Rijp rood fruit, braam, balsamische tonen, specerijen, mokka en sandelhout leiden naar een intense maar frisse smaak.",
+        "sv": "En Cabernet Franc som endast framställs under årgångar som anses passa vinets karaktär. Efter kort kallmaceration jäser och macererar vinet på ståltank i omkring tre till fyra veckor och lagras därefter ungefär ett år på nya och använda franska barriquefat. Mogen röd frukt, björnbär, balsamiska toner, kryddor, mocka och sandelträ följs av en intensiv men frisk smak."
       },
       "wine_section": "red_bolgheri"
     },
@@ -9913,7 +9917,8 @@
         "zh": "有机勃艮第黑皮诺 AOC",
         "ja": "オーガニック・ブルゴーニュ・ピノ・ノワール AOC",
         "nl": "Biologische Bourgogne Pinot Noir AOC",
-        "nl-BE": "Biologische Bourgogne Pinot Noir AOC"
+        "nl-BE": "Biologische Bourgogne Pinot Noir AOC",
+        "sv": "Ekologisk Bourgogne Pinot Noir AOC"
       },
       "origin": {
         "it": "Côte de Beaune, Borgogna, Francia",
@@ -9926,7 +9931,8 @@
         "zh": "法国勃艮第，伯恩丘",
         "ja": "フランス、ブルゴーニュ、コート・ド・ボーヌ",
         "nl": "Côte de Beaune, Bourgogne, Frankrijk",
-        "nl-BE": "Côte de Beaune, Bourgogne, Frankrijk"
+        "nl-BE": "Côte de Beaune, Bourgogne, Frankrijk",
+        "sv": "Côte de Beaune, Bourgogne, Frankrike"
       },
       "grapes": "Pinot Noir 100%",
       "serving_temperature": "14–16 °C",
@@ -9942,7 +9948,8 @@
         "zh": "适合搭配冷切、肉酱、烤禽肉、鸭肉、小牛肉、蘑菇、煎金枪鱼及软质奶酪。",
         "ja": "シャルキュトリー、パテ、鶏のロースト、鴨、仔牛、キノコ、マグロの炙り、ソフトチーズにおすすめ。",
         "nl": "Charcuterie, paté, geroosterd gevogelte, eend, kalfsvlees, paddenstoelen, kort aangebakken tonijn en zachte kazen.",
-        "nl-BE": "Charcuterie, paté, geroosterd gevogelte, eend, kalfsvlees, paddenstoelen, kort aangebakken tonijn en zachte kazen."
+        "nl-BE": "Charcuterie, paté, geroosterd gevogelte, eend, kalfsvlees, paddenstoelen, kort aangebakken tonijn en zachte kazen.",
+        "sv": "Charkuterier, paté, stekt fågel, anka, kalvkött, svamp, hastigt stekt tonfisk och milda ostar."
       },
       "description": {
         "it": "Pinot Noir borgognone da uve selezionate nella Côte de Beaune. Fermenta in acciaio e svolge la malolattica prima di una leggera filtrazione. Offre amarena, ribes rosso, melograno, rosa ed erbe fresche. Il sorso è elegante, leggero e vivace, con tannini delicati.",
@@ -9955,7 +9962,8 @@
         "zh": "采用伯恩丘精选葡萄，在不锈钢中完成酒精及苹果酸乳酸发酵。带有黑樱桃、红醋栗、石榴、玫瑰及清新草本气息，口感优雅轻盈、活泼清新。",
         "ja": "コート・ド・ボーヌの選別果を使用し、ステンレスで発酵とマロラクティック発酵。ブラックチェリー、赤スグリ、ザクロ、バラ、ハーブの香り。上品で軽快です。",
         "nl": "Een Bourgondische Pinot Noir van geselecteerd fruit uit de Côte de Beaune. Vergist in roestvrij staal en ondergaat malolactische gisting vóór lichte filtratie. Zwarte kers, rode bes, granaatappel, roos en verse kruiden leiden naar een elegante, lichte en levendige smaak.",
-        "nl-BE": "Een Bourgondische Pinot Noir van geselecteerd fruit uit de Côte de Beaune. Vergist in roestvrij staal en ondergaat malolactische gisting vóór lichte filtratie. Zwarte kers, rode bes, granaatappel, roos en verse kruiden leiden naar een elegante, lichte en levendige smaak."
+        "nl-BE": "Een Bourgondische Pinot Noir van geselecteerd fruit uit de Côte de Beaune. Vergist in roestvrij staal en ondergaat malolactische gisting vóór lichte filtratie. Zwarte kers, rode bes, granaatappel, roos en verse kruiden leiden naar een elegante, lichte en levendige smaak.",
+        "sv": "En Pinot Noir från Bourgogne av utvalda druvor från Côte de Beaune. Jäst på ståltank och genomgår malolaktisk jäsning före lätt filtrering. Mörka körsbär, röda vinbär, granatäpple, rosor och färska örter följs av en elegant, lätt och livlig smak."
       },
       "wine_section": "red_other"
     },
@@ -9976,7 +9984,8 @@
         "zh": "勃艮第黑皮诺 AOC",
         "ja": "ブルゴーニュ・ピノ・ノワール AOC",
         "nl": "Bourgogne Pinot Noir AOC",
-        "nl-BE": "Bourgogne Pinot Noir AOC"
+        "nl-BE": "Bourgogne Pinot Noir AOC",
+        "sv": "Bourgogne Pinot Noir AOC"
       },
       "origin": {
         "it": "Borgogna, Francia",
@@ -9989,7 +9998,8 @@
         "zh": "法国勃艮第",
         "ja": "フランス、ブルゴーニュ",
         "nl": "Bourgogne, Frankrijk",
-        "nl-BE": "Bourgogne, Frankrijk"
+        "nl-BE": "Bourgogne, Frankrijk",
+        "sv": "Bourgogne, Frankrike"
       },
       "grapes": "Pinot Noir 100%",
       "serving_temperature": "14–16 °C",
@@ -10005,7 +10015,8 @@
         "zh": "适合搭配肉酱、冷切、烤鸡、鸭肉、小牛肉、蘑菇烩饭、三文鱼及软质奶酪。",
         "ja": "テリーヌ、生ハム、鶏のロースト、鴨、仔牛、キノコのリゾット、サーモン、ソフトチーズにおすすめ。",
         "nl": "Terrines, vleeswaren, gebraden kip, eend, kalfsvlees, paddenstoelenrisotto, zalm en zachte kazen.",
-        "nl-BE": "Terrines, vleeswaren, gebraden kip, eend, kalfsvlees, paddenstoelenrisotto, zalm en zachte kazen."
+        "nl-BE": "Terrines, vleeswaren, gebraden kip, eend, kalfsvlees, paddenstoelenrisotto, zalm en zachte kazen.",
+        "sv": "Terriner, charkuterier, stekt kyckling, anka, kalvkött, svamprisotto, lax och milda ostar."
       },
       "description": {
         "it": "Pinot Noir borgognone affinato da dodici a quattordici mesi tra rovere francese e acciaio. Presenta un colore rubino brillante e profumi di ciliegia, lampone e frutti rossi freschi. Il sorso è maturo e ben strutturato, con tannini fini, rotondi e un finale fresco.",
@@ -10018,7 +10029,8 @@
         "zh": "在法国橡木及不锈钢中熟成十二至十四个月。呈明亮宝石红色，带有樱桃、覆盆子及新鲜红色水果气息，口感成熟有结构，单宁细腻圆润。",
         "ja": "フレンチオークとステンレスで12〜14か月熟成。明るいルビー色で、チェリー、ラズベリー、赤い果実の香り。熟した果実味と丸いタンニンがあります。",
         "nl": "Een Bourgondische Pinot Noir, twaalf tot veertien maanden gerijpt in Frans eiken en roestvrij staal. Helder robijnrood, met aroma's van kers, framboos en vers rood fruit. Rijp en goed gestructureerd, met fijne ronde tannines en een frisse finale.",
-        "nl-BE": "Een Bourgondische Pinot Noir, twaalf tot veertien maanden gerijpt in Frans eiken en roestvrij staal. Helder robijnrood, met aroma's van kers, framboos en vers rood fruit. Rijp en goed gestructureerd, met fijne ronde tannines en een frisse finale."
+        "nl-BE": "Een Bourgondische Pinot Noir, twaalf tot veertien maanden gerijpt in Frans eiken en roestvrij staal. Helder robijnrood, met aroma's van kers, framboos en vers rood fruit. Rijp en goed gestructureerd, met fijne ronde tannines en een frisse finale.",
+        "sv": "En Pinot Noir från Bourgogne, lagrad tolv till fjorton månader på franska ekfat och ståltank. Klar rubinröd färg med dofter av körsbär, hallon och färsk röd frukt. Mogen och välstrukturerad med fina, rundade tanniner och frisk avslutning."
       },
       "wine_section": "red_other"
     },
@@ -10039,7 +10051,8 @@
         "zh": "勃艮第黑皮诺 AOC",
         "ja": "ブルゴーニュ・ピノ・ノワール AOC",
         "nl": "Bourgogne Pinot Noir AOC",
-        "nl-BE": "Bourgogne Pinot Noir AOC"
+        "nl-BE": "Bourgogne Pinot Noir AOC",
+        "sv": "Bourgogne Pinot Noir AOC"
       },
       "origin": {
         "it": "Borgogna, Francia",
@@ -10052,7 +10065,8 @@
         "zh": "法国勃艮第",
         "ja": "フランス、ブルゴーニュ",
         "nl": "Bourgogne, Frankrijk",
-        "nl-BE": "Bourgogne, Frankrijk"
+        "nl-BE": "Bourgogne, Frankrijk",
+        "sv": "Bourgogne, Frankrike"
       },
       "grapes": "Pinot Noir 100%",
       "serving_temperature": "14–16 °C",
@@ -10068,7 +10082,8 @@
         "zh": "适合搭配冷切、肉酱、鸡肉、兔肉、小牛肉、蘑菇、烤三文鱼及软质奶酪。",
         "ja": "生ハム、パテ、鶏肉、ウサギ、仔牛、キノコ、サーモンのグリル、ソフトチーズにおすすめ。",
         "nl": "Vleeswaren, paté, kip, konijn, kalfsvlees, paddenstoelen, gegrilde zalm en zachte kazen.",
-        "nl-BE": "Vleeswaren, paté, kip, konijn, kalfsvlees, paddenstoelen, gegrilde zalm en zachte kazen."
+        "nl-BE": "Vleeswaren, paté, kip, konijn, kalfsvlees, paddenstoelen, gegrilde zalm en zachte kazen.",
+        "sv": "Charkuterier, paté, kyckling, kanin, kalvkött, svamp, grillad lax och milda ostar."
       },
       "description": {
         "it": "Pinot Noir borgognone dal colore rubino luminoso. Offre ciliegia, fragolina di bosco, piccoli frutti rossi, note floreali, spezie leggere e delicate sfumature di sottobosco. Il sorso è fresco e armonioso, con tannini morbidi e setosi.",
@@ -10081,7 +10096,8 @@
         "zh": "呈明亮宝石红色，带有樱桃、野草莓、红色浆果、花香、轻微香料及林地气息，口感清新协调，单宁柔和丝滑。",
         "ja": "明るいルビー色。チェリー、野イチゴ、赤い果実、花、穏やかなスパイス、森の下草の香り。爽やかで調和があり、タンニンは滑らかです。",
         "nl": "Een helderrode Bourgondische Pinot Noir. Kers, bosaardbei, rood fruit, bloemige tonen, zachte specerijen en subtiele bosnuances leiden naar een frisse, harmonieuze smaak met zachte zijdezachte tannines.",
-        "nl-BE": "Een helderrode Bourgondische Pinot Noir. Kers, bosaardbei, rood fruit, bloemige tonen, zachte specerijen en subtiele bosnuances leiden naar een frisse, harmonieuze smaak met zachte zijdezachte tannines."
+        "nl-BE": "Een helderrode Bourgondische Pinot Noir. Kers, bosaardbei, rood fruit, bloemige tonen, zachte specerijen en subtiele bosnuances leiden naar een frisse, harmonieuze smaak met zachte zijdezachte tannines.",
+        "sv": "En klart rubinröd Pinot Noir från Bourgogne. Körsbär, smultron, röda bär, blommiga toner, milda kryddor och subtila skogstoner följs av en frisk, harmonisk smak med mjuka, silkeslena tanniner."
       },
       "wine_section": "red_other"
     },
@@ -10101,7 +10117,8 @@
         "zh": "托斯卡纳黑皮诺红葡萄酒",
         "ja": "トスカーナ産ピノ・ノワール赤ワイン",
         "nl": "Toscaanse rode wijn van Pinot Noir",
-        "nl-BE": "Toscaanse rode wijn van Pinot Noir"
+        "nl-BE": "Toscaanse rode wijn van Pinot Noir",
+        "sv": "Toskanskt rött vin av Pinot Noir"
       },
       "origin": {
         "it": "Toscana, Italia",
@@ -10114,7 +10131,8 @@
         "zh": "意大利托斯卡纳",
         "ja": "イタリア、トスカーナ",
         "nl": "Toscane, Italië",
-        "nl-BE": "Toscane, Italië"
+        "nl-BE": "Toscane, Italië",
+        "sv": "Toscana, Italien"
       },
       "grapes": "Pinot Nero – percentuale non dichiarata",
       "serving_temperature": "14–16 °C",
@@ -10130,7 +10148,8 @@
         "zh": "适合搭配冷切、禽肉、兔肉、小牛肉、蘑菇、清淡酱汁意面、金枪鱼及软质奶酪。",
         "ja": "生ハム、鶏肉、ウサギ、仔牛、キノコ、繊細なソースのパスタ、マグロ、ソフトチーズにおすすめ。",
         "nl": "Vleeswaren, gevogelte, konijn, kalfsvlees, paddenstoelen, pasta met delicate sauzen, tonijn en zachte kazen.",
-        "nl-BE": "Vleeswaren, gevogelte, konijn, kalfsvlees, paddenstoelen, pasta met delicate sauzen, tonijn en zachte kazen."
+        "nl-BE": "Vleeswaren, gevogelte, konijn, kalfsvlees, paddenstoelen, pasta met delicate sauzen, tonijn en zachte kazen.",
+        "sv": "Charkuterier, fågel, kanin, kalvkött, svamp, pasta med milda såser, tonfisk och milda ostar."
       },
       "description": {
         "it": "La carta del Doga presenta questa etichetta come Pinot Nero toscano. Non è stata reperita una scheda tecnica pubblica completa e affidabile; per questo non vengono attribuite percentuali, tecniche di vinificazione o affinamenti non verificati.",
@@ -10143,7 +10162,8 @@
         "zh": "Doga酒单将此酒标示为托斯卡纳黑皮诺。由于没有找到完整可靠的公开技术资料，因此不标注未经证实的混酿比例、酿造方式或熟成信息。",
         "ja": "Dogaのワインリストではトスカーナ産ピノ・ノワールとして掲載されています。信頼できる完全な公開技術資料が見つからないため、未確認の比率や醸造・熟成方法は記載していません。",
         "nl": "De wijnkaart van Doga presenteert dit etiket als een Toscaanse Pinot Noir. Er is geen volledige en betrouwbare openbare technische fiche gevonden, daarom worden geen onbevestigde blendpercentages, vinificatiemethoden of rijpingsdetails vermeld.",
-        "nl-BE": "De wijnkaart van Doga presenteert dit etiket als een Toscaanse Pinot Noir. Er is geen volledige en betrouwbare openbare technische fiche gevonden, daarom worden geen onbevestigde blendpercentages, vinificatiemethoden of rijpingsdetails vermeld."
+        "nl-BE": "De wijnkaart van Doga presenteert dit etiket als een Toscaanse Pinot Noir. Er is geen volledige en betrouwbare openbare technische fiche gevonden, daarom worden geen onbevestigde blendpercentages, vinificatiemethoden of rijpingsdetails vermeld.",
+        "sv": "DOGA:s vinlista presenterar denna etikett som en toskansk Pinot Noir. Något fullständigt och tillförlitligt offentligt tekniskt datablad har inte hittats, därför anges inga obekräftade druvandelar, vinifieringsmetoder eller lagringsuppgifter."
       },
       "wine_section": "red_tuscany"
     },
@@ -10163,7 +10183,8 @@
         "zh": "翁布里亚黑皮诺 IGT",
         "ja": "ウンブリア・ピノ・ネロ IGT",
         "nl": "Umbria Pinot Noir IGT",
-        "nl-BE": "Umbria Pinot Noir IGT"
+        "nl-BE": "Umbria Pinot Noir IGT",
+        "sv": "Umbria Pinot Nero IGT"
       },
       "origin": {
         "it": "Castello della Sala, Orvieto, Umbria",
@@ -10176,7 +10197,8 @@
         "zh": "翁布里亚奥尔维耶托，萨拉城堡",
         "ja": "ウンブリア、オルヴィエート、カステッロ・デッラ・サラ",
         "nl": "Castello della Sala, Orvieto, Umbrië",
-        "nl-BE": "Castello della Sala, Orvieto, Umbrië"
+        "nl-BE": "Castello della Sala, Orvieto, Umbrië",
+        "sv": "Castello della Sala, Orvieto, Umbrien"
       },
       "grapes": "Pinot Nero 100%",
       "serving_temperature": "16 °C",
@@ -10192,7 +10214,8 @@
         "zh": "适合搭配鸭肉、乳鸽、小牛肉、羊肉、蘑菇、松露、三文鱼、煎金枪鱼及熟成奶酪。",
         "ja": "鴨、鳩、仔牛、仔羊、キノコ、トリュフ、サーモン、マグロの炙り、熟成チーズにおすすめ。",
         "nl": "Eend, duif, kalfsvlees, lam, paddenstoelen, truffel, zalm, kort aangebakken tonijn en gerijpte kazen.",
-        "nl-BE": "Eend, duif, kalfsvlees, lam, paddenstoelen, truffel, zalm, kort aangebakken tonijn en gerijpte kazen."
+        "nl-BE": "Eend, duif, kalfsvlees, lam, paddenstoelen, truffel, zalm, kort aangebakken tonijn en gerijpte kazen.",
+        "sv": "Anka, duva, kalvkött, lamm, svamp, tryffel, lax, hastigt stekt tonfisk och lagrade ostar."
       },
       "description": {
         "it": "Pinot Nero coltivato a circa 400 metri su terreni calcarei ricchi di fossili marini. Dopo tre giorni di macerazione a freddo fermenta in acciaio e completa la malolattica in piccoli fusti di rovere. Offre violetta, rosa, ribes rosso, fragolina, pepe rosa e coriandolo. Il sorso è sapido e setoso, con grande eleganza e persistenza.",
@@ -10205,7 +10228,8 @@
         "zh": "生长于约400米海拔、富含海洋化石的石灰岩土壤。低温浸皮三天后在不锈钢中发酵，并在小橡木桶中完成苹果酸乳酸发酵。带有紫罗兰、玫瑰、红醋栗、野草莓、粉红胡椒及芫荽气息。",
         "ja": "海抜約400mの海洋化石を含む石灰質土壌。3日間の低温浸漬後にステンレスで発酵し、小樽でマロラクティック発酵。スミレ、バラ、赤スグリ、野イチゴ、ピンクペッパーの香り。",
         "nl": "Een Pinot Noir geteeld op ongeveer 400 meter hoogte op kalkrijke bodems met mariene fossielen. Na drie dagen koude maceratie vergist hij in roestvrij staal en voltooit de malolactische gisting in kleine eiken vaten. Viooltje, roos, rode bes, bosaardbei, roze peper en koriander leiden naar een hartige, zijdezachte smaak.",
-        "nl-BE": "Een Pinot Noir geteeld op ongeveer 400 meter hoogte op kalkrijke bodems met mariene fossielen. Na drie dagen koude maceratie vergist hij in roestvrij staal en voltooit de malolactische gisting in kleine eiken vaten. Viooltje, roos, rode bes, bosaardbei, roze peper en koriander leiden naar een hartige, zijdezachte smaak."
+        "nl-BE": "Een Pinot Noir geteeld op ongeveer 400 meter hoogte op kalkrijke bodems met mariene fossielen. Na drie dagen koude maceratie vergist hij in roestvrij staal en voltooit de malolactische gisting in kleine eiken vaten. Viooltje, roos, rode bes, bosaardbei, roze peper en koriander leiden naar een hartige, zijdezachte smaak.",
+        "sv": "En Pinot Noir odlad på omkring 400 meters höjd på kalkrika jordar med marina fossil. Efter tre dagars kallmaceration jäser vinet på ståltank och genomgår malolaktisk jäsning på små ekfat. Viol, rosor, röda vinbär, smultron, rosépeppar och koriander följs av en smakrik, silkeslen smak."
       },
       "wine_section": "red_other"
     },
@@ -10226,7 +10250,8 @@
         "zh": "上阿迪杰黑皮诺珍藏 DOC",
         "ja": "アルト・アディジェ・ピノ・ネロ・リゼルヴァ DOC",
         "nl": "Alto Adige Pinot Noir Riserva DOC",
-        "nl-BE": "Alto Adige Pinot Noir Riserva DOC"
+        "nl-BE": "Alto Adige Pinot Noir Riserva DOC",
+        "sv": "Alto Adige Pinot Nero Riserva DOC"
       },
       "origin": {
         "it": "Vigneti tra 350 e 450 metri, Alto Adige",
@@ -10239,7 +10264,8 @@
         "zh": "上阿迪杰，海拔350至450米的葡萄园",
         "ja": "アルト・アディジェ、標高350〜450mの畑",
         "nl": "Wijngaarden tussen 350 en 450 meter hoogte, Alto Adige",
-        "nl-BE": "Wijngaarden tussen 350 en 450 meter hoogte, Alto Adige"
+        "nl-BE": "Wijngaarden tussen 350 en 450 meter hoogte, Alto Adige",
+        "sv": "Vingårdar på 350–450 meters höjd, Sydtyrolen"
       },
       "grapes": "Pinot Nero 100%",
       "serving_temperature": "16 °C",
@@ -10255,7 +10281,8 @@
         "zh": "适合搭配精致冷切、小牛肉、鹧鸪、鸭肉、兔肉、蘑菇、风味浓郁的鱼及中度熟成奶酪。",
         "ja": "繊細な生ハム、仔牛、ヤマウズラ、鴨、ウサギ、キノコ、味の濃い魚、中熟成チーズにおすすめ。",
         "nl": "Verfijnde vleeswaren, kalfsvlees, patrijs, eend, konijn, paddenstoelen, smaakvolle vis en halfgerijpte kazen.",
-        "nl-BE": "Verfijnde vleeswaren, kalfsvlees, patrijs, eend, konijn, paddenstoelen, smaakvolle vis en halfgerijpte kazen."
+        "nl-BE": "Verfijnde vleeswaren, kalfsvlees, patrijs, eend, konijn, paddenstoelen, smaakvolle vis en halfgerijpte kazen.",
+        "sv": "Milda charkuterier, kalvkött, rapphöna, anka, kanin, svamp, smakrika fiskrätter och mellanlagrade ostar."
       },
       "description": {
         "it": "Pinot Nero Riserva da vigneti freschi su terreni vulcanici ricoperti da depositi morenici. Fermenta quattordici giorni e affina dodici mesi per due terzi in botti grandi e un terzo in barrique, seguiti da altri dodici mesi in bottiglia. Offre ciliegia, susina, frutti rossi, cannella e leggere spezie di rovere. Il sorso è morbido e vellutato.",
@@ -10268,7 +10295,8 @@
         "zh": "来自凉爽葡萄园的黑皮诺珍藏，土壤为火山岩并覆盖冰碛沉积。发酵十四天，随后熟成十二个月，其中三分之二使用大桶、三分之一使用小橡木桶，再瓶陈十二个月。带有樱桃、李子、红色水果及肉桂气息。",
         "ja": "火山性土壌とモレーン堆積物の冷涼な畑。14日間発酵し、12か月を3分の2は大樽、3分の1はバリックで熟成し、さらに瓶内で12か月。チェリー、プラム、シナモンの香り。",
         "nl": "Een Pinot Noir Riserva uit koele wijngaarden op vulkanische bodems bedekt met moreneafzettingen. Veertien dagen vergist en twaalf maanden gerijpt, twee derde in grote vaten en één derde in barriques, gevolgd door twaalf maanden op fles. Kers, damsonpruim, rood fruit, kaneel en zachte eikenkruiden leiden naar een soepele, fluweelzachte smaak.",
-        "nl-BE": "Een Pinot Noir Riserva uit koele wijngaarden op vulkanische bodems bedekt met moreneafzettingen. Veertien dagen vergist en twaalf maanden gerijpt, twee derde in grote vaten en één derde in barriques, gevolgd door twaalf maanden op fles. Kers, damsonpruim, rood fruit, kaneel en zachte eikenkruiden leiden naar een soepele, fluweelzachte smaak."
+        "nl-BE": "Een Pinot Noir Riserva uit koele wijngaarden op vulkanische bodems bedekt met moreneafzettingen. Veertien dagen vergist en twaalf maanden gerijpt, twee derde in grote vaten en één derde in barriques, gevolgd door twaalf maanden op fles. Kers, damsonpruim, rood fruit, kaneel en zachte eikenkruiden leiden naar een soepele, fluweelzachte smaak.",
+        "sv": "En Pinot Noir Riserva från svala vingårdar på vulkaniska jordar täckta av moränavlagringar. Jäst i fjorton dagar och lagrad tolv månader, två tredjedelar på stora fat och en tredjedel på barriquefat, följt av tolv månader på flaska. Körsbär, plommon, röd frukt, kanel och milda ekkryddor följs av en mjuk, sammetslen smak."
       },
       "wine_section": "red_other"
     },
@@ -10289,7 +10317,8 @@
         "zh": "上阿迪杰黑皮诺 DOC",
         "ja": "アルト・アディジェ・ピノ・ネロ DOC",
         "nl": "Alto Adige Pinot Noir DOC",
-        "nl-BE": "Alto Adige Pinot Noir DOC"
+        "nl-BE": "Alto Adige Pinot Noir DOC",
+        "sv": "Alto Adige Pinot Nero DOC"
       },
       "origin": {
         "it": "San Paolo–Appiano, Alto Adige",
@@ -10302,7 +10331,8 @@
         "zh": "上阿迪杰，圣保罗–阿皮亚诺",
         "ja": "アルト・アディジェ、サン・パオロ＝アッピアーノ",
         "nl": "St. Pauls–Eppan, Alto Adige",
-        "nl-BE": "St. Pauls–Eppan, Alto Adige"
+        "nl-BE": "St. Pauls–Eppan, Alto Adige",
+        "sv": "St. Pauls–Eppan, Sydtyrolen"
       },
       "grapes": "Pinot Nero 100%",
       "serving_temperature": "14–16 °C",
@@ -10318,7 +10348,8 @@
         "zh": "适合搭配蘑菇料理、奶酪、兔肉、小牛肉、羊肉、禽肉、冷切及清淡意面。",
         "ja": "キノコ料理、チーズ、ウサギ、仔牛、仔羊、鶏肉、生ハム、繊細なパスタにおすすめ。",
         "nl": "Gerechten met paddenstoelen, kazen, konijn, kalfsvlees, lam, gevogelte, vleeswaren en verfijnde pastagerechten.",
-        "nl-BE": "Gerechten met paddenstoelen, kazen, konijn, kalfsvlees, lam, gevogelte, vleeswaren en verfijnde pastagerechten."
+        "nl-BE": "Gerechten met paddenstoelen, kazen, konijn, kalfsvlees, lam, gevogelte, vleeswaren en verfijnde pastagerechten.",
+        "sv": "Svamprätter, ostar, kanin, kalvkött, lamm, fågel, charkuterier och milda pastarätter."
       },
       "description": {
         "it": "Pinot Nero altoatesino proveniente da terreni ghiaiosi e calcarei tra 300 e 500 metri. La macerazione e la fermentazione avvengono a temperatura controllata in acciaio. Offre frutti di bosco, bacche rosse e spezie. Il sorso è fresco e fruttato, con tannini morbidi e un finale speziato.",
@@ -10331,7 +10362,8 @@
         "zh": "来自海拔300至500米的石灰质砾石土壤，在控温不锈钢罐中浸皮发酵。带有森林浆果、红色浆果及香料气息，口感清新果香充沛，单宁柔和。",
         "ja": "標高300〜500mの石灰質砂礫土壌。温度管理したステンレスで醸しと発酵。森の果実、赤いベリー、スパイスの香り。フレッシュで果実味があり、タンニンは滑らかです。",
         "nl": "Een Zuid-Tiroolse Pinot Noir van zanderige kalkgrindbodems tussen 300 en 500 meter hoogte. Maceratie en vergisting vinden plaats in roestvrij staal bij gecontroleerde temperatuur. Bosvruchten, rood fruit en kruiden leiden naar een frisse, fruitige smaak met zachte tannines.",
-        "nl-BE": "Een Zuid-Tiroolse Pinot Noir van zanderige kalkgrindbodems tussen 300 en 500 meter hoogte. Maceratie en vergisting vinden plaats in roestvrij staal bij gecontroleerde temperatuur. Bosvruchten, rood fruit en kruiden leiden naar een frisse, fruitige smaak met zachte tannines."
+        "nl-BE": "Een Zuid-Tiroolse Pinot Noir van zanderige kalkgrindbodems tussen 300 en 500 meter hoogte. Maceratie en vergisting vinden plaats in roestvrij staal bij gecontroleerde temperatuur. Bosvruchten, rood fruit en kruiden leiden naar een frisse, fruitige smaak met zachte tannines.",
+        "sv": "En Pinot Noir från Sydtyrolen, odlad på sandiga kalkstens- och grusjordar på 300–500 meters höjd. Maceration och jäsning sker på ståltank vid kontrollerad temperatur. Skogsfrukt, röda bär och kryddor följs av en frisk, fruktig smak med mjuka tanniner."
       },
       "wine_section": "red_other"
     },
@@ -10351,7 +10383,8 @@
         "zh": "托斯卡纳黑皮诺 IGT",
         "ja": "トスカーナ・ピノ・ネロ IGT",
         "nl": "Toscana Pinot Noir IGT",
-        "nl-BE": "Toscana Pinot Noir IGT"
+        "nl-BE": "Toscana Pinot Noir IGT",
+        "sv": "Toscana Pinot Nero IGT"
       },
       "origin": {
         "it": "Castellina in Chianti, Toscana",
@@ -10364,7 +10397,8 @@
         "zh": "托斯卡纳，基安蒂地区卡斯泰利纳",
         "ja": "トスカーナ、カステッリーナ・イン・キアンティ",
         "nl": "Castellina in Chianti, Toscane",
-        "nl-BE": "Castellina in Chianti, Toscane"
+        "nl-BE": "Castellina in Chianti, Toscane",
+        "sv": "Castellina in Chianti, Toscana"
       },
       "grapes": "Pinot Nero 100%",
       "serving_temperature": "16–18 °C",
@@ -10380,7 +10414,8 @@
         "zh": "适合搭配鸭肉、乳鸽、羊肉、小牛肉、牛肝菌、松露、金枪鱼、三文鱼及熟成奶酪。",
         "ja": "鴨、鳩、仔羊、仔牛、ポルチーニ、トリュフ、マグロ、サーモン、熟成チーズにおすすめ。",
         "nl": "Eend, duif, lam, kalfsvlees, eekhoorntjesbrood, truffel, tonijn, zalm en gerijpte kazen.",
-        "nl-BE": "Eend, duif, lam, kalfsvlees, eekhoorntjesbrood, truffel, tonijn, zalm en gerijpte kazen."
+        "nl-BE": "Eend, duif, lam, kalfsvlees, eekhoorntjesbrood, truffel, tonijn, zalm en gerijpte kazen.",
+        "sv": "Anka, duva, lamm, kalvkött, karljohansvamp, tryffel, tonfisk, lax och lagrade ostar."
       },
       "description": {
         "it": "Pinot Nero in purezza prodotto a Castellina in Chianti da vigneti situati a circa 550 metri. Fermenta dodici giorni in tinelle di legno e affina dodici mesi in barrique di Allier, per il 60% nuove, seguiti da sette mesi in bottiglia. È un Pinot Nero toscano intenso e raffinato, con frutto rosso, spezie, struttura elegante e tannini setosi.",
@@ -10393,7 +10428,8 @@
         "zh": "采用生长于基安蒂地区卡斯泰利纳约550米海拔葡萄园的100%黑皮诺。于木质发酵槽中发酵十二天，在阿利耶小橡木桶中熟成十二个月，其中60%为新桶，再瓶陈七个月。风格浓郁精致，单宁丝滑。",
         "ja": "標高約550m、カステッリーナ・イン・キアンティのピノ・ネロ100%。木製槽で12日間発酵し、60%新樽のアリエ産バリックで12か月、瓶内で7か月熟成。力強く上品で、タンニンはシルキーです。",
         "nl": "Een pure Pinot Noir uit Castellina in Chianti, van wijngaarden op ongeveer 550 meter hoogte. Twaalf dagen vergist in houten kuipen en twaalf maanden gerijpt in Allier-barriques, waarvan 60% nieuw, gevolgd door zeven maanden op fles. Een intense, verfijnde Toscaanse Pinot Noir met rood fruit, kruiden en zijdezachte tannines.",
-        "nl-BE": "Een pure Pinot Noir uit Castellina in Chianti, van wijngaarden op ongeveer 550 meter hoogte. Twaalf dagen vergist in houten kuipen en twaalf maanden gerijpt in Allier-barriques, waarvan 60% nieuw, gevolgd door zeven maanden op fles. Een intense, verfijnde Toscaanse Pinot Noir met rood fruit, kruiden en zijdezachte tannines."
+        "nl-BE": "Een pure Pinot Noir uit Castellina in Chianti, van wijngaarden op ongeveer 550 meter hoogte. Twaalf dagen vergist in houten kuipen en twaalf maanden gerijpt in Allier-barriques, waarvan 60% nieuw, gevolgd door zeven maanden op fles. Een intense, verfijnde Toscaanse Pinot Noir met rood fruit, kruiden en zijdezachte tannines.",
+        "sv": "En ren Pinot Noir från Castellina in Chianti, odlad på omkring 550 meters höjd. Jäst tolv dagar i träkar och lagrad tolv månader på barriquefat av Allierek, varav 60 % nya, följt av sju månader på flaska. En intensiv och raffinerad toskansk Pinot Noir med röd frukt, kryddor och silkeslena tanniner."
       },
       "wine_section": "red_tuscany"
     },
@@ -10413,7 +10449,8 @@
         "zh": "有机托斯卡纳桃红 IGT",
         "ja": "オーガニック・トスカーナ・ロザート IGT",
         "nl": "Biologische Toscana Rosato IGT",
-        "nl-BE": "Biologische Toscana Rosato IGT"
+        "nl-BE": "Biologische Toscana Rosato IGT",
+        "sv": "Ekologisk Toscana Rosato IGT"
       },
       "grapes": "Syrah, Vermentino",
       "alcohol": "12,5%",
@@ -10443,7 +10480,8 @@
         "zh": "适合作为开胃酒，搭配生食海鲜、甲壳类、寿司、清淡意面及地中海菜肴。",
         "ja": "食前酒、魚介の生料理、甲殻類、寿司、軽いパスタ、地中海料理におすすめ。",
         "nl": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, lichte pastagerechten en mediterrane keuken.",
-        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, lichte pastagerechten en mediterrane keuken."
+        "nl-BE": "Aperitief, rauwe zeevruchten, schaaldieren, sushi, lichte pastagerechten en mediterrane keuken.",
+        "sv": "Aperitif, råa fisk- och skaldjursrätter, skaldjur, sushi, lätta pastarätter och medelhavsmat."
       },
       "description": {
         "it": "Rosato biologico toscano fresco e sapido, prodotto da Syrah e Vermentino. Al naso esprime fragolina di bosco, lampone, melograno, agrumi, fiori delicati ed erbe mediterranee. Al palato è morbido, equilibrato e pulito, con una piacevole freschezza finale.",
@@ -10456,7 +10494,8 @@
         "zh": "一款由西拉和维蒙蒂诺酿造的清新鲜爽托斯卡纳有机桃红葡萄酒。散发野草莓、覆盆子、石榴、柑橘、淡雅花香及地中海香草气息。口感柔和均衡，余味干净清爽。",
         "ja": "シラーとヴェルメンティーノから造られる、爽やかで旨味のあるトスカーナのオーガニック・ロゼ。野イチゴ、ラズベリー、ザクロ、柑橘、繊細な花、地中海ハーブの香り。口当たりは柔らかく調和が取れ、清々しい余韻が続きます。",
         "nl": "Een frisse en hartige biologische Toscaanse rosé van Syrah en Vermentino. Aroma's van bosaardbei, framboos, granaatappel, citrus, delicate bloemen en mediterrane kruiden. Soepel en evenwichtig in de mond, met een zuivere en verfrissende finale.",
-        "nl-BE": "Een frisse en hartige biologische Toscaanse rosé van Syrah en Vermentino. Aroma's van bosaardbei, framboos, granaatappel, citrus, delicate bloemen en mediterrane kruiden. Soepel en evenwichtig in de mond, met een zuivere en verfrissende finale."
+        "nl-BE": "Een frisse en hartige biologische Toscaanse rosé van Syrah en Vermentino. Aroma's van bosaardbei, framboos, granaatappel, citrus, delicate bloemen en mediterrane kruiden. Soepel en evenwichtig in de mond, met een zuivere en verfrissende finale.",
+        "sv": "En frisk och smakrik ekologisk rosé från Toscana av Syrah och Vermentino. Doft av smultron, hallon, granatäpple, citrus, milda blommor och medelhavsörter. Mjuk och balanserad i smaken med ren och uppfriskande avslutning."
       },
       "wine_section": "rose"
     },
