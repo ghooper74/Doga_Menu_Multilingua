@@ -7844,7 +7844,8 @@
         "zh": "布鲁奈罗蒙塔奇诺 DOCG",
         "ja": "ブルネッロ・ディ・モンタルチーノ DOCG",
         "nl": "Brunello di Montalcino DOCG",
-        "nl-BE": "Brunello di Montalcino DOCG"
+        "nl-BE": "Brunello di Montalcino DOCG",
+        "sv": "Brunello di Montalcino DOCG"
       },
       "origin": {
         "it": "Tenuta Greppone Mazzi, Montalcino, Toscana",
@@ -7857,7 +7858,8 @@
         "zh": "托斯卡纳蒙塔奇诺，Greppone Mazzi庄园",
         "ja": "トスカーナ、モンタルチーノ、グレッポーネ・マッツィ",
         "nl": "Landgoed Greppone Mazzi, Montalcino, Toscane",
-        "nl-BE": "Landgoed Greppone Mazzi, Montalcino, Toscane"
+        "nl-BE": "Landgoed Greppone Mazzi, Montalcino, Toscane",
+        "sv": "Greppone Mazzi, Montalcino, Toscana"
       },
       "grapes": "Sangiovese Grosso 100%",
       "serving_temperature": "18 °C",
@@ -7873,7 +7875,8 @@
         "zh": "适合搭配牛排、野味、炖肉、羊肉、野猪、肉酱意面、松露及熟成奶酪。",
         "ja": "ステーキ、ジビエ、煮込み肉、仔羊、イノシシ、ラグーのパスタ、トリュフ、熟成チーズにおすすめ。",
         "nl": "Steak, wild, gestoofd vlees, lam, wild zwijn, pasta met ragù, truffel en gerijpte kazen.",
-        "nl-BE": "Steak, wild, gestoofd vlees, lam, wild zwijn, pasta met ragù, truffel en gerijpte kazen."
+        "nl-BE": "Steak, wild, gestoofd vlees, lam, wild zwijn, pasta met ragù, truffel en gerijpte kazen.",
+        "sv": "Biff, vilt, bräserat kött, lamm, vildsvin, pasta med ragù, tryffel och lagrade ostar."
       },
       "description": {
         "it": "Brunello della tenuta Greppone Mazzi, prodotto da Sangiovese Grosso e affinato complessivamente trentasei mesi tra botti di rovere e acciaio. Offre ciliegia, prugna, frutti scuri, terra, spezie, cacao e tabacco. Il sorso è pieno ed elegante, con tannini rotondi e lunga persistenza.",
@@ -7886,7 +7889,8 @@
         "zh": "来自Greppone Mazzi庄园，采用100%大桑娇维塞酿造，并在橡木及不锈钢中总计熟成三十六个月。带有樱桃、李子、深色水果、泥土、香料、可可及烟草气息，口感饱满优雅。",
         "ja": "グレッポーネ・マッツィのサンジョヴェーゼ・グロッソ100%。オークとステンレスで合計36か月熟成。チェリー、プラム、黒い果実、土、スパイス、カカオ、タバコの香り。豊かで上品です。",
         "nl": "Een Brunello van het landgoed Greppone Mazzi, gemaakt van Sangiovese Grosso en in totaal zesendertig maanden gerijpt in eiken en roestvrij staal. Kers, pruim, donker fruit, aarde, kruiden, cacao en tabak leiden naar een volle, elegante smaak met ronde tannines en lengte.",
-        "nl-BE": "Een Brunello van het landgoed Greppone Mazzi, gemaakt van Sangiovese Grosso en in totaal zesendertig maanden gerijpt in eiken en roestvrij staal. Kers, pruim, donker fruit, aarde, kruiden, cacao en tabak leiden naar een volle, elegante smaak met ronde tannines en lengte."
+        "nl-BE": "Een Brunello van het landgoed Greppone Mazzi, gemaakt van Sangiovese Grosso en in totaal zesendertig maanden gerijpt in eiken en roestvrij staal. Kers, pruim, donker fruit, aarde, kruiden, cacao en tabak leiden naar een volle, elegante smaak met ronde tannines en lengte.",
+        "sv": "En Brunello från egendomen Greppone Mazzi, gjord på Sangiovese Grosso och lagrad sammanlagt trettiosex månader på ekfat och ståltank. Körsbär, plommon, mörk frukt, jord, kryddor, kakao och tobak följs av en fyllig, elegant smak med rundade tanniner och lång eftersmak."
       },
       "wine_section": "red_tuscany"
     },
@@ -7907,7 +7911,8 @@
         "zh": "蒙特普尔恰诺红葡萄酒 DOC",
         "ja": "ロッソ・ディ・モンテプルチャーノ DOC",
         "nl": "Rosso di Montepulciano DOC",
-        "nl-BE": "Rosso di Montepulciano DOC"
+        "nl-BE": "Rosso di Montepulciano DOC",
+        "sv": "Rosso di Montepulciano DOC"
       },
       "origin": {
         "it": "Montepulciano, Toscana",
@@ -7920,7 +7925,8 @@
         "zh": "托斯卡纳，蒙特普尔恰诺",
         "ja": "トスカーナ、モンテプルチャーノ",
         "nl": "Montepulciano, Toscane",
-        "nl-BE": "Montepulciano, Toscane"
+        "nl-BE": "Montepulciano, Toscane",
+        "sv": "Montepulciano, Toscana"
       },
       "grapes": "Prugnolo Gentile 80%, Canaiolo Nero 15%, Colorino 5%",
       "serving_temperature": "16–18 °C",
@@ -7936,7 +7942,8 @@
         "zh": "适合搭配肉酱手工粗面、番茄意面、冷切、烤肉、猪肉、烧烤肉类及佩科里诺奶酪。",
         "ja": "ラグーのピチ、トマトのパスタ、生ハム、ロースト、豚肉、肉のグリル、ペコリーノにおすすめ。",
         "nl": "Pici met ragù, pasta met tomatensaus, vleeswaren, gebraad, varkensvlees, gegrild vlees en pecorino.",
-        "nl-BE": "Pici met ragù, pasta met tomatensaus, vleeswaren, gebraad, varkensvlees, gegrild vlees en pecorino."
+        "nl-BE": "Pici met ragù, pasta met tomatensaus, vleeswaren, gebraad, varkensvlees, gegrild vlees en pecorino.",
+        "sv": "Pici med ragù, tomatpasta, charkuterier, stekar, fläskkött, grillat kött och pecorino."
       },
       "description": {
         "it": "Rosso tradizionale di Montepulciano proveniente dal vigneto Salarco. Fermenta in acciaio e affina sei-otto mesi in botti di rovere. È fresco e floreale, con ciliegia, prugna, violetta e spezie leggere. Il sorso è asciutto, equilibrato e piacevolmente scorrevole.",
@@ -7949,7 +7956,8 @@
         "zh": "来自Salarco葡萄园，在不锈钢中发酵，并在橡木桶中熟成六至八个月。带有樱桃、李子、紫罗兰及轻微香料气息，口感干爽、清新均衡且易饮。",
         "ja": "サラルコ畑の伝統的なロッソ・ディ・モンテプルチャーノ。ステンレスで発酵し、オーク樽で6〜8か月熟成。チェリー、プラム、スミレ、スパイスの香り。辛口で爽やかです。",
         "nl": "Een traditionele Rosso di Montepulciano uit de wijngaard Salarco. Vergist in roestvrij staal en zes tot acht maanden gerijpt in eiken vaten. Fris en bloemig, met kers, pruim, viooltje en zachte kruiden. Droog, evenwichtig en zeer doordrinkbaar.",
-        "nl-BE": "Een traditionele Rosso di Montepulciano uit de wijngaard Salarco. Vergist in roestvrij staal en zes tot acht maanden gerijpt in eiken vaten. Fris en bloemig, met kers, pruim, viooltje en zachte kruiden. Droog, evenwichtig en zeer doordrinkbaar."
+        "nl-BE": "Een traditionele Rosso di Montepulciano uit de wijngaard Salarco. Vergist in roestvrij staal en zes tot acht maanden gerijpt in eiken vaten. Fris en bloemig, met kers, pruim, viooltje en zachte kruiden. Droog, evenwichtig en zeer doordrinkbaar.",
+        "sv": "En traditionell Rosso di Montepulciano från vingården Salarco. Jäst på ståltank och lagrad sex till åtta månader på ekfat. Frisk och blommig med körsbär, plommon, viol och milda kryddor. Torr, balanserad och lättdrucken."
       },
       "wine_section": "red_tuscany"
     },
@@ -7970,7 +7978,8 @@
         "zh": "蒙特普尔恰诺贵族红葡萄酒 DOCG",
         "ja": "ヴィーノ・ノービレ・ディ・モンテプルチャーノ DOCG",
         "nl": "Vino Nobile di Montepulciano DOCG",
-        "nl-BE": "Vino Nobile di Montepulciano DOCG"
+        "nl-BE": "Vino Nobile di Montepulciano DOCG",
+        "sv": "Vino Nobile di Montepulciano DOCG"
       },
       "origin": {
         "it": "Vigneto Pietra Rossa, Montepulciano, Toscana",
@@ -7983,7 +7992,8 @@
         "zh": "托斯卡纳蒙特普尔恰诺，Pietra Rossa葡萄园",
         "ja": "トスカーナ、モンテプルチャーノ、ピエトラ・ロッサ畑",
         "nl": "Wijngaard Pietra Rossa, Montepulciano, Toscane",
-        "nl-BE": "Wijngaard Pietra Rossa, Montepulciano, Toscane"
+        "nl-BE": "Wijngaard Pietra Rossa, Montepulciano, Toscane",
+        "sv": "Vingården Pietra Rossa, Montepulciano, Toscana"
       },
       "grapes": "Prugnolo Gentile 80%, Canaiolo Nero 10%, Colorino 10%",
       "serving_temperature": "17–18 °C",
@@ -7999,7 +8009,8 @@
         "zh": "适合搭配肉酱手工粗面、牛排、烤肉、羊肉、野猪、炖肉、松露及熟成佩科里诺。",
         "ja": "ラグーのピチ、ステーキ、ロースト、仔羊、イノシシ、煮込み肉、トリュフ、熟成ペコリーノにおすすめ。",
         "nl": "Pici met ragù, steak, gebraad, lam, wild zwijn, gestoofd vlees, truffel en gerijpte pecorino.",
-        "nl-BE": "Pici met ragù, steak, gebraad, lam, wild zwijn, gestoofd vlees, truffel en gerijpte pecorino."
+        "nl-BE": "Pici met ragù, steak, gebraad, lam, wild zwijn, gestoofd vlees, truffel en gerijpte pecorino.",
+        "sv": "Pici med ragù, biff, stekar, lamm, vildsvin, bräserat kött, tryffel och lagrad pecorino."
       },
       "description": {
         "it": "Selezione del vigneto Pietra Rossa, fermentata per circa diciotto giorni e affinata trenta mesi in botti di rovere, seguiti da otto-dieci mesi in bottiglia. Offre ciliegia, prugna, violetta, spezie, cuoio e tabacco. Il sorso è strutturato, elegante e persistente.",
@@ -8012,7 +8023,8 @@
         "zh": "来自Pietra Rossa葡萄园，发酵约十八天，在橡木桶中熟成三十个月，再瓶陈八至十个月。带有樱桃、李子、紫罗兰、香料、皮革及烟草气息，口感结构完整、优雅持久。",
         "ja": "ピエトラ・ロッサ畑のブドウを約18日発酵し、オーク樽で30か月、瓶内で8〜10か月熟成。チェリー、プラム、スミレ、スパイス、革、タバコの香り。骨格と長い余韻があります。",
         "nl": "Een selectie uit de wijngaard Pietra Rossa, ongeveer achttien dagen vergist en dertig maanden gerijpt in eiken, gevolgd door acht tot tien maanden op fles. Kers, pruim, viooltje, kruiden, leer en tabak leiden naar een gestructureerde, elegante en aanhoudende smaak.",
-        "nl-BE": "Een selectie uit de wijngaard Pietra Rossa, ongeveer achttien dagen vergist en dertig maanden gerijpt in eiken, gevolgd door acht tot tien maanden op fles. Kers, pruim, viooltje, kruiden, leer en tabak leiden naar een gestructureerde, elegante en aanhoudende smaak."
+        "nl-BE": "Een selectie uit de wijngaard Pietra Rossa, ongeveer achttien dagen vergist en dertig maanden gerijpt in eiken, gevolgd door acht tot tien maanden op fles. Kers, pruim, viooltje, kruiden, leer en tabak leiden naar een gestructureerde, elegante en aanhoudende smaak.",
+        "sv": "Ett urval från vingården Pietra Rossa, jäst omkring arton dagar och lagrat trettio månader på ekfat, följt av åtta till tio månader på flaska. Körsbär, plommon, viol, kryddor, läder och tobak följs av en strukturerad, elegant smak med lång eftersmak."
       },
       "wine_section": "red_tuscany"
     },
@@ -8032,7 +8044,8 @@
         "zh": "有机托斯卡纳桑娇维塞 IGT，无添加亚硫酸盐",
         "ja": "オーガニック・トスカーナ・サンジョヴェーゼ IGT、亜硫酸塩無添加",
         "nl": "Biologische Toscana Sangiovese IGT zonder toegevoegde sulfieten",
-        "nl-BE": "Biologische Toscana Sangiovese IGT zonder toegevoegde sulfieten"
+        "nl-BE": "Biologische Toscana Sangiovese IGT zonder toegevoegde sulfieten",
+        "sv": "Ekologisk Toscana Sangiovese IGT utan tillsatta sulfiter"
       },
       "origin": {
         "it": "Gavorrano, Maremma Toscana",
@@ -8045,7 +8058,8 @@
         "zh": "托斯卡纳马雷玛，加沃拉诺",
         "ja": "トスカーナ・マレンマ、ガヴォッラーノ",
         "nl": "Gavorrano, Toscaanse Maremma",
-        "nl-BE": "Gavorrano, Toscaanse Maremma"
+        "nl-BE": "Gavorrano, Toscaanse Maremma",
+        "sv": "Gavorrano, Maremma, Toscana"
       },
       "grapes": "Sangiovese 100%",
       "serving_temperature": "15–17 °C",
@@ -8061,7 +8075,8 @@
         "zh": "适合搭配冷切、烤面包、肉酱意面、披萨、猪肉、烧烤肉类及中度熟成奶酪。",
         "ja": "生ハム、クロスティーニ、ラグーのパスタ、ピッツァ、豚肉、肉のグリル、中熟成チーズにおすすめ。",
         "nl": "Vleeswaren, crostini, pasta met ragù, pizza, varkensvlees, gegrild vlees en halfgerijpte kazen.",
-        "nl-BE": "Vleeswaren, crostini, pasta met ragù, pizza, varkensvlees, gegrild vlees en halfgerijpte kazen."
+        "nl-BE": "Vleeswaren, crostini, pasta met ragù, pizza, varkensvlees, gegrild vlees en halfgerijpte kazen.",
+        "sv": "Charkuterier, crostini, pasta med ragù, pizza, fläskkött, grillat kött och mellanlagrade ostar."
       },
       "description": {
         "it": "Sangiovese in purezza prodotto senza aggiunta di solfiti. Il colore è rubino brillante e il profilo fragrante, con ciliegia croccante, piccoli frutti rossi, bacche ed erbe aromatiche. Il sorso è fresco, succoso e immediato, con tannini delicati.",
@@ -8074,7 +8089,8 @@
         "zh": "采用100%桑娇维塞酿造，不添加亚硫酸盐。呈明亮宝石红色，带有清脆樱桃、红色浆果及芳香草本气息，口感清新多汁，单宁细腻。",
         "ja": "亜硫酸塩無添加のサンジョヴェーゼ100%。明るいルビー色で、チェリー、赤い果実、ハーブの香り。フレッシュでジューシー、タンニンは穏やかです。",
         "nl": "Een pure Sangiovese zonder toegevoegde sulfieten. Helder robijnrood, met knapperige kers, rood fruit en aromatische kruiden. Fris, sappig en direct, met zachte tannines.",
-        "nl-BE": "Een pure Sangiovese zonder toegevoegde sulfieten. Helder robijnrood, met knapperige kers, rood fruit en aromatische kruiden. Fris, sappig en direct, met zachte tannines."
+        "nl-BE": "Een pure Sangiovese zonder toegevoegde sulfieten. Helder robijnrood, met knapperige kers, rood fruit en aromatische kruiden. Fris, sappig en direct, met zachte tannines.",
+        "sv": "En ren Sangiovese framställd utan tillsatta sulfiter. Klar rubinröd färg med friska körsbär, röda bär och aromatiska örter. Frisk, saftig och direkt med mjuka tanniner."
       },
       "wine_section": "red_tuscany"
     },
@@ -8094,7 +8110,8 @@
         "zh": "科尔托纳西拉 DOC",
         "ja": "コルトーナ・シラー DOC",
         "nl": "Cortona Syrah DOC",
-        "nl-BE": "Cortona Syrah DOC"
+        "nl-BE": "Cortona Syrah DOC",
+        "sv": "Cortona Syrah DOC"
       },
       "origin": {
         "it": "Cortona, Toscana",
@@ -8107,7 +8124,8 @@
         "zh": "托斯卡纳，科尔托纳",
         "ja": "トスカーナ、コルトーナ",
         "nl": "Cortona, Toscane",
-        "nl-BE": "Cortona, Toscane"
+        "nl-BE": "Cortona, Toscane",
+        "sv": "Cortona, Toscana"
       },
       "grapes": "Syrah 100%",
       "serving_temperature": "16–18 °C",
@@ -8123,7 +8141,8 @@
         "zh": "适合搭配羊肉、乳鸽、鸭肉、牛排、野味、猪肉、蘑菇及熟成奶酪。",
         "ja": "仔羊、鳩、鴨、ステーキ、ジビエ、豚肉、キノコ、熟成チーズにおすすめ。",
         "nl": "Lam, duif, eend, steak, wild, varkensvlees, paddenstoelen en gerijpte kazen.",
-        "nl-BE": "Lam, duif, eend, steak, wild, varkensvlees, paddenstoelen en gerijpte kazen."
+        "nl-BE": "Lam, duif, eend, steak, wild, varkensvlees, paddenstoelen en gerijpte kazen.",
+        "sv": "Lamm, duva, anka, biff, vilt, fläskkött, svamp och lagrade ostar."
       },
       "description": {
         "it": "Syrah toscano prodotto secondo principi biodinamici nelle vigne di Cortona. Fermenta spontaneamente ed esprime mora, mirtillo, prugna, violetta, pepe nero, olive ed erbe mediterranee. Il sorso è succoso e profondo, con tannini fini, freschezza e una lunga vena speziata.",
@@ -8136,7 +8155,8 @@
         "zh": "来自科尔托纳生物动力葡萄园，自然发酵。带有黑莓、蓝莓、李子、紫罗兰、黑胡椒、橄榄及地中海草本气息，口感多汁深邃，单宁细腻，香料余味悠长。",
         "ja": "コルトーナのビオディナミ畑のシラー。自然発酵し、ブラックベリー、ブルーベリー、プラム、スミレ、黒コショウ、オリーブ、ハーブの香り。ジューシーで深く、長いスパイスの余韻があります。",
         "nl": "Een Toscaanse Syrah, geproduceerd volgens biodynamische principes in de wijngaarden van Cortona. Spontaan vergist, met braam, bosbes, pruim, viooltje, zwarte peper, olijf en mediterrane kruiden. Sappig en diep, met fijne tannines en een lange kruidige finale.",
-        "nl-BE": "Een Toscaanse Syrah, geproduceerd volgens biodynamische principes in de wijngaarden van Cortona. Spontaan vergist, met braam, bosbes, pruim, viooltje, zwarte peper, olijf en mediterrane kruiden. Sappig en diep, met fijne tannines en een lange kruidige finale."
+        "nl-BE": "Een Toscaanse Syrah, geproduceerd volgens biodynamische principes in de wijngaarden van Cortona. Spontaan vergist, met braam, bosbes, pruim, viooltje, zwarte peper, olijf en mediterrane kruiden. Sappig en diep, met fijne tannines en een lange kruidige finale.",
+        "sv": "En Syrah från Toscana, odlad enligt biodynamiska principer i Cortonas vingårdar. Spontanjäst med toner av björnbär, blåbär, plommon, viol, svartpeppar, oliver och medelhavsörter. Saftig och djup med fina tanniner och lång, kryddig eftersmak."
       },
       "wine_section": "red_tuscany"
     },
@@ -8157,7 +8177,8 @@
         "zh": "有机基安蒂高级红葡萄酒 DOCG",
         "ja": "オーガニック・キアンティ・スペリオーレ DOCG",
         "nl": "Biologische Chianti Superiore DOCG",
-        "nl-BE": "Biologische Chianti Superiore DOCG"
+        "nl-BE": "Biologische Chianti Superiore DOCG",
+        "sv": "Ekologisk Chianti Superiore DOCG"
       },
       "origin": {
         "it": "Pontassieve, Toscana",
@@ -8170,7 +8191,8 @@
         "zh": "托斯卡纳，蓬塔谢韦",
         "ja": "トスカーナ、ポンタッシエーヴェ",
         "nl": "Pontassieve, Toscane",
-        "nl-BE": "Pontassieve, Toscane"
+        "nl-BE": "Pontassieve, Toscane",
+        "sv": "Pontassieve, Toscana"
       },
       "grapes": "Sangiovese 85%, Canaiolo e Ciliegiolo 15%",
       "serving_temperature": "16–18 °C",
@@ -8186,7 +8208,8 @@
         "zh": "适合搭配冷切、托斯卡纳烤面包、肉酱意面、牛排、猪肉、烧烤及奶酪。",
         "ja": "生ハム、トスカーナ風クロスティーニ、ラグーのパスタ、ステーキ、豚肉、グリル、チーズにおすすめ。",
         "nl": "Vleeswaren, Toscaanse crostini, pasta met ragù, steak, varkensvlees, gegrild vlees en kazen.",
-        "nl-BE": "Vleeswaren, Toscaanse crostini, pasta met ragù, steak, varkensvlees, gegrild vlees en kazen."
+        "nl-BE": "Vleeswaren, Toscaanse crostini, pasta met ragù, steak, varkensvlees, gegrild vlees en kazen.",
+        "sv": "Charkuterier, toskanska crostini, pasta med ragù, biff, fläskkött, grillat kött och ostar."
       },
       "description": {
         "it": "Chianti Superiore biologico fermentato con lieviti naturali e affinato tra botti di rovere e acciaio. Offre piccoli frutti rossi, violetta e leggere spezie. Il sorso è avvolgente e fresco, con tannini presenti ma ben integrati.",
@@ -8199,7 +8222,8 @@
         "zh": "采用天然酵母发酵，并在橡木与不锈钢中熟成。带有红色浆果、紫罗兰及轻微香料气息，口感清新包裹，单宁明显但融合良好。",
         "ja": "天然酵母で発酵し、オークとステンレスで熟成。赤い果実、スミレ、スパイスの香り。爽やかで包み込むような味わいと、調和したタンニンがあります。",
         "nl": "Een biologische Chianti Superiore, vergist met natuurlijke gisten en gerijpt in eiken en roestvrij staal. Rood fruit, viooltje en zachte kruiden leiden naar een omhullende, frisse smaak met aanwezige maar goed geïntegreerde tannines.",
-        "nl-BE": "Een biologische Chianti Superiore, vergist met natuurlijke gisten en gerijpt in eiken en roestvrij staal. Rood fruit, viooltje en zachte kruiden leiden naar een omhullende, frisse smaak met aanwezige maar goed geïntegreerde tannines."
+        "nl-BE": "Een biologische Chianti Superiore, vergist met natuurlijke gisten en gerijpt in eiken en roestvrij staal. Rood fruit, viooltje en zachte kruiden leiden naar een omhullende, frisse smaak met aanwezige maar goed geïntegreerde tannines.",
+        "sv": "En ekologisk Chianti Superiore, jäst med naturlig jäst och lagrad på ekfat och ståltank. Röda bär, viol och milda kryddor följs av en omslutande, frisk smak med tydliga men väl integrerade tanniner."
       },
       "wine_section": "red_tuscany"
     },
@@ -8220,7 +8244,8 @@
         "zh": "基安蒂经典红葡萄酒 DOCG",
         "ja": "キアンティ・クラッシコ DOCG",
         "nl": "Chianti Classico DOCG",
-        "nl-BE": "Chianti Classico DOCG"
+        "nl-BE": "Chianti Classico DOCG",
+        "sv": "Chianti Classico DOCG"
       },
       "origin": {
         "it": "Castelnuovo Berardenga, Toscana",
@@ -8233,7 +8258,8 @@
         "zh": "托斯卡纳，贝拉登加新堡",
         "ja": "トスカーナ、カステルヌオーヴォ・ベラルデンガ",
         "nl": "Castelnuovo Berardenga, Toscane",
-        "nl-BE": "Castelnuovo Berardenga, Toscane"
+        "nl-BE": "Castelnuovo Berardenga, Toscane",
+        "sv": "Castelnuovo Berardenga, Toscana"
       },
       "grapes": "Sangiovese 100%",
       "serving_temperature": "17–18 °C",
@@ -8249,7 +8275,8 @@
         "zh": "适合搭配佛罗伦萨牛排、烤肉、野猪、羊肉、肉酱、牛肝菌及熟成佩科里诺。",
         "ja": "フィレンツェ風ステーキ、ロースト、イノシシ、仔羊、ラグー、ポルチーニ、熟成ペコリーノにおすすめ。",
         "nl": "Bistecca alla fiorentina, gebraad, wild zwijn, lam, ragù, eekhoorntjesbrood en gerijpte pecorino.",
-        "nl-BE": "Bistecca alla fiorentina, gebraad, wild zwijn, lam, ragù, eekhoorntjesbrood en gerijpte pecorino."
+        "nl-BE": "Bistecca alla fiorentina, gebraad, wild zwijn, lam, ragù, eekhoorntjesbrood en gerijpte pecorino.",
+        "sv": "Bistecca alla fiorentina, stekar, vildsvin, lamm, ragù, karljohansvamp och lagrad pecorino."
       },
       "description": {
         "it": "Chianti Classico tradizionale da Sangiovese in purezza, affinato per circa dodici mesi nelle classiche botti della denominazione. È concentrato e longevo, con ciliegia, frutti rossi, terra, erbe e spezie. I tannini sono decisi ma eleganti.",
@@ -8262,7 +8289,8 @@
         "zh": "采用100%桑娇维塞酿造，在传统大桶中熟成约十二个月。风格浓缩并具陈年潜力，带有樱桃、红色水果、泥土、草本及香料气息，单宁坚定而优雅。",
         "ja": "サンジョヴェーゼ100%を伝統的な大樽で約12か月熟成。チェリー、赤い果実、土、ハーブ、スパイスの香り。凝縮感と熟成力があり、タンニンは力強く上品です。",
         "nl": "Een traditionele Chianti Classico van pure Sangiovese, ongeveer twaalf maanden gerijpt in traditionele vaten. Geconcentreerd en bewaarkrachtig, met kers, rood fruit, aarde, kruiden en specerijen. De tannines zijn stevig maar elegant.",
-        "nl-BE": "Een traditionele Chianti Classico van pure Sangiovese, ongeveer twaalf maanden gerijpt in traditionele vaten. Geconcentreerd en bewaarkrachtig, met kers, rood fruit, aarde, kruiden en specerijen. De tannines zijn stevig maar elegant."
+        "nl-BE": "Een traditionele Chianti Classico van pure Sangiovese, ongeveer twaalf maanden gerijpt in traditionele vaten. Geconcentreerd en bewaarkrachtig, met kers, rood fruit, aarde, kruiden en specerijen. De tannines zijn stevig maar elegant.",
+        "sv": "En traditionell Chianti Classico av enbart Sangiovese, lagrad omkring tolv månader på traditionella fat. Koncentrerad och lagringsduglig med körsbär, röd frukt, jord, örter och kryddor. Tanninerna är fasta men eleganta."
       },
       "wine_section": "red_tuscany"
     },
@@ -8283,7 +8311,8 @@
         "zh": "有机基安蒂经典红葡萄酒 DOCG",
         "ja": "オーガニック・キアンティ・クラッシコ DOCG",
         "nl": "Biologische Chianti Classico DOCG",
-        "nl-BE": "Biologische Chianti Classico DOCG"
+        "nl-BE": "Biologische Chianti Classico DOCG",
+        "sv": "Ekologisk Chianti Classico DOCG"
       },
       "origin": {
         "it": "Gaiole in Chianti, Toscana",
@@ -8296,7 +8325,8 @@
         "zh": "托斯卡纳，基安蒂地区盖奥莱",
         "ja": "トスカーナ、ガイオーレ・イン・キアンティ",
         "nl": "Gaiole in Chianti, Toscane",
-        "nl-BE": "Gaiole in Chianti, Toscane"
+        "nl-BE": "Gaiole in Chianti, Toscane",
+        "sv": "Gaiole in Chianti, Toscana"
       },
       "grapes": "Sangiovese 95%, Canaiolo 5%",
       "serving_temperature": "17 °C",
@@ -8312,7 +8342,8 @@
         "zh": "适合搭配托斯卡纳烤面包、肉酱意面、牛排、烤肉、羊肉、野猪及佩科里诺。",
         "ja": "トスカーナ風クロスティーニ、ラグーのパスタ、ステーキ、ロースト、仔羊、イノシシ、ペコリーノにおすすめ。",
         "nl": "Toscaanse crostini, pasta met ragù, steak, gebraad, lam, wild zwijn en pecorino.",
-        "nl-BE": "Toscaanse crostini, pasta met ragù, steak, gebraad, lam, wild zwijn en pecorino."
+        "nl-BE": "Toscaanse crostini, pasta met ragù, steak, gebraad, lam, wild zwijn en pecorino.",
+        "sv": "Toskanska crostini, pasta med ragù, biff, stekar, lamm, vildsvin och pecorino."
       },
       "description": {
         "it": "Chianti Classico biologico fermentato per tredici giorni e maturato undici mesi tra botti, tonneaux e barrique, seguito da sei mesi in bottiglia. Offre ciliegia, viola, erbe e spezie. Il sorso è fresco e preciso, con tannini fini e grande equilibrio.",
@@ -8325,7 +8356,8 @@
         "zh": "发酵十三天，在大桶、吨桶和小橡木桶中熟成十一个月，再瓶陈六个月。带有樱桃、紫罗兰、草本及香料气息，口感清新精准，单宁细腻且均衡。",
         "ja": "13日間発酵し、大樽、トノー、バリックで11か月、瓶内で6か月熟成。チェリー、スミレ、ハーブ、スパイスの香り。爽やかで精密、タンニンは上品です。",
         "nl": "Een biologische Chianti Classico, dertien dagen vergist en elf maanden gerijpt in vaten, tonneaux en barriques, gevolgd door zes maanden op fles. Kers, viooltje, kruiden en specerijen leiden naar een frisse, precieze en evenwichtige smaak met fijne tannines.",
-        "nl-BE": "Een biologische Chianti Classico, dertien dagen vergist en elf maanden gerijpt in vaten, tonneaux en barriques, gevolgd door zes maanden op fles. Kers, viooltje, kruiden en specerijen leiden naar een frisse, precieze en evenwichtige smaak met fijne tannines."
+        "nl-BE": "Een biologische Chianti Classico, dertien dagen vergist en elf maanden gerijpt in vaten, tonneaux en barriques, gevolgd door zes maanden op fles. Kers, viooltje, kruiden en specerijen leiden naar een frisse, precieze en evenwichtige smaak met fijne tannines.",
+        "sv": "En ekologisk Chianti Classico, jäst i tretton dagar och lagrad elva månader på stora fat, tonneauxfat och barriquefat, följt av sex månader på flaska. Körsbär, viol, örter och kryddor följs av en frisk, precis och balanserad smak med fina tanniner."
       },
       "wine_section": "red_tuscany"
     },
@@ -8346,7 +8378,8 @@
         "zh": "有机基安蒂经典珍藏红葡萄酒 DOCG",
         "ja": "オーガニック・キアンティ・クラッシコ・リゼルヴァ DOCG",
         "nl": "Biologische Chianti Classico Riserva DOCG",
-        "nl-BE": "Biologische Chianti Classico Riserva DOCG"
+        "nl-BE": "Biologische Chianti Classico Riserva DOCG",
+        "sv": "Ekologisk Chianti Classico Riserva DOCG"
       },
       "origin": {
         "it": "Gaiole in Chianti, Toscana",
@@ -8359,7 +8392,8 @@
         "zh": "托斯卡纳，基安蒂地区盖奥莱",
         "ja": "トスカーナ、ガイオーレ・イン・キアンティ",
         "nl": "Gaiole in Chianti, Toscane",
-        "nl-BE": "Gaiole in Chianti, Toscane"
+        "nl-BE": "Gaiole in Chianti, Toscane",
+        "sv": "Gaiole in Chianti, Toscana"
       },
       "grapes": "Sangiovese 97%, Canaiolo 3%",
       "serving_temperature": "17–18 °C",
@@ -8375,7 +8409,8 @@
         "zh": "适合搭配佛罗伦萨牛排、羊肉、野猪、炖肉、烤肉、松露、牛肝菌及熟成奶酪。",
         "ja": "フィレンツェ風ステーキ、仔羊、イノシシ、煮込み、ロースト、トリュフ、ポルチーニ、熟成チーズにおすすめ。",
         "nl": "Bistecca alla fiorentina, lam, wild zwijn, gestoofd vlees, gebraad, truffel, eekhoorntjesbrood en gerijpte kazen.",
-        "nl-BE": "Bistecca alla fiorentina, lam, wild zwijn, gestoofd vlees, gebraad, truffel, eekhoorntjesbrood en gerijpte kazen."
+        "nl-BE": "Bistecca alla fiorentina, lam, wild zwijn, gestoofd vlees, gebraad, truffel, eekhoorntjesbrood en gerijpte kazen.",
+        "sv": "Bistecca alla fiorentina, lamm, vildsvin, bräserat kött, stekar, tryffel, karljohansvamp och lagrade ostar."
       },
       "description": {
         "it": "Riserva biologica prodotta da uve selezionate, fermentata e macerata per quindici giorni. Matura venti mesi in botti e fusti di rovere francese e affina sei mesi in bottiglia. È profonda e longeva, con ciliegia scura, viola, tabacco, cuoio e spezie.",
@@ -8388,7 +8423,8 @@
         "zh": "采用精选葡萄，发酵浸皮十五天，在法国橡木桶中熟成二十个月，再瓶陈六个月。带有深色樱桃、紫罗兰、烟草、皮革及香料气息，口感深邃并具优秀陈年潜力。",
         "ja": "選別したブドウを15日間発酵・醸しし、フレンチオークで20か月、瓶内で6か月熟成。ダークチェリー、スミレ、タバコ、革、スパイスの香り。深みと熟成力があります。",
         "nl": "Een biologische Riserva van geselecteerde druiven, vijftien dagen vergist en gemacereerd. Twintig maanden gerijpt in Franse eiken vaten en barriques en zes maanden op fles. Diep en bewaarkrachtig, met donkere kers, viooltje, tabak, leer en kruiden.",
-        "nl-BE": "Een biologische Riserva van geselecteerde druiven, vijftien dagen vergist en gemacereerd. Twintig maanden gerijpt in Franse eiken vaten en barriques en zes maanden op fles. Diep en bewaarkrachtig, met donkere kers, viooltje, tabak, leer en kruiden."
+        "nl-BE": "Een biologische Riserva van geselecteerde druiven, vijftien dagen vergist en gemacereerd. Twintig maanden gerijpt in Franse eiken vaten en barriques en zes maanden op fles. Diep en bewaarkrachtig, met donkere kers, viooltje, tabak, leer en kruiden.",
+        "sv": "En ekologisk Riserva av utvalda druvor, jäst och macererad i femton dagar. Lagrad tjugo månader på franska ekfat av olika storlekar och sex månader på flaska. Djup och lagringsduglig med mörka körsbär, viol, tobak, läder och kryddor."
       },
       "wine_section": "red_tuscany"
     },
@@ -8409,7 +8445,8 @@
         "zh": "基安蒂经典特选红葡萄酒 DOCG",
         "ja": "キアンティ・クラッシコ・グラン・セレツィオーネ DOCG",
         "nl": "Chianti Classico Gran Selezione DOCG",
-        "nl-BE": "Chianti Classico Gran Selezione DOCG"
+        "nl-BE": "Chianti Classico Gran Selezione DOCG",
+        "sv": "Chianti Classico Gran Selezione DOCG"
       },
       "origin": {
         "it": "Castellina in Chianti, Toscana",
@@ -8422,7 +8459,8 @@
         "zh": "托斯卡纳，基安蒂地区卡斯泰利纳",
         "ja": "トスカーナ、カステッリーナ・イン・キアンティ",
         "nl": "Castellina in Chianti, Toscane",
-        "nl-BE": "Castellina in Chianti, Toscane"
+        "nl-BE": "Castellina in Chianti, Toscane",
+        "sv": "Castellina in Chianti, Toscana"
       },
       "grapes": "Sangiovese 80%; Merlot, Cabernet Sauvignon, Colorino e altre uve complementari 20%",
       "serving_temperature": "18 °C",
@@ -8438,7 +8476,8 @@
         "zh": "适合搭配佛罗伦萨牛排、烤肉、羊肉、野猪、炖肉、肉酱、松露及熟成奶酪。",
         "ja": "フィレンツェ風ステーキ、ロースト、仔羊、イノシシ、煮込み肉、ラグー、トリュフ、熟成チーズにおすすめ。",
         "nl": "Bistecca alla fiorentina, gebraad, lam, wild zwijn, gestoofd vlees, ragù, truffel en gerijpte kazen.",
-        "nl-BE": "Bistecca alla fiorentina, gebraad, lam, wild zwijn, gestoofd vlees, ragù, truffel en gerijpte kazen."
+        "nl-BE": "Bistecca alla fiorentina, gebraad, lam, wild zwijn, gestoofd vlees, ragù, truffel en gerijpte kazen.",
+        "sv": "Bistecca alla fiorentina, stekar, lamm, vildsvin, bräserat kött, ragù, tryffel och lagrade ostar."
       },
       "description": {
         "it": "Storica Gran Selezione affinata tra cemento, barrique di secondo passaggio e grandi botti di rovere di Slavonia. Offre ciliegia matura, prugna, incenso, grafite, tabacco e spezie. Il sorso è intenso e armonioso, con tannini levigati, buona acidità e un finale molto persistente.",
@@ -8451,7 +8490,8 @@
         "zh": "在水泥罐、二次使用的小橡木桶及大型斯拉沃尼亚橡木桶中熟成。带有成熟樱桃、李子、焚香、石墨、烟草及香料气息，口感浓郁协调，单宁细腻，余味持久。",
         "ja": "コンクリート、使用済みバリック、大型スラヴォニアオーク樽で熟成。熟したチェリー、プラム、香、黒鉛、タバコ、スパイスの香り。豊かで調和があり、長い余韻があります。",
         "nl": "Een historische Gran Selezione, gerijpt in beton, tweedejaars barriques en grote Slavonische eiken vaten. Rijpe kers, pruim, wierook, grafiet, tabak en kruiden leiden naar een intense, harmonieuze smaak met gepolijste tannines, evenwichtige zuren en een aanhoudende finale.",
-        "nl-BE": "Een historische Gran Selezione, gerijpt in beton, tweedejaars barriques en grote Slavonische eiken vaten. Rijpe kers, pruim, wierook, grafiet, tabak en kruiden leiden naar een intense, harmonieuze smaak met gepolijste tannines, evenwichtige zuren en een aanhoudende finale."
+        "nl-BE": "Een historische Gran Selezione, gerijpt in beton, tweedejaars barriques en grote Slavonische eiken vaten. Rijpe kers, pruim, wierook, grafiet, tabak en kruiden leiden naar een intense, harmonieuze smaak met gepolijste tannines, evenwichtige zuren en een aanhoudende finale.",
+        "sv": "En historisk Gran Selezione, lagrad i betong, barriquefat som använts en gång tidigare och stora slavonska ekfat. Mogna körsbär, plommon, rökelse, grafit, tobak och kryddor följs av en intensiv, harmonisk smak med polerade tanniner, balanserad syra och lång eftersmak."
       },
       "wine_section": "red_tuscany"
     },
