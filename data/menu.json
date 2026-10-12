@@ -9181,7 +9181,8 @@
         "zh": "托斯卡纳红葡萄酒 IGT",
         "ja": "トスカーナ赤ワイン IGT",
         "nl": "Toscana Red IGT",
-        "nl-BE": "Toscana Red IGT"
+        "nl-BE": "Toscana Red IGT",
+        "sv": "Toscana Rosso IGT"
       },
       "origin": {
         "it": "Bolgheri, Toscana",
@@ -9194,7 +9195,8 @@
         "zh": "托斯卡纳，博格利",
         "ja": "トスカーナ、ボルゲリ",
         "nl": "Bolgheri, Toscane",
-        "nl-BE": "Bolgheri, Toscane"
+        "nl-BE": "Bolgheri, Toscane",
+        "sv": "Bolgheri, Toscana"
       },
       "grapes": "Cabernet Sauvignon 51%, Merlot 44%, Petit Verdot 5%",
       "serving_temperature": "16–18 °C",
@@ -9210,7 +9212,8 @@
         "zh": "适合搭配肉酱意面、千层面、烤肉、意式切片牛肉、猪肉、烧烤及中度熟成奶酪。",
         "ja": "ラグーのパスタ、ラザニア、ロースト、牛肉のタリアータ、豚肉、グリル、中熟成チーズにおすすめ。",
         "nl": "Pasta met ragù, lasagne, gebraad, gesneden rundvlees, varkensvlees, gegrild vlees en halfgerijpte kazen.",
-        "nl-BE": "Pasta met ragù, lasagne, gebraad, gesneden rundvlees, varkensvlees, gegrild vlees en halfgerijpte kazen."
+        "nl-BE": "Pasta met ragù, lasagne, gebraad, gesneden rundvlees, varkensvlees, gegrild vlees en halfgerijpte kazen.",
+        "sv": "Pasta med ragù, lasagne, stekar, skivat nötkött, fläskkött, grillat kött och mellanlagrade ostar."
       },
       "description": {
         "it": "Rosso toscano immediato e armonioso, vinificato separatamente in acciaio e affinato dieci mesi tra vasche di cemento e barrique già utilizzate per Ornellaia. Offre ciliegia matura, mora e pepe nero. Il sorso è generoso e fresco, con tannini morbidi e persistenti.",
@@ -9223,7 +9226,8 @@
         "zh": "各品种分别在不锈钢中酿造，并在水泥罐及曾用于奥纳亚正牌酒的小橡木桶中熟成十个月。带有成熟樱桃、黑莓及黑胡椒气息，口感丰润清新，单宁柔顺。",
         "ja": "品種ごとにステンレスで醸造し、コンクリート槽とオルネッライアに使用したバリックで10か月熟成。熟したチェリー、ブラックベリー、黒コショウの香り。豊かで爽やかです。",
         "nl": "Een toegankelijke en harmonieuze Toscaanse rode wijn, afzonderlijk gevinifieerd in roestvrij staal en tien maanden gerijpt in betonnen kuipen en barriques die eerder voor Ornellaia zijn gebruikt. Rijpe kers, braam en zwarte peper leiden naar een royale, frisse smaak met zachte tannines.",
-        "nl-BE": "Een toegankelijke en harmonieuze Toscaanse rode wijn, afzonderlijk gevinifieerd in roestvrij staal en tien maanden gerijpt in betonnen kuipen en barriques die eerder voor Ornellaia zijn gebruikt. Rijpe kers, braam en zwarte peper leiden naar een royale, frisse smaak met zachte tannines."
+        "nl-BE": "Een toegankelijke en harmonieuze Toscaanse rode wijn, afzonderlijk gevinifieerd in roestvrij staal en tien maanden gerijpt in betonnen kuipen en barriques die eerder voor Ornellaia zijn gebruikt. Rijpe kers, braam en zwarte peper leiden naar een royale, frisse smaak met zachte tannines.",
+        "sv": "Ett lättillgängligt och harmoniskt rött vin från Toscana, vars druvsorter vinifieras separat på ståltank och lagras tio månader i betongkar och barriquefat som tidigare använts för Ornellaia. Mogna körsbär, björnbär och svartpeppar följs av en generös, frisk smak med mjuka tanniner."
       },
       "wine_section": "red_bolgheri"
     },
@@ -9244,7 +9248,8 @@
         "zh": "博格利红葡萄酒 DOC",
         "ja": "ボルゲリ・ロッソ DOC",
         "nl": "Bolgheri Rosso DOC",
-        "nl-BE": "Bolgheri Rosso DOC"
+        "nl-BE": "Bolgheri Rosso DOC",
+        "sv": "Bolgheri Rosso DOC"
       },
       "origin": {
         "it": "Bolgheri, Toscana",
@@ -9257,7 +9262,8 @@
         "zh": "托斯卡纳，博格利",
         "ja": "トスカーナ、ボルゲリ",
         "nl": "Bolgheri, Toscane",
-        "nl-BE": "Bolgheri, Toscane"
+        "nl-BE": "Bolgheri, Toscane",
+        "sv": "Bolgheri, Toscana"
       },
       "grapes": "Merlot 65%, Cabernet Sauvignon 25%, Cabernet Franc 10%",
       "serving_temperature": "16–18 °C",
@@ -9273,7 +9279,8 @@
         "zh": "适合搭配牛里脊、牛排、羊肉、鸭肉、烤肉、炖肉、蘑菇及熟成奶酪。",
         "ja": "牛フィレ、ステーキ、仔羊、鴨、ロースト、煮込み肉、キノコ、熟成チーズにおすすめ。",
         "nl": "Runderfilet, steak, lam, eend, gebraad, gestoofd vlees, paddenstoelen en gerijpte kazen.",
-        "nl-BE": "Runderfilet, steak, lam, eend, gebraad, gestoofd vlees, paddenstoelen en gerijpte kazen."
+        "nl-BE": "Runderfilet, steak, lam, eend, gebraad, gestoofd vlees, paddenstoelen en gerijpte kazen.",
+        "sv": "Oxfilé, biff, lamm, anka, stekar, bräserat kött, svamp och lagrade ostar."
       },
       "description": {
         "it": "Secondo vino di Ornellaia, vinificato separatamente tra acciaio e cemento e affinato quindici mesi in barrique, per il 25% nuove, più sei mesi in bottiglia. Offre frutta nera matura, spezie e legno leggermente tostato. Il sorso è succoso e pieno, con tannini ricchi e un finale morbido e persistente.",
@@ -9286,7 +9293,8 @@
         "zh": "奥纳亚的副牌酒，各品种分别在不锈钢和水泥中酿造，并在小橡木桶中熟成十五个月，其中25%为新桶，再瓶陈六个月。带有成熟黑色水果、香料及轻微烘烤木香。",
         "ja": "オルネッライアのセカンドワイン。ステンレスとコンクリートで個別に醸造し、新樽25%のバリックで15か月、瓶内で6か月熟成。黒い果実、スパイス、トースト香があります。",
         "nl": "Ornellaia's tweede wijn, afzonderlijk gevinifieerd in roestvrij staal en beton en vijftien maanden gerijpt in barriques, waarvan 25% nieuw, gevolgd door zes maanden op fles. Rijp zwart fruit, kruiden en licht geroosterd eiken leiden naar een sappige, volle smaak met rijke tannines.",
-        "nl-BE": "Ornellaia's tweede wijn, afzonderlijk gevinifieerd in roestvrij staal en beton en vijftien maanden gerijpt in barriques, waarvan 25% nieuw, gevolgd door zes maanden op fles. Rijp zwart fruit, kruiden en licht geroosterd eiken leiden naar een sappige, volle smaak met rijke tannines."
+        "nl-BE": "Ornellaia's tweede wijn, afzonderlijk gevinifieerd in roestvrij staal en beton en vijftien maanden gerijpt in barriques, waarvan 25% nieuw, gevolgd door zes maanden op fles. Rijp zwart fruit, kruiden en licht geroosterd eiken leiden naar een sappige, volle smaak met rijke tannines.",
+        "sv": "Ornellaias andravin, vars druvsorter vinifieras separat på ståltank och i betong och lagras femton månader på barriquefat, varav 25 % nya, följt av sex månader på flaska. Mogen mörk frukt, kryddor och lätt rostad ek följs av en saftig, fyllig smak med rika tanniner."
       },
       "wine_section": "red_bolgheri"
     },
@@ -9307,7 +9315,8 @@
         "zh": "博格利红葡萄酒 DOC",
         "ja": "ボルゲリ・ロッソ DOC",
         "nl": "Bolgheri Rosso DOC",
-        "nl-BE": "Bolgheri Rosso DOC"
+        "nl-BE": "Bolgheri Rosso DOC",
+        "sv": "Bolgheri Rosso DOC"
       },
       "origin": {
         "it": "Bolgheri, Toscana",
@@ -9320,7 +9329,8 @@
         "zh": "托斯卡纳，博格利",
         "ja": "トスカーナ、ボルゲリ",
         "nl": "Bolgheri, Toscane",
-        "nl-BE": "Bolgheri, Toscane"
+        "nl-BE": "Bolgheri, Toscane",
+        "sv": "Bolgheri, Toscana"
       },
       "grapes": "Merlot 50%, Cabernet Sauvignon 28%, Cabernet Franc 11%, Petit Verdot 11%",
       "serving_temperature": "16–18 °C",
@@ -9336,7 +9346,8 @@
         "zh": "适合搭配牛里脊、牛排、羊肉、鸭肉、烤肉、炖肉、蘑菇及熟成奶酪。",
         "ja": "牛フィレ、ステーキ、仔羊、鴨、ロースト、煮込み肉、キノコ、熟成チーズにおすすめ。",
         "nl": "Runderfilet, steak, lam, eend, gebraad, gestoofd vlees, paddenstoelen en gerijpte kazen.",
-        "nl-BE": "Runderfilet, steak, lam, eend, gebraad, gestoofd vlees, paddenstoelen en gerijpte kazen."
+        "nl-BE": "Runderfilet, steak, lam, eend, gebraad, gestoofd vlees, paddenstoelen en gerijpte kazen.",
+        "sv": "Oxfilé, biff, lamm, anka, stekar, bräserat kött, svamp och lagrade ostar."
       },
       "description": {
         "it": "Secondo vino di Ornellaia nel formato Magnum. Il 2021 affina quindici mesi in barrique, per il 25% nuove, più sei mesi in bottiglia. Offre pepe rosa, bacche di cipresso, frutta rossa e macchia mediterranea. Il sorso è elegante e concentrato, con bella acidità e un finale sapido e persistente.",
@@ -9349,7 +9360,8 @@
         "zh": "奥纳亚副牌酒的1.5升大瓶装。2021年份在小橡木桶中熟成十五个月，其中25%为新桶，再瓶陈六个月。带有粉红胡椒、柏树果、红色水果及地中海灌木气息。",
         "ja": "オルネッライアのセカンドワイン、マグナム。2021年は新樽25%のバリックで15か月、瓶内で6か月熟成。ピンクペッパー、ヒノキの実、赤い果実、地中海ハーブの香り。",
         "nl": "Ornellaia's tweede wijn in Magnumformaat. De jaargang 2021 rijpt vijftien maanden in barriques, waarvan 25% nieuw, gevolgd door zes maanden op fles. Roze peper, cipresbessen, rood fruit en mediterrane kruiden leiden naar een elegante, geconcentreerde smaak met levendige zuren.",
-        "nl-BE": "Ornellaia's tweede wijn in Magnumformaat. De jaargang 2021 rijpt vijftien maanden in barriques, waarvan 25% nieuw, gevolgd door zes maanden op fles. Roze peper, cipresbessen, rood fruit en mediterrane kruiden leiden naar een elegante, geconcentreerde smaak met levendige zuren."
+        "nl-BE": "Ornellaia's tweede wijn in Magnumformaat. De jaargang 2021 rijpt vijftien maanden in barriques, waarvan 25% nieuw, gevolgd door zes maanden op fles. Roze peper, cipresbessen, rood fruit en mediterrane kruiden leiden naar een elegante, geconcentreerde smaak met levendige zuren.",
+        "sv": "Ornellaias andravin i magnumformat. Årgång 2021 lagras femton månader på barriquefat, varav 25 % nya, följt av sex månader på flaska. Rosépeppar, cypressbär, röd frukt och medelhavsörter följs av en elegant, koncentrerad smak med livlig syra."
       },
       "wine_section": "red_bolgheri"
     },
@@ -9369,7 +9381,8 @@
         "zh": "博格利红葡萄酒 DOC",
         "ja": "ボルゲリ・ロッソ DOC",
         "nl": "Bolgheri Rosso DOC",
-        "nl-BE": "Bolgheri Rosso DOC"
+        "nl-BE": "Bolgheri Rosso DOC",
+        "sv": "Bolgheri Rosso DOC"
       },
       "origin": {
         "it": "Bolgheri, Toscana",
@@ -9382,7 +9395,8 @@
         "zh": "托斯卡纳，博格利",
         "ja": "トスカーナ、ボルゲリ",
         "nl": "Bolgheri, Toscane",
-        "nl-BE": "Bolgheri, Toscane"
+        "nl-BE": "Bolgheri, Toscane",
+        "sv": "Bolgheri, Toscana"
       },
       "grapes": "Sangiovese 30%, Cabernet Sauvignon 30%, Merlot 20%, Syrah 10%, Teroldego 10%",
       "serving_temperature": "16–18 °C",
@@ -9398,7 +9412,8 @@
         "zh": "适合搭配肉酱意面、烤肉、烧烤、猪肉、鸭肉、冷切及中度熟成奶酪。",
         "ja": "ラグーのパスタ、ロースト、肉のグリル、豚肉、鴨、生ハム、中熟成チーズにおすすめ。",
         "nl": "Pasta met ragù, gebraad, gegrild vlees, varkensvlees, eend, vleeswaren en halfgerijpte kazen.",
-        "nl-BE": "Pasta met ragù, gebraad, gegrild vlees, varkensvlees, eend, vleeswaren en halfgerijpte kazen."
+        "nl-BE": "Pasta met ragù, gebraad, gegrild vlees, varkensvlees, eend, vleeswaren en halfgerijpte kazen.",
+        "sv": "Pasta med ragù, stekar, grillat kött, fläskkött, anka, charkuterier och mellanlagrade ostar."
       },
       "description": {
         "it": "Rosso rappresentativo dello stile di Michele Satta e della bevibilità bolgherese. Fermenta spontaneamente in acciaio e cemento e affina dodici mesi tra cemento e barrique di secondo e terzo passaggio. Offre ciliegia, mora, erbe, pepe e spezie, con un sorso fresco e complesso.",
@@ -9411,7 +9426,8 @@
         "zh": "体现Michele Satta风格及博格利易饮特性的红葡萄酒。在不锈钢和水泥中自然发酵，并在水泥及二、三次使用的小橡木桶中熟成十二个月。带有樱桃、黑莓、草本、胡椒及香料气息。",
         "ja": "ミケーレ・サッタのスタイルとボルゲリらしい飲みやすさを表現。ステンレスとコンクリートで自然発酵し、コンクリートと使用済みバリックで12か月熟成。",
         "nl": "Een rode wijn die de stijl van Michele Satta en de natuurlijke doordrinkbaarheid van Bolgheri uitdrukt. Spontaan vergist in roestvrij staal en beton en twaalf maanden gerijpt in beton en tweede- en derdejaars barriques. Kers, braam, kruiden, peper en specerijen leiden naar een frisse, complexe smaak.",
-        "nl-BE": "Een rode wijn die de stijl van Michele Satta en de natuurlijke doordrinkbaarheid van Bolgheri uitdrukt. Spontaan vergist in roestvrij staal en beton en twaalf maanden gerijpt in beton en tweede- en derdejaars barriques. Kers, braam, kruiden, peper en specerijen leiden naar een frisse, complexe smaak."
+        "nl-BE": "Een rode wijn die de stijl van Michele Satta en de natuurlijke doordrinkbaarheid van Bolgheri uitdrukt. Spontaan vergist in roestvrij staal en beton en twaalf maanden gerijpt in beton en tweede- en derdejaars barriques. Kers, braam, kruiden, peper en specerijen leiden naar een frisse, complexe smaak.",
+        "sv": "Ett rött vin som uttrycker Michele Sattas stil och Bolgheris naturliga lättdruckenhet. Spontanjäst på ståltank och i betong och lagrat tolv månader i betong samt på barriquefat som använts två eller tre gånger. Körsbär, björnbär, örter, peppar och kryddor följs av en frisk, komplex smak."
       },
       "wine_section": "red_bolgheri"
     },
@@ -9432,7 +9448,8 @@
         "zh": "博格利高级红葡萄酒 DOC",
         "ja": "ボルゲリ・ロッソ・スペリオーレ DOC",
         "nl": "Bolgheri Rosso Superiore DOC",
-        "nl-BE": "Bolgheri Rosso Superiore DOC"
+        "nl-BE": "Bolgheri Rosso Superiore DOC",
+        "sv": "Bolgheri Rosso Superiore DOC"
       },
       "origin": {
         "it": "Bolgheri, Toscana",
@@ -9445,7 +9462,8 @@
         "zh": "托斯卡纳，博格利",
         "ja": "トスカーナ、ボルゲリ",
         "nl": "Bolgheri, Toscane",
-        "nl-BE": "Bolgheri, Toscane"
+        "nl-BE": "Bolgheri, Toscane",
+        "sv": "Bolgheri, Toscana"
       },
       "grapes": "Cabernet Sauvignon, Merlot, Cabernet Franc, Sangiovese",
       "serving_temperature": "17–18 °C",
@@ -9461,7 +9479,8 @@
         "zh": "适合搭配牛排、牛里脊、羊肉、乳鸽、野味、炖肉、蘑菇及熟成奶酪。",
         "ja": "ステーキ、牛フィレ、仔羊、鳩、ジビエ、煮込み肉、キノコ、熟成チーズにおすすめ。",
         "nl": "Steak, runderfilet, lam, duif, wild, gestoofd vlees, paddenstoelen en gerijpte kazen.",
-        "nl-BE": "Steak, runderfilet, lam, duif, wild, gestoofd vlees, paddenstoelen en gerijpte kazen."
+        "nl-BE": "Steak, runderfilet, lam, duif, wild, gestoofd vlees, paddenstoelen en gerijpte kazen.",
+        "sv": "Biff, oxfilé, lamm, duva, vilt, bräserat kött, svamp och lagrade ostar."
       },
       "description": {
         "it": "Bolgheri Superiore fermentato separatamente per ogni vitigno in tini troncoconici di cemento con lieviti spontanei. Dopo circa venti giorni passa direttamente in barrique francesi, per il 40% nuove, dove matura da dodici a diciotto mesi. È profondo ed elegante, con frutta scura, erbe balsamiche, spezie e tannini raffinati.",
@@ -9474,7 +9493,8 @@
         "zh": "各品种分别在截锥形水泥罐中以天然酵母发酵。约二十天后转入法国小橡木桶熟成十二至十八个月，其中40%为新桶。带有深色水果、香脂草本及香料气息，单宁精致。",
         "ja": "品種ごとに円錐形コンクリート槽で自然発酵。約20日後、40%新樽のフレンチバリックで12〜18か月熟成。黒い果実、バルサミックハーブ、スパイス、上質なタンニンがあります。",
         "nl": "Een Bolgheri Superiore waarvan de druivenrassen afzonderlijk spontaan vergisten in kegelvormige betonnen kuipen. Na ongeveer twintig dagen gaat de wijn rechtstreeks naar Franse barriques, waarvan 40% nieuw, voor twaalf tot achttien maanden. Diep en elegant, met donker fruit, balsamische kruiden, specerijen en verfijnde tannines.",
-        "nl-BE": "Een Bolgheri Superiore waarvan de druivenrassen afzonderlijk spontaan vergisten in kegelvormige betonnen kuipen. Na ongeveer twintig dagen gaat de wijn rechtstreeks naar Franse barriques, waarvan 40% nieuw, voor twaalf tot achttien maanden. Diep en elegant, met donker fruit, balsamische kruiden, specerijen en verfijnde tannines."
+        "nl-BE": "Een Bolgheri Superiore waarvan de druivenrassen afzonderlijk spontaan vergisten in kegelvormige betonnen kuipen. Na ongeveer twintig dagen gaat de wijn rechtstreeks naar Franse barriques, waarvan 40% nieuw, voor twaalf tot achttien maanden. Diep en elegant, met donker fruit, balsamische kruiden, specerijen en verfijnde tannines.",
+        "sv": "En Bolgheri Superiore vars druvsorter jäser separat med naturlig jäst i koniska betongkar. Efter omkring tjugo dagar flyttas vinet direkt till franska barriquefat, varav 40 % nya, för tolv till arton månaders lagring. Djupt och elegant med mörk frukt, balsamiska örter, kryddor och raffinerade tanniner."
       },
       "wine_section": "red_bolgheri"
     },
@@ -9495,7 +9515,8 @@
         "zh": "托斯卡纳红葡萄酒 IGT",
         "ja": "トスカーナ赤ワイン IGT",
         "nl": "Toscana Red IGT",
-        "nl-BE": "Toscana Red IGT"
+        "nl-BE": "Toscana Red IGT",
+        "sv": "Toscana Rosso IGT"
       },
       "origin": {
         "it": "Bolgheri, Toscana",
@@ -9508,7 +9529,8 @@
         "zh": "托斯卡纳，博格利",
         "ja": "トスカーナ、ボルゲリ",
         "nl": "Bolgheri, Toscane",
-        "nl-BE": "Bolgheri, Toscane"
+        "nl-BE": "Bolgheri, Toscane",
+        "sv": "Bolgheri, Toscana"
       },
       "grapes": "Syrah 40%, Merlot 30%, Cabernet Sauvignon 30%",
       "serving_temperature": "16–18 °C",
@@ -9524,7 +9546,8 @@
         "zh": "适合搭配肉酱意面、披萨、烤肉、猪肉、羊肉、烧烤、冷切及中度熟成奶酪。",
         "ja": "ラグーのパスタ、ピッツァ、ロースト、豚肉、仔羊、グリル、生ハム、中熟成チーズにおすすめ。",
         "nl": "Pasta met ragù, pizza, gebraad, varkensvlees, lam, gegrild vlees, vleeswaren en halfgerijpte kazen.",
-        "nl-BE": "Pasta met ragù, pizza, gebraad, varkensvlees, lam, gegrild vlees, vleeswaren en halfgerijpte kazen."
+        "nl-BE": "Pasta met ragù, pizza, gebraad, varkensvlees, lam, gegrild vlees, vleeswaren en halfgerijpte kazen.",
+        "sv": "Pasta med ragù, pizza, stekar, fläskkött, lamm, grillat kött, charkuterier och mellanlagrade ostar."
       },
       "description": {
         "it": "Rosso mediterraneo fermentato in acciaio e affinato in parte nello stesso materiale e in parte per otto mesi in barrique di secondo passaggio. Offre frutta rossa e scura matura, macchia mediterranea, spezie e una piacevole nota salina. Il sorso è pieno, fresco e immediato.",
@@ -9537,7 +9560,8 @@
         "zh": "在不锈钢中发酵，部分在不锈钢中熟成，部分在二次使用的小橡木桶中熟成八个月。带有成熟红色及深色水果、地中海草本、香料和咸鲜气息。",
         "ja": "ステンレスで発酵し、一部はステンレス、一部は使用済みバリックで8か月熟成。熟した赤黒い果実、地中海ハーブ、スパイス、塩味があります。",
         "nl": "Een mediterrane rode wijn, vergist in roestvrij staal en deels in staal en deels acht maanden in tweedejaars barriques gerijpt. Rijp rood en donker fruit, mediterrane kruiden, specerijen en een aangename zilte toets leiden naar een volle, frisse en toegankelijke smaak.",
-        "nl-BE": "Een mediterrane rode wijn, vergist in roestvrij staal en deels in staal en deels acht maanden in tweedejaars barriques gerijpt. Rijp rood en donker fruit, mediterrane kruiden, specerijen en een aangename zilte toets leiden naar een volle, frisse en toegankelijke smaak."
+        "nl-BE": "Een mediterrane rode wijn, vergist in roestvrij staal en deels in staal en deels acht maanden in tweedejaars barriques gerijpt. Rijp rood en donker fruit, mediterrane kruiden, specerijen en een aangename zilte toets leiden naar een volle, frisse en toegankelijke smaak.",
+        "sv": "Ett medelhavspräglat rött vin, jäst på ståltank och lagrat delvis på ståltank och delvis åtta månader på barriquefat som använts tidigare. Mogen röd och mörk frukt, medelhavsörter, kryddor och en behaglig ton av sälta följs av en fyllig, frisk och lättillgänglig smak."
       },
       "wine_section": "red_bolgheri"
     },
@@ -9558,7 +9582,8 @@
         "zh": "博格利红葡萄酒 DOC",
         "ja": "ボルゲリ・ロッソ DOC",
         "nl": "Bolgheri Rosso DOC",
-        "nl-BE": "Bolgheri Rosso DOC"
+        "nl-BE": "Bolgheri Rosso DOC",
+        "sv": "Bolgheri Rosso DOC"
       },
       "origin": {
         "it": "Bolgheri, Toscana",
@@ -9571,7 +9596,8 @@
         "zh": "托斯卡纳，博格利",
         "ja": "トスカーナ、ボルゲリ",
         "nl": "Bolgheri, Toscane",
-        "nl-BE": "Bolgheri, Toscane"
+        "nl-BE": "Bolgheri, Toscane",
+        "sv": "Bolgheri, Toscana"
       },
       "grapes": "Merlot 50%, Cabernet Sauvignon 20%, Cabernet Franc 20%, Petit Verdot 10%",
       "serving_temperature": "16–18 °C",
@@ -9587,7 +9613,8 @@
         "zh": "适合搭配烧烤肉类、契安尼娜牛肉、炖小牛膝、烤肉、野兔宽面、野猪、佩科里诺及烟熏乳清奶酪。",
         "ja": "肉のグリル、キアニーナ牛、オッソブーコ、ロースト、野ウサギのパッパルデッレ、イノシシ、ペコリーノ、燻製リコッタにおすすめ。",
         "nl": "Gegrild vlees, Chianina-rundvlees, ossobuco, gebraad, pappardelle met haas, wild zwijn, pecorino en gerookte ricotta.",
-        "nl-BE": "Gegrild vlees, Chianina-rundvlees, ossobuco, gebraad, pappardelle met haas, wild zwijn, pecorino en gerookte ricotta."
+        "nl-BE": "Gegrild vlees, Chianina-rundvlees, ossobuco, gebraad, pappardelle met haas, wild zwijn, pecorino en gerookte ricotta.",
+        "sv": "Grillat kött, nötkött av rasen Chianina, ossobuco, stekar, pappardelle med hare, vildsvin, pecorino och rökt ricotta."
       },
       "description": {
         "it": "Bolgheri Rosso fermentato dodici giorni in acciaio e affinato quindici mesi in barrique francesi da 225 litri, per il 30% nuove. Offre frutto fresco e croccante, bacche rosse, note minerali e spezie. Il sorso è di medio corpo, con tannini eleganti, setosi e avvolgenti e un finale preciso e vivace.",
@@ -9600,7 +9627,8 @@
         "zh": "在不锈钢中发酵十二天，并在225升法国小橡木桶中熟成十五个月，其中30%为新桶。带有清脆新鲜水果、红色浆果、矿物及香料气息，酒体适中，单宁优雅丝滑。",
         "ja": "ステンレスで12日間発酵し、225Lのフレンチバリックで15か月熟成。新樽比率30%。フレッシュな赤い果実、ミネラル、スパイスの香り。タンニンは上品でシルキーです。",
         "nl": "Een Bolgheri Rosso, twaalf dagen vergist in roestvrij staal en vijftien maanden gerijpt in Franse barriques van 225 liter, waarvan 30% nieuw. Fris, knapperig fruit, rood fruit, minerale en kruidige tonen leiden naar een medium-bodied smaak met elegante zijdezachte tannines.",
-        "nl-BE": "Een Bolgheri Rosso, twaalf dagen vergist in roestvrij staal en vijftien maanden gerijpt in Franse barriques van 225 liter, waarvan 30% nieuw. Fris, knapperig fruit, rood fruit, minerale en kruidige tonen leiden naar een medium-bodied smaak met elegante zijdezachte tannines."
+        "nl-BE": "Een Bolgheri Rosso, twaalf dagen vergist in roestvrij staal en vijftien maanden gerijpt in Franse barriques van 225 liter, waarvan 30% nieuw. Fris, knapperig fruit, rood fruit, minerale en kruidige tonen leiden naar een medium-bodied smaak met elegante zijdezachte tannines.",
+        "sv": "En Bolgheri Rosso, jäst tolv dagar på ståltank och lagrad femton månader på 225-liters franska barriquefat, varav 30 % nya. Frisk, krispig frukt, röda bär, mineraliska och kryddiga toner följs av en medelfyllig smak med eleganta, silkeslena tanniner."
       },
       "wine_section": "red_bolgheri"
     },
@@ -9621,7 +9649,8 @@
         "zh": "博格利高级红葡萄酒 DOC",
         "ja": "ボルゲリ・ロッソ・スペリオーレ DOC",
         "nl": "Bolgheri Rosso Superiore DOC",
-        "nl-BE": "Bolgheri Rosso Superiore DOC"
+        "nl-BE": "Bolgheri Rosso Superiore DOC",
+        "sv": "Bolgheri Rosso Superiore DOC"
       },
       "origin": {
         "it": "Bolgheri, Toscana",
@@ -9634,7 +9663,8 @@
         "zh": "托斯卡纳，博格利",
         "ja": "トスカーナ、ボルゲリ",
         "nl": "Bolgheri, Toscane",
-        "nl-BE": "Bolgheri, Toscane"
+        "nl-BE": "Bolgheri, Toscane",
+        "sv": "Bolgheri, Toscana"
       },
       "grapes": "Cabernet Sauvignon 65%, Merlot 25%, Cabernet Franc 10%",
       "serving_temperature": "16–18 °C",
@@ -9650,7 +9680,8 @@
         "zh": "适合搭配佛罗伦萨牛排、牛里脊、羊肉、野味、炖肉、松露、牛肝菌及熟成奶酪。",
         "ja": "フィレンツェ風ステーキ、牛フィレ、仔羊、ジビエ、煮込み肉、トリュフ、ポルチーニ、熟成チーズにおすすめ。",
         "nl": "Bistecca alla fiorentina, runderfilet, lam, wild, gestoofd vlees, truffel, eekhoorntjesbrood en gerijpte kazen.",
-        "nl-BE": "Bistecca alla fiorentina, runderfilet, lam, wild, gestoofd vlees, truffel, eekhoorntjesbrood en gerijpte kazen."
+        "nl-BE": "Bistecca alla fiorentina, runderfilet, lam, wild, gestoofd vlees, truffel, eekhoorntjesbrood en gerijpte kazen.",
+        "sv": "Bistecca alla fiorentina, oxfilé, lamm, vilt, bräserat kött, tryffel, karljohansvamp och lagrade ostar."
       },
       "description": {
         "it": "Bolgheri Superiore di grande struttura e finezza, fermentato in acciaio e affinato ventidue mesi in barrique francesi, per il 70% nuove. Esprime cassis, mora, prugna, erbe balsamiche, grafite, tabacco e spezie. Il sorso è profondo e teso, con tannini raffinati e lunghissima persistenza.",
@@ -9663,7 +9694,8 @@
         "zh": "在不锈钢中发酵，并在法国小橡木桶中熟成二十二个月，其中70%为新桶。带有黑醋栗、黑莓、李子、香脂草本、石墨、烟草及香料气息，口感深邃紧致，余味极长。",
         "ja": "ステンレスで発酵し、新樽70%のフレンチバリックで22か月熟成。カシス、ブラックベリー、プラム、バルサミックハーブ、黒鉛、タバコ、スパイスの香り。深く引き締まり、余韻が長く続きます。",
         "nl": "Een gestructureerde en verfijnde Bolgheri Superiore, vergist in roestvrij staal en tweeëntwintig maanden gerijpt in Franse barriques, waarvan 70% nieuw. Zwarte bes, braam, pruim, balsamische kruiden, grafiet, tabak en specerijen leiden naar een diepe, strakke smaak met verfijnde tannines.",
-        "nl-BE": "Een gestructureerde en verfijnde Bolgheri Superiore, vergist in roestvrij staal en tweeëntwintig maanden gerijpt in Franse barriques, waarvan 70% nieuw. Zwarte bes, braam, pruim, balsamische kruiden, grafiet, tabak en specerijen leiden naar een diepe, strakke smaak met verfijnde tannines."
+        "nl-BE": "Een gestructureerde en verfijnde Bolgheri Superiore, vergist in roestvrij staal en tweeëntwintig maanden gerijpt in Franse barriques, waarvan 70% nieuw. Zwarte bes, braam, pruim, balsamische kruiden, grafiet, tabak en specerijen leiden naar een diepe, strakke smaak met verfijnde tannines.",
+        "sv": "En strukturerad och raffinerad Bolgheri Superiore, jäst på ståltank och lagrad tjugotvå månader på franska barriquefat, varav 70 % nya. Svarta vinbär, björnbär, plommon, balsamiska örter, grafit, tobak och kryddor följs av en djup, stram smak med raffinerade tanniner."
       },
       "wine_section": "red_bolgheri"
     },
@@ -9684,7 +9716,8 @@
         "zh": "托斯卡纳红葡萄酒 IGT",
         "ja": "トスカーナ赤ワイン IGT",
         "nl": "Toscana Red IGT",
-        "nl-BE": "Toscana Red IGT"
+        "nl-BE": "Toscana Red IGT",
+        "sv": "Toscana Rosso IGT"
       },
       "origin": {
         "it": "Bolgheri, Toscana",
@@ -9697,7 +9730,8 @@
         "zh": "托斯卡纳，博格利",
         "ja": "トスカーナ、ボルゲリ",
         "nl": "Bolgheri, Toscane",
-        "nl-BE": "Bolgheri, Toscane"
+        "nl-BE": "Bolgheri, Toscane",
+        "sv": "Bolgheri, Toscana"
       },
       "grapes": "Merlot 60%, Cabernet Franc 20%, Cabernet Sauvignon 20%",
       "serving_temperature": "16–18 °C",
@@ -9713,7 +9747,8 @@
         "zh": "适合搭配肉酱意面、意式切片牛肉、烤肉、猪肉、鸭肉、汉堡、烧烤及中度熟成奶酪。",
         "ja": "ラグーのパスタ、タリアータ、ロースト、豚肉、鴨、ハンバーガー、グリル、中熟成チーズにおすすめ。",
         "nl": "Pasta met ragù, gesneden rundvlees, gebraad, varkensvlees, eend, gourmetburgers, gegrild vlees en halfgerijpte kazen.",
-        "nl-BE": "Pasta met ragù, gesneden rundvlees, gebraad, varkensvlees, eend, gourmetburgers, gegrild vlees en halfgerijpte kazen."
+        "nl-BE": "Pasta met ragù, gesneden rundvlees, gebraad, varkensvlees, eend, gourmetburgers, gegrild vlees en halfgerijpte kazen.",
+        "sv": "Pasta med ragù, skivat nötkött, stekar, fläskkött, anka, gourmetburgare, grillat kött och mellanlagrade ostar."
       },
       "description": {
         "it": "Blend bolgherese vivace e armonico, fermentato quindici giorni in tini di cemento. Il 90% affina in barrique di secondo e terzo passaggio, mentre il restante 10% rimane in cemento. Offre ciliegia, mora, prugna, erbe mediterranee e spezie, con un sorso morbido, sincero e scorrevole.",
@@ -9726,7 +9761,8 @@
         "zh": "在水泥罐中发酵十五天，90%在二次及三次使用的小橡木桶中熟成，其余10%留在水泥罐中。带有樱桃、黑莓、李子、地中海草本及香料气息，口感柔和顺畅。",
         "ja": "コンクリート槽で15日間発酵。90%を使用済みバリック、10%をコンクリートで熟成。チェリー、ブラックベリー、プラム、地中海ハーブ、スパイスの香り。柔らかく飲みやすい味わいです。",
         "nl": "Een levendige, harmonieuze Bolgheri-blend, vijftien dagen vergist in betonnen kuipen. Negentig procent rijpt in tweede- en derdejaars barriques, terwijl tien procent in beton blijft. Kers, braam, pruim, mediterrane kruiden en specerijen leiden naar een soepele, toegankelijke smaak.",
-        "nl-BE": "Een levendige, harmonieuze Bolgheri-blend, vijftien dagen vergist in betonnen kuipen. Negentig procent rijpt in tweede- en derdejaars barriques, terwijl tien procent in beton blijft. Kers, braam, pruim, mediterrane kruiden en specerijen leiden naar een soepele, toegankelijke smaak."
+        "nl-BE": "Een levendige, harmonieuze Bolgheri-blend, vijftien dagen vergist in betonnen kuipen. Negentig procent rijpt in tweede- en derdejaars barriques, terwijl tien procent in beton blijft. Kers, braam, pruim, mediterrane kruiden en specerijen leiden naar een soepele, toegankelijke smaak.",
+        "sv": "En livlig, harmonisk blandning från Bolgheri, jäst femton dagar i betongkar. Nittio procent lagras på barriquefat som använts två eller tre gånger, medan tio procent stannar i betong. Körsbär, björnbär, plommon, medelhavsörter och kryddor följs av en mjuk, lättillgänglig smak."
       },
       "wine_section": "red_bolgheri"
     },
@@ -9747,7 +9783,8 @@
         "zh": "托斯卡纳赤霞珠 IGT",
         "ja": "トスカーナ・カベルネ・ソーヴィニヨン IGT",
         "nl": "Toscana Cabernet Sauvignon IGT",
-        "nl-BE": "Toscana Cabernet Sauvignon IGT"
+        "nl-BE": "Toscana Cabernet Sauvignon IGT",
+        "sv": "Toscana Cabernet Sauvignon IGT"
       },
       "origin": {
         "it": "Bolgheri, Toscana",
@@ -9760,7 +9797,8 @@
         "zh": "托斯卡纳，博格利",
         "ja": "トスカーナ、ボルゲリ",
         "nl": "Bolgheri, Toscane",
-        "nl-BE": "Bolgheri, Toscane"
+        "nl-BE": "Bolgheri, Toscane",
+        "sv": "Bolgheri, Toscana"
       },
       "grapes": "Cabernet Sauvignon 100%",
       "serving_temperature": "17–18 °C",
@@ -9776,7 +9814,8 @@
         "zh": "适合搭配牛里脊、牛排、羊肉、野味、炖肉、烤肉、松露及熟成奶酪。",
         "ja": "牛フィレ、ステーキ、仔羊、ジビエ、煮込み肉、ロースト、トリュフ、熟成チーズにおすすめ。",
         "nl": "Runderfilet, steak, lam, wild, gestoofd vlees, gebraad, truffel en gerijpte kazen.",
-        "nl-BE": "Runderfilet, steak, lam, wild, gestoofd vlees, gebraad, truffel en gerijpte kazen."
+        "nl-BE": "Runderfilet, steak, lam, wild, gestoofd vlees, gebraad, truffel en gerijpte kazen.",
+        "sv": "Oxfilé, biff, lamm, vilt, bräserat kött, stekar, tryffel och lagrade ostar."
       },
       "description": {
         "it": "Cabernet Sauvignon in purezza fermentato in tini di cemento con una macerazione di quindici-venti giorni. Affina diciotto mesi in barrique nuove di rovere francese e altri otto mesi in bottiglia. Offre frutti di bosco maturi, ribes nero, spezie, cacao e legno raffinato. Il sorso è profondo e longevo, con tannini rotondi.",
@@ -9789,7 +9828,8 @@
         "zh": "采用100%赤霞珠，在水泥罐中发酵并浸皮十五至二十天。在全新法国小橡木桶中熟成十八个月，再瓶陈八个月。带有成熟森林浆果、黑醋栗、香料、可可及细腻木香。",
         "ja": "カベルネ・ソーヴィニヨン100%。コンクリートで発酵し15〜20日間醸し、新樽フレンチバリックで18か月、瓶内で8か月熟成。黒い果実、カシス、スパイス、カカオ、上品な樽香があります。",
         "nl": "Een pure Cabernet Sauvignon, vergist in betonnen kuipen met vijftien tot twintig dagen maceratie. Achttien maanden gerijpt in nieuwe Franse eiken barriques en nog eens acht maanden op fles. Rijp rood fruit, zwarte bes, kruiden, cacao en verfijnd eiken leiden naar een diepe, bewaarkrachtige smaak.",
-        "nl-BE": "Een pure Cabernet Sauvignon, vergist in betonnen kuipen met vijftien tot twintig dagen maceratie. Achttien maanden gerijpt in nieuwe Franse eiken barriques en nog eens acht maanden op fles. Rijp rood fruit, zwarte bes, kruiden, cacao en verfijnd eiken leiden naar een diepe, bewaarkrachtige smaak."
+        "nl-BE": "Een pure Cabernet Sauvignon, vergist in betonnen kuipen met vijftien tot twintig dagen maceratie. Achttien maanden gerijpt in nieuwe Franse eiken barriques en nog eens acht maanden op fles. Rijp rood fruit, zwarte bes, kruiden, cacao en verfijnd eiken leiden naar een diepe, bewaarkrachtige smaak.",
+        "sv": "En ren Cabernet Sauvignon, jäst i betongkar med femton till tjugo dagars maceration. Lagrad arton månader på nya franska ekbarriquer och ytterligare åtta månader på flaska. Mogna bär, svarta vinbär, kryddor, kakao och raffinerad ek följs av en djup, lagringsduglig smak."
       },
       "wine_section": "red_bolgheri"
     },
