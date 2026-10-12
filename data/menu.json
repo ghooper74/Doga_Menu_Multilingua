@@ -10545,7 +10545,8 @@
         "zh": "法国干红葡萄酒",
         "ja": "フランス産辛口赤ワイン",
         "nl": "Droge rode wijn – Vin de France",
-        "nl-BE": "Droge rode wijn – Vin de France"
+        "nl-BE": "Droge rode wijn – Vin de France",
+        "sv": "Torrt rött vin – Vin de France"
       },
       "origin": {
         "it": "Francia",
@@ -10558,7 +10559,8 @@
         "zh": "法国",
         "ja": "フランス",
         "nl": "Frankrijk",
-        "nl-BE": "Frankrijk"
+        "nl-BE": "Frankrijk",
+        "sv": "Frankrike"
       },
       "description": {
         "it": "Pinot Nero francese agile ed elegante, con frutto rosso, leggere spezie e tannino setoso.",
@@ -10571,7 +10573,8 @@
         "zh": "优雅的法国黑皮诺，带有红色水果、轻柔香料和丝滑单宁。",
         "ja": "赤い果実、穏やかなスパイス、滑らかなタンニンを持つエレガントなフランス産ピノ・ノワール。",
         "nl": "Een elegante Franse Pinot Noir met rood fruit, lichte kruiden en zijdezachte tannines.",
-        "nl-BE": "Een elegante Franse Pinot Noir met rood fruit, lichte kruiden en zijdezachte tannines."
+        "nl-BE": "Een elegante Franse Pinot Noir met rood fruit, lichte kruiden en zijdezachte tannines.",
+        "sv": "En elegant fransk Pinot Noir med röd frukt, milda kryddor och silkeslena tanniner."
       },
       "pairing": {
         "it": "Pollame arrosto, anatra, funghi, salmone alla griglia e formaggi morbidi.",
@@ -10584,7 +10587,8 @@
         "zh": "烤禽肉、鸭肉、蘑菇、烤三文鱼和软质奶酪。",
         "ja": "ローストした鶏肉、鴨、キノコ、グリルサーモン、ソフトチーズ。",
         "nl": "Geroosterd gevogelte, eend, paddenstoelen, gegrilde zalm en zachte kazen.",
-        "nl-BE": "Geroosterd gevogelte, eend, paddenstoelen, gegrilde zalm en zachte kazen."
+        "nl-BE": "Geroosterd gevogelte, eend, paddenstoelen, gegrilde zalm en zachte kazen.",
+        "sv": "Stekt fågel, anka, svamp, grillad lax och milda ostar."
       }
     },
     {
@@ -10608,7 +10612,8 @@
         "zh": "Petit Chablis AOP 干白葡萄酒",
         "ja": "プティ・シャブリ AOP 辛口白ワイン",
         "nl": "Petit Chablis AOP – droge witte wijn",
-        "nl-BE": "Petit Chablis AOP – droge witte wijn"
+        "nl-BE": "Petit Chablis AOP – droge witte wijn",
+        "sv": "Petit Chablis AOP – torrt vitt vin"
       },
       "origin": {
         "it": "Chablis, Borgogna, Francia",
@@ -10621,7 +10626,8 @@
         "zh": "法国勃艮第夏布利",
         "ja": "フランス、ブルゴーニュ、シャブリ",
         "nl": "Chablis, Bourgogne, Frankrijk",
-        "nl-BE": "Chablis, Bourgogne, Frankrijk"
+        "nl-BE": "Chablis, Bourgogne, Frankrijk",
+        "sv": "Chablis, Bourgogne, Frankrike"
       },
       "description": {
         "it": "Bianco fresco, pulito e minerale, con frutto bianco, agrumi e finale nitido.",
@@ -10634,7 +10640,8 @@
         "zh": "清新纯净且富有矿物感，带白色水果和柑橘香气。",
         "ja": "フレッシュでミネラル感があり、白い果実と柑橘の風味、キレのある余韻。",
         "nl": "Fris, zuiver en mineraal, met wit fruit, citrus en een knapperige finale.",
-        "nl-BE": "Fris, zuiver en mineraal, met wit fruit, citrus en een knapperige finale."
+        "nl-BE": "Fris, zuiver en mineraal, met wit fruit, citrus en een knapperige finale.",
+        "sv": "Friskt, rent och mineraliskt med ljus frukt, citrus och krispig avslutning."
       },
       "pairing": {
         "it": "Ostriche, crostacei, pesce crudo, antipasti di mare e pesce delicato.",
@@ -10647,7 +10654,8 @@
         "zh": "生蚝、甲壳类、刺身和清淡鱼类料理。",
         "ja": "牡蠣、甲殻類、刺身、繊細な魚料理。",
         "nl": "Oesters, schaaldieren, rauwe vis, voorgerechten met zeevruchten en verfijnde visgerechten.",
-        "nl-BE": "Oesters, schaaldieren, rauwe vis, voorgerechten met zeevruchten en verfijnde visgerechten."
+        "nl-BE": "Oesters, schaaldieren, rauwe vis, voorgerechten met zeevruchten en verfijnde visgerechten.",
+        "sv": "Ostron, skaldjur, rå fisk, förrätter med fisk och skaldjur samt milda fiskrätter."
       }
     },
     {
@@ -10671,7 +10679,8 @@
         "zh": "Chablis AOP 干白葡萄酒",
         "ja": "シャブリ AOP 辛口白ワイン",
         "nl": "Chablis AOP – droge witte wijn",
-        "nl-BE": "Chablis AOP – droge witte wijn"
+        "nl-BE": "Chablis AOP – droge witte wijn",
+        "sv": "Chablis AOP – torrt vitt vin"
       },
       "origin": {
         "it": "Chablis, Borgogna, Francia",
@@ -10684,7 +10693,8 @@
         "zh": "法国勃艮第夏布利",
         "ja": "フランス、ブルゴーニュ、シャブリ",
         "nl": "Chablis, Bourgogne, Frankrijk",
-        "nl-BE": "Chablis, Bourgogne, Frankrijk"
+        "nl-BE": "Chablis, Bourgogne, Frankrijk",
+        "sv": "Chablis, Bourgogne, Frankrike"
       },
       "description": {
         "it": "Chablis da vecchie vigne, intenso e rotondo, con note minerali, miele e spezie e lunga persistenza.",
@@ -10697,7 +10707,8 @@
         "zh": "老藤夏布利，饱满圆润，带矿物、蜂蜜和香料气息。",
         "ja": "古樹のシャブリ。力強く丸みがあり、ミネラル、蜂蜜、スパイスのニュアンス。",
         "nl": "Chablis van oude stokken, rijk en rond, met minerale, honing- en kruidige tonen en een lange finale.",
-        "nl-BE": "Chablis van oude stokken, rijk en rond, met minerale, honing- en kruidige tonen en een lange finale."
+        "nl-BE": "Chablis van oude stokken, rijk en rond, met minerale, honing- en kruidige tonen en een lange finale.",
+        "sv": "En Chablis från gamla vinstockar, rik och rund med mineraliska toner, honung, kryddor och lång eftersmak."
       },
       "pairing": {
         "it": "Pesce importante, crostacei, foie gras e piatti delicati.",
@@ -10710,7 +10721,8 @@
         "zh": "鱼类、海鲜、鹅肝及精致料理。",
         "ja": "魚料理、甲殻類、フォアグラ、繊細な料理。",
         "nl": "Rijke visgerechten, schaaldieren, foie gras en verfijnde keuken.",
-        "nl-BE": "Rijke visgerechten, schaaldieren, foie gras en verfijnde keuken."
+        "nl-BE": "Rijke visgerechten, schaaldieren, foie gras en verfijnde keuken.",
+        "sv": "Smakrika fiskrätter, skaldjur, foie gras och milda rätter."
       }
     },
     {
@@ -10733,7 +10745,8 @@
         "zh": "摩泽尔雷司令白葡萄酒",
         "ja": "モーゼル・リースリング 白ワイン",
         "nl": "Mosel Riesling – witte wijn",
-        "nl-BE": "Mosel Riesling – witte wijn"
+        "nl-BE": "Mosel Riesling – witte wijn",
+        "sv": "Mosel Riesling – vitt vin"
       },
       "origin": {
         "it": "Mosella, Germania",
@@ -10746,7 +10759,8 @@
         "zh": "德国摩泽尔",
         "ja": "ドイツ、モーゼル",
         "nl": "Moezel, Duitsland",
-        "nl-BE": "Moezel, Duitsland"
+        "nl-BE": "Moezel, Duitsland",
+        "sv": "Mosel, Tyskland"
       },
       "description": {
         "it": "Riesling della Mosella teso e minerale, caratterizzato da freschezza, agrumi e frutto bianco.",
@@ -10759,7 +10773,8 @@
         "zh": "清爽而富有矿物感的摩泽尔雷司令，带柑橘和白色水果香气。",
         "ja": "フレッシュでミネラル感のあるモーゼル・リースリング。柑橘と白い果実の風味。",
         "nl": "Een strakke, minerale Moezel-Riesling met frisheid, citrus en wit fruit.",
-        "nl-BE": "Een strakke, minerale Moezel-Riesling met frisheid, citrus en wit fruit."
+        "nl-BE": "Een strakke, minerale Moezel-Riesling met frisheid, citrus en wit fruit.",
+        "sv": "En stram, mineralisk Riesling från Mosel med friskhet, citrus och ljus frukt."
       },
       "pairing": {
         "it": "Pesce, crostacei, cucina speziata e formaggi freschi.",
@@ -10772,7 +10787,8 @@
         "zh": "鱼类、海鲜、香料料理和新鲜奶酪。",
         "ja": "魚介類、スパイシーな料理、フレッシュチーズ。",
         "nl": "Vis, schaaldieren, pittige gerechten en verse kazen.",
-        "nl-BE": "Vis, schaaldieren, pittige gerechten en verse kazen."
+        "nl-BE": "Vis, schaaldieren, pittige gerechten en verse kazen.",
+        "sv": "Fisk, skaldjur, kryddstark mat och färskostar."
       }
     },
     {
@@ -10795,7 +10811,8 @@
         "zh": "托斯卡纳安索尼卡白葡萄酒",
         "ja": "トスカーナ産アンソニカ白ワイン",
         "nl": "Ansonica – Toscaanse witte wijn",
-        "nl-BE": "Ansonica – Toscaanse witte wijn"
+        "nl-BE": "Ansonica – Toscaanse witte wijn",
+        "sv": "Ansonica – toskanskt vitt vin"
       },
       "origin": {
         "it": "Maremma Toscana, Italia",
@@ -10808,7 +10825,8 @@
         "zh": "意大利托斯卡纳马雷玛",
         "ja": "イタリア、トスカーナ・マレンマ",
         "nl": "Toscaanse Maremma, Italië",
-        "nl-BE": "Toscaanse Maremma, Italië"
+        "nl-BE": "Toscaanse Maremma, Italië",
+        "sv": "Maremma, Toscana, Italien"
       },
       "description": {
         "it": "Ansonica mediterranea da vecchie vigne, sapida e di carattere, con frutto maturo, fiori ed erbe aromatiche.",
@@ -10821,7 +10839,8 @@
         "zh": "老藤安索尼卡，富有地中海气息，咸鲜而有个性，带成熟水果、花香和草本气息。",
         "ja": "古樹のアンソニカ。地中海らしい塩味と個性があり、熟した果実、花、ハーブの香り。",
         "nl": "Mediterrane Ansonica van oude stokken, hartig en karaktervol, met rijp fruit, bloemen en kruiden.",
-        "nl-BE": "Mediterrane Ansonica van oude stokken, hartig en karaktervol, met rijp fruit, bloemen en kruiden."
+        "nl-BE": "Mediterrane Ansonica van oude stokken, hartig en karaktervol, met rijp fruit, bloemen en kruiden.",
+        "sv": "En medelhavspräglad Ansonica från gamla vinstockar, smakrik och karaktärsfull med mogen frukt, blommor och örter."
       },
       "pairing": {
         "it": "Pesce, crostacei, primi di mare e cucina mediterranea.",
@@ -10834,7 +10853,8 @@
         "zh": "鱼类、海鲜、海鲜意面和地中海料理。",
         "ja": "魚介類、シーフードパスタ、地中海料理。",
         "nl": "Vis, schaaldieren, pasta met zeevruchten en mediterrane keuken.",
-        "nl-BE": "Vis, schaaldieren, pasta met zeevruchten en mediterrane keuken."
+        "nl-BE": "Vis, schaaldieren, pasta met zeevruchten en mediterrane keuken.",
+        "sv": "Fisk, skaldjur, pasta med fisk och skaldjur samt medelhavsmat."
       }
     },
     {
