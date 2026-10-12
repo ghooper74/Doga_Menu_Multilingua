@@ -10877,7 +10877,8 @@
         "zh": "厄尔巴白葡萄酒 DOC",
         "ja": "エルバ・ビアンコ DOC",
         "nl": "Elba Bianco DOC",
-        "nl-BE": "Elba Bianco DOC"
+        "nl-BE": "Elba Bianco DOC",
+        "sv": "Elba Bianco DOC"
       },
       "origin": {
         "it": "Isola d’Elba, Toscana, Italia",
@@ -10890,7 +10891,8 @@
         "zh": "意大利托斯卡纳厄尔巴岛",
         "ja": "イタリア、トスカーナ、エルバ島",
         "nl": "Eiland Elba, Toscane, Italië",
-        "nl-BE": "Eiland Elba, Toscane, Italië"
+        "nl-BE": "Eiland Elba, Toscane, Italië",
+        "sv": "Elba, Toscana, Italien"
       },
       "description": {
         "it": "Bianco storico dell’Elba da vitigni autoctoni. Fermentazione a temperatura controllata, affinamento in acciaio e tre mesi in bottiglia.",
@@ -10903,7 +10905,8 @@
         "zh": "采用厄尔巴岛本土葡萄酿造，控温发酵，不锈钢熟成并瓶陈三个月。",
         "ja": "エルバ島の土着品種を使用。温度管理発酵、ステンレスタンク熟成後、瓶内で3か月熟成。",
         "nl": "Traditionele witte wijn van Elba van inheemse druiven, vergist bij gecontroleerde temperatuur, gerijpt in staal en drie maanden op fles.",
-        "nl-BE": "Traditionele witte wijn van Elba van inheemse druiven, vergist bij gecontroleerde temperatuur, gerijpt in staal en drie maanden op fles."
+        "nl-BE": "Traditionele witte wijn van Elba van inheemse druiven, vergist bij gecontroleerde temperatuur, gerijpt in staal en drie maanden op fles.",
+        "sv": "Ett traditionellt vitt vin från Elba av lokala druvsorter, jäst vid kontrollerad temperatur, lagrat på ståltank och tre månader på flaska."
       },
       "pairing": {
         "it": "Antipasti di mare, pesce, crostacei e primi delicati.",
@@ -10916,7 +10919,8 @@
         "zh": "海鲜前菜、鱼类、甲壳类和清淡意面。",
         "ja": "魚介の前菜、魚料理、甲殻類、軽めのパスタ。",
         "nl": "Voorgerechten met zeevruchten, vis, schaaldieren en verfijnde pastagerechten.",
-        "nl-BE": "Voorgerechten met zeevruchten, vis, schaaldieren en verfijnde pastagerechten."
+        "nl-BE": "Voorgerechten met zeevruchten, vis, schaaldieren en verfijnde pastagerechten.",
+        "sv": "Förrätter med fisk och skaldjur, fisk, skaldjur och milda pastarätter."
       }
     },
     {
@@ -10940,7 +10944,8 @@
         "zh": "有机厄尔巴白葡萄酒 DOC",
         "ja": "オーガニック エルバ・ビアンコ DOC",
         "nl": "Biologische Elba Bianco DOC",
-        "nl-BE": "Biologische Elba Bianco DOC"
+        "nl-BE": "Biologische Elba Bianco DOC",
+        "sv": "Ekologisk Elba Bianco DOC"
       },
       "origin": {
         "it": "Isola d’Elba, Toscana, Italia",
@@ -10953,7 +10958,8 @@
         "zh": "意大利托斯卡纳厄尔巴岛",
         "ja": "イタリア、トスカーナ、エルバ島",
         "nl": "Eiland Elba, Toscane, Italië",
-        "nl-BE": "Eiland Elba, Toscane, Italië"
+        "nl-BE": "Eiland Elba, Toscane, Italië",
+        "sv": "Elba, Toscana, Italien"
       },
       "description": {
         "it": "Bianco biologico fresco e secco, delicato ma persistente, con buona sapidità e un lieve finale amarognolo.",
@@ -10966,7 +10972,8 @@
         "zh": "清新干爽的有机白葡萄酒，细腻持久，带咸鲜感和轻微苦味收尾。",
         "ja": "フレッシュで辛口のオーガニック白。繊細ながら余韻が長く、塩味とほのかな苦味。",
         "nl": "Frisse, droge biologische witte wijn, delicaat maar aanhoudend, hartig met een licht bittere finale.",
-        "nl-BE": "Frisse, droge biologische witte wijn, delicaat maar aanhoudend, hartig met een licht bittere finale."
+        "nl-BE": "Frisse, droge biologische witte wijn, delicaat maar aanhoudend, hartig met een licht bittere finale.",
+        "sv": "Ett friskt, torrt ekologiskt vitt vin, delikat men med lång eftersmak, sälta och lätt bitter avslutning."
       },
       "pairing": {
         "it": "Aperitivo, antipasti, pesce, crostacei e cucina dell’Elba.",
@@ -10979,7 +10986,8 @@
         "zh": "开胃酒、前菜、鱼类、甲壳类和厄尔巴岛料理。",
         "ja": "食前酒、前菜、魚料理、甲殻類、エルバ島料理。",
         "nl": "Aperitief, voorgerechten, vis, schaaldieren en keuken van Elba.",
-        "nl-BE": "Aperitief, voorgerechten, vis, schaaldieren en keuken van Elba."
+        "nl-BE": "Aperitief, voorgerechten, vis, schaaldieren en keuken van Elba.",
+        "sv": "Aperitif, förrätter, fisk, skaldjur och rätter från Elba."
       }
     },
     {
@@ -11002,7 +11010,8 @@
         "zh": "勃艮第黑皮诺",
         "ja": "ブルゴーニュ・ピノ・ノワール",
         "nl": "Bourgondische Pinot Noir",
-        "nl-BE": "Bourgondische Pinot Noir"
+        "nl-BE": "Bourgondische Pinot Noir",
+        "sv": "Pinot Noir från Bourgogne"
       },
       "origin": {
         "it": "Borgogna, Francia",
@@ -11015,7 +11024,8 @@
         "zh": "法国勃艮第",
         "ja": "フランス、ブルゴーニュ",
         "nl": "Bourgogne, Frankrijk",
-        "nl-BE": "Bourgogne, Frankrijk"
+        "nl-BE": "Bourgogne, Frankrijk",
+        "sv": "Bourgogne, Frankrike"
       },
       "description": {
         "it": "Rosso elegante e fine, caratterizzato da frutto rosso, freschezza e tannino delicato.",
@@ -11028,7 +11038,8 @@
         "zh": "优雅细腻，带有红色水果、清新酸度和柔和单宁。",
         "ja": "赤い果実、フレッシュさ、繊細なタンニンを持つ上品な赤ワイン。",
         "nl": "Elegante en verfijnde rode wijn met rood fruit, frisheid en delicate tannines.",
-        "nl-BE": "Elegante en verfijnde rode wijn met rood fruit, frisheid en delicate tannines."
+        "nl-BE": "Elegante en verfijnde rode wijn met rood fruit, frisheid en delicate tannines.",
+        "sv": "Ett elegant och raffinerat rött vin med röd frukt, friskhet och fina tanniner."
       },
       "pairing": {
         "it": "Anatra, carni bianche, funghi, salmone e formaggi.",
@@ -11041,7 +11052,8 @@
         "zh": "鸭肉、白肉、蘑菇、三文鱼和奶酪。",
         "ja": "鴨、白身肉、キノコ、サーモン、チーズ。",
         "nl": "Eend, wit vlees, paddenstoelen, zalm en kazen.",
-        "nl-BE": "Eend, wit vlees, paddenstoelen, zalm en kazen."
+        "nl-BE": "Eend, wit vlees, paddenstoelen, zalm en kazen.",
+        "sv": "Anka, ljust kött, svamp, lax och ostar."
       }
     },
     {
@@ -11064,7 +11076,8 @@
         "zh": "浸皮白葡萄酒",
         "ja": "醸し白ワイン",
         "nl": "Witte wijn met schilcontact",
-        "nl-BE": "Witte wijn met schilcontact"
+        "nl-BE": "Witte wijn met schilcontact",
+        "sv": "Skalmacererat vitt vin"
       },
       "origin": {
         "it": "Cinque Terre, Liguria, Italia",
@@ -11077,7 +11090,8 @@
         "zh": "意大利利古里亚五渔村",
         "ja": "イタリア、リグーリア、チンクエ・テッレ",
         "nl": "Cinque Terre, Ligurië, Italië",
-        "nl-BE": "Cinque Terre, Ligurië, Italië"
+        "nl-BE": "Cinque Terre, Ligurië, Italië",
+        "sv": "Cinque Terre, Ligurien, Italien"
       },
       "description": {
         "it": "Bianco macerato dal carattere mediterraneo, con buona struttura, freschezza e note aromatiche complesse.",
@@ -11090,7 +11104,8 @@
         "zh": "具有地中海风格的浸皮白葡萄酒，结构良好，清新且香气复杂。",
         "ja": "地中海らしい個性を持つ醸し白ワイン。骨格、フレッシュさ、複雑な香りが特徴。",
         "nl": "Mediterrane witte wijn met schilcontact, goede structuur, frisheid en complexe aromatische tonen.",
-        "nl-BE": "Mediterrane witte wijn met schilcontact, goede structuur, frisheid en complexe aromatische tonen."
+        "nl-BE": "Mediterrane witte wijn met schilcontact, goede structuur, frisheid en complexe aromatische tonen.",
+        "sv": "Ett medelhavspräglat skalmacererat vitt vin med god struktur, friskhet och komplexa aromatiska toner."
       },
       "pairing": {
         "it": "Pesce saporito, crostacei, cucina mediterranea e formaggi.",
@@ -11103,7 +11118,8 @@
         "zh": "风味浓郁的鱼类、甲壳类、地中海料理和奶酪。",
         "ja": "味わいの強い魚料理、甲殻類、地中海料理、チーズ。",
         "nl": "Smaakvolle vis, schaaldieren, mediterrane keuken en kazen.",
-        "nl-BE": "Smaakvolle vis, schaaldieren, mediterrane keuken en kazen."
+        "nl-BE": "Smaakvolle vis, schaaldieren, mediterrane keuken en kazen.",
+        "sv": "Smakrika fiskrätter, skaldjur, medelhavsmat och ostar."
       }
     },
     {
@@ -11126,7 +11142,8 @@
         "zh": "普伊富赛白葡萄酒",
         "ja": "プイィ・フュイッセ 白ワイン",
         "nl": "Pouilly-Fuissé – witte wijn",
-        "nl-BE": "Pouilly-Fuissé – witte wijn"
+        "nl-BE": "Pouilly-Fuissé – witte wijn",
+        "sv": "Pouilly-Fuissé – vitt vin"
       },
       "origin": {
         "it": "Borgogna, Francia",
@@ -11139,7 +11156,8 @@
         "zh": "法国勃艮第",
         "ja": "フランス、ブルゴーニュ",
         "nl": "Bourgogne, Frankrijk",
-        "nl-BE": "Bourgogne, Frankrijk"
+        "nl-BE": "Bourgogne, Frankrijk",
+        "sv": "Bourgogne, Frankrike"
       },
       "description": {
         "it": "Chardonnay di Borgogna elegante e strutturato, con buona freschezza e persistenza.",
@@ -11152,7 +11170,8 @@
         "zh": "优雅而有结构的勃艮第霞多丽，清新且余味持久。",
         "ja": "エレガントで骨格のあるブルゴーニュのシャルドネ。フレッシュで余韻も長い。",
         "nl": "Elegante en gestructureerde Bourgondische Chardonnay met frisheid en goede lengte.",
-        "nl-BE": "Elegante en gestructureerde Bourgondische Chardonnay met frisheid en goede lengte."
+        "nl-BE": "Elegante en gestructureerde Bourgondische Chardonnay met frisheid en goede lengte.",
+        "sv": "En elegant och strukturerad Chardonnay från Bourgogne med friskhet och lång eftersmak."
       },
       "pairing": {
         "it": "Pesce, crostacei, molluschi, carni bianche e formaggi.",
@@ -11165,7 +11184,8 @@
         "zh": "鱼类、甲壳类、贝类、白肉和奶酪。",
         "ja": "魚、甲殻類、貝類、白身肉、チーズ。",
         "nl": "Vis, schaaldieren, weekdieren, wit vlees en kazen.",
-        "nl-BE": "Vis, schaaldieren, weekdieren, wit vlees en kazen."
+        "nl-BE": "Vis, schaaldieren, weekdieren, wit vlees en kazen.",
+        "sv": "Fisk, skaldjur, blötdjur, ljust kött och ostar."
       }
     },
     {
@@ -11188,7 +11208,8 @@
         "zh": "白葡萄酒",
         "ja": "白ワイン",
         "nl": "Witte wijn",
-        "nl-BE": "Witte wijn"
+        "nl-BE": "Witte wijn",
+        "sv": "Vitt vin"
       },
       "origin": {
         "it": "Francia",
@@ -11201,7 +11222,8 @@
         "zh": "法国",
         "ja": "フランス",
         "nl": "Frankrijk",
-        "nl-BE": "Frankrijk"
+        "nl-BE": "Frankrijk",
+        "sv": "Frankrike"
       },
       "description": {
         "it": "Bianco di carattere, fresco e gastronomico.",
@@ -11214,7 +11236,8 @@
         "zh": "个性鲜明、清新且适合佐餐的白葡萄酒。",
         "ja": "個性があり、フレッシュで食事に合わせやすい白ワイン。",
         "nl": "Karaktervolle, frisse en gastronomische witte wijn.",
-        "nl-BE": "Karaktervolle, frisse en gastronomische witte wijn."
+        "nl-BE": "Karaktervolle, frisse en gastronomische witte wijn.",
+        "sv": "Ett karaktärsfullt, friskt och matvänligt vitt vin."
       },
       "pairing": {
         "it": "Pesce, crostacei, verdure e formaggi.",
@@ -11227,7 +11250,8 @@
         "zh": "鱼类、甲壳类、蔬菜和奶酪。",
         "ja": "魚介類、野菜、チーズ。",
         "nl": "Vis, schaaldieren, groenten en kazen.",
-        "nl-BE": "Vis, schaaldieren, groenten en kazen."
+        "nl-BE": "Vis, schaaldieren, groenten en kazen.",
+        "sv": "Fisk, skaldjur, grönsaker och ostar."
       }
     },
     {
@@ -11250,7 +11274,8 @@
         "zh": "卡普拉亚岛白葡萄酒",
         "ja": "カプライア島の白ワイン",
         "nl": "Witte wijn van het eiland Capraia",
-        "nl-BE": "Witte wijn van het eiland Capraia"
+        "nl-BE": "Witte wijn van het eiland Capraia",
+        "sv": "Vitt vin från ön Capraia"
       },
       "origin": {
         "it": "Isola di Capraia, Toscana, Italia",
@@ -11263,7 +11288,8 @@
         "zh": "意大利托斯卡纳卡普拉亚岛",
         "ja": "イタリア、トスカーナ、カプライア島",
         "nl": "Eiland Capraia, Toscane, Italië",
-        "nl-BE": "Eiland Capraia, Toscane, Italië"
+        "nl-BE": "Eiland Capraia, Toscane, Italië",
+        "sv": "Capraia, Toscana, Italien"
       },
       "description": {
         "it": "Bianco mediterraneo fresco e sapido, legato al carattere marino dell'isola.",
@@ -11276,7 +11302,8 @@
         "zh": "清新鲜爽的地中海白葡萄酒，带有海岛的海洋气息。",
         "ja": "島の海を感じさせる、フレッシュで旨味のある地中海系白ワイン。",
         "nl": "Frisse en hartige mediterrane witte wijn met een uitgesproken maritiem eilandkarakter.",
-        "nl-BE": "Frisse en hartige mediterrane witte wijn met een uitgesproken maritiem eilandkarakter."
+        "nl-BE": "Frisse en hartige mediterrane witte wijn met een uitgesproken maritiem eilandkarakter.",
+        "sv": "Ett friskt och smakrikt medelhavsvin med tydlig maritim ökaraktär."
       },
       "pairing": {
         "it": "Pesce, crostacei, molluschi e cucina mediterranea.",
@@ -11289,7 +11316,8 @@
         "zh": "鱼类、甲壳类、贝类和地中海料理。",
         "ja": "魚、甲殻類、貝類、地中海料理。",
         "nl": "Vis, schaaldieren, weekdieren en mediterrane keuken.",
-        "nl-BE": "Vis, schaaldieren, weekdieren en mediterrane keuken."
+        "nl-BE": "Vis, schaaldieren, weekdieren en mediterrane keuken.",
+        "sv": "Fisk, skaldjur, blötdjur och medelhavsmat."
       }
     },
     {
@@ -11312,7 +11340,8 @@
         "zh": "橙酒",
         "ja": "オレンジワイン",
         "nl": "Orange wine",
-        "nl-BE": "Orange wine"
+        "nl-BE": "Orange wine",
+        "sv": "Orangevin"
       },
       "origin": {
         "it": "Da verificare",
@@ -11325,7 +11354,8 @@
         "zh": "待确认",
         "ja": "要確認",
         "nl": "Te verifiëren",
-        "nl-BE": "Te verifiëren"
+        "nl-BE": "Te verifiëren",
+        "sv": "Återstår att verifiera"
       },
       "description": {
         "it": "Vino ottenuto con macerazione delle bucce, strutturato e complesso.",
@@ -11338,7 +11368,8 @@
         "zh": "经果皮浸渍酿造，结构饱满、香气复杂。",
         "ja": "果皮と醸すことで造られた、骨格と複雑さのあるワイン。",
         "nl": "Wijn met schilcontact, structuur en aromatische complexiteit.",
-        "nl-BE": "Wijn met schilcontact, structuur en aromatische complexiteit."
+        "nl-BE": "Wijn met schilcontact, structuur en aromatische complexiteit.",
+        "sv": "Ett skalmacererat vin med struktur och aromatisk komplexitet."
       },
       "pairing": {
         "it": "Pesce saporito, cucina speziata, formaggi e piatti strutturati.",
@@ -11351,7 +11382,8 @@
         "zh": "风味浓郁的鱼类、香料料理、奶酪和味道丰富的菜肴。",
         "ja": "味わいの強い魚料理、スパイス料理、チーズ、しっかりした料理。",
         "nl": "Smaakvolle vis, gekruide gerechten, kazen en gestructureerde gerechten.",
-        "nl-BE": "Smaakvolle vis, gekruide gerechten, kazen en gestructureerde gerechten."
+        "nl-BE": "Smaakvolle vis, gekruide gerechten, kazen en gestructureerde gerechten.",
+        "sv": "Smakrika fiskrätter, kryddstark mat, ostar och fylliga rätter."
       }
     },
     {
@@ -11372,7 +11404,8 @@
         "zh": "干白葡萄酒 – 雷司令",
         "ja": "辛口白ワイン – リースリング",
         "nl": "Droge witte wijn – Riesling",
-        "nl-BE": "Droge witte wijn – Riesling"
+        "nl-BE": "Droge witte wijn – Riesling",
+        "sv": "Torrt vitt vin – Riesling"
       },
       "origin": {
         "it": "Bátaapáti e Mőcsény, Tolna, Ungheria",
@@ -11385,7 +11418,8 @@
         "zh": "匈牙利托尔瑙，Bátaapáti 和 Mőcsény",
         "ja": "ハンガリー、トルナ、バータアパーティ／ムーチェーニ",
         "nl": "Bátaapáti en Mőcsény, Tolna, Hongarije",
-        "nl-BE": "Bátaapáti en Mőcsény, Tolna, Hongarije"
+        "nl-BE": "Bátaapáti en Mőcsény, Tolna, Hongarije",
+        "sv": "Bátaapáti och Mőcsény, Tolna, Ungern"
       },
       "grapes": "Riesling (Rajnai Rizling) 100%",
       "alcohol": "12.5%",
@@ -11402,7 +11436,8 @@
         "zh": "清新活泼的匈牙利雷司令，带有青柠、柠檬、桃子、热带水果和淡雅花香。口感平衡，酸度明快，余味清新持久。",
         "ja": "ライム、レモン、桃、トロピカルフルーツ、繊細な花の香りを持つ、爽やかで生き生きとしたハンガリー産リースリング。明るい酸味とバランスのよい味わい、爽やかで長い余韻。",
         "nl": "Een frisse, levendige Hongaarse Riesling. Limoen, citroen, perzik, tropisch fruit en delicate bloemige tonen leiden naar een evenwichtige smaak met heldere zuren en een frisse, aanhoudende finale.",
-        "nl-BE": "Een frisse, levendige Hongaarse Riesling. Limoen, citroen, perzik, tropisch fruit en delicate bloemige tonen leiden naar een evenwichtige smaak met heldere zuren en een frisse, aanhoudende finale."
+        "nl-BE": "Een frisse, levendige Hongaarse Riesling. Limoen, citroen, perzik, tropisch fruit en delicate bloemige tonen leiden naar een evenwichtige smaak met heldere zuren en een frisse, aanhoudende finale.",
+        "sv": "En frisk, livlig ungersk Riesling. Lime, citron, persika, tropisk frukt och fina blommiga toner följs av en balanserad smak med pigg syra och frisk, lång eftersmak."
       },
       "pairing": {
         "it": "Antipasti di mare, crostacei, pesce alla griglia, fritture leggere, carni bianche e formaggi freschi.",
@@ -11415,7 +11450,8 @@
         "zh": "适合搭配海鲜前菜、甲壳类、烤鱼、清淡炸物、白肉和新鲜奶酪。",
         "ja": "魚介の前菜、甲殻類、魚のグリル、軽いフリット、白身肉、フレッシュチーズにおすすめ。",
         "nl": "Voorgerechten met zeevruchten, schaaldieren, gegrilde vis, lichte gefrituurde gerechten, wit vlees en verse kazen.",
-        "nl-BE": "Voorgerechten met zeevruchten, schaaldieren, gegrilde vis, lichte gefrituurde gerechten, wit vlees en verse kazen."
+        "nl-BE": "Voorgerechten met zeevruchten, schaaldieren, gegrilde vis, lichte gefrituurde gerechten, wit vlees en verse kazen.",
+        "sv": "Förrätter med fisk och skaldjur, skaldjur, grillad fisk, lätt friterade rätter, ljust kött och färskostar."
       }
     },
     {
@@ -11435,7 +11471,8 @@
         "zh": "托斯卡纳马雷玛 Vermentino DOC",
         "ja": "マレンマ・トスカーナ ヴェルメンティーノ DOC",
         "nl": "Maremma Toscana Vermentino DOC",
-        "nl-BE": "Maremma Toscana Vermentino DOC"
+        "nl-BE": "Maremma Toscana Vermentino DOC",
+        "sv": "Maremma Toscana Vermentino DOC"
       },
       "origin": {
         "it": "Maremma Toscana, Toscana, Italia",
@@ -11448,7 +11485,8 @@
         "zh": "意大利托斯卡纳马雷玛",
         "ja": "イタリア、トスカーナ、マレンマ",
         "nl": "Maremma Toscana, Toscane, Italië",
-        "nl-BE": "Maremma Toscana, Toscane, Italië"
+        "nl-BE": "Maremma Toscana, Toscane, Italië",
+        "sv": "Maremma, Toscana, Italien"
       },
       "grapes": "Vermentino 100%",
       "price": "23 €",
@@ -11463,7 +11501,8 @@
         "zh": "100% Vermentino，不锈钢熟成4–6个月。稻草黄色泽，带有花香和黄色水果香气，口感清新、咸鲜而富有地中海风格。",
         "ja": "ヴェルメンティーノ100%。ステンレスタンクで4〜6か月熟成。淡い麦わら色で、花や黄色い果実の香り。爽やかな酸味と心地よい塩味を感じます。",
         "nl": "Pure Vermentino, 4–6 maanden gerijpt in roestvrij staal. Strogeel, met bloemige en geel-fruitige tonen; fris, hartig en uitgesproken mediterraan in de mond.",
-        "nl-BE": "Pure Vermentino, 4–6 maanden gerijpt in roestvrij staal. Strogeel, met bloemige en geel-fruitige tonen; fris, hartig en uitgesproken mediterraan in de mond."
+        "nl-BE": "Pure Vermentino, 4–6 maanden gerijpt in roestvrij staal. Strogeel, met bloemige en geel-fruitige tonen; fris, hartig en uitgesproken mediterraan in de mond.",
+        "sv": "En ren Vermentino, lagrad fyra till sex månader på ståltank. Halmgul med blommiga toner och gul frukt; frisk, med sälta och tydlig medelhavskaraktär."
       },
       "pairing": {
         "it": "Formaggi freschi, primi piatti di pesce, molluschi e crostacei.",
@@ -11476,7 +11515,8 @@
         "zh": "适合搭配新鲜奶酪、鱼类主食、贝类和甲壳类。",
         "ja": "フレッシュチーズ、魚料理、貝類、甲殻類におすすめ。",
         "nl": "Verse kazen, eerste visgerechten, weekdieren en schaaldieren.",
-        "nl-BE": "Verse kazen, eerste visgerechten, weekdieren en schaaldieren."
+        "nl-BE": "Verse kazen, eerste visgerechten, weekdieren en schaaldieren.",
+        "sv": "Färskostar, pastarätter med fisk, blötdjur och skaldjur."
       }
     },
     {
@@ -11496,7 +11536,8 @@
         "zh": "托斯卡纳桃红葡萄酒 IGT",
         "ja": "トスカーナ・ロザート IGT",
         "nl": "Toscaanse Rosé IGT",
-        "nl-BE": "Toscaanse Rosé IGT"
+        "nl-BE": "Toscaanse Rosé IGT",
+        "sv": "Toscana Rosato IGT"
       },
       "origin": {
         "it": "Roccatederighi, Maremma Toscana",
@@ -11509,7 +11550,8 @@
         "zh": "托斯卡纳马雷玛，Roccatederighi",
         "ja": "トスカーナ・マレンマ、ロッカテデリーギ",
         "nl": "Roccatederighi, Toscaanse Maremma",
-        "nl-BE": "Roccatederighi, Toscaanse Maremma"
+        "nl-BE": "Roccatederighi, Toscaanse Maremma",
+        "sv": "Roccatederighi, Maremma, Toscana"
       },
       "grapes": "Carignano, Alicante Nero",
       "price": "28 €",
@@ -11524,7 +11566,8 @@
         "zh": "色泽较深的桃红葡萄酒，咸鲜感明显，酸度清晰持久，酒体良好，具有鲜明的地中海风格。",
         "ja": "濃いロゼ色で、しっかりとした塩味、持続する爽やかな酸、程よいボディを持つ、地中海らしい食中酒タイプです。",
         "nl": "Diepgekleurde rosé met uitgesproken hartigheid, duidelijke aanhoudende frisheid en goede body. Een gastronomische rosé in mediterrane stijl met een sterke terroirexpressie.",
-        "nl-BE": "Diepgekleurde rosé met uitgesproken hartigheid, duidelijke aanhoudende frisheid en goede body. Een gastronomische rosé in mediterrane stijl met een sterke terroirexpressie."
+        "nl-BE": "Diepgekleurde rosé met uitgesproken hartigheid, duidelijke aanhoudende frisheid en goede body. Een gastronomische rosé in mediterrane stijl met een sterke terroirexpressie.",
+        "sv": "En djupt färgad rosé med tydlig sälta, klar och ihållande friskhet samt god fyllighet. En matvänlig rosé i medelhavsstil med stark lokal prägel."
       },
       "pairing": {
         "it": "Crudi di mare, crostacei, tartare di tonno o salmone, fritto di pesce, zuppe di mare, carni bianche e verdure.",
@@ -11537,7 +11580,8 @@
         "zh": "适合搭配生食海鲜、甲壳类、金枪鱼或三文鱼塔塔、炸鱼、海鲜汤、白肉和蔬菜。",
         "ja": "魚介の生料理、甲殻類、マグロやサーモンのタルタル、魚のフリット、魚介スープ、白身肉、野菜におすすめ。",
         "nl": "Rauwe zeevruchten, schaaldieren, tartaar van tonijn of zalm, gefrituurde vis, vissoepen, wit vlees en groenten.",
-        "nl-BE": "Rauwe zeevruchten, schaaldieren, tartaar van tonijn of zalm, gefrituurde vis, vissoepen, wit vlees en groenten."
+        "nl-BE": "Rauwe zeevruchten, schaaldieren, tartaar van tonijn of zalm, gefrituurde vis, vissoepen, wit vlees en groenten.",
+        "sv": "Råa fisk- och skaldjursrätter, skaldjur, tartar på tonfisk eller lax, friterad fisk, fisksoppor, ljust kött och grönsaker."
       }
     },
     {
@@ -11557,7 +11601,8 @@
         "zh": "托斯卡纳特雷比奥罗 IGT",
         "ja": "トスカーナ・トレッビアーノ IGT",
         "nl": "Toscaanse Trebbiano IGT",
-        "nl-BE": "Toscaanse Trebbiano IGT"
+        "nl-BE": "Toscaanse Trebbiano IGT",
+        "sv": "Toscana Trebbiano IGT"
       },
       "origin": {
         "it": "San Miniato, Toscana, Italia",
@@ -11570,7 +11615,8 @@
         "zh": "意大利托斯卡纳，圣米尼亚托",
         "ja": "イタリア、トスカーナ、サン・ミニアート",
         "nl": "San Miniato, Toscane, Italië",
-        "nl-BE": "San Miniato, Toscane, Italië"
+        "nl-BE": "San Miniato, Toscane, Italië",
+        "sv": "San Miniato, Toscana, Italien"
       },
       "grapes": "Trebbiano 100%",
       "price": "28 €",
@@ -11585,7 +11631,8 @@
         "zh": "100% 特雷比奥罗浸皮酿造，风格浓郁而有结构，带成熟水果、香草和香脂气息，口感饱满、清新、咸鲜而持久。",
         "ja": "トレッビアーノ100%の醸し仕込み。熟した果実やハーブ、バルサミックな香りがあり、豊かな骨格と爽やかな酸、塩味、長い余韻を備えます。",
         "nl": "Pure Trebbiano met schilcontact, intens en gestructureerd, met rijp fruit, aromatische kruiden en balsamische tonen. Vol, fris, hartig en aanhoudend.",
-        "nl-BE": "Pure Trebbiano met schilcontact, intens en gestructureerd, met rijp fruit, aromatische kruiden en balsamische tonen. Vol, fris, hartig en aanhoudend."
+        "nl-BE": "Pure Trebbiano met schilcontact, intens en gestructureerd, met rijp fruit, aromatische kruiden en balsamische tonen. Vol, fris, hartig en aanhoudend.",
+        "sv": "En ren, skalmacererad Trebbiano, intensiv och strukturerad med mogen frukt, aromatiska örter och balsamiska toner. Fyllig, frisk, med sälta och lång eftersmak."
       },
       "pairing": {
         "it": "Primi piatti saporiti, pesce strutturato, crostacei, carni bianche, formaggi e piatti al tartufo.",
@@ -11598,7 +11645,8 @@
         "zh": "适合搭配风味浓郁的意面、鱼类、甲壳类、白肉、奶酪及松露料理。",
         "ja": "風味豊かなパスタ、しっかりした魚料理、甲殻類、白身肉、チーズ、トリュフ料理におすすめ。",
         "nl": "Smaakvolle pastagerechten, rijke visgerechten, schaaldieren, wit vlees, kazen en gerechten met truffel.",
-        "nl-BE": "Smaakvolle pastagerechten, rijke visgerechten, schaaldieren, wit vlees, kazen en gerechten met truffel."
+        "nl-BE": "Smaakvolle pastagerechten, rijke visgerechten, schaaldieren, wit vlees, kazen en gerechten met truffel.",
+        "sv": "Smakrika pastarätter, fylligare fiskrätter, skaldjur, ljust kött, ostar och tryffelrätter."
       }
     },
     {
@@ -11618,7 +11666,8 @@
         "zh": "西西里 Grillo DOC",
         "ja": "シチリア・グリッロ DOC",
         "nl": "Sicilia Grillo DOC",
-        "nl-BE": "Sicilia Grillo DOC"
+        "nl-BE": "Sicilia Grillo DOC",
+        "sv": "Sicilia Grillo DOC"
       },
       "origin": {
         "it": "Marsala e Mazara del Vallo, Sicilia",
@@ -11631,7 +11680,8 @@
         "zh": "西西里，马尔萨拉和马扎拉-德尔瓦洛",
         "ja": "シチリア、マルサーラ／マザーラ・デル・ヴァッロ",
         "nl": "Marsala en Mazara del Vallo, Sicilië",
-        "nl-BE": "Marsala en Mazara del Vallo, Sicilië"
+        "nl-BE": "Marsala en Mazara del Vallo, Sicilië",
+        "sv": "Marsala och Mazara del Vallo, Sicilien"
       },
       "grapes": "Grillo 100%",
       "alcohol": "12,5% vol.",
@@ -11648,7 +11698,8 @@
         "zh": "清新芳香的西西里 Grillo，在不锈钢罐中熟成约三个月。呈浓郁稻草黄色，果香细腻，口感清新、均衡而有结构。",
         "ja": "シチリア産グリッロ。約3か月ステンレスタンクで熟成。濃い麦わら色で、穏やかな果実香と爽やかさ、程よい骨格と調和があります。",
         "nl": "Frisse en aromatische Siciliaanse Grillo, ongeveer drie maanden gerijpt in roestvrij staal. Intens strogeel, licht fruitig, fris, gestructureerd en harmonieus.",
-        "nl-BE": "Frisse en aromatische Siciliaanse Grillo, ongeveer drie maanden gerijpt in roestvrij staal. Intens strogeel, licht fruitig, fris, gestructureerd en harmonieus."
+        "nl-BE": "Frisse en aromatische Siciliaanse Grillo, ongeveer drie maanden gerijpt in roestvrij staal. Intens strogeel, licht fruitig, fris, gestructureerd en harmonieus.",
+        "sv": "En frisk och aromatisk siciliansk Grillo, lagrad omkring tre månader på ståltank. Intensivt halmgul, milt fruktig, frisk, strukturerad och harmonisk."
       },
       "pairing": {
         "it": "Pesce, frutti di mare, carni bianche, formaggi freschi e insalate.",
@@ -11661,7 +11712,8 @@
         "zh": "适合搭配鱼类、海鲜、白肉、新鲜奶酪和沙拉。",
         "ja": "魚料理、魚介類、白身肉、フレッシュチーズ、サラダにおすすめ。",
         "nl": "Vis, zeevruchten, wit vlees, verse kazen en salades.",
-        "nl-BE": "Vis, zeevruchten, wit vlees, verse kazen en salades."
+        "nl-BE": "Vis, zeevruchten, wit vlees, verse kazen en salades.",
+        "sv": "Fisk, skaldjur, ljust kött, färskostar och sallader."
       }
     },
     {
@@ -11681,7 +11733,8 @@
         "zh": "多洛米蒂葡萄园灰皮诺 IGT",
         "ja": "ヴィニェーティ・デッレ・ドロミティ ピノ・グリージョ IGT",
         "nl": "Vigneti delle Dolomiti Pinot Grigio IGT",
-        "nl-BE": "Vigneti delle Dolomiti Pinot Grigio IGT"
+        "nl-BE": "Vigneti delle Dolomiti Pinot Grigio IGT",
+        "sv": "Vigneti delle Dolomiti Pinot Grigio IGT"
       },
       "origin": {
         "it": "Bassa Atesina, Alto Adige",
@@ -11694,7 +11747,8 @@
         "zh": "上阿迪杰，巴萨阿特西纳",
         "ja": "南チロル、バッサ・アテジーナ",
         "nl": "Bassa Atesina, Zuid-Tirol",
-        "nl-BE": "Bassa Atesina, Zuid-Tirol"
+        "nl-BE": "Bassa Atesina, Zuid-Tirol",
+        "sv": "Bassa Atesina, Sydtyrolen"
       },
       "grapes": "Pinot Grigio 100%",
       "price": "24 €",
@@ -11709,7 +11763,8 @@
         "zh": "清新协调的灰皮诺，不锈钢发酵并在酒泥上熟成约五个月。带有梨和成熟苹果香气，口感柔和、饱满而圆润。",
         "ja": "フレッシュで調和の取れたピノ・グリージョ。ステンレス発酵後、澱とともに約5か月熟成。洋梨と熟したリンゴの香り、柔らかく丸みのある味わい。",
         "nl": "Frisse en harmonieuze Pinot Grigio, vergist in roestvrij staal en ongeveer vijf maanden gerijpt op de droesem. Aroma's van rijpe peer en appel, met een zachte, volle en ronde smaak.",
-        "nl-BE": "Frisse en harmonieuze Pinot Grigio, vergist in roestvrij staal en ongeveer vijf maanden gerijpt op de droesem. Aroma's van rijpe peer en appel, met een zachte, volle en ronde smaak."
+        "nl-BE": "Frisse en harmonieuze Pinot Grigio, vergist in roestvrij staal en ongeveer vijf maanden gerijpt op de droesem. Aroma's van rijpe peer en appel, met een zachte, volle en ronde smaak.",
+        "sv": "En frisk och harmonisk Pinot Grigio, jäst på ståltank och lagrad på jästfällningen omkring fem månader. Doft av mogna päron och äpplen, med mjuk, fyllig och rund smak."
       },
       "pairing": {
         "it": "Antipasti, pesce, piatti leggermente speziati, verdure e carni bianche.",
@@ -11722,7 +11777,8 @@
         "zh": "适合搭配前菜、鱼类、微辣菜肴、蔬菜和白肉。",
         "ja": "前菜、魚料理、軽くスパイスを効かせた料理、野菜、白身肉におすすめ。",
         "nl": "Voorgerechten, vis, licht gekruide gerechten, groenten en wit vlees.",
-        "nl-BE": "Voorgerechten, vis, licht gekruide gerechten, groenten en wit vlees."
+        "nl-BE": "Voorgerechten, vis, licht gekruide gerechten, groenten en wit vlees.",
+        "sv": "Förrätter, fisk, milt kryddade rätter, grönsaker och ljust kött."
       }
     },
     {
@@ -11742,7 +11798,8 @@
         "zh": "托斯卡纳海岸桃红 IGT",
         "ja": "コスタ・トスカーナ ロザート IGT",
         "nl": "Costa Toscana Rosé IGT",
-        "nl-BE": "Costa Toscana Rosé IGT"
+        "nl-BE": "Costa Toscana Rosé IGT",
+        "sv": "Costa Toscana Rosato IGT"
       },
       "origin": {
         "it": "Suvereto, Toscana, Italia",
@@ -11755,7 +11812,8 @@
         "zh": "意大利托斯卡纳，苏韦雷托",
         "ja": "イタリア、トスカーナ、スヴェレート",
         "nl": "Suvereto, Toscane, Italië",
-        "nl-BE": "Suvereto, Toscane, Italië"
+        "nl-BE": "Suvereto, Toscane, Italië",
+        "sv": "Suvereto, Toscana, Italien"
       },
       "grapes": "Syrah 100%",
       "price": "27 €",
@@ -11770,7 +11828,8 @@
         "zh": "托斯卡纳西拉桃红葡萄酒，色泽浅亮。带有森林浆果、黑醋栗和淡淡白胡椒香气，口感清新、咸鲜、富有风味且持久。",
         "ja": "シラーから造るトスカーナのロゼ。淡く輝く色調で、ベリー、カシス、白胡椒のニュアンス。爽やかで塩味があり、旨味と長い余韻があります。",
         "nl": "Toscaanse rosé van Syrah, licht en helder van kleur. Aroma's van klein rood fruit, cassis en delicate tonen van witte peper; fris, hartig, smaakvol en aanhoudend.",
-        "nl-BE": "Toscaanse rosé van Syrah, licht en helder van kleur. Aroma's van klein rood fruit, cassis en delicate tonen van witte peper; fris, hartig, smaakvol en aanhoudend."
+        "nl-BE": "Toscaanse rosé van Syrah, licht en helder van kleur. Aroma's van klein rood fruit, cassis en delicate tonen van witte peper; fris, hartig, smaakvol en aanhoudend.",
+        "sv": "En toskansk rosé av Syrah med ljus och klar färg. Doft av små bär, svarta vinbär och milda toner av vitpeppar; frisk, med sälta, smakrik och med lång eftersmak."
       },
       "pairing": {
         "it": "Piatti di pesce anche strutturati e carni bianche.",
@@ -11783,7 +11842,8 @@
         "zh": "适合搭配鱼类料理，包括较浓郁的做法，以及白肉。",
         "ja": "魚料理、しっかりした味わいの魚料理、白身肉におすすめ。",
         "nl": "Visgerechten, ook rijkere bereidingen, en wit vlees.",
-        "nl-BE": "Visgerechten, ook rijkere bereidingen, en wit vlees."
+        "nl-BE": "Visgerechten, ook rijkere bereidingen, en wit vlees.",
+        "sv": "Fiskrätter, även fylligare tillagningar, och ljust kött."
       }
     }
   ],
