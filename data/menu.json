@@ -11178,6 +11178,68 @@
         "nl": "Visgerechten, ook rijkere bereidingen, en wit vlees.",
         "nl-BE": "Visgerechten, ook rijkere bereidingen, en wit vlees."
       }
+    },
+    {
+      "id": "poggio-ai-ginepri-argentiera",
+      "name": "Poggio ai Ginepri",
+      "producer": "Tenuta Argentiera",
+      "category": "red",
+      "wine_section": "red_other",
+      "type": {
+        "it": "Toscana Rosso IGT",
+        "en": "Toscana Rosso IGT",
+        "de": "Toscana Rosso IGT",
+        "fr": "Toscana Rosso IGT",
+        "es": "Toscana Rosso IGT",
+        "pl": "Toscana Rosso IGT",
+        "ru": "Toscana Rosso IGT",
+        "zh": "Toscana Rosso IGT",
+        "ja": "Toscana Rosso IGT",
+        "nl": "Toscana Rosso IGT",
+        "nl-BE": "Toscana Rosso IGT"
+      },
+      "origin": {
+        "it": "Bolgheri, Toscana",
+        "en": "Bolgheri, Tuscany",
+        "de": "Bolgheri, Toskana",
+        "fr": "Bolgheri, Toscane",
+        "es": "Bolgheri, Toscana",
+        "pl": "Bolgheri, Toskania",
+        "ru": "Болгери, Тоскана",
+        "zh": "托斯卡纳，博尔盖里",
+        "ja": "トスカーナ州ボルゲリ",
+        "nl": "Bolgheri, Toscane",
+        "nl-BE": "Bolgheri, Toscane"
+      },
+      "grapes": "Cabernet Sauvignon, Merlot, Cabernet Franc, Petit Verdot",
+      "serving_temperature": "16–18 °C",
+      "price": "37 €",
+      "description": {
+        "it": "Rosso toscano morbido ed equilibrato, con note di frutti rossi e neri e leggere sfumature speziate.",
+        "en": "Soft, balanced Tuscan red with notes of red and dark fruit and subtle spice.",
+        "de": "Weicher, ausgewogener toskanischer Rotwein mit roten und dunklen Früchten und feinen Gewürznoten.",
+        "fr": "Rouge toscan souple et équilibré, aux notes de fruits rouges et noirs et de fines épices.",
+        "es": "Tinto toscano suave y equilibrado, con notas de frutos rojos y negros y ligeros matices especiados.",
+        "pl": "Miękkie, harmonijne czerwone wino z Toskanii, z nutami czerwonych i ciemnych owoców oraz delikatnych przypraw.",
+        "ru": "Мягкое, сбалансированное красное вино Тосканы с нотами красных и тёмных ягод и лёгкими пряными оттенками.",
+        "zh": "口感柔和、平衡的托斯卡纳红葡萄酒，带有红色和深色水果及淡淡香料气息。",
+        "ja": "赤系・黒系果実の香りとほのかなスパイス感が特徴の、柔らかくバランスのよいトスカーナ産赤ワイン。",
+        "nl": "Soepele, evenwichtige Toscaanse rode wijn met tonen van rood en donker fruit en subtiele kruiden.",
+        "nl-BE": "Soepele, evenwichtige Toscaanse rode wijn met tonen van rood en donker fruit en subtiele kruiden."
+      },
+      "pairing": {
+        "it": "Carni alla griglia, ragù e formaggi stagionati.",
+        "en": "Grilled meats, meat ragù and aged cheeses.",
+        "de": "Grillfleisch, Ragù und gereifter Käse.",
+        "fr": "Viandes grillées, ragù et fromages affinés.",
+        "es": "Carnes a la parrilla, ragú y quesos curados.",
+        "pl": "Mięsa z grilla, ragù i dojrzewające sery.",
+        "ru": "Мясо на гриле, рагу и выдержанные сыры.",
+        "zh": "适合搭配烤肉、肉酱及陈年奶酪。",
+        "ja": "グリル肉、ミートラグー、熟成チーズと好相性。",
+        "nl": "Gegrild vlees, ragù en gerijpte kazen.",
+        "nl-BE": "Gegrild vlees, ragù en gerijpte kazen."
+      }
     }
   ],
   "drinks": [
