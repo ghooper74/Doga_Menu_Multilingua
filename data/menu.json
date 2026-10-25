@@ -11240,6 +11240,14 @@
         "nl": "Gegrild vlees, ragù en gerijpte kazen.",
         "nl-BE": "Gegrild vlees, ragù en gerijpte kazen."
       }
+    },
+    {
+      "id": "bianco-di-ampeleia",
+      "name": "Bianco di Ampeleia",
+      "producer": "Ampeleia",
+      "category": "white",
+      "wine_section": "white_other",
+      "price": "26 €"
     }
   ],
   "drinks": [
