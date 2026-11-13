@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="794" height="1123" viewBox="0 0 794 1123"><rect width="794" height="1123" fill="white"/><rect x="24" y="24" width="746" height="1075" rx="32" fill="none" stroke="#092455" stroke-width="7"/><g fill="#092455" font-family="Georgia,serif"><text x="397" y="155" text-anchor="middle" font-size="120">DOGA</text><text x="397" y="235" text-anchor="middle" font-size="52">Orario della settimana</text><path d="M120 290 H340 M454 290 H674" stroke="#092455" stroke-width="3"/><text x="397" y="304" text-anchor="middle" font-size="40">❦</text><text x="170" y="420" font-size="33" font-weight="bold">LUNEDÌ</text><text x="475" y="420" font-size="33">07:15 – 15:00</text>
+<text x="170" y="495" font-size="33" font-weight="bold">MARTEDÌ</text><text x="475" y="495" font-size="33">07:15 – 16:00</text>
+<text x="170" y="570" font-size="33" font-weight="bold">MERCOLEDÌ</text><text x="475" y="570" font-size="33">07:15 – 11:00</text>
+<text x="170" y="645" font-size="33" font-weight="bold">GIOVEDÌ</text><text x="475" y="645" font-size="33">07:15 – 15:00</text>
+<text x="170" y="720" font-size="33" font-weight="bold">VENERDÌ</text><text x="475" y="720" font-size="25">07:15 – 15:00 / 17:30 – 22:00</text>
+<text x="170" y="795" font-size="33" font-weight="bold">SABATO</text><text x="475" y="795" font-size="33">07:15 – 23:00</text>
+<text x="170" y="870" font-size="33" font-weight="bold">DOMENICA</text><text x="475" y="870" font-size="33">07:15 – 18:00</text><text x="397" y="1045" text-anchor="middle" font-size="35">〜</text></g></svg>
